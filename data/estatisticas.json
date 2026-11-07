@@ -1,0 +1,2029 @@
+{
+ "gerado_em": "2026-11-07T16:48:08Z",
+ "total": 22961,
+ "funil": {
+  "apresentado": 22961,
+  "comissoes": 20102,
+  "plenario_origem": 1832,
+  "casa_revisora": 1139,
+  "sancao": 402,
+  "lei": 388
+ },
+ "gaveta_top": [
+  {
+   "id": 2348358,
+   "sigla": "PL 447/2023",
+   "dias_parado": 1366,
+   "orgao_atual": "SECAP(SGM)",
+   "etapa": "apresentado",
+   "tema": [
+    "Política, Partidos e Eleições"
+   ]
+  },
+  {
+   "id": 2347066,
+   "sigla": "PLP 15/2023",
+   "dias_parado": 1333,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Economia",
+    "Processo Legislativo e Atuação Parlamentar"
+   ]
+  },
+  {
+   "id": 2345744,
+   "sigla": "PL 68/2023",
+   "dias_parado": 1333,
+   "orgao_atual": "CSAUDE",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas e Orçamento",
+    "Indústria, Comércio e Serviços",
+    "Saúde"
+   ]
+  },
+  {
+   "id": 2345739,
+   "sigla": "PL 63/2023",
+   "dias_parado": 1333,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito e Justiça",
+    "Política, Partidos e Eleições"
+   ]
+  },
+  {
+   "id": 2345712,
+   "sigla": "PL 47/2023",
+   "dias_parado": 1333,
+   "orgao_atual": "SERCO(SGM)",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal"
+   ]
+  },
+  {
+   "id": 2345706,
+   "sigla": "PL 44/2023",
+   "dias_parado": 1333,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2345701,
+   "sigla": "PL 40/2023",
+   "dias_parado": 1333,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2345693,
+   "sigla": "PL 37/2023",
+   "dias_parado": 1333,
+   "orgao_atual": "CSAUDE",
+   "etapa": "comissoes",
+   "tema": [
+    "Educação",
+    "Relações Internacionais e Comércio Exterior"
+   ]
+  },
+  {
+   "id": 2345669,
+   "sigla": "PL 27/2023",
+   "dias_parado": 1333,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal"
+   ]
+  },
+  {
+   "id": 2345731,
+   "sigla": "PL 57/2023",
+   "dias_parado": 1331,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal",
+    "Direitos Humanos e Minorias"
+   ]
+  },
+  {
+   "id": 2348639,
+   "sigla": "PLP 23/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Economia",
+    "Relações Internacionais e Comércio Exterior"
+   ]
+  },
+  {
+   "id": 2348282,
+   "sigla": "PL 405/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CPD",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2347313,
+   "sigla": "PL 377/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2347238,
+   "sigla": "PLP 19/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Economia"
+   ]
+  },
+  {
+   "id": 2347198,
+   "sigla": "PL 338/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Finanças Públicas e Orçamento",
+    "Saúde"
+   ]
+  },
+  {
+   "id": 2347197,
+   "sigla": "PL 337/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho e Emprego"
+   ]
+  },
+  {
+   "id": 2347137,
+   "sigla": "PL 313/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2347136,
+   "sigla": "PL 312/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CSAUDE",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Saúde"
+   ]
+  },
+  {
+   "id": 2346920,
+   "sigla": "PL 186/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CASP",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Economia",
+    "Relações Internacionais e Comércio Exterior"
+   ]
+  },
+  {
+   "id": 2346903,
+   "sigla": "PL 174/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Arte, Cultura e Religião",
+    "Esporte e Lazer",
+    "Meio Ambiente e Desenvolvimento Sustentável"
+   ]
+  },
+  {
+   "id": 2346881,
+   "sigla": "PLP 13/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2346871,
+   "sigla": "PL 160/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 2346868,
+   "sigla": "PL 158/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Educação"
+   ]
+  },
+  {
+   "id": 2346867,
+   "sigla": "PL 157/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa e Segurança"
+   ]
+  },
+  {
+   "id": 2346866,
+   "sigla": "PL 156/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa e Segurança"
+   ]
+  },
+  {
+   "id": 2346855,
+   "sigla": "PL 148/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa e Segurança",
+    "Indústria, Comércio e Serviços"
+   ]
+  },
+  {
+   "id": 2346842,
+   "sigla": "PL 138/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal",
+    "Direitos Humanos e Minorias"
+   ]
+  },
+  {
+   "id": 2346826,
+   "sigla": "PL 130/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Educação",
+    "Trabalho e Emprego"
+   ]
+  },
+  {
+   "id": 2346825,
+   "sigla": "PL 129/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Educação"
+   ]
+  },
+  {
+   "id": 2346819,
+   "sigla": "PL 125/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Saúde"
+   ]
+  },
+  {
+   "id": 2346802,
+   "sigla": "PL 114/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Política, Partidos e Eleições"
+   ]
+  },
+  {
+   "id": 2346789,
+   "sigla": "PL 108/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Economia"
+   ]
+  },
+  {
+   "id": 2346787,
+   "sigla": "PL 107/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Cidades e Desenvolvimento Urbano",
+    "Meio Ambiente e Desenvolvimento Sustentável"
+   ]
+  },
+  {
+   "id": 2346779,
+   "sigla": "PL 105/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Energia, Recursos Hídricos e Minerais",
+    "Meio Ambiente e Desenvolvimento Sustentável",
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2345719,
+   "sigla": "PLP 10/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Economia",
+    "Finanças Públicas e Orçamento",
+    "Relações Internacionais e Comércio Exterior"
+   ]
+  },
+  {
+   "id": 2345694,
+   "sigla": "PLP 8/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2345683,
+   "sigla": "PLP 1/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Economia",
+    "Finanças Públicas e Orçamento",
+    "Relações Internacionais e Comércio Exterior"
+   ]
+  },
+  {
+   "id": 2122034,
+   "sigla": "PL 1534/2023",
+   "dias_parado": 1319,
+   "orgao_atual": "MESA",
+   "etapa": "casa_revisora",
+   "tema": [
+    "Direito Civil e Processual Civil"
+   ]
+  },
+  {
+   "id": 2348632,
+   "sigla": "PL 483/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Ciência, Tecnologia e Inovação",
+    "Comunicações"
+   ]
+  },
+  {
+   "id": 2348605,
+   "sigla": "PL 470/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito e Defesa do Consumidor",
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2348391,
+   "sigla": "PL 460/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Previdência e Assistência Social"
+   ]
+  },
+  {
+   "id": 2348390,
+   "sigla": "PL 459/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Comunicações",
+    "Direito e Defesa do Consumidor"
+   ]
+  },
+  {
+   "id": 2347106,
+   "sigla": "PL 296/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2347094,
+   "sigla": "PL 289/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "CSAUDE",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas e Orçamento",
+    "Saúde"
+   ]
+  },
+  {
+   "id": 2347089,
+   "sigla": "PL 284/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa e Segurança",
+    "Trabalho e Emprego",
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2347065,
+   "sigla": "PL 266/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa e Segurança",
+    "Esporte e Lazer"
+   ]
+  },
+  {
+   "id": 2347061,
+   "sigla": "PL 263/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito e Defesa do Consumidor",
+    "Indústria, Comércio e Serviços"
+   ]
+  },
+  {
+   "id": 2347060,
+   "sigla": "PL 262/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "CTRAB",
+   "etapa": "comissoes",
+   "tema": [
+    "Previdência e Assistência Social",
+    "Saúde",
+    "Trabalho e Emprego"
+   ]
+  },
+  {
+   "id": 2347043,
+   "sigla": "PL 246/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas e Orçamento",
+    "Meio Ambiente e Desenvolvimento Sustentável"
+   ]
+  },
+  {
+   "id": 2347032,
+   "sigla": "PL 235/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho e Emprego"
+   ]
+  },
+  {
+   "id": 2346968,
+   "sigla": "PL 221/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Meio Ambiente e Desenvolvimento Sustentável",
+    "Trabalho e Emprego"
+   ]
+  },
+  {
+   "id": 2346956,
+   "sigla": "PL 209/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal"
+   ]
+  },
+  {
+   "id": 2346949,
+   "sigla": "PL 203/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 2346947,
+   "sigla": "PL 201/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Cidades e Desenvolvimento Urbano",
+    "Direitos Humanos e Minorias"
+   ]
+  },
+  {
+   "id": 2346946,
+   "sigla": "PL 200/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Previdência e Assistência Social"
+   ]
+  },
+  {
+   "id": 2346837,
+   "sigla": "PL 134/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "CTRAB",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito e Justiça",
+    "Trabalho e Emprego"
+   ]
+  },
+  {
+   "id": 2346811,
+   "sigla": "PL 120/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "CTRAB",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Civil e Processual Civil",
+    "Trabalho e Emprego"
+   ]
+  },
+  {
+   "id": 2346807,
+   "sigla": "PL 118/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "CTRAB",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho e Emprego"
+   ]
+  },
+  {
+   "id": 2346803,
+   "sigla": "PL 115/2023",
+   "dias_parado": 1318,
+   "orgao_atual": "CASP",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Direitos Humanos e Minorias"
+   ]
+  },
+  {
+   "id": 2351620,
+   "sigla": "PEC 6/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Economia",
+    "Finanças Públicas e Orçamento",
+    "Processo Legislativo e Atuação Parlamentar",
+    "Relações Internacionais e Comércio Exterior"
+   ]
+  },
+  {
+   "id": 2348793,
+   "sigla": "PL 521/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Civil e Processual Civil"
+   ]
+  },
+  {
+   "id": 2348788,
+   "sigla": "PL 518/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal",
+    "Finanças Públicas e Orçamento",
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2348782,
+   "sigla": "PL 516/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Civil e Processual Civil"
+   ]
+  },
+  {
+   "id": 2348763,
+   "sigla": "PL 510/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Civil e Processual Civil"
+   ]
+  },
+  {
+   "id": 2348751,
+   "sigla": "PL 505/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CDE",
+   "etapa": "comissoes",
+   "tema": [
+    "Economia",
+    "Finanças Públicas e Orçamento",
+    "Processo Legislativo e Atuação Parlamentar",
+    "Relações Internacionais e Comércio Exterior"
+   ]
+  },
+  {
+   "id": 2348653,
+   "sigla": "PL 492/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal",
+    "Política, Partidos e Eleições"
+   ]
+  },
+  {
+   "id": 2348634,
+   "sigla": "PL 485/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Civil e Processual Civil"
+   ]
+  },
+  {
+   "id": 2348630,
+   "sigla": "PL 482/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CDE",
+   "etapa": "comissoes",
+   "tema": [
+    "Economia",
+    "Finanças Públicas e Orçamento",
+    "Relações Internacionais e Comércio Exterior"
+   ]
+  },
+  {
+   "id": 2348329,
+   "sigla": "PL 431/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2347234,
+   "sigla": "PL 355/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CDC",
+   "etapa": "comissoes",
+   "tema": [
+    "Comunicações"
+   ]
+  },
+  {
+   "id": 2347205,
+   "sigla": "PL 345/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CE",
+   "etapa": "comissoes",
+   "tema": [
+    "Educação",
+    "Saúde"
+   ]
+  },
+  {
+   "id": 2347107,
+   "sigla": "PL 297/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CDE",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas e Orçamento",
+    "Relações Internacionais e Comércio Exterior"
+   ]
+  },
+  {
+   "id": 2347074,
+   "sigla": "PL 274/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Economia",
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2347063,
+   "sigla": "PL 265/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Direito Civil e Processual Civil",
+    "Direito Penal e Processual Penal"
+   ]
+  },
+  {
+   "id": 2347036,
+   "sigla": "PL 239/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CE",
+   "etapa": "comissoes",
+   "tema": [
+    "Educação",
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2347034,
+   "sigla": "PL 237/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CE",
+   "etapa": "comissoes",
+   "tema": [
+    "Educação"
+   ]
+  },
+  {
+   "id": 2346940,
+   "sigla": "PL 196/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Civil e Processual Civil"
+   ]
+  },
+  {
+   "id": 2346847,
+   "sigla": "PL 142/2023",
+   "dias_parado": 1317,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal",
+    "Direitos Humanos e Minorias"
+   ]
+  },
+  {
+   "id": 2347054,
+   "sigla": "PL 256/2023",
+   "dias_parado": 1307,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Arte, Cultura e Religião",
+    "Defesa e Segurança",
+    "Direitos Humanos e Minorias"
+   ]
+  },
+  {
+   "id": 2349642,
+   "sigla": "PL 747/2023",
+   "dias_parado": 1298,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Saúde"
+   ]
+  },
+  {
+   "id": 2349360,
+   "sigla": "PL 680/2023",
+   "dias_parado": 1297,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Arte, Cultura e Religião",
+    "Comunicações",
+    "Direitos Humanos e Minorias"
+   ]
+  },
+  {
+   "id": 2349346,
+   "sigla": "PL 677/2023",
+   "dias_parado": 1297,
+   "orgao_atual": "CCJC",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa e Segurança",
+    "Direito Penal e Processual Penal"
+   ]
+  },
+  {
+   "id": 2349305,
+   "sigla": "PL 657/2023",
+   "dias_parado": 1297,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal"
+   ]
+  },
+  {
+   "id": 2348767,
+   "sigla": "PL 512/2023",
+   "dias_parado": 1297,
+   "orgao_atual": "CFT",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2347156,
+   "sigla": "PL 323/2023",
+   "dias_parado": 1297,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa e Segurança"
+   ]
+  },
+  {
+   "id": 2345678,
+   "sigla": "PL 34/2023",
+   "dias_parado": 1297,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Finanças Públicas e Orçamento",
+    "Previdência e Assistência Social"
+   ]
+  },
+  {
+   "id": 2351114,
+   "sigla": "PL 1061/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa e Segurança",
+    "Saúde"
+   ]
+  },
+  {
+   "id": 2350268,
+   "sigla": "PL 910/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "CPASF",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Trabalho e Emprego"
+   ]
+  },
+  {
+   "id": 2349930,
+   "sigla": "PL 849/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2349929,
+   "sigla": "PL 848/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias"
+   ]
+  },
+  {
+   "id": 2349928,
+   "sigla": "PL 847/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2349911,
+   "sigla": "PL 843/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "SERCO(SGM)",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal"
+   ]
+  },
+  {
+   "id": 2349910,
+   "sigla": "PL 842/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "SERCO(SGM)",
+   "etapa": "comissoes",
+   "tema": [
+    "Direito Penal e Processual Penal"
+   ]
+  },
+  {
+   "id": 2349900,
+   "sigla": "PL 835/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Energia, Recursos Hídricos e Minerais",
+    "Finanças Públicas e Orçamento"
+   ]
+  },
+  {
+   "id": 2349899,
+   "sigla": "PL 834/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "CCP",
+   "etapa": "comissoes",
+   "tema": [
+    "Energia, Recursos Hídricos e Minerais"
+   ]
+  },
+  {
+   "id": 2349896,
+   "sigla": "PL 831/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Direito Penal e Processual Penal"
+   ]
+  },
+  {
+   "id": 2349882,
+   "sigla": "PL 827/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "CMADS",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Direito Civil e Processual Civil",
+    "Estrutura Fundiária",
+    "Meio Ambiente e Desenvolvimento Sustentável"
+   ]
+  },
+  {
+   "id": 2349869,
+   "sigla": "PL 819/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "PLEN",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Finanças Públicas e Orçamento",
+    "Viação, Transporte e Mobilidade"
+   ]
+  },
+  {
+   "id": 2349843,
+   "sigla": "PL 799/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "CCOM",
+   "etapa": "comissoes",
+   "tema": [
+    "Comunicações"
+   ]
+  },
+  {
+   "id": 2349429,
+   "sigla": "PL 701/2023",
+   "dias_parado": 1293,
+   "orgao_atual": "MESA",
+   "etapa": "comissoes",
+   "tema": [
+    "Comunicações",
+    "Direito Penal e Processual Penal"
+   ]
+  }
+ ],
+ "tempo_mediano_por_etapa_dias": {
+  "apresentado": 36,
+  "comissoes": 274,
+  "plenario_origem": 24,
+  "casa_revisora": 102,
+  "retorno_origem": 10,
+  "sancao": 17
+ },
+ "sobrevivencia": [
+  {
+   "dias": 0,
+   "pct_ainda_ativo": 99.9,
+   "em_observacao": 22961
+  },
+  {
+   "dias": 30,
+   "pct_ainda_ativo": 98.5,
+   "em_observacao": 22406
+  },
+  {
+   "dias": 60,
+   "pct_ainda_ativo": 97.4,
+   "em_observacao": 21948
+  },
+  {
+   "dias": 90,
+   "pct_ainda_ativo": 96.6,
+   "em_observacao": 21435
+  },
+  {
+   "dias": 120,
+   "pct_ainda_ativo": 95.8,
+   "em_observacao": 20025
+  },
+  {
+   "dias": 180,
+   "pct_ainda_ativo": 94.4,
+   "em_observacao": 18403
+  },
+  {
+   "dias": 270,
+   "pct_ainda_ativo": 93.5,
+   "em_observacao": 16480
+  },
+  {
+   "dias": 365,
+   "pct_ainda_ativo": 92.8,
+   "em_observacao": 14528
+  },
+  {
+   "dias": 545,
+   "pct_ainda_ativo": 91.5,
+   "em_observacao": 11273
+  },
+  {
+   "dias": 730,
+   "pct_ainda_ativo": 90.1,
+   "em_observacao": 8493
+  },
+  {
+   "dias": 910,
+   "pct_ainda_ativo": 88.8,
+   "em_observacao": 6266
+  },
+  {
+   "dias": 1095,
+   "pct_ainda_ativo": 87.7,
+   "em_observacao": 4182
+  },
+  {
+   "dias": 1280,
+   "pct_ainda_ativo": 87.0,
+   "em_observacao": 1805
+  },
+  {
+   "dias": 1460,
+   "pct_ainda_ativo": 86.8,
+   "em_observacao": 30
+  }
+ ],
+ "por_etapa_atual": {
+  "comissoes": 17483,
+  "apresentado": 2333,
+  "retirado": 1327,
+  "casa_revisora": 712,
+  "lei": 388,
+  "plenario_origem": 369,
+  "arquivado": 323,
+  "retorno_origem": 12,
+  "sancao": 8,
+  "vetado": 6
+ },
+ "por_tipo": {
+  "MPV": {
+   "comissoes": 25,
+   "casa_revisora": 2,
+   "lei": 53,
+   "arquivado": 166
+  },
+  "PEC": {
+   "apresentado": 26,
+   "comissoes": 30,
+   "casa_revisora": 10,
+   "lei": 3,
+   "arquivado": 2,
+   "retirado": 1
+  },
+  "PL": {
+   "apresentado": 1964,
+   "comissoes": 17003,
+   "plenario_origem": 335,
+   "casa_revisora": 687,
+   "retorno_origem": 12,
+   "sancao": 7,
+   "lei": 302,
+   "vetado": 5,
+   "arquivado": 154,
+   "retirado": 1274
+  },
+  "PLP": {
+   "apresentado": 343,
+   "comissoes": 425,
+   "plenario_origem": 34,
+   "casa_revisora": 13,
+   "sancao": 1,
+   "lei": 30,
+   "vetado": 1,
+   "arquivado": 1,
+   "retirado": 52
+  }
+ },
+ "funil_por_tipo": {
+  "MPV": {
+   "apresentado": 246,
+   "comissoes": 246,
+   "plenario_origem": 68,
+   "casa_revisora": 63,
+   "sancao": 53,
+   "lei": 53
+  },
+  "PEC": {
+   "apresentado": 72,
+   "comissoes": 46,
+   "plenario_origem": 13,
+   "casa_revisora": 13,
+   "sancao": 3,
+   "lei": 3
+  },
+  "PL": {
+   "apresentado": 21743,
+   "comissoes": 19282,
+   "plenario_origem": 1656,
+   "casa_revisora": 1018,
+   "sancao": 314,
+   "lei": 302
+  },
+  "PLP": {
+   "apresentado": 900,
+   "comissoes": 528,
+   "plenario_origem": 95,
+   "casa_revisora": 45,
+   "sancao": 32,
+   "lei": 30
+  }
+ },
+ "tempo_por_etapa_detalhe": {
+  "apresentado": {
+   "mediana_fechadas": 36,
+   "n_fechadas": 20266,
+   "mediana_abertas_ate_hoje": 113,
+   "n_abertas": 2333
+  },
+  "comissoes": {
+   "mediana_fechadas": 274,
+   "n_fechadas": 2167,
+   "mediana_abertas_ate_hoje": 562,
+   "n_abertas": 17483
+  },
+  "plenario_origem": {
+   "mediana_fechadas": 24,
+   "n_fechadas": 759,
+   "mediana_abertas_ate_hoje": 479,
+   "n_abertas": 369
+  },
+  "casa_revisora": {
+   "mediana_fechadas": 102,
+   "n_fechadas": 435,
+   "mediana_abertas_ate_hoje": 374,
+   "n_abertas": 712
+  },
+  "retorno_origem": {
+   "mediana_fechadas": 10,
+   "n_fechadas": 78,
+   "mediana_abertas_ate_hoje": 298,
+   "n_abertas": 12
+  },
+  "sancao": {
+   "mediana_fechadas": 17,
+   "n_fechadas": 220,
+   "mediana_abertas_ate_hoje": 158,
+   "n_abertas": 8
+  }
+ },
+ "gaveta_por_orgao": [
+  {
+   "chave": "CCJC",
+   "ativas": 3692,
+   "dias_parado_mediano": 368,
+   "paradas_mais_de_365_dias": 1862
+  },
+  {
+   "chave": "MESA",
+   "ativas": 1839,
+   "dias_parado_mediano": 18,
+   "paradas_mais_de_365_dias": 416
+  },
+  {
+   "chave": "CFT",
+   "ativas": 1793,
+   "dias_parado_mediano": 394,
+   "paradas_mais_de_365_dias": 984
+  },
+  {
+   "chave": "CSAUDE",
+   "ativas": 1577,
+   "dias_parado_mediano": 236,
+   "paradas_mais_de_365_dias": 482
+  },
+  {
+   "chave": "SECAP(SGM)",
+   "ativas": 1576,
+   "dias_parado_mediano": 205,
+   "paradas_mais_de_365_dias": 529
+  },
+  {
+   "chave": "PLEN",
+   "ativas": 1036,
+   "dias_parado_mediano": 698,
+   "paradas_mais_de_365_dias": 749
+  },
+  {
+   "chave": "CPASF",
+   "ativas": 1028,
+   "dias_parado_mediano": 199,
+   "paradas_mais_de_365_dias": 283
+  },
+  {
+   "chave": "CE",
+   "ativas": 836,
+   "dias_parado_mediano": 199,
+   "paradas_mais_de_365_dias": 218
+  },
+  {
+   "chave": "CDC",
+   "ativas": 751,
+   "dias_parado_mediano": 198,
+   "paradas_mais_de_365_dias": 175
+  },
+  {
+   "chave": "CTRAB",
+   "ativas": 750,
+   "dias_parado_mediano": 260,
+   "paradas_mais_de_365_dias": 317
+  },
+  {
+   "chave": "CASP",
+   "ativas": 721,
+   "dias_parado_mediano": 276,
+   "paradas_mais_de_365_dias": 329
+  },
+  {
+   "chave": "CMADS",
+   "ativas": 570,
+   "dias_parado_mediano": 213,
+   "paradas_mais_de_365_dias": 156
+  },
+  {
+   "chave": "CCULT",
+   "ativas": 542,
+   "dias_parado_mediano": 207,
+   "paradas_mais_de_365_dias": 142
+  },
+  {
+   "chave": "CVT",
+   "ativas": 490,
+   "dias_parado_mediano": 178,
+   "paradas_mais_de_365_dias": 81
+  },
+  {
+   "chave": "CSPCCO",
+   "ativas": 395,
+   "dias_parado_mediano": 171,
+   "paradas_mais_de_365_dias": 45
+  },
+  {
+   "chave": "CCOM",
+   "ativas": 348,
+   "dias_parado_mediano": 184,
+   "paradas_mais_de_365_dias": 68
+  },
+  {
+   "chave": "CMULHER",
+   "ativas": 310,
+   "dias_parado_mediano": 170,
+   "paradas_mais_de_365_dias": 52
+  },
+  {
+   "chave": "CCP",
+   "ativas": 294,
+   "dias_parado_mediano": 234,
+   "paradas_mais_de_365_dias": 110
+  },
+  {
+   "chave": "CICS",
+   "ativas": 272,
+   "dias_parado_mediano": 164,
+   "paradas_mais_de_365_dias": 68
+  },
+  {
+   "chave": "CAPADR",
+   "ativas": 223,
+   "dias_parado_mediano": 135,
+   "paradas_mais_de_365_dias": 36
+  },
+  {
+   "chave": "CDU",
+   "ativas": 215,
+   "dias_parado_mediano": 150,
+   "paradas_mais_de_365_dias": 32
+  },
+  {
+   "chave": "CDHMIR",
+   "ativas": 189,
+   "dias_parado_mediano": 324,
+   "paradas_mais_de_365_dias": 49
+  },
+  {
+   "chave": "CPOVOS",
+   "ativas": 172,
+   "dias_parado_mediano": 206,
+   "paradas_mais_de_365_dias": 42
+  },
+  {
+   "chave": "CCTI",
+   "ativas": 155,
+   "dias_parado_mediano": 185,
+   "paradas_mais_de_365_dias": 20
+  },
+  {
+   "chave": "CME",
+   "ativas": 154,
+   "dias_parado_mediano": 205,
+   "paradas_mais_de_365_dias": 25
+  },
+  {
+   "chave": "CDE",
+   "ativas": 126,
+   "dias_parado_mediano": 220,
+   "paradas_mais_de_365_dias": 34
+  },
+  {
+   "chave": "CREDN",
+   "ativas": 125,
+   "dias_parado_mediano": 249,
+   "paradas_mais_de_365_dias": 44
+  },
+  {
+   "chave": "CPD",
+   "ativas": 107,
+   "dias_parado_mediano": 141,
+   "paradas_mais_de_365_dias": 25
+  },
+  {
+   "chave": "CTUR",
+   "ativas": 100,
+   "dias_parado_mediano": 228,
+   "paradas_mais_de_365_dias": 30
+  },
+  {
+   "chave": "CESPO",
+   "ativas": 96,
+   "dias_parado_mediano": 95,
+   "paradas_mais_de_365_dias": 25
+  },
+  {
+   "chave": "CINDRE",
+   "ativas": 96,
+   "dias_parado_mediano": 206,
+   "paradas_mais_de_365_dias": 11
+  },
+  {
+   "chave": "PL308020",
+   "ativas": 96,
+   "dias_parado_mediano": 89,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "CIDOSO",
+   "ativas": 46,
+   "dias_parado_mediano": 150,
+   "paradas_mais_de_365_dias": 7
+  },
+  {
+   "chave": "SERAU(SGM)",
+   "ativas": 43,
+   "dias_parado_mediano": 3,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "NAJUR(SGM)",
+   "ativas": 42,
+   "dias_parado_mediano": 192,
+   "paradas_mais_de_365_dias": 5
+  },
+  {
+   "chave": "SERCO(SGM)",
+   "ativas": 34,
+   "dias_parado_mediano": 1142,
+   "paradas_mais_de_365_dias": 28
+  },
+  {
+   "chave": "PL233823",
+   "ativas": 33,
+   "dias_parado_mediano": 177,
+   "paradas_mais_de_365_dias": 4
+  },
+  {
+   "chave": "PL808514",
+   "ativas": 18,
+   "dias_parado_mediano": 248,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "COMPI(SGM)",
+   "ativas": 9,
+   "dias_parado_mediano": 843,
+   "paradas_mais_de_365_dias": 6
+  },
+  {
+   "chave": "SGM",
+   "ativas": 6,
+   "dias_parado_mediano": 123,
+   "paradas_mais_de_365_dias": 2
+  },
+  {
+   "chave": "CMO",
+   "ativas": 5,
+   "dias_parado_mediano": 4,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "CN",
+   "ativas": 2,
+   "dias_parado_mediano": 2,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "PLP15225",
+   "ativas": 1,
+   "dias_parado_mediano": 214,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "GTCL",
+   "ativas": 1,
+   "dias_parado_mediano": 481,
+   "paradas_mais_de_365_dias": 1
+  },
+  {
+   "chave": "PL073325",
+   "ativas": 1,
+   "dias_parado_mediano": 346,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "SELEC",
+   "ativas": 1,
+   "dias_parado_mediano": 141,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "PEC23119",
+   "ativas": 1,
+   "dias_parado_mediano": 367,
+   "paradas_mais_de_365_dias": 1
+  }
+ ],
+ "gaveta_por_tema": [
+  {
+   "chave": "Direitos Humanos e Minorias",
+   "ativas": 6823,
+   "dias_parado_mediano": 198,
+   "paradas_mais_de_365_dias": 1989
+  },
+  {
+   "chave": "Saúde",
+   "ativas": 3925,
+   "dias_parado_mediano": 221,
+   "paradas_mais_de_365_dias": 1216
+  },
+  {
+   "chave": "Administração Pública",
+   "ativas": 3404,
+   "dias_parado_mediano": 213,
+   "paradas_mais_de_365_dias": 1086
+  },
+  {
+   "chave": "Finanças Públicas e Orçamento",
+   "ativas": 3078,
+   "dias_parado_mediano": 241,
+   "paradas_mais_de_365_dias": 1191
+  },
+  {
+   "chave": "Direito Penal e Processual Penal",
+   "ativas": 2885,
+   "dias_parado_mediano": 267,
+   "paradas_mais_de_365_dias": 1161
+  },
+  {
+   "chave": "Defesa e Segurança",
+   "ativas": 2742,
+   "dias_parado_mediano": 239,
+   "paradas_mais_de_365_dias": 979
+  },
+  {
+   "chave": "Trabalho e Emprego",
+   "ativas": 2728,
+   "dias_parado_mediano": 232,
+   "paradas_mais_de_365_dias": 983
+  },
+  {
+   "chave": "Indústria, Comércio e Serviços",
+   "ativas": 2178,
+   "dias_parado_mediano": 206,
+   "paradas_mais_de_365_dias": 643
+  },
+  {
+   "chave": "Educação",
+   "ativas": 2153,
+   "dias_parado_mediano": 213,
+   "paradas_mais_de_365_dias": 738
+  },
+  {
+   "chave": "Meio Ambiente e Desenvolvimento Sustentável",
+   "ativas": 1951,
+   "dias_parado_mediano": 222,
+   "paradas_mais_de_365_dias": 618
+  },
+  {
+   "chave": "Viação, Transporte e Mobilidade",
+   "ativas": 1626,
+   "dias_parado_mediano": 207,
+   "paradas_mais_de_365_dias": 490
+  },
+  {
+   "chave": "Economia",
+   "ativas": 1461,
+   "dias_parado_mediano": 220,
+   "paradas_mais_de_365_dias": 507
+  },
+  {
+   "chave": "Homenagens e Datas Comemorativas",
+   "ativas": 1445,
+   "dias_parado_mediano": 207,
+   "paradas_mais_de_365_dias": 482
+  },
+  {
+   "chave": "Direito e Defesa do Consumidor",
+   "ativas": 1412,
+   "dias_parado_mediano": 198,
+   "paradas_mais_de_365_dias": 388
+  },
+  {
+   "chave": "Direito Civil e Processual Civil",
+   "ativas": 1352,
+   "dias_parado_mediano": 245,
+   "paradas_mais_de_365_dias": 535
+  },
+  {
+   "chave": "Cidades e Desenvolvimento Urbano",
+   "ativas": 1192,
+   "dias_parado_mediano": 192,
+   "paradas_mais_de_365_dias": 306
+  },
+  {
+   "chave": "Previdência e Assistência Social",
+   "ativas": 1161,
+   "dias_parado_mediano": 228,
+   "paradas_mais_de_365_dias": 403
+  },
+  {
+   "chave": "Comunicações",
+   "ativas": 1104,
+   "dias_parado_mediano": 202,
+   "paradas_mais_de_365_dias": 335
+  },
+  {
+   "chave": "Arte, Cultura e Religião",
+   "ativas": 1005,
+   "dias_parado_mediano": 213,
+   "paradas_mais_de_365_dias": 332
+  },
+  {
+   "chave": "Agricultura, Pecuária, Pesca e Extrativismo",
+   "ativas": 833,
+   "dias_parado_mediano": 205,
+   "paradas_mais_de_365_dias": 256
+  },
+  {
+   "chave": "Ciência, Tecnologia e Inovação",
+   "ativas": 799,
+   "dias_parado_mediano": 171,
+   "paradas_mais_de_365_dias": 180
+  },
+  {
+   "chave": "Esporte e Lazer",
+   "ativas": 799,
+   "dias_parado_mediano": 222,
+   "paradas_mais_de_365_dias": 292
+  },
+  {
+   "chave": "Direito e Justiça",
+   "ativas": 686,
+   "dias_parado_mediano": 239,
+   "paradas_mais_de_365_dias": 272
+  },
+  {
+   "chave": "Energia, Recursos Hídricos e Minerais",
+   "ativas": 608,
+   "dias_parado_mediano": 198,
+   "paradas_mais_de_365_dias": 155
+  },
+  {
+   "chave": "Política, Partidos e Eleições",
+   "ativas": 346,
+   "dias_parado_mediano": 381,
+   "paradas_mais_de_365_dias": 177
+  },
+  {
+   "chave": "Turismo",
+   "ativas": 319,
+   "dias_parado_mediano": 229,
+   "paradas_mais_de_365_dias": 120
+  },
+  {
+   "chave": "Relações Internacionais e Comércio Exterior",
+   "ativas": 260,
+   "dias_parado_mediano": 213,
+   "paradas_mais_de_365_dias": 76
+  },
+  {
+   "chave": "Estrutura Fundiária",
+   "ativas": 248,
+   "dias_parado_mediano": 323,
+   "paradas_mais_de_365_dias": 112
+  },
+  {
+   "chave": "Processo Legislativo e Atuação Parlamentar",
+   "ativas": 117,
+   "dias_parado_mediano": 402,
+   "paradas_mais_de_365_dias": 65
+  },
+  {
+   "chave": "Direito Constitucional",
+   "ativas": 98,
+   "dias_parado_mediano": 339,
+   "paradas_mais_de_365_dias": 46
+  },
+  {
+   "chave": "(sem tema)",
+   "ativas": 21,
+   "dias_parado_mediano": 58,
+   "paradas_mais_de_365_dias": 1
+  },
+  {
+   "chave": "Ciências Sociais e Humanas",
+   "ativas": 12,
+   "dias_parado_mediano": 238,
+   "paradas_mais_de_365_dias": 4
+  },
+  {
+   "chave": "Ciências Exatas e da Terra",
+   "ativas": 5,
+   "dias_parado_mediano": 236,
+   "paradas_mais_de_365_dias": 0
+  }
+ ],
+ "sobrevivencia_por_tipo": {
+  "MPV": [
+   {
+    "dias": 0,
+    "pct_ainda_ativo": 100.0,
+    "em_observacao": 246
+   },
+   {
+    "dias": 30,
+    "pct_ainda_ativo": 100.0,
+    "em_observacao": 241
+   },
+   {
+    "dias": 60,
+    "pct_ainda_ativo": 100.0,
+    "em_observacao": 235
+   },
+   {
+    "dias": 90,
+    "pct_ainda_ativo": 98.7,
+    "em_observacao": 226
+   },
+   {
+    "dias": 120,
+    "pct_ainda_ativo": 61.3,
+    "em_observacao": 192
+   },
+   {
+    "dias": 180,
+    "pct_ainda_ativo": 4.1,
+    "em_observacao": 10
+   }
+  ],
+  "PEC": [
+   {
+    "dias": 0,
+    "pct_ainda_ativo": 100.0,
+    "em_observacao": 72
+   },
+   {
+    "dias": 30,
+    "pct_ainda_ativo": 98.6,
+    "em_observacao": 69
+   },
+   {
+    "dias": 60,
+    "pct_ainda_ativo": 98.6,
+    "em_observacao": 69
+   },
+   {
+    "dias": 90,
+    "pct_ainda_ativo": 98.6,
+    "em_observacao": 68
+   },
+   {
+    "dias": 120,
+    "pct_ainda_ativo": 98.6,
+    "em_observacao": 68
+   },
+   {
+    "dias": 180,
+    "pct_ainda_ativo": 98.6,
+    "em_observacao": 65
+   },
+   {
+    "dias": 270,
+    "pct_ainda_ativo": 98.6,
+    "em_observacao": 62
+   },
+   {
+    "dias": 365,
+    "pct_ainda_ativo": 98.6,
+    "em_observacao": 57
+   },
+   {
+    "dias": 545,
+    "pct_ainda_ativo": 92.8,
+    "em_observacao": 46
+   },
+   {
+    "dias": 730,
+    "pct_ainda_ativo": 88.1,
+    "em_observacao": 30
+   },
+   {
+    "dias": 910,
+    "pct_ainda_ativo": 88.1,
+    "em_observacao": 20
+   },
+   {
+    "dias": 1095,
+    "pct_ainda_ativo": 88.1,
+    "em_observacao": 14
+   },
+   {
+    "dias": 1280,
+    "pct_ainda_ativo": 88.1,
+    "em_observacao": 5
+   }
+  ],
+  "PL": [
+   {
+    "dias": 0,
+    "pct_ainda_ativo": 99.9,
+    "em_observacao": 21743
+   },
+   {
+    "dias": 30,
+    "pct_ainda_ativo": 98.6,
+    "em_observacao": 21231
+   },
+   {
+    "dias": 60,
+    "pct_ainda_ativo": 97.4,
+    "em_observacao": 20805
+   },
+   {
+    "dias": 90,
+    "pct_ainda_ativo": 96.7,
+    "em_observacao": 20324
+   },
+   {
+    "dias": 120,
+    "pct_ainda_ativo": 96.2,
+    "em_observacao": 18975
+   },
+   {
+    "dias": 180,
+    "pct_ainda_ativo": 95.4,
+    "em_observacao": 17599
+   },
+   {
+    "dias": 270,
+    "pct_ainda_ativo": 94.5,
+    "em_observacao": 15784
+   },
+   {
+    "dias": 365,
+    "pct_ainda_ativo": 93.8,
+    "em_observacao": 13893
+   },
+   {
+    "dias": 545,
+    "pct_ainda_ativo": 92.5,
+    "em_observacao": 10747
+   },
+   {
+    "dias": 730,
+    "pct_ainda_ativo": 91.1,
+    "em_observacao": 8125
+   },
+   {
+    "dias": 910,
+    "pct_ainda_ativo": 89.9,
+    "em_observacao": 5996
+   },
+   {
+    "dias": 1095,
+    "pct_ainda_ativo": 88.8,
+    "em_observacao": 4003
+   },
+   {
+    "dias": 1280,
+    "pct_ainda_ativo": 87.9,
+    "em_observacao": 1725
+   },
+   {
+    "dias": 1460,
+    "pct_ainda_ativo": 87.8,
+    "em_observacao": 30
+   }
+  ],
+  "PLP": [
+   {
+    "dias": 0,
+    "pct_ainda_ativo": 100.0,
+    "em_observacao": 900
+   },
+   {
+    "dias": 30,
+    "pct_ainda_ativo": 97.5,
+    "em_observacao": 865
+   },
+   {
+    "dias": 60,
+    "pct_ainda_ativo": 96.2,
+    "em_observacao": 839
+   },
+   {
+    "dias": 90,
+    "pct_ainda_ativo": 95.1,
+    "em_observacao": 817
+   },
+   {
+    "dias": 120,
+    "pct_ainda_ativo": 94.8,
+    "em_observacao": 790
+   },
+   {
+    "dias": 180,
+    "pct_ainda_ativo": 94.0,
+    "em_observacao": 729
+   },
+   {
+    "dias": 270,
+    "pct_ainda_ativo": 93.2,
+    "em_observacao": 634
+   },
+   {
+    "dias": 365,
+    "pct_ainda_ativo": 92.7,
+    "em_observacao": 578
+   },
+   {
+    "dias": 545,
+    "pct_ainda_ativo": 91.7,
+    "em_observacao": 480
+   },
+   {
+    "dias": 730,
+    "pct_ainda_ativo": 90.6,
+    "em_observacao": 338
+   },
+   {
+    "dias": 910,
+    "pct_ainda_ativo": 87.2,
+    "em_observacao": 250
+   },
+   {
+    "dias": 1095,
+    "pct_ainda_ativo": 86.8,
+    "em_observacao": 165
+   },
+   {
+    "dias": 1280,
+    "pct_ainda_ativo": 86.8,
+    "em_observacao": 75
+   }
+  ]
+ }
+}

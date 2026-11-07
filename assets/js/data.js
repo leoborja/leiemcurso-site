@@ -79,7 +79,9 @@ export function semanas() {
   semanasP = (async () => {
     try {
       const idx = await getJSON(`${base}semana/index.json`);
-      if (Array.isArray(idx.semanas) && idx.semanas.length) return [...idx.semanas].sort().reverse();
+      // aceita ["2026-W45", ...] (exemplo) ou [{semana: "2026-W45", ...}, ...] (coleta real)
+      const lista = (idx.semanas || []).map((s) => (typeof s === 'string' ? s : s && s.semana)).filter(Boolean);
+      if (lista.length) return [...lista].sort().reverse();
     } catch (e) { /* sem índice */ }
     const ref = parseData(listaPronta?.gerado_em) || new Date();
     let s = semanaISO(ref);
