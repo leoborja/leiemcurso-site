@@ -1,0 +1,95 @@
+{
+ "id": 9100023,
+ "sigla": "PEC 536/2026",
+ "tipo": "PEC",
+ "numero": 536,
+ "ano": 2026,
+ "ementa": "Altera o art. 212 da Constituição Federal para ampliar o percentual mínimo de aplicação em educação pelos municípios.",
+ "tema": [
+  "Direito Constitucional",
+  "Educação"
+ ],
+ "data_apresentacao": "2026-05-05",
+ "autor_principal": {
+  "nome": "Edson Paiva",
+  "partido": "ABC",
+  "uf": "MA",
+  "tipo": "Senador"
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "CCJC",
+ "ultima_movimentacao": "2026-10-25",
+ "dias_parado": 13,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100023",
+ "autores": [
+  {
+   "nome": "Edson Paiva",
+   "partido": "ABC",
+   "uf": "MA",
+   "tipo": "Senador",
+   "id_deputado": null
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Lúcia Andrade",
+   "orgao": "CCJC",
+   "desde": "2026-10-24"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-05-05",
+   "fim": "2026-10-22"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-10-22",
+   "fim": null,
+   "orgaos": [
+    "CCJC",
+    "CESP"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-05-05T18:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PEC 536/2026 pelo(a) autor(a): Edson Paiva.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100023"
+  },
+  {
+   "data": "2026-05-06T17:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100023"
+  },
+  {
+   "data": "2026-10-22T13:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CCJC, CESP. Proposição sujeita à apreciação do Plenário.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100023"
+  },
+  {
+   "data": "2026-10-24T19:00:00Z",
+   "orgao": "CCJC",
+   "descricao": "Designado relator(a) Dep. Lúcia Andrade.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100023"
+  },
+  {
+   "data": "2026-10-25T18:00:00Z",
+   "orgao": "CCJC",
+   "descricao": "Apresentação do parecer do(a) relator(a). Aguardando inclusão em pauta.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100023"
+  }
+ ],
+ "votacoes": [],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

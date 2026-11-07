@@ -1,0 +1,56 @@
+{
+ "id": 9100029,
+ "sigla": "PL 1738/2026",
+ "tipo": "PL",
+ "numero": 1738,
+ "ano": 2026,
+ "ementa": "Dispõe sobre a obrigatoriedade de cardápio em braile em restaurantes.",
+ "tema": [
+  "Direitos Humanos e Minorias",
+  "Defesa do Consumidor"
+ ],
+ "data_apresentacao": "2026-10-28",
+ "autor_principal": {
+  "nome": "Helena Castro",
+  "partido": "UVW",
+  "uf": "MG",
+  "tipo": "Deputado"
+ },
+ "etapa": "apresentado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-10-28",
+ "dias_parado": 10,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100029",
+ "autores": [
+  {
+   "nome": "Helena Castro",
+   "partido": "UVW",
+   "uf": "MG",
+   "tipo": "Deputado",
+   "id_deputado": 990028
+  }
+ ],
+ "relatores": [],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-10-28",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-10-28T19:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1738/2026 pelo(a) autor(a): Helena Castro.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100029"
+  }
+ ],
+ "votacoes": [],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

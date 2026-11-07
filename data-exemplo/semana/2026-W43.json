@@ -1,0 +1,35 @@
+{
+ "semana": "2026-W43",
+ "inicio": "2026-10-19",
+ "fim": "2026-10-25",
+ "mudaram_de_etapa": [
+  {
+   "id": 9100023,
+   "de": "apresentado",
+   "para": "comissoes",
+   "data": "2026-10-22"
+  },
+  {
+   "id": 9100003,
+   "de": "sancao",
+   "para": "lei",
+   "data": "2026-10-21"
+  },
+  {
+   "id": 9100013,
+   "de": "comissoes",
+   "para": "plenario_origem",
+   "data": "2026-10-20"
+  }
+ ],
+ "votadas": [
+  {
+   "id": 9100013,
+   "votacao_id": "9100013-2",
+   "aprovada": true
+  }
+ ],
+ "apresentadas": [
+  9100028
+ ]
+}

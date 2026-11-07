@@ -1,0 +1,95 @@
+{
+ "id": 9100016,
+ "sigla": "PL 1735/2023",
+ "tipo": "PL",
+ "numero": 1735,
+ "ano": 2023,
+ "ementa": "Proíbe a cobrança de taxa de religação de energia elétrica em período de calamidade pública.",
+ "tema": [
+  "Defesa do Consumidor"
+ ],
+ "data_apresentacao": "2023-02-07",
+ "autor_principal": {
+  "nome": "Davi Cordeiro",
+  "partido": "MNO",
+  "uf": "SP",
+  "tipo": "Deputado"
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "CDC",
+ "ultima_movimentacao": "2023-10-11",
+ "dias_parado": 1123,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016",
+ "autores": [
+  {
+   "nome": "Davi Cordeiro",
+   "partido": "MNO",
+   "uf": "SP",
+   "tipo": "Deputado",
+   "id_deputado": 990015
+  },
+  {
+   "nome": "Joana Prado",
+   "partido": "ABC",
+   "uf": "PE",
+   "tipo": "Deputado",
+   "id_deputado": 990115
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Paulo Freitas",
+   "orgao": "CDC",
+   "desde": "2023-10-11"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2023-02-07",
+   "fim": "2023-03-01"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2023-03-01",
+   "fim": null,
+   "orgaos": [
+    "CDC",
+    "CCJC"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2023-02-07T13:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1735/2023 pelo(a) autor(a): Davi Cordeiro.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016"
+  },
+  {
+   "data": "2023-02-08T19:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016"
+  },
+  {
+   "data": "2023-03-01T21:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CDC, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016"
+  },
+  {
+   "data": "2023-10-11T17:15:00Z",
+   "orgao": "CDC",
+   "descricao": "Designado relator(a) Dep. Paulo Freitas.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016"
+  }
+ ],
+ "votacoes": [],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

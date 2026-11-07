@@ -1,0 +1,87 @@
+{
+ "id": 9100026,
+ "sigla": "MPV 2002/2026",
+ "tipo": "MPV",
+ "numero": 2002,
+ "ano": 2026,
+ "ementa": "Abre crédito extraordinário em favor de ministérios para ações de resposta a eventos climáticos extremos.",
+ "tema": [
+  "Finanças Públicas e Orçamento",
+  "Meio Ambiente e Desenvolvimento Sustentável"
+ ],
+ "data_apresentacao": "2026-09-30",
+ "autor_principal": {
+  "nome": "Poder Executivo",
+  "partido": null,
+  "uf": null,
+  "tipo": "Poder Executivo"
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "CMMPV",
+ "ultima_movimentacao": "2026-10-12",
+ "dias_parado": 26,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100026",
+ "autores": [
+  {
+   "nome": "Poder Executivo",
+   "partido": null,
+   "uf": null,
+   "tipo": "Poder Executivo"
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Davi Cordeiro",
+   "orgao": "CMMPV",
+   "desde": "2026-10-12"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-09-30",
+   "fim": "2026-10-06"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-10-06",
+   "fim": null,
+   "orgaos": [
+    "CMMPV"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-09-30T21:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do MPV 2002/2026 pelo(a) autor(a): Poder Executivo.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100026"
+  },
+  {
+   "data": "2026-10-01T17:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100026"
+  },
+  {
+   "data": "2026-10-06T19:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CMMPV. Proposição sujeita à apreciação do Plenário.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100026"
+  },
+  {
+   "data": "2026-10-12T17:30:00Z",
+   "orgao": "CMMPV",
+   "descricao": "Designado relator(a) Dep. Davi Cordeiro.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100026"
+  }
+ ],
+ "votacoes": [],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

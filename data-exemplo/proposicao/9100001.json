@@ -1,0 +1,220 @@
+{
+ "id": 9100001,
+ "sigla": "PL 1391/2023",
+ "tipo": "PL",
+ "numero": 1391,
+ "ano": 2023,
+ "ementa": "Dispõe sobre a obrigatoriedade de desfibriladores externos automáticos em estabelecimentos com circulação diária superior a mil pessoas.",
+ "tema": [
+  "Saúde"
+ ],
+ "data_apresentacao": "2023-03-14",
+ "autor_principal": {
+  "nome": "Ana Ribeiro",
+  "partido": "ABC",
+  "uf": "MG",
+  "tipo": "Deputado"
+ },
+ "etapa": "lei",
+ "orgao_atual": null,
+ "ultima_movimentacao": "2025-08-19",
+ "dias_parado": 445,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001",
+ "autores": [
+  {
+   "nome": "Ana Ribeiro",
+   "partido": "ABC",
+   "uf": "MG",
+   "tipo": "Deputado",
+   "id_deputado": 990000
+  },
+  {
+   "nome": "Tiago Moura",
+   "partido": "MNO",
+   "uf": "BA",
+   "tipo": "Deputado",
+   "id_deputado": 990100
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Ana Ribeiro",
+   "orgao": "CSAUDE",
+   "desde": "2023-04-26"
+  },
+  {
+   "nome": "Joana Prado",
+   "orgao": "CCJC",
+   "desde": "2023-05-24"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2023-03-14",
+   "fim": "2023-04-06"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2023-04-06",
+   "fim": "2023-06-06",
+   "orgaos": [
+    "CSAUDE",
+    "CCJC"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2023-06-06",
+   "fim": "2024-01-19"
+  },
+  {
+   "etapa": "casa_revisora",
+   "inicio": "2024-01-19",
+   "fim": "2024-02-24"
+  },
+  {
+   "etapa": "sancao",
+   "inicio": "2024-02-24",
+   "fim": "2025-08-19"
+  },
+  {
+   "etapa": "lei",
+   "inicio": "2025-08-19",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2023-03-14T13:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1391/2023 pelo(a) autor(a): Ana Ribeiro.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2023-03-15T13:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2023-04-06T17:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CSAUDE, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2023-04-26T13:00:00Z",
+   "orgao": "CSAUDE",
+   "descricao": "Designado relator(a) Dep. Ana Ribeiro.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2023-05-18T14:45:00Z",
+   "orgao": "CSAUDE",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2023-05-24T13:45:00Z",
+   "orgao": "CCJC",
+   "descricao": "Designado relator(a) Dep. Joana Prado.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2023-06-06T14:30:00Z",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2023-06-06T17:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2024-01-19T13:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Aprovado o projeto. Votação nominal.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2024-01-19T17:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa ao Senado Federal por meio de ofício.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2024-01-21T20:30:00Z",
+   "orgao": "SF",
+   "descricao": "Recebido no Senado Federal.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2024-02-23T19:00:00Z",
+   "orgao": "SF",
+   "descricao": "Aprovado pelo Plenário do Senado Federal.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2024-02-24T18:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa à sanção.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "data": "2025-08-19T14:30:00Z",
+   "orgao": "PR",
+   "descricao": "Transformado na Lei nº 15000/2025. Publicação no Diário Oficial da União.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "9100001-1",
+   "data": "2023-05-18",
+   "orgao": "CSAUDE",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CSAUDE.",
+   "aprovada": true,
+   "placar": {
+    "sim": 16,
+    "nao": 6,
+    "abstencao": 2
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "id": "9100001-2",
+   "data": "2023-06-06",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
+   "aprovada": true,
+   "placar": {
+    "sim": 18,
+    "nao": 6,
+    "abstencao": 0
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "id": "9100001-3",
+   "data": "2024-01-19",
+   "orgao": "PLEN",
+   "descricao": "Aprovado o projeto.",
+   "aprovada": true,
+   "placar": {
+    "sim": 259,
+    "nao": 210,
+    "abstencao": 1
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  }
+ ],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": 170000,
+  "sigla": "PL 4391/2024",
+  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170000"
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "id": 9100025,
+ "sigla": "PL 1546/2026",
+ "tipo": "PL",
+ "numero": 1546,
+ "ano": 2026,
+ "ementa": "Dispõe sobre a criação de corredores ecológicos em áreas de expansão urbana.",
+ "tema": [
+  "Meio Ambiente e Desenvolvimento Sustentável",
+  "Cidades e Desenvolvimento Urbano"
+ ],
+ "data_apresentacao": "2026-08-25",
+ "autor_principal": {
+  "nome": "Marta Siqueira",
+  "partido": "ABC",
+  "uf": "AM",
+  "tipo": "Deputado"
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "CMADS",
+ "ultima_movimentacao": "2026-10-29",
+ "dias_parado": 9,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100025",
+ "autores": [
+  {
+   "nome": "Marta Siqueira",
+   "partido": "ABC",
+   "uf": "AM",
+   "tipo": "Deputado",
+   "id_deputado": 990024
+  },
+  {
+   "nome": "Fábio Teles",
+   "partido": "MNO",
+   "uf": "MA",
+   "tipo": "Deputado",
+   "id_deputado": 990124
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Renata Quintela",
+   "orgao": "CMADS",
+   "desde": "2026-10-27"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-08-25",
+   "fim": "2026-10-26"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-10-26",
+   "fim": null,
+   "orgaos": [
+    "CMADS",
+    "CCJC"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-08-25T20:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1546/2026 pelo(a) autor(a): Marta Siqueira.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100025"
+  },
+  {
+   "data": "2026-08-26T19:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100025"
+  },
+  {
+   "data": "2026-10-26T14:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CMADS, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100025"
+  },
+  {
+   "data": "2026-10-27T19:00:00Z",
+   "orgao": "CMADS",
+   "descricao": "Designado relator(a) Dep. Renata Quintela.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100025"
+  },
+  {
+   "data": "2026-10-29T21:15:00Z",
+   "orgao": "CMADS",
+   "descricao": "Apresentação do parecer do(a) relator(a). Aguardando inclusão em pauta.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100025"
+  }
+ ],
+ "votacoes": [],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

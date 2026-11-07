@@ -1,0 +1,187 @@
+{
+ "id": 9100040,
+ "sigla": "PL 1796/2025",
+ "tipo": "PL",
+ "numero": 1796,
+ "ano": 2025,
+ "ementa": "Dispõe sobre a criação de cadastro de devedores de pensão alimentícia.",
+ "tema": [
+  "Direitos Humanos e Minorias"
+ ],
+ "data_apresentacao": "2025-09-16",
+ "autor_principal": {
+  "nome": "Mauro Teixeira",
+  "partido": "MNO",
+  "uf": "DF",
+  "tipo": "Deputado"
+ },
+ "etapa": "retirado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-02-10",
+ "dias_parado": 270,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040",
+ "autores": [
+  {
+   "nome": "Mauro Teixeira",
+   "partido": "MNO",
+   "uf": "DF",
+   "tipo": "Deputado",
+   "id_deputado": 990039
+  },
+  {
+   "nome": "Lúcia Andrade",
+   "partido": "ABC",
+   "uf": "MG",
+   "tipo": "Deputado",
+   "id_deputado": 990139
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Hugo Valente",
+   "orgao": "CDHMIR",
+   "desde": "2026-01-28"
+  },
+  {
+   "nome": "Mauro Teixeira",
+   "orgao": "CFT",
+   "desde": "2026-02-01"
+  },
+  {
+   "nome": "Carlos Menezes",
+   "orgao": "CCJC",
+   "desde": "2026-02-04"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-09-16",
+   "fim": "2026-01-24"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-01-24",
+   "fim": "2026-02-10",
+   "orgaos": [
+    "CDHMIR",
+    "CFT",
+    "CCJC"
+   ]
+  },
+  {
+   "etapa": "retirado",
+   "inicio": "2026-02-10",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-09-16T19:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1796/2025 pelo(a) autor(a): Mauro Teixeira.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "data": "2025-09-17T19:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "data": "2026-01-24T17:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CDHMIR, CFT, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "data": "2026-01-28T20:45:00Z",
+   "orgao": "CDHMIR",
+   "descricao": "Designado relator(a) Dep. Hugo Valente.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "data": "2026-01-31T19:30:00Z",
+   "orgao": "CDHMIR",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "data": "2026-02-01T14:00:00Z",
+   "orgao": "CFT",
+   "descricao": "Designado relator(a) Dep. Mauro Teixeira.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "data": "2026-02-02T21:45:00Z",
+   "orgao": "CFT",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "data": "2026-02-04T19:45:00Z",
+   "orgao": "CCJC",
+   "descricao": "Designado relator(a) Dep. Carlos Menezes.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "data": "2026-02-10T17:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Deferido o requerimento de retirada de tramitação apresentado pelo(a) autor(a).",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "data": "2026-02-10T18:15:00Z",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "9100040-1",
+   "data": "2026-01-31",
+   "orgao": "CDHMIR",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CDHMIR.",
+   "aprovada": true,
+   "placar": {
+    "sim": 25,
+    "nao": 4,
+    "abstencao": 1
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "id": "9100040-2",
+   "data": "2026-02-02",
+   "orgao": "CFT",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CFT.",
+   "aprovada": true,
+   "placar": {
+    "sim": 23,
+    "nao": 5,
+    "abstencao": 2
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  },
+  {
+   "id": "9100040-3",
+   "data": "2026-02-10",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
+   "aprovada": true,
+   "placar": {
+    "sim": 31,
+    "nao": 1,
+    "abstencao": 6
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  }
+ ],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

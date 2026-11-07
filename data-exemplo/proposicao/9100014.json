@@ -1,0 +1,150 @@
+{
+ "id": 9100014,
+ "sigla": "PL 1717/2023",
+ "tipo": "PL",
+ "numero": 1717,
+ "ano": 2023,
+ "ementa": "Dispõe sobre a jornada de trabalho dos profissionais de enfermagem.",
+ "tema": [
+  "Saúde",
+  "Trabalho e Emprego"
+ ],
+ "data_apresentacao": "2023-04-25",
+ "autor_principal": {
+  "nome": "Edson Paiva",
+  "partido": "MNO",
+  "uf": "PE",
+  "tipo": "Senador"
+ },
+ "etapa": "plenario_origem",
+ "orgao_atual": "PLEN",
+ "ultima_movimentacao": "2024-05-14",
+ "dias_parado": 907,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014",
+ "autores": [
+  {
+   "nome": "Edson Paiva",
+   "partido": "MNO",
+   "uf": "PE",
+   "tipo": "Senador",
+   "id_deputado": null
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Mauro Teixeira",
+   "orgao": "CSAUDE",
+   "desde": "2023-09-02"
+  },
+  {
+   "nome": "Carlos Menezes",
+   "orgao": "CCJC",
+   "desde": "2023-11-20"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2023-04-25",
+   "fim": "2023-07-11"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2023-07-11",
+   "fim": "2024-05-14",
+   "orgaos": [
+    "CSAUDE",
+    "CCJC"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2024-05-14",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2023-04-25T20:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1717/2023 pelo(a) autor(a): Edson Paiva.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  },
+  {
+   "data": "2023-04-26T14:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  },
+  {
+   "data": "2023-07-11T20:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CSAUDE, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  },
+  {
+   "data": "2023-09-02T13:45:00Z",
+   "orgao": "CSAUDE",
+   "descricao": "Designado relator(a) Dep. Mauro Teixeira.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  },
+  {
+   "data": "2023-09-21T13:00:00Z",
+   "orgao": "CSAUDE",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  },
+  {
+   "data": "2023-11-20T13:15:00Z",
+   "orgao": "CCJC",
+   "descricao": "Designado relator(a) Dep. Carlos Menezes.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  },
+  {
+   "data": "2024-05-14T19:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  },
+  {
+   "data": "2024-05-14T21:00:00Z",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "9100014-1",
+   "data": "2023-09-21",
+   "orgao": "CSAUDE",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CSAUDE.",
+   "aprovada": true,
+   "placar": {
+    "sim": 12,
+    "nao": -3,
+    "abstencao": 9
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  },
+  {
+   "id": "9100014-2",
+   "data": "2024-05-14",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
+   "aprovada": true,
+   "placar": {
+    "sim": 11,
+    "nao": 0,
+    "abstencao": 7
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  }
+ ],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

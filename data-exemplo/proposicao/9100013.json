@@ -1,0 +1,157 @@
+{
+ "id": 9100013,
+ "sigla": "PEC 784/2025",
+ "tipo": "PEC",
+ "numero": 784,
+ "ano": 2025,
+ "ementa": "Altera o art. 37 da Constituição Federal para vedar o nepotismo cruzado na administração pública.",
+ "tema": [
+  "Direito Constitucional",
+  "Administração Pública"
+ ],
+ "data_apresentacao": "2025-03-18",
+ "autor_principal": {
+  "nome": "Renata Quintela",
+  "partido": "ABC",
+  "uf": "SC",
+  "tipo": "Deputado"
+ },
+ "etapa": "plenario_origem",
+ "orgao_atual": "PLEN",
+ "ultima_movimentacao": "2026-10-20",
+ "dias_parado": 18,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013",
+ "autores": [
+  {
+   "nome": "Renata Quintela",
+   "partido": "ABC",
+   "uf": "SC",
+   "tipo": "Deputado",
+   "id_deputado": 990012
+  },
+  {
+   "nome": "Mauro Teixeira",
+   "partido": "MNO",
+   "uf": "SP",
+   "tipo": "Deputado",
+   "id_deputado": 990112
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Beatriz Nunes",
+   "orgao": "CCJC",
+   "desde": "2026-03-30"
+  },
+  {
+   "nome": "Clara Bastos",
+   "orgao": "CESP",
+   "desde": "2026-08-23"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-03-18",
+   "fim": "2026-02-12"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-02-12",
+   "fim": "2026-10-20",
+   "orgaos": [
+    "CCJC",
+    "CESP"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2026-10-20",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-03-18T19:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PEC 784/2025 pelo(a) autor(a): Renata Quintela.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  },
+  {
+   "data": "2025-03-19T14:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  },
+  {
+   "data": "2026-02-12T20:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CCJC, CESP. Proposição sujeita à apreciação do Plenário.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  },
+  {
+   "data": "2026-03-30T14:15:00Z",
+   "orgao": "CCJC",
+   "descricao": "Designado relator(a) Dep. Beatriz Nunes.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  },
+  {
+   "data": "2026-06-11T17:45:00Z",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  },
+  {
+   "data": "2026-08-23T18:15:00Z",
+   "orgao": "CESP",
+   "descricao": "Designado relator(a) Dep. Clara Bastos.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  },
+  {
+   "data": "2026-10-20T14:45:00Z",
+   "orgao": "CESP",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  },
+  {
+   "data": "2026-10-20T18:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "9100013-1",
+   "data": "2026-06-11",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
+   "aprovada": true,
+   "placar": {
+    "sim": 18,
+    "nao": 6,
+    "abstencao": 0
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  },
+  {
+   "id": "9100013-2",
+   "data": "2026-10-20",
+   "orgao": "CESP",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CESP.",
+   "aprovada": true,
+   "placar": {
+    "sim": 23,
+    "nao": -1,
+    "abstencao": 8
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  }
+ ],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

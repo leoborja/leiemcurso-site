@@ -1,0 +1,955 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "proposicoes": [
+  {
+   "id": 9100001,
+   "sigla": "PL 1391/2023",
+   "tipo": "PL",
+   "numero": 1391,
+   "ano": 2023,
+   "ementa": "Dispõe sobre a obrigatoriedade de desfibriladores externos automáticos em estabelecimentos com circulação diária superior a mil pessoas.",
+   "tema": [
+    "Saúde"
+   ],
+   "data_apresentacao": "2023-03-14",
+   "autor_principal": {
+    "nome": "Ana Ribeiro",
+    "partido": "ABC",
+    "uf": "MG",
+    "tipo": "Deputado"
+   },
+   "etapa": "lei",
+   "orgao_atual": null,
+   "ultima_movimentacao": "2025-08-19",
+   "dias_parado": 445,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100001"
+  },
+  {
+   "id": 9100002,
+   "sigla": "PL 1402/2023",
+   "tipo": "PL",
+   "numero": 1402,
+   "ano": 2023,
+   "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para incluir a educação financeira como tema transversal no ensino fundamental.",
+   "tema": [
+    "Educação",
+    "Economia"
+   ],
+   "data_apresentacao": "2023-05-02",
+   "autor_principal": {
+    "nome": "Carlos Menezes",
+    "partido": "XYZ",
+    "uf": "SP",
+    "tipo": "Deputado"
+   },
+   "etapa": "lei",
+   "orgao_atual": null,
+   "ultima_movimentacao": "2026-11-04",
+   "dias_parado": 3,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100002"
+  },
+  {
+   "id": 9100003,
+   "sigla": "MPV 1893/2026",
+   "tipo": "MPV",
+   "numero": 1893,
+   "ano": 2026,
+   "ementa": "Institui o Programa Nacional de Renovação da Frota de Caminhões e dá outras providências.",
+   "tema": [
+    "Viação, Transporte e Mobilidade",
+    "Economia"
+   ],
+   "data_apresentacao": "2026-04-08",
+   "autor_principal": {
+    "nome": "Poder Executivo",
+    "partido": null,
+    "uf": null,
+    "tipo": "Poder Executivo"
+   },
+   "etapa": "lei",
+   "orgao_atual": null,
+   "ultima_movimentacao": "2026-10-21",
+   "dias_parado": 17,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "id": 9100004,
+   "sigla": "PLP 959/2024",
+   "tipo": "PLP",
+   "numero": 959,
+   "ano": 2024,
+   "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para atualizar os limites de receita bruta do microempreendedor individual.",
+   "tema": [
+    "Economia",
+    "Finanças Públicas e Orçamento"
+   ],
+   "data_apresentacao": "2024-02-20",
+   "autor_principal": {
+    "nome": "Rui Albuquerque",
+    "partido": "MNO",
+    "uf": "BA",
+    "tipo": "Deputado"
+   },
+   "etapa": "lei",
+   "orgao_atual": null,
+   "ultima_movimentacao": "2026-03-11",
+   "dias_parado": 241,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100004"
+  },
+  {
+   "id": 9100005,
+   "sigla": "PEC 165/2023",
+   "tipo": "PEC",
+   "numero": 165,
+   "ano": 2023,
+   "ementa": "Altera o art. 6º da Constituição Federal para incluir a mobilidade urbana entre os direitos sociais.",
+   "tema": [
+    "Direito Constitucional",
+    "Cidades e Desenvolvimento Urbano"
+   ],
+   "data_apresentacao": "2023-09-12",
+   "autor_principal": {
+    "nome": "Edson Paiva",
+    "partido": "ABC",
+    "uf": "GO",
+    "tipo": "Senador"
+   },
+   "etapa": "lei",
+   "orgao_atual": null,
+   "ultima_movimentacao": "2025-12-16",
+   "dias_parado": 326,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
+  },
+  {
+   "id": 9100006,
+   "sigla": "PL 1522/2023",
+   "tipo": "PL",
+   "numero": 1522,
+   "ano": 2023,
+   "ementa": "Concede isenção do imposto de importação para equipamentos de energia solar destinados a cooperativas rurais.",
+   "tema": [
+    "Agricultura, Pecuária, Pesca e Extrativismo",
+    "Meio Ambiente e Desenvolvimento Sustentável"
+   ],
+   "data_apresentacao": "2023-06-27",
+   "autor_principal": {
+    "nome": "Paulo Freitas",
+    "partido": "HJK",
+    "uf": "RS",
+    "tipo": "Deputado"
+   },
+   "etapa": "vetado",
+   "orgao_atual": "CN",
+   "ultima_movimentacao": "2026-07-30",
+   "dias_parado": 100,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
+  },
+  {
+   "id": 9100007,
+   "sigla": "PL 1814/2024",
+   "tipo": "PL",
+   "numero": 1814,
+   "ano": 2024,
+   "ementa": "Estabelece normas para a doação de alimentos próximos ao vencimento por supermercados e restaurantes.",
+   "tema": [
+    "Defesa do Consumidor",
+    "Previdência e Assistência Social"
+   ],
+   "data_apresentacao": "2024-04-16",
+   "autor_principal": {
+    "nome": "Lúcia Andrade",
+    "partido": "ABC",
+    "uf": "PR",
+    "tipo": "Deputado"
+   },
+   "etapa": "sancao",
+   "orgao_atual": "PR",
+   "ultima_movimentacao": "2026-10-28",
+   "dias_parado": 10,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
+  },
+  {
+   "id": 9100008,
+   "sigla": "PL 1529/2023",
+   "tipo": "PL",
+   "numero": 1529,
+   "ano": 2023,
+   "ementa": "Regulamenta o exercício da profissão de cuidador de pessoa idosa.",
+   "tema": [
+    "Trabalho e Emprego",
+    "Previdência e Assistência Social"
+   ],
+   "data_apresentacao": "2023-08-08",
+   "autor_principal": {
+    "nome": "Tiago Moura",
+    "partido": "XYZ",
+    "uf": "CE",
+    "tipo": "Deputado"
+   },
+   "etapa": "casa_revisora",
+   "orgao_atual": "SF",
+   "ultima_movimentacao": "2024-11-28",
+   "dias_parado": 709,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
+  },
+  {
+   "id": 9100009,
+   "sigla": "PL 1945/2024",
+   "tipo": "PL",
+   "numero": 1945,
+   "ano": 2024,
+   "ementa": "Dispõe sobre a transparência dos algoritmos de recomendação em plataformas digitais de grande porte.",
+   "tema": [
+    "Comunicações",
+    "Ciência, Tecnologia e Inovação"
+   ],
+   "data_apresentacao": "2024-09-03",
+   "autor_principal": {
+    "nome": "Helena Castro",
+    "partido": "QRS",
+    "uf": "PA",
+    "tipo": "Deputado"
+   },
+   "etapa": "casa_revisora",
+   "orgao_atual": "SF",
+   "ultima_movimentacao": "2026-11-07",
+   "dias_parado": 0,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
+  },
+  {
+   "id": 9100010,
+   "sigla": "PL 1547/2025",
+   "tipo": "PL",
+   "numero": 1547,
+   "ano": 2025,
+   "ementa": "Cria o Cadastro Nacional de Pessoas Desaparecidas integrado aos órgãos de segurança pública.",
+   "tema": [
+    "Segurança Pública",
+    "Direitos Humanos e Minorias"
+   ],
+   "data_apresentacao": "2025-02-11",
+   "autor_principal": {
+    "nome": "Otávio Lima",
+    "partido": "MNO",
+    "uf": "GO",
+    "tipo": "Deputado"
+   },
+   "etapa": "casa_revisora",
+   "orgao_atual": "SF",
+   "ultima_movimentacao": "2026-06-05",
+   "dias_parado": 155,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
+  },
+  {
+   "id": 9100011,
+   "sigla": "PL 1597/2023",
+   "tipo": "PL",
+   "numero": 1597,
+   "ano": 2023,
+   "ementa": "Altera o Código de Trânsito Brasileiro para dispor sobre o uso de patinetes elétricos em vias públicas.",
+   "tema": [
+    "Viação, Transporte e Mobilidade"
+   ],
+   "data_apresentacao": "2023-11-21",
+   "autor_principal": {
+    "nome": "Sônia Barros",
+    "partido": "UVW",
+    "uf": "AM",
+    "tipo": "Deputado"
+   },
+   "etapa": "retorno_origem",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2026-10-27",
+   "dias_parado": 11,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100011"
+  },
+  {
+   "id": 9100012,
+   "sigla": "PL 2042/2024",
+   "tipo": "PL",
+   "numero": 2042,
+   "ano": 2024,
+   "ementa": "Institui a Política Nacional de Combate ao Desperdício de Água em edificações públicas.",
+   "tema": [
+    "Meio Ambiente e Desenvolvimento Sustentável",
+    "Administração Pública"
+   ],
+   "data_apresentacao": "2024-03-05",
+   "autor_principal": {
+    "nome": "Fábio Teles",
+    "partido": "HJK",
+    "uf": "DF",
+    "tipo": "Deputado"
+   },
+   "etapa": "plenario_origem",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2026-11-03",
+   "dias_parado": 4,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
+  },
+  {
+   "id": 9100013,
+   "sigla": "PEC 784/2025",
+   "tipo": "PEC",
+   "numero": 784,
+   "ano": 2025,
+   "ementa": "Altera o art. 37 da Constituição Federal para vedar o nepotismo cruzado na administração pública.",
+   "tema": [
+    "Direito Constitucional",
+    "Administração Pública"
+   ],
+   "data_apresentacao": "2025-03-18",
+   "autor_principal": {
+    "nome": "Renata Quintela",
+    "partido": "ABC",
+    "uf": "SC",
+    "tipo": "Deputado"
+   },
+   "etapa": "plenario_origem",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2026-10-20",
+   "dias_parado": 18,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
+  },
+  {
+   "id": 9100014,
+   "sigla": "PL 1717/2023",
+   "tipo": "PL",
+   "numero": 1717,
+   "ano": 2023,
+   "ementa": "Dispõe sobre a jornada de trabalho dos profissionais de enfermagem.",
+   "tema": [
+    "Saúde",
+    "Trabalho e Emprego"
+   ],
+   "data_apresentacao": "2023-04-25",
+   "autor_principal": {
+    "nome": "Edson Paiva",
+    "partido": "MNO",
+    "uf": "PE",
+    "tipo": "Senador"
+   },
+   "etapa": "plenario_origem",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2024-05-14",
+   "dias_parado": 907,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100014"
+  },
+  {
+   "id": 9100015,
+   "sigla": "PLP 280/2025",
+   "tipo": "PLP",
+   "numero": 280,
+   "ano": 2025,
+   "ementa": "Dispõe sobre normas gerais para a cobrança do imposto sobre serviços em plataformas de transporte por aplicativo.",
+   "tema": [
+    "Finanças Públicas e Orçamento",
+    "Viação, Transporte e Mobilidade"
+   ],
+   "data_apresentacao": "2025-06-10",
+   "autor_principal": {
+    "nome": "Irene Matos",
+    "partido": "QRS",
+    "uf": "MG",
+    "tipo": "Deputado"
+   },
+   "etapa": "plenario_origem",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2026-10-30",
+   "dias_parado": 8,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100015"
+  },
+  {
+   "id": 9100016,
+   "sigla": "PL 1735/2023",
+   "tipo": "PL",
+   "numero": 1735,
+   "ano": 2023,
+   "ementa": "Proíbe a cobrança de taxa de religação de energia elétrica em período de calamidade pública.",
+   "tema": [
+    "Defesa do Consumidor"
+   ],
+   "data_apresentacao": "2023-02-07",
+   "autor_principal": {
+    "nome": "Davi Cordeiro",
+    "partido": "MNO",
+    "uf": "SP",
+    "tipo": "Deputado"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CDC",
+   "ultima_movimentacao": "2023-10-11",
+   "dias_parado": 1123,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016"
+  },
+  {
+   "id": 9100017,
+   "sigla": "PL 1796/2023",
+   "tipo": "PL",
+   "numero": 1796,
+   "ano": 2023,
+   "ementa": "Dispõe sobre a inclusão de pessoas com deficiência em programas de iniciação esportiva escolar.",
+   "tema": [
+    "Esporte e Lazer",
+    "Educação",
+    "Direitos Humanos e Minorias"
+   ],
+   "data_apresentacao": "2023-07-18",
+   "autor_principal": {
+    "nome": "Beatriz Nunes",
+    "partido": "UVW",
+    "uf": "RJ",
+    "tipo": "Deputado"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CESPO",
+   "ultima_movimentacao": "2023-11-14",
+   "dias_parado": 1089,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100017"
+  },
+  {
+   "id": 9100018,
+   "sigla": "PL 2154/2024",
+   "tipo": "PL",
+   "numero": 2154,
+   "ano": 2024,
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para dispor sobre a proteção de crianças em ambientes digitais.",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Comunicações"
+   ],
+   "data_apresentacao": "2024-05-21",
+   "autor_principal": {
+    "nome": "Hugo Valente",
+    "partido": "HJK",
+    "uf": "BA",
+    "tipo": "Deputado"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CDHMIR",
+   "ultima_movimentacao": "2024-12-20",
+   "dias_parado": 687,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100018"
+  },
+  {
+   "id": 9100019,
+   "sigla": "PL 2225/2024",
+   "tipo": "PL",
+   "numero": 2225,
+   "ano": 2024,
+   "ementa": "Cria incentivo fiscal para empresas que contratem jovens egressos de medidas socioeducativas.",
+   "tema": [
+    "Trabalho e Emprego",
+    "Finanças Públicas e Orçamento"
+   ],
+   "data_apresentacao": "2024-10-29",
+   "autor_principal": {
+    "nome": "Clara Bastos",
+    "partido": "ABC",
+    "uf": "PE",
+    "tipo": "Deputado"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CTRAB",
+   "ultima_movimentacao": "2024-12-04",
+   "dias_parado": 703,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100019"
+  },
+  {
+   "id": 9100020,
+   "sigla": "PL 1604/2025",
+   "tipo": "PL",
+   "numero": 1604,
+   "ano": 2025,
+   "ementa": "Institui o Dia Nacional da Cultura Popular Nordestina.",
+   "tema": [
+    "Cultura"
+   ],
+   "data_apresentacao": "2025-04-01",
+   "autor_principal": {
+    "nome": "Mauro Teixeira",
+    "partido": "XYZ",
+    "uf": "RS",
+    "tipo": "Deputado"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CCULT",
+   "ultima_movimentacao": "2025-06-05",
+   "dias_parado": 520,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100020"
+  },
+  {
+   "id": 9100021,
+   "sigla": "PL 1740/2025",
+   "tipo": "PL",
+   "numero": 1740,
+   "ano": 2025,
+   "ementa": "Estabelece prazo máximo para a realização de exames de diagnóstico de câncer no Sistema Único de Saúde.",
+   "tema": [
+    "Saúde"
+   ],
+   "data_apresentacao": "2025-08-12",
+   "autor_principal": {
+    "nome": "Ana Ribeiro",
+    "partido": "QRS",
+    "uf": "PR",
+    "tipo": "Deputado"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CSAUDE",
+   "ultima_movimentacao": "2025-12-13",
+   "dias_parado": 329,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100021"
+  },
+  {
+   "id": 9100022,
+   "sigla": "PL 1394/2026",
+   "tipo": "PL",
+   "numero": 1394,
+   "ano": 2026,
+   "ementa": "Dispõe sobre a rotulagem de alimentos ultraprocessados com advertência frontal.",
+   "tema": [
+    "Saúde",
+    "Defesa do Consumidor"
+   ],
+   "data_apresentacao": "2026-02-24",
+   "autor_principal": {
+    "nome": "Carlos Menezes",
+    "partido": "MNO",
+    "uf": "CE",
+    "tipo": "Deputado"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CSAUDE",
+   "ultima_movimentacao": "2026-03-20",
+   "dias_parado": 232,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100022"
+  },
+  {
+   "id": 9100023,
+   "sigla": "PEC 536/2026",
+   "tipo": "PEC",
+   "numero": 536,
+   "ano": 2026,
+   "ementa": "Altera o art. 212 da Constituição Federal para ampliar o percentual mínimo de aplicação em educação pelos municípios.",
+   "tema": [
+    "Direito Constitucional",
+    "Educação"
+   ],
+   "data_apresentacao": "2026-05-05",
+   "autor_principal": {
+    "nome": "Edson Paiva",
+    "partido": "ABC",
+    "uf": "MA",
+    "tipo": "Senador"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CCJC",
+   "ultima_movimentacao": "2026-10-25",
+   "dias_parado": 13,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100023"
+  },
+  {
+   "id": 9100024,
+   "sigla": "PL 1509/2026",
+   "tipo": "PL",
+   "numero": 1509,
+   "ano": 2026,
+   "ementa": "Regulamenta a atividade de entregador por aplicativo e dispõe sobre seguro contra acidentes.",
+   "tema": [
+    "Trabalho e Emprego",
+    "Viação, Transporte e Mobilidade"
+   ],
+   "data_apresentacao": "2026-06-16",
+   "autor_principal": {
+    "nome": "Rui Albuquerque",
+    "partido": "HJK",
+    "uf": "GO",
+    "tipo": "Deputado"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CTRAB",
+   "ultima_movimentacao": "2026-11-06",
+   "dias_parado": 1,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100024"
+  },
+  {
+   "id": 9100025,
+   "sigla": "PL 1546/2026",
+   "tipo": "PL",
+   "numero": 1546,
+   "ano": 2026,
+   "ementa": "Dispõe sobre a criação de corredores ecológicos em áreas de expansão urbana.",
+   "tema": [
+    "Meio Ambiente e Desenvolvimento Sustentável",
+    "Cidades e Desenvolvimento Urbano"
+   ],
+   "data_apresentacao": "2026-08-25",
+   "autor_principal": {
+    "nome": "Marta Siqueira",
+    "partido": "ABC",
+    "uf": "AM",
+    "tipo": "Deputado"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CMADS",
+   "ultima_movimentacao": "2026-10-29",
+   "dias_parado": 9,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100025"
+  },
+  {
+   "id": 9100026,
+   "sigla": "MPV 2002/2026",
+   "tipo": "MPV",
+   "numero": 2002,
+   "ano": 2026,
+   "ementa": "Abre crédito extraordinário em favor de ministérios para ações de resposta a eventos climáticos extremos.",
+   "tema": [
+    "Finanças Públicas e Orçamento",
+    "Meio Ambiente e Desenvolvimento Sustentável"
+   ],
+   "data_apresentacao": "2026-09-30",
+   "autor_principal": {
+    "nome": "Poder Executivo",
+    "partido": null,
+    "uf": null,
+    "tipo": "Poder Executivo"
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CMMPV",
+   "ultima_movimentacao": "2026-10-12",
+   "dias_parado": 26,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100026"
+  },
+  {
+   "id": 9100027,
+   "sigla": "PL 1837/2023",
+   "tipo": "PL",
+   "numero": 1837,
+   "ano": 2023,
+   "ementa": "Dispõe sobre a gratuidade do transporte público intermunicipal para estudantes de baixa renda.",
+   "tema": [
+    "Viação, Transporte e Mobilidade",
+    "Educação"
+   ],
+   "data_apresentacao": "2023-10-03",
+   "autor_principal": {
+    "nome": "Lúcia Andrade",
+    "partido": "QRS",
+    "uf": "SC",
+    "tipo": "Deputado"
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2023-10-03",
+   "dias_parado": 1131,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100027"
+  },
+  {
+   "id": 9100028,
+   "sigla": "PL 1648/2026",
+   "tipo": "PL",
+   "numero": 1648,
+   "ano": 2026,
+   "ementa": "Institui o programa de hortas comunitárias em terrenos públicos ociosos.",
+   "tema": [
+    "Cidades e Desenvolvimento Urbano",
+    "Agricultura, Pecuária, Pesca e Extrativismo"
+   ],
+   "data_apresentacao": "2026-10-21",
+   "autor_principal": {
+    "nome": "Tiago Moura",
+    "partido": "MNO",
+    "uf": "MA",
+    "tipo": "Deputado"
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-10-21",
+   "dias_parado": 17,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100028"
+  },
+  {
+   "id": 9100029,
+   "sigla": "PL 1738/2026",
+   "tipo": "PL",
+   "numero": 1738,
+   "ano": 2026,
+   "ementa": "Dispõe sobre a obrigatoriedade de cardápio em braile em restaurantes.",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Defesa do Consumidor"
+   ],
+   "data_apresentacao": "2026-10-28",
+   "autor_principal": {
+    "nome": "Helena Castro",
+    "partido": "UVW",
+    "uf": "MG",
+    "tipo": "Deputado"
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-10-28",
+   "dias_parado": 10,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100029"
+  },
+  {
+   "id": 9100030,
+   "sigla": "PL 1822/2026",
+   "tipo": "PL",
+   "numero": 1822,
+   "ano": 2026,
+   "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, para tornar obrigatório o curso de direção defensiva na renovação da habilitação.",
+   "tema": [
+    "Viação, Transporte e Mobilidade"
+   ],
+   "data_apresentacao": "2026-10-29",
+   "autor_principal": {
+    "nome": "Otávio Lima",
+    "partido": "HJK",
+    "uf": "SP",
+    "tipo": "Deputado"
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-10-29",
+   "dias_parado": 9,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100030"
+  },
+  {
+   "id": 9100031,
+   "sigla": "PL 1834/2026",
+   "tipo": "PL",
+   "numero": 1834,
+   "ano": 2026,
+   "ementa": "Estabelece diretrizes para o uso de inteligência artificial no atendimento ao cidadão em órgãos públicos.",
+   "tema": [
+    "Ciência, Tecnologia e Inovação",
+    "Administração Pública"
+   ],
+   "data_apresentacao": "2026-11-03",
+   "autor_principal": {
+    "nome": "Sônia Barros",
+    "partido": "ABC",
+    "uf": "RJ",
+    "tipo": "Deputado"
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-11-03",
+   "dias_parado": 4,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100031"
+  },
+  {
+   "id": 9100032,
+   "sigla": "PLP 384/2026",
+   "tipo": "PLP",
+   "numero": 384,
+   "ano": 2026,
+   "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para dispor sobre a publicação de dados de execução orçamentária em formato aberto.",
+   "tema": [
+    "Finanças Públicas e Orçamento",
+    "Administração Pública"
+   ],
+   "data_apresentacao": "2026-11-04",
+   "autor_principal": {
+    "nome": "Edson Paiva",
+    "partido": "MNO",
+    "uf": "PA",
+    "tipo": "Senador"
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-11-04",
+   "dias_parado": 3,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100032"
+  },
+  {
+   "id": 9100033,
+   "sigla": "PL 1891/2026",
+   "tipo": "PL",
+   "numero": 1891,
+   "ano": 2026,
+   "ementa": "Dispõe sobre a prevenção ao assédio em ambientes esportivos de base.",
+   "tema": [
+    "Esporte e Lazer",
+    "Direitos Humanos e Minorias"
+   ],
+   "data_apresentacao": "2026-11-05",
+   "autor_principal": {
+    "nome": "Renata Quintela",
+    "partido": "QRS",
+    "uf": "PE",
+    "tipo": "Deputado"
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-11-05",
+   "dias_parado": 2,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100033"
+  },
+  {
+   "id": 9100034,
+   "sigla": "MPV 2113/2026",
+   "tipo": "MPV",
+   "numero": 2113,
+   "ano": 2026,
+   "ementa": "Dispõe sobre medidas temporárias de apoio ao setor pesqueiro afetado pela estiagem.",
+   "tema": [
+    "Agricultura, Pecuária, Pesca e Extrativismo"
+   ],
+   "data_apresentacao": "2026-11-05",
+   "autor_principal": {
+    "nome": "Poder Executivo",
+    "partido": null,
+    "uf": null,
+    "tipo": "Poder Executivo"
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-11-05",
+   "dias_parado": 2,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100034"
+  },
+  {
+   "id": 9100035,
+   "sigla": "PL 1659/2019",
+   "tipo": "PL",
+   "numero": 1659,
+   "ano": 2019,
+   "ementa": "Dispõe sobre a obrigatoriedade de câmeras em salas de aula da educação básica.",
+   "tema": [
+    "Educação",
+    "Segurança Pública"
+   ],
+   "data_apresentacao": "2019-04-09",
+   "autor_principal": {
+    "nome": "Irene Matos",
+    "partido": "UVW",
+    "uf": "PR",
+    "tipo": "Deputado"
+   },
+   "etapa": "arquivado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2023-01-31",
+   "dias_parado": 1376,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  },
+  {
+   "id": 9100036,
+   "sigla": "PL 1919/2023",
+   "tipo": "PL",
+   "numero": 1919,
+   "ano": 2023,
+   "ementa": "Proíbe o uso de fogos de artifício com estampido em áreas urbanas.",
+   "tema": [
+    "Meio Ambiente e Desenvolvimento Sustentável"
+   ],
+   "data_apresentacao": "2023-03-28",
+   "autor_principal": {
+    "nome": "Davi Cordeiro",
+    "partido": "HJK",
+    "uf": "CE",
+    "tipo": "Deputado"
+   },
+   "etapa": "arquivado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-11-03",
+   "dias_parado": 4,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
+  },
+  {
+   "id": 9100037,
+   "sigla": "PL 2355/2024",
+   "tipo": "PL",
+   "numero": 2355,
+   "ano": 2024,
+   "ementa": "Institui o selo nacional de empresa amiga da primeira infância.",
+   "tema": [
+    "Previdência e Assistência Social"
+   ],
+   "data_apresentacao": "2024-07-09",
+   "autor_principal": {
+    "nome": "Beatriz Nunes",
+    "partido": "ABC",
+    "uf": "PA",
+    "tipo": "Deputado"
+   },
+   "etapa": "retirado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2024-08-13",
+   "dias_parado": 816,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100037"
+  },
+  {
+   "id": 9100038,
+   "sigla": "MPV 2043/2025",
+   "tipo": "MPV",
+   "numero": 2043,
+   "ano": 2025,
+   "ementa": "Altera regras do seguro-defeso para pescadores artesanais.",
+   "tema": [
+    "Agricultura, Pecuária, Pesca e Extrativismo",
+    "Previdência e Assistência Social"
+   ],
+   "data_apresentacao": "2025-11-19",
+   "autor_principal": {
+    "nome": "Poder Executivo",
+    "partido": null,
+    "uf": null,
+    "tipo": "Poder Executivo"
+   },
+   "etapa": "arquivado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-03-20",
+   "dias_parado": 232,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100038"
+  },
+  {
+   "id": 9100039,
+   "sigla": "PEC 216/2023",
+   "tipo": "PEC",
+   "numero": 216,
+   "ano": 2023,
+   "ementa": "Altera o art. 14 da Constituição Federal para dispor sobre o voto facultativo.",
+   "tema": [
+    "Direito Constitucional"
+   ],
+   "data_apresentacao": "2023-05-23",
+   "autor_principal": {
+    "nome": "Clara Bastos",
+    "partido": "QRS",
+    "uf": "AM",
+    "tipo": "Deputado"
+   },
+   "etapa": "arquivado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-10-29",
+   "dias_parado": 9,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
+  },
+  {
+   "id": 9100040,
+   "sigla": "PL 1796/2025",
+   "tipo": "PL",
+   "numero": 1796,
+   "ano": 2025,
+   "ementa": "Dispõe sobre a criação de cadastro de devedores de pensão alimentícia.",
+   "tema": [
+    "Direitos Humanos e Minorias"
+   ],
+   "data_apresentacao": "2025-09-16",
+   "autor_principal": {
+    "nome": "Mauro Teixeira",
+    "partido": "MNO",
+    "uf": "DF",
+    "tipo": "Deputado"
+   },
+   "etapa": "retirado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-02-10",
+   "dias_parado": 270,
+   "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100040"
+  }
+ ]
+}

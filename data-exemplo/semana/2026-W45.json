@@ -1,0 +1,60 @@
+{
+ "semana": "2026-W45",
+ "inicio": "2026-11-02",
+ "fim": "2026-11-08",
+ "mudaram_de_etapa": [
+  {
+   "id": 9100009,
+   "de": "plenario_origem",
+   "para": "casa_revisora",
+   "data": "2026-11-05"
+  },
+  {
+   "id": 9100002,
+   "de": "sancao",
+   "para": "lei",
+   "data": "2026-11-04"
+  },
+  {
+   "id": 9100024,
+   "de": "apresentado",
+   "para": "comissoes",
+   "data": "2026-11-04"
+  },
+  {
+   "id": 9100012,
+   "de": "comissoes",
+   "para": "plenario_origem",
+   "data": "2026-11-03"
+  },
+  {
+   "id": 9100036,
+   "de": "plenario_origem",
+   "para": "arquivado",
+   "data": "2026-11-03"
+  }
+ ],
+ "votadas": [
+  {
+   "id": 9100009,
+   "votacao_id": "9100009-4",
+   "aprovada": true
+  },
+  {
+   "id": 9100012,
+   "votacao_id": "9100012-2",
+   "aprovada": true
+  },
+  {
+   "id": 9100036,
+   "votacao_id": "9100036-3",
+   "aprovada": false
+  }
+ ],
+ "apresentadas": [
+  9100031,
+  9100032,
+  9100033,
+  9100034
+ ]
+}

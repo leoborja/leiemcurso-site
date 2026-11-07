@@ -1,0 +1,90 @@
+{
+ "id": 9100018,
+ "sigla": "PL 2154/2024",
+ "tipo": "PL",
+ "numero": 2154,
+ "ano": 2024,
+ "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para dispor sobre a proteção de crianças em ambientes digitais.",
+ "tema": [
+  "Direitos Humanos e Minorias",
+  "Comunicações"
+ ],
+ "data_apresentacao": "2024-05-21",
+ "autor_principal": {
+  "nome": "Hugo Valente",
+  "partido": "HJK",
+  "uf": "BA",
+  "tipo": "Deputado"
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "CDHMIR",
+ "ultima_movimentacao": "2024-12-20",
+ "dias_parado": 687,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100018",
+ "autores": [
+  {
+   "nome": "Hugo Valente",
+   "partido": "HJK",
+   "uf": "BA",
+   "tipo": "Deputado",
+   "id_deputado": 990017
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Fábio Teles",
+   "orgao": "CDHMIR",
+   "desde": "2024-12-20"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2024-05-21",
+   "fim": "2024-06-04"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2024-06-04",
+   "fim": null,
+   "orgaos": [
+    "CDHMIR",
+    "CFT",
+    "CCJC"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2024-05-21T17:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2154/2024 pelo(a) autor(a): Hugo Valente.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100018"
+  },
+  {
+   "data": "2024-05-22T19:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100018"
+  },
+  {
+   "data": "2024-06-04T14:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CDHMIR, CFT, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100018"
+  },
+  {
+   "data": "2024-12-20T13:00:00Z",
+   "orgao": "CDHMIR",
+   "descricao": "Designado relator(a) Dep. Fábio Teles.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100018"
+  }
+ ],
+ "votacoes": [],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

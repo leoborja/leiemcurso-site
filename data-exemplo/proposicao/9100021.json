@@ -1,0 +1,88 @@
+{
+ "id": 9100021,
+ "sigla": "PL 1740/2025",
+ "tipo": "PL",
+ "numero": 1740,
+ "ano": 2025,
+ "ementa": "Estabelece prazo máximo para a realização de exames de diagnóstico de câncer no Sistema Único de Saúde.",
+ "tema": [
+  "Saúde"
+ ],
+ "data_apresentacao": "2025-08-12",
+ "autor_principal": {
+  "nome": "Ana Ribeiro",
+  "partido": "QRS",
+  "uf": "PR",
+  "tipo": "Deputado"
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "CSAUDE",
+ "ultima_movimentacao": "2025-12-13",
+ "dias_parado": 329,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100021",
+ "autores": [
+  {
+   "nome": "Ana Ribeiro",
+   "partido": "QRS",
+   "uf": "PR",
+   "tipo": "Deputado",
+   "id_deputado": 990020
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Ana Ribeiro",
+   "orgao": "CSAUDE",
+   "desde": "2025-12-13"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-08-12",
+   "fim": "2025-09-02"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2025-09-02",
+   "fim": null,
+   "orgaos": [
+    "CSAUDE",
+    "CCJC"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-08-12T21:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1740/2025 pelo(a) autor(a): Ana Ribeiro.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100021"
+  },
+  {
+   "data": "2025-08-13T19:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100021"
+  },
+  {
+   "data": "2025-09-02T18:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CSAUDE, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100021"
+  },
+  {
+   "data": "2025-12-13T14:45:00Z",
+   "orgao": "CSAUDE",
+   "descricao": "Designado relator(a) Dep. Ana Ribeiro.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100021"
+  }
+ ],
+ "votacoes": [],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "id": 9100030,
+ "sigla": "PL 1822/2026",
+ "tipo": "PL",
+ "numero": 1822,
+ "ano": 2026,
+ "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, para tornar obrigatório o curso de direção defensiva na renovação da habilitação.",
+ "tema": [
+  "Viação, Transporte e Mobilidade"
+ ],
+ "data_apresentacao": "2026-10-29",
+ "autor_principal": {
+  "nome": "Otávio Lima",
+  "partido": "HJK",
+  "uf": "SP",
+  "tipo": "Deputado"
+ },
+ "etapa": "apresentado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-10-29",
+ "dias_parado": 9,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100030",
+ "autores": [
+  {
+   "nome": "Otávio Lima",
+   "partido": "HJK",
+   "uf": "SP",
+   "tipo": "Deputado",
+   "id_deputado": 990029
+  }
+ ],
+ "relatores": [],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-10-29",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-10-29T17:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1822/2026 pelo(a) autor(a): Otávio Lima.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100030"
+  }
+ ],
+ "votacoes": [],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

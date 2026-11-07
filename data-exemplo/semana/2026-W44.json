@@ -1,0 +1,64 @@
+{
+ "semana": "2026-W44",
+ "inicio": "2026-10-26",
+ "fim": "2026-11-01",
+ "mudaram_de_etapa": [
+  {
+   "id": 9100002,
+   "de": "retorno_origem",
+   "para": "sancao",
+   "data": "2026-10-30"
+  },
+  {
+   "id": 9100015,
+   "de": "comissoes",
+   "para": "plenario_origem",
+   "data": "2026-10-30"
+  },
+  {
+   "id": 9100039,
+   "de": "comissoes",
+   "para": "arquivado",
+   "data": "2026-10-29"
+  },
+  {
+   "id": 9100007,
+   "de": "casa_revisora",
+   "para": "sancao",
+   "data": "2026-10-28"
+  },
+  {
+   "id": 9100011,
+   "de": "casa_revisora",
+   "para": "retorno_origem",
+   "data": "2026-10-27"
+  },
+  {
+   "id": 9100025,
+   "de": "apresentado",
+   "para": "comissoes",
+   "data": "2026-10-26"
+  }
+ ],
+ "votadas": [
+  {
+   "id": 9100002,
+   "votacao_id": "9100002-5",
+   "aprovada": true
+  },
+  {
+   "id": 9100015,
+   "votacao_id": "9100015-2",
+   "aprovada": true
+  },
+  {
+   "id": 9100039,
+   "votacao_id": "9100039-2",
+   "aprovada": true
+  }
+ ],
+ "apresentadas": [
+  9100029,
+  9100030
+ ]
+}

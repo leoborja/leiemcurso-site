@@ -1,0 +1,182 @@
+{
+ "id": 9100003,
+ "sigla": "MPV 1893/2026",
+ "tipo": "MPV",
+ "numero": 1893,
+ "ano": 2026,
+ "ementa": "Institui o Programa Nacional de Renovação da Frota de Caminhões e dá outras providências.",
+ "tema": [
+  "Viação, Transporte e Mobilidade",
+  "Economia"
+ ],
+ "data_apresentacao": "2026-04-08",
+ "autor_principal": {
+  "nome": "Poder Executivo",
+  "partido": null,
+  "uf": null,
+  "tipo": "Poder Executivo"
+ },
+ "etapa": "lei",
+ "orgao_atual": null,
+ "ultima_movimentacao": "2026-10-21",
+ "dias_parado": 17,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003",
+ "autores": [
+  {
+   "nome": "Poder Executivo",
+   "partido": null,
+   "uf": null,
+   "tipo": "Poder Executivo"
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Lúcia Andrade",
+   "orgao": "CMMPV",
+   "desde": "2026-06-04"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-04-08",
+   "fim": "2026-05-20"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-05-20",
+   "fim": "2026-07-14",
+   "orgaos": [
+    "CMMPV"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2026-07-14",
+   "fim": "2026-07-20"
+  },
+  {
+   "etapa": "casa_revisora",
+   "inicio": "2026-07-20",
+   "fim": "2026-10-07"
+  },
+  {
+   "etapa": "sancao",
+   "inicio": "2026-10-07",
+   "fim": "2026-10-21"
+  },
+  {
+   "etapa": "lei",
+   "inicio": "2026-10-21",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-04-08T19:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do MPV 1893/2026 pelo(a) autor(a): Poder Executivo.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-04-09T13:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-05-20T19:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CMMPV. Proposição sujeita à apreciação do Plenário.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-06-04T17:45:00Z",
+   "orgao": "CMMPV",
+   "descricao": "Designado relator(a) Dep. Lúcia Andrade.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-07-14T19:00:00Z",
+   "orgao": "CMMPV",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-07-14T20:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-07-20T14:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa ao Senado Federal por meio de ofício.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-07-20T20:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Aprovado o projeto. Votação nominal.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-07-22T14:00:00Z",
+   "orgao": "SF",
+   "descricao": "Recebido no Senado Federal.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-10-06T13:00:00Z",
+   "orgao": "SF",
+   "descricao": "Aprovado pelo Plenário do Senado Federal.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-10-07T19:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa à sanção.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "data": "2026-10-21T19:30:00Z",
+   "orgao": "PR",
+   "descricao": "Transformado na Lei nº 15074/2026. Publicação no Diário Oficial da União.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "9100003-1",
+   "data": "2026-07-14",
+   "orgao": "CMMPV",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CMMPV.",
+   "aprovada": true,
+   "placar": {
+    "sim": 19,
+    "nao": -1,
+    "abstencao": 6
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  },
+  {
+   "id": "9100003-2",
+   "data": "2026-07-20",
+   "orgao": "PLEN",
+   "descricao": "Aprovado o projeto.",
+   "aprovada": true,
+   "placar": {
+    "sim": 353,
+    "nao": 74,
+    "abstencao": 7
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100003"
+  }
+ ],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": 170002,
+  "sigla": "MPV 4893/2026",
+  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170002"
+ }
+}

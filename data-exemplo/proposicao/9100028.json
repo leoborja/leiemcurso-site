@@ -1,0 +1,63 @@
+{
+ "id": 9100028,
+ "sigla": "PL 1648/2026",
+ "tipo": "PL",
+ "numero": 1648,
+ "ano": 2026,
+ "ementa": "Institui o programa de hortas comunitárias em terrenos públicos ociosos.",
+ "tema": [
+  "Cidades e Desenvolvimento Urbano",
+  "Agricultura, Pecuária, Pesca e Extrativismo"
+ ],
+ "data_apresentacao": "2026-10-21",
+ "autor_principal": {
+  "nome": "Tiago Moura",
+  "partido": "MNO",
+  "uf": "MA",
+  "tipo": "Deputado"
+ },
+ "etapa": "apresentado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-10-21",
+ "dias_parado": 17,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100028",
+ "autores": [
+  {
+   "nome": "Tiago Moura",
+   "partido": "MNO",
+   "uf": "MA",
+   "tipo": "Deputado",
+   "id_deputado": 990027
+  },
+  {
+   "nome": "Irene Matos",
+   "partido": "ABC",
+   "uf": "RJ",
+   "tipo": "Deputado",
+   "id_deputado": 990127
+  }
+ ],
+ "relatores": [],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-10-21",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-10-21T19:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1648/2026 pelo(a) autor(a): Tiago Moura.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100028"
+  }
+ ],
+ "votacoes": [],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

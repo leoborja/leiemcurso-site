@@ -1,0 +1,156 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "funil": {
+  "apresentado": 40,
+  "comissoes": 31,
+  "plenario_origem": 16,
+  "casa_revisora": 11,
+  "retorno_origem": 2,
+  "sancao": 7,
+  "lei": 5
+ },
+ "gaveta_top": [
+  {
+   "id": 9100027,
+   "dias_parado": 1131,
+   "orgao_atual": "MESA"
+  },
+  {
+   "id": 9100016,
+   "dias_parado": 1123,
+   "orgao_atual": "CDC"
+  },
+  {
+   "id": 9100017,
+   "dias_parado": 1089,
+   "orgao_atual": "CESPO"
+  },
+  {
+   "id": 9100014,
+   "dias_parado": 907,
+   "orgao_atual": "PLEN"
+  },
+  {
+   "id": 9100008,
+   "dias_parado": 709,
+   "orgao_atual": "SF"
+  },
+  {
+   "id": 9100019,
+   "dias_parado": 703,
+   "orgao_atual": "CTRAB"
+  },
+  {
+   "id": 9100018,
+   "dias_parado": 687,
+   "orgao_atual": "CDHMIR"
+  },
+  {
+   "id": 9100020,
+   "dias_parado": 520,
+   "orgao_atual": "CCULT"
+  },
+  {
+   "id": 9100021,
+   "dias_parado": 329,
+   "orgao_atual": "CSAUDE"
+  },
+  {
+   "id": 9100022,
+   "dias_parado": 232,
+   "orgao_atual": "CSAUDE"
+  },
+  {
+   "id": 9100010,
+   "dias_parado": 155,
+   "orgao_atual": "SF"
+  },
+  {
+   "id": 9100026,
+   "dias_parado": 26,
+   "orgao_atual": "CMMPV"
+  },
+  {
+   "id": 9100013,
+   "dias_parado": 18,
+   "orgao_atual": "PLEN"
+  },
+  {
+   "id": 9100028,
+   "dias_parado": 17,
+   "orgao_atual": "MESA"
+  },
+  {
+   "id": 9100023,
+   "dias_parado": 13,
+   "orgao_atual": "CCJC"
+  },
+  {
+   "id": 9100011,
+   "dias_parado": 11,
+   "orgao_atual": "PLEN"
+  },
+  {
+   "id": 9100007,
+   "dias_parado": 10,
+   "orgao_atual": "PR"
+  },
+  {
+   "id": 9100029,
+   "dias_parado": 10,
+   "orgao_atual": "MESA"
+  },
+  {
+   "id": 9100025,
+   "dias_parado": 9,
+   "orgao_atual": "CMADS"
+  },
+  {
+   "id": 9100030,
+   "dias_parado": 9,
+   "orgao_atual": "MESA"
+  }
+ ],
+ "tempo_mediano_por_etapa_dias": {
+  "apresentado": 93,
+  "comissoes": 211,
+  "plenario_origem": 82,
+  "casa_revisora": 64,
+  "retorno_origem": 408,
+  "sancao": 118
+ },
+ "sobrevivencia": [
+  {
+   "dias": 0,
+   "pct_ainda_ativo": 100.0
+  },
+  {
+   "dias": 30,
+   "pct_ainda_ativo": 100.0
+  },
+  {
+   "dias": 90,
+   "pct_ainda_ativo": 97.0
+  },
+  {
+   "dias": 180,
+   "pct_ainda_ativo": 90.4
+  },
+  {
+   "dias": 365,
+   "pct_ainda_ativo": 86.9
+  },
+  {
+   "dias": 545,
+   "pct_ainda_ativo": 86.9
+  },
+  {
+   "dias": 730,
+   "pct_ainda_ativo": 86.9
+  },
+  {
+   "dias": 1095,
+   "pct_ainda_ativo": 71.8
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "id": 9100038,
+ "sigla": "MPV 2043/2025",
+ "tipo": "MPV",
+ "numero": 2043,
+ "ano": 2025,
+ "ementa": "Altera regras do seguro-defeso para pescadores artesanais.",
+ "tema": [
+  "Agricultura, Pecuária, Pesca e Extrativismo",
+  "Previdência e Assistência Social"
+ ],
+ "data_apresentacao": "2025-11-19",
+ "autor_principal": {
+  "nome": "Poder Executivo",
+  "partido": null,
+  "uf": null,
+  "tipo": "Poder Executivo"
+ },
+ "etapa": "arquivado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-03-20",
+ "dias_parado": 232,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100038",
+ "autores": [
+  {
+   "nome": "Poder Executivo",
+   "partido": null,
+   "uf": null,
+   "tipo": "Poder Executivo"
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Fábio Teles",
+   "orgao": "CMMPV",
+   "desde": "2026-01-01"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-11-19",
+   "fim": "2025-12-12"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2025-12-12",
+   "fim": "2026-03-20",
+   "orgaos": [
+    "CMMPV"
+   ]
+  },
+  {
+   "etapa": "arquivado",
+   "inicio": "2026-03-20",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-11-19T13:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do MPV 2043/2025 pelo(a) autor(a): Poder Executivo.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100038"
+  },
+  {
+   "data": "2025-11-20T19:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100038"
+  },
+  {
+   "data": "2025-12-12T17:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CMMPV. Proposição sujeita à apreciação do Plenário.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100038"
+  },
+  {
+   "data": "2026-01-01T13:15:00Z",
+   "orgao": "CMMPV",
+   "descricao": "Designado relator(a) Dep. Fábio Teles.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100038"
+  },
+  {
+   "data": "2026-03-20T18:00:00Z",
+   "orgao": "CMMPV",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100038"
+  },
+  {
+   "data": "2026-03-20T20:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Perda de eficácia por decurso de prazo",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100038"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "9100038-1",
+   "data": "2026-03-20",
+   "orgao": "CMMPV",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CMMPV.",
+   "aprovada": true,
+   "placar": {
+    "sim": 16,
+    "nao": 7,
+    "abstencao": 1
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100038"
+  }
+ ],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "id": 9100035,
+ "sigla": "PL 1659/2019",
+ "tipo": "PL",
+ "numero": 1659,
+ "ano": 2019,
+ "ementa": "Dispõe sobre a obrigatoriedade de câmeras em salas de aula da educação básica.",
+ "tema": [
+  "Educação",
+  "Segurança Pública"
+ ],
+ "data_apresentacao": "2019-04-09",
+ "autor_principal": {
+  "nome": "Irene Matos",
+  "partido": "UVW",
+  "uf": "PR",
+  "tipo": "Deputado"
+ },
+ "etapa": "arquivado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2023-01-31",
+ "dias_parado": 1376,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035",
+ "autores": [
+  {
+   "nome": "Irene Matos",
+   "partido": "UVW",
+   "uf": "PR",
+   "tipo": "Deputado",
+   "id_deputado": 990034
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Joana Prado",
+   "orgao": "CE",
+   "desde": "2021-03-03"
+  },
+  {
+   "nome": "Marta Siqueira",
+   "orgao": "CCJC",
+   "desde": "2022-01-17"
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2019-04-09",
+   "fim": "2019-12-15"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2019-12-15",
+   "fim": "2023-01-31",
+   "orgaos": [
+    "CE",
+    "CCJC"
+   ]
+  },
+  {
+   "etapa": "arquivado",
+   "inicio": "2023-01-31",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2019-04-09T21:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1659/2019 pelo(a) autor(a): Irene Matos.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  },
+  {
+   "data": "2019-04-10T21:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  },
+  {
+   "data": "2019-12-15T18:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CE, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  },
+  {
+   "data": "2021-03-03T14:00:00Z",
+   "orgao": "CE",
+   "descricao": "Designado relator(a) Dep. Joana Prado.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  },
+  {
+   "data": "2021-12-04T19:15:00Z",
+   "orgao": "CE",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  },
+  {
+   "data": "2022-01-17T13:30:00Z",
+   "orgao": "CCJC",
+   "descricao": "Designado relator(a) Dep. Marta Siqueira.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  },
+  {
+   "data": "2023-01-31T13:45:00Z",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  },
+  {
+   "data": "2023-01-31T20:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Arquivado nos termos do art. 105 do Regimento Interno (fim da legislatura).",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "9100035-1",
+   "data": "2021-12-04",
+   "orgao": "CE",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CE.",
+   "aprovada": true,
+   "placar": {
+    "sim": 21,
+    "nao": 2,
+    "abstencao": 7
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  },
+  {
+   "id": "9100035-2",
+   "data": "2023-01-31",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
+   "aprovada": true,
+   "placar": {
+    "sim": 25,
+    "nao": -2,
+    "abstencao": 7
+   },
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100035"
+  }
+ ],
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ }
+}
