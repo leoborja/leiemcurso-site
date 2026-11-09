@@ -5,18 +5,21 @@
  "mudaram_de_etapa": [
   {
    "id": 9100023,
+   "sigla": "PEC 228/2026",
    "de": "apresentado",
    "para": "comissoes",
    "data": "2026-10-22"
   },
   {
    "id": 9100003,
+   "sigla": "MPV 1345/2026",
    "de": "sancao",
    "para": "lei",
    "data": "2026-10-21"
   },
   {
    "id": 9100013,
+   "sigla": "PEC 271/2025",
    "de": "comissoes",
    "para": "plenario_origem",
    "data": "2026-10-20"
@@ -25,8 +28,11 @@
  "votadas": [
   {
    "id": 9100013,
+   "sigla": "PEC 271/2025",
    "votacao_id": "9100013-2",
-   "aprovada": true
+   "aprovada": true,
+   "orgao": "ESPECIAL",
+   "data": "2026-10-20"
   }
  ],
  "apresentadas": [

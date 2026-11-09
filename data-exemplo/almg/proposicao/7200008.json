@@ -1,0 +1,51 @@
+{
+ "id": 7200008,
+ "sigla": "PL 2434/2026",
+ "tipo": "PL",
+ "numero": 2434,
+ "ano": 2026,
+ "ementa": "Institui o programa estadual de transporte escolar rural.",
+ "tema": [
+  "Educação",
+  "Viação, Transporte e Mobilidade"
+ ],
+ "data_apresentacao": "2026-11-04",
+ "autor_principal": {
+  "nome": "Heitor Campos",
+  "partido": "XYZ",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880007
+ },
+ "etapa": "apresentado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-11-04",
+ "dias_parado": 3,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200008",
+ "autores": [
+  {
+   "nome": "Heitor Campos",
+   "partido": "XYZ",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880007
+  }
+ ],
+ "relatores": [],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-11-04",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-11-04T14:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2434/2026 pelo(a) autor(a): Heitor Campos.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200008"
+  }
+ ],
+ "votacoes": []
+}

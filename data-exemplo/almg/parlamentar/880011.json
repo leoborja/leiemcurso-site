@@ -1,0 +1,113 @@
+{
+ "id": 880011,
+ "nome": "Marcos Viana",
+ "partido": "HJK",
+ "uf": "MG",
+ "foto_url": null,
+ "em_exercicio": false,
+ "n_autorias": 1,
+ "n_relatorias": 1,
+ "ultima_atividade": "2026-10-28",
+ "url_fonte": "https://www.almg.gov.br/deputados/?id=880011",
+ "nome_civil": "Marcos Viana Oliveira",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "CONSUM",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "FFO",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 7200012,
+   "sigla": "PL 2574/2025",
+   "etapa": "retirado",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 7200004,
+   "sigla": "PL 2480/2025",
+   "orgao": "FFO",
+   "desde": "2026-07-14"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "7200003-3",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-10-28",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200010-3",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200002-5",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-10",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200001-4",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200001-3",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  }
+ ],
+ "discursos": [],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

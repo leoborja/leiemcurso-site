@@ -1,0 +1,58 @@
+{
+ "casas": [
+  {
+   "id": "camara",
+   "nome": "Câmara dos Deputados",
+   "curto": "Câmara",
+   "esfera": "federal",
+   "base": "data-exemplo/",
+   "membros": 513,
+   "bicameral": true,
+   "executivo": "Presidente da República",
+   "parlamentar": "Deputado",
+   "recursos": [
+    "proposicoes",
+    "semanas",
+    "estatisticas",
+    "parlamentares",
+    "resumos"
+   ]
+  },
+  {
+   "id": "almg",
+   "nome": "Assembleia Legislativa de Minas Gerais",
+   "curto": "ALMG",
+   "esfera": "estadual",
+   "base": "data-exemplo/almg/",
+   "membros": 77,
+   "bicameral": false,
+   "executivo": "Governador",
+   "parlamentar": "Deputado Estadual",
+   "recursos": [
+    "proposicoes",
+    "semanas",
+    "estatisticas",
+    "parlamentares",
+    "resumos"
+   ]
+  },
+  {
+   "id": "cmbh",
+   "nome": "Câmara Municipal de Belo Horizonte",
+   "curto": "CMBH",
+   "esfera": "municipal",
+   "base": "data-exemplo/cmbh/",
+   "membros": 41,
+   "bicameral": false,
+   "executivo": "Prefeito",
+   "parlamentar": "Vereador",
+   "recursos": [
+    "proposicoes",
+    "semanas",
+    "estatisticas",
+    "parlamentares",
+    "resumos"
+   ]
+  }
+ ]
+}

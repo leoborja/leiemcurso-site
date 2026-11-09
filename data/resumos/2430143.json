@@ -1,0 +1,28 @@
+{
+ "id": 2430143,
+ "titulo": "Cria o Imposto e a Contribuição sobre Bens e Serviços e o Imposto Seletivo, que tributam o consumo",
+ "tldr": [
+  "Estabelece o IBS, de estados e municípios, a CBS, da União, e o Imposto Seletivo, que incidem sobre bens e serviços, com regras para cesta básica, alíquotas reduzidas, devolução de tributo (cashback) e transição.",
+  "O efeito é geral: atinge consumidores, empresas e pessoas que fornecem bens e serviços, além da União, estados, Distrito Federal e municípios.",
+  "Virou a Lei Complementar 214/2025, publicada em 16/01/2025 com vetos parciais; o Congresso rejeitou vetos e as partes antes vetadas foram promulgadas, com publicação em 02/07/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430143",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2414157",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "96476f9b15640345",
+ "hash_tramitacao": "7bab125fb565b6c0",
+ "tentativa": 1
+}

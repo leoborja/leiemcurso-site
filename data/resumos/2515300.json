@@ -1,0 +1,28 @@
+{
+ "id": 2515300,
+ "titulo": "Muda regras do setor elétrico e permite que mais consumidores escolham de quem comprar energia",
+ "tldr": [
+  "Consumidores atendidos em tensão inferior a 2,3 kV passam a poder escolher o fornecedor de energia, indústria e comércio antes dos demais; cria um fornecedor de última instância e muda a divisão de custos entre consumidores.",
+  "Consumidores de energia elétrica, distribuidoras e comercializadoras de energia e consumidores que produzem a própria energia.",
+  "Aprovada no Plenário da Câmara em 17/09/2025, por 423 votos a 36, e enviada ao Senado, virou a Lei 15.235/2025 em 08/10/2025, publicada no Diário Oficial em 09/10/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515300",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2931807",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "20df0c7d303e2bf2",
+ "hash_tramitacao": "23f97a3840d3b475",
+ "tentativa": 1
+}

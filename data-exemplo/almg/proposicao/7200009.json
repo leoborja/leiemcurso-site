@@ -1,0 +1,148 @@
+{
+ "id": 7200009,
+ "sigla": "PL 2495/2026",
+ "tipo": "PL",
+ "numero": 2495,
+ "ano": 2026,
+ "ementa": "Dispõe sobre a transparência das filas de cirurgias eletivas no sistema estadual de saúde.",
+ "tema": [
+  "Saúde"
+ ],
+ "data_apresentacao": "2026-02-10",
+ "autor_principal": {
+  "nome": "Ivone Guimarães",
+  "partido": "QRS",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880008
+ },
+ "etapa": "plenario_origem",
+ "orgao_atual": "PLEN",
+ "ultima_movimentacao": "2026-09-15",
+ "dias_parado": 53,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200009",
+ "autores": [
+  {
+   "nome": "Ivone Guimarães",
+   "partido": "QRS",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880008
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Alice Fontoura",
+   "orgao": "SAUDE",
+   "desde": "2026-09-15",
+   "id_parlamentar": 880000
+  },
+  {
+   "nome": "Célia Drummond",
+   "orgao": "CCJ",
+   "desde": "2026-09-15",
+   "id_parlamentar": 880002
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-02-10",
+   "fim": "2026-09-14"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-09-14",
+   "fim": "2026-09-15",
+   "orgaos": [
+    "SAUDE",
+    "CCJ"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2026-09-15",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-02-10T14:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2495/2026 pelo(a) autor(a): Ivone Guimarães.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  },
+  {
+   "data": "2026-02-11T18:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  },
+  {
+   "data": "2026-09-14T20:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: SAUDE, CCJ.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  },
+  {
+   "data": "2026-09-15T18:45:00Z",
+   "orgao": "SAUDE",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  },
+  {
+   "data": "2026-09-15T19:00:00Z",
+   "orgao": "SAUDE",
+   "descricao": "Designado relator(a) Dep. Alice Fontoura.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  },
+  {
+   "data": "2026-09-15T19:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  },
+  {
+   "data": "2026-09-15T20:15:00Z",
+   "orgao": "CCJ",
+   "descricao": "Designado relator(a) Dep. Célia Drummond.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  },
+  {
+   "data": "2026-09-15T20:15:00Z",
+   "orgao": "CCJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "7200009-1",
+   "data": "2026-09-15",
+   "orgao": "SAUDE",
+   "descricao": "Aprovado o parecer do(a) relator(a) na SAUDE.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 1,
+    "abstencao": 1
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  },
+  {
+   "id": "7200009-2",
+   "data": "2026-09-15",
+   "orgao": "CCJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 4,
+    "abstencao": 0
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  }
+ ]
+}

@@ -1,8 +1,8 @@
 {
  "id": 9100016,
- "sigla": "PL 1735/2023",
+ "sigla": "PL 1595/2023",
  "tipo": "PL",
- "numero": 1735,
+ "numero": 1595,
  "ano": 2023,
  "ementa": "Proíbe a cobrança de taxa de religação de energia elétrica em período de calamidade pública.",
  "tema": [
@@ -13,34 +13,42 @@
   "nome": "Davi Cordeiro",
   "partido": "MNO",
   "uf": "SP",
-  "tipo": "Deputado"
+  "tipo": "Deputado",
+  "id_parlamentar": 990015
  },
  "etapa": "comissoes",
  "orgao_atual": "CDC",
- "ultima_movimentacao": "2023-10-11",
- "dias_parado": 1123,
+ "ultima_movimentacao": "2023-08-22",
+ "dias_parado": 1173,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Davi Cordeiro",
    "partido": "MNO",
    "uf": "SP",
    "tipo": "Deputado",
-   "id_deputado": 990015
+   "id_parlamentar": 990015
   },
   {
    "nome": "Joana Prado",
-   "partido": "ABC",
-   "uf": "PE",
+   "partido": "QRS",
+   "uf": "RJ",
    "tipo": "Deputado",
-   "id_deputado": 990115
+   "id_parlamentar": 990002
   }
  ],
  "relatores": [
   {
    "nome": "Paulo Freitas",
    "orgao": "CDC",
-   "desde": "2023-10-11"
+   "desde": "2023-08-22",
+   "id_parlamentar": 990005
   }
  ],
  "etapas": [
@@ -61,35 +69,29 @@
  ],
  "tramitacoes": [
   {
-   "data": "2023-02-07T13:30:00Z",
+   "data": "2023-02-07T17:00:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1735/2023 pelo(a) autor(a): Davi Cordeiro.",
+   "descricao": "Apresentação do PL 1595/2023 pelo(a) autor(a): Davi Cordeiro.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016"
   },
   {
-   "data": "2023-02-08T19:15:00Z",
+   "data": "2023-02-08T14:30:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016"
   },
   {
-   "data": "2023-03-01T21:00:00Z",
+   "data": "2023-03-01T18:15:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CDC, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CDC, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016"
   },
   {
-   "data": "2023-10-11T17:15:00Z",
+   "data": "2023-08-22T18:45:00Z",
    "orgao": "CDC",
    "descricao": "Designado relator(a) Dep. Paulo Freitas.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100016"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

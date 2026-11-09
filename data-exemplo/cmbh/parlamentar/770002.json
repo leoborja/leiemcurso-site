@@ -1,0 +1,170 @@
+{
+ "id": 770002,
+ "nome": "Cecília Mourão",
+ "partido": "QRS",
+ "uf": "MG",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 1,
+ "n_relatorias": 3,
+ "ultima_atividade": "2026-11-03",
+ "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770002",
+ "nome_civil": "Cecília Mourão de Souza",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "ORCFIN",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "POLURB",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 5300003,
+   "sigla": "PL 1013/2026",
+   "etapa": "lei",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 5300001,
+   "sigla": "PL 679/2025",
+   "orgao": "ORCFIN",
+   "desde": "2025-09-06"
+  },
+  {
+   "proposicao_id": 5300005,
+   "sigla": "PL 817/2025",
+   "orgao": "POLURB",
+   "desde": "2026-04-25"
+  },
+  {
+   "proposicao_id": 5300011,
+   "sigla": "PL 848/2025",
+   "orgao": "ORCFIN",
+   "desde": "2026-02-04"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "5300008-3",
+   "proposicao_id": 5300008,
+   "sigla": "PL 1105/2026",
+   "data": "2026-11-03",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "5300008-2",
+   "proposicao_id": 5300008,
+   "sigla": "PL 1105/2026",
+   "data": "2026-10-28",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "5300007-4",
+   "proposicao_id": 5300007,
+   "sigla": "PL 939/2022",
+   "data": "2026-10-22",
+   "descricao": "Votação em 2º turno. Rejeitado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "5300007-3",
+   "proposicao_id": 5300007,
+   "sigla": "PL 939/2022",
+   "data": "2026-10-16",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "5300003-3",
+   "proposicao_id": 5300003,
+   "sigla": "PL 1013/2026",
+   "data": "2026-10-04",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Abstenção",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "5300003-2",
+   "proposicao_id": 5300003,
+   "sigla": "PL 1013/2026",
+   "data": "2026-09-28",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "5300001-5",
+   "proposicao_id": 5300001,
+   "sigla": "PL 679/2025",
+   "data": "2026-04-28",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "5300001-4",
+   "proposicao_id": 5300001,
+   "sigla": "PL 679/2025",
+   "data": "2026-04-22",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "5300009-4",
+   "proposicao_id": 5300009,
+   "sigla": "PL 823/2025",
+   "data": "2025-09-27",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "5300009-3",
+   "proposicao_id": 5300009,
+   "sigla": "PL 823/2025",
+   "data": "2025-09-21",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  }
+ ],
+ "discursos": [],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "semanas": [
+  {
+   "semana": "2026-W45",
+   "inicio": "2026-11-02",
+   "fim": "2026-11-08",
+   "mudaram_de_etapa": 2,
+   "votadas": 2,
+   "apresentadas": 1
+  },
+  {
+   "semana": "2026-W44",
+   "inicio": "2026-10-26",
+   "fim": "2026-11-01",
+   "mudaram_de_etapa": 1,
+   "votadas": 1,
+   "apresentadas": 0
+  },
+  {
+   "semana": "2026-W43",
+   "inicio": "2026-10-19",
+   "fim": "2026-10-25",
+   "mudaram_de_etapa": 1,
+   "votadas": 1,
+   "apresentadas": 1
+  }
+ ]
+}

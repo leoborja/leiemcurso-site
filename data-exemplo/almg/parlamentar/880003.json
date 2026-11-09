@@ -1,0 +1,164 @@
+{
+ "id": 880003,
+ "nome": "Diego Rezende",
+ "partido": "MNO",
+ "uf": "MG",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 1,
+ "n_relatorias": 3,
+ "ultima_atividade": "2026-11-03",
+ "url_fonte": "https://www.almg.gov.br/deputados/?id=880003",
+ "nome_civil": "Diego Rezende da Silva",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "AGROPEC",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "CCJ",
+   "nome": null,
+   "papel": "Suplente"
+  },
+  {
+   "sigla": "DIRHUM",
+   "nome": null,
+   "papel": "Suplente"
+  },
+  {
+   "sigla": "MEIOAMB",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 7200004,
+   "sigla": "PL 2480/2025",
+   "etapa": "plenario_origem",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "orgao": "DIRHUM",
+   "desde": "2025-08-04"
+  },
+  {
+   "proposicao_id": 7200006,
+   "sigla": "PEC 123/2024",
+   "orgao": "CCJ",
+   "desde": "2024-10-28"
+  },
+  {
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "orgao": "MEIOAMB",
+   "desde": "2026-06-22"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "7200003-4",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-11-03",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200003-3",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-10-28",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200010-4",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200010-3",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200002-4",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-04",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200001-4",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200001-3",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  }
+ ],
+ "discursos": [
+  {
+   "data": "2026-10-22",
+   "sumario": "Encaminhamento de votação em Plenário.",
+   "url": "https://www.almg.gov.br/deputados/?id=880003"
+  },
+  {
+   "data": "2026-09-15",
+   "sumario": "Pronunciamento sobre a tramitação de proposições na área de educação.",
+   "url": "https://www.almg.gov.br/deputados/?id=880003"
+  }
+ ],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 1
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

@@ -1,8 +1,8 @@
 {
  "id": 9100024,
- "sigla": "PL 1509/2026",
+ "sigla": "PL 1249/2026",
  "tipo": "PL",
- "numero": 1509,
+ "numero": 1249,
  "ano": 2026,
  "ementa": "Regulamenta a atividade de entregador por aplicativo e dispõe sobre seguro contra acidentes.",
  "tema": [
@@ -12,29 +12,43 @@
  "data_apresentacao": "2026-06-16",
  "autor_principal": {
   "nome": "Rui Albuquerque",
-  "partido": "HJK",
-  "uf": "GO",
-  "tipo": "Deputado"
+  "partido": "MNO",
+  "uf": "BA",
+  "tipo": "Deputado",
+  "id_parlamentar": 990003
  },
  "etapa": "comissoes",
- "orgao_atual": "CTRAB",
- "ultima_movimentacao": "2026-11-06",
- "dias_parado": 1,
+ "orgao_atual": "CFT",
+ "ultima_movimentacao": "2026-11-07",
+ "dias_parado": 0,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100024",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Rui Albuquerque",
-   "partido": "HJK",
-   "uf": "GO",
+   "partido": "MNO",
+   "uf": "BA",
    "tipo": "Deputado",
-   "id_deputado": 990023
+   "id_parlamentar": 990003
   }
  ],
  "relatores": [
   {
    "nome": "Otávio Lima",
    "orgao": "CTRAB",
-   "desde": "2026-11-05"
+   "desde": "2026-11-05",
+   "id_parlamentar": 990009
+  },
+  {
+   "nome": "Fábio Teles",
+   "orgao": "CFT",
+   "desde": "2026-11-07",
+   "id_parlamentar": 990011
   }
  ],
  "etapas": [
@@ -49,47 +63,48 @@
    "fim": null,
    "orgaos": [
     "CTRAB",
+    "CFT",
     "CCJC"
    ]
   }
  ],
  "tramitacoes": [
   {
-   "data": "2026-06-16T13:30:00Z",
+   "data": "2026-06-16T20:15:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1509/2026 pelo(a) autor(a): Rui Albuquerque.",
+   "descricao": "Apresentação do PL 1249/2026 pelo(a) autor(a): Rui Albuquerque.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100024"
   },
   {
-   "data": "2026-06-17T18:15:00Z",
+   "data": "2026-06-17T19:45:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100024"
   },
   {
-   "data": "2026-11-04T13:00:00Z",
+   "data": "2026-11-04T17:30:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CTRAB, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CTRAB, CFT, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100024"
   },
   {
-   "data": "2026-11-05T21:15:00Z",
+   "data": "2026-11-05T13:45:00Z",
    "orgao": "CTRAB",
    "descricao": "Designado relator(a) Dep. Otávio Lima.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100024"
   },
   {
-   "data": "2026-11-06T18:45:00Z",
+   "data": "2026-11-06T20:15:00Z",
    "orgao": "CTRAB",
    "descricao": "Apresentação do parecer do(a) relator(a). Aguardando inclusão em pauta.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100024"
+  },
+  {
+   "data": "2026-11-07T17:15:00Z",
+   "orgao": "CFT",
+   "descricao": "Designado relator(a) Dep. Fábio Teles.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100024"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

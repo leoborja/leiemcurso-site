@@ -1,0 +1,25 @@
+{
+ "semana": "2026-W44",
+ "inicio": "2026-10-26",
+ "fim": "2026-11-01",
+ "mudaram_de_etapa": [
+  {
+   "id": 5300003,
+   "sigla": "PL 1013/2026",
+   "de": "sancao",
+   "para": "lei",
+   "data": "2026-10-29"
+  }
+ ],
+ "votadas": [
+  {
+   "id": 5300008,
+   "sigla": "PL 1105/2026",
+   "votacao_id": "5300008-2",
+   "aprovada": true,
+   "orgao": "PLEN",
+   "data": "2026-10-28"
+  }
+ ],
+ "apresentadas": []
+}

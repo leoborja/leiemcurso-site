@@ -1,0 +1,28 @@
+{
+ "id": 2362846,
+ "titulo": "Inscreve o nome de Maria Ortiz no Livro dos Heróis e Heroínas da Pátria",
+ "tldr": [
+  "O nome de Maria Ortiz passa a constar do Livro dos Heróis e Heroínas da Pátria, guardado no Panteão da Pátria e da Liberdade Tancredo Neves, em Brasília.",
+  "O texto não especifica quem é atingido",
+  "Aprovada nas comissões da Câmara, com redação final aprovada em 26/03/2025, foi enviada ao Senado em 08/05/2025, onde aguarda análise."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362846",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2273980",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c50c90f449b2bfb7",
+ "hash_tramitacao": "fb7cada98ae8e198",
+ "tentativa": 1
+}

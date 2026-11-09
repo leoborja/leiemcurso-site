@@ -1,0 +1,28 @@
+{
+ "id": 2621320,
+ "titulo": "Reduz tributos de hospitais privados não filantrópicos que atendem ao SUS e eleva cobrança sobre apostas",
+ "tldr": [
+  "Hospitais privados não filantrópicos com no mínimo 60% de atendimento ao SUS teriam redução de 80% do IBS e da CBS nos serviços de saúde; a parcela do governo sobre apostas de quota fixa iria de 12% para 20%.",
+  "Hospitais privados não filantrópicos com contrato ou convênio com o SUS e o setor de apostas de quota fixa.",
+  "Foi retirada de tramitação a pedido do autor em 07/07/2026; o pedido, apresentado em 05/05/2026, citava erro material na redação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621320",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3123114",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4de9ed8f01d114cb",
+ "hash_tramitacao": "2d8c026a6b105b3a",
+ "tentativa": 1
+}

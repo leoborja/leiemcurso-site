@@ -1,0 +1,28 @@
+{
+ "id": 2624699,
+ "titulo": "Fixa em 9% a contribuição sobre o lucro das resseguradoras locais e afasta limite para compensar prejuízos",
+ "tldr": [
+  "Resseguradoras locais (empresas que fazem seguro de seguradoras) passam a pagar 9% de Contribuição Social sobre o Lucro Líquido; prejuízos de resseguro não usados em 3 anos podem ser compensados sem o limite de redução do lucro.",
+  "Sociedades resseguradoras locais e empresas com resultado de atividades de resseguro e retrocessão.",
+  "O Plenário da Câmara aprovou urgência em 20/05/2026 e, em 07/07/2026, o texto foi renumerado como projeto de lei. O registro da Câmara aponta que aguarda sanção desde 08/07/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624699",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3129313",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8848c23b2f23da96",
+ "hash_tramitacao": "ded96b2e51bcb4ce",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2647407,
+ "titulo": "Obriga operadoras a autenticar chamadas, bloquear ligações abusivas e identificar empresas que ligam",
+ "tldr": [
+  "Operadoras devem bloquear chamadas não autenticadas e, por quinze dias, linhas com mais de mil ligações no dia e 85% ou mais de chamadas curtas; ligações de empresas passam a mostrar nome e logotipo.",
+  "Operadoras de telefonia, empresas que fazem chamadas e usuários de telefone em geral.",
+  "Publicada em 13/10/2026, está em análise no Congresso; em 19/10/2026 foi comunicada a criação da comissão mista que vai examiná-la."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647407",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183445",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "de379bab108c04b8",
+ "hash_tramitacao": "40cf33aa2536ff52",
+ "tentativa": 1
+}

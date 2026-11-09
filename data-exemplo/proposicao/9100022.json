@@ -1,8 +1,8 @@
 {
  "id": 9100022,
- "sigla": "PL 1394/2026",
+ "sigla": "PL 1201/2026",
  "tipo": "PL",
- "numero": 1394,
+ "numero": 1201,
  "ano": 2026,
  "ementa": "Dispõe sobre a rotulagem de alimentos ultraprocessados com advertência frontal.",
  "tema": [
@@ -12,36 +12,44 @@
  "data_apresentacao": "2026-02-24",
  "autor_principal": {
   "nome": "Carlos Menezes",
-  "partido": "MNO",
-  "uf": "CE",
-  "tipo": "Deputado"
+  "partido": "XYZ",
+  "uf": "SP",
+  "tipo": "Deputado",
+  "id_parlamentar": 990001
  },
  "etapa": "comissoes",
  "orgao_atual": "CSAUDE",
- "ultima_movimentacao": "2026-03-20",
- "dias_parado": 232,
+ "ultima_movimentacao": "2026-04-08",
+ "dias_parado": 213,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100022",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Carlos Menezes",
-   "partido": "MNO",
-   "uf": "CE",
+   "partido": "XYZ",
+   "uf": "SP",
    "tipo": "Deputado",
-   "id_deputado": 990021
+   "id_parlamentar": 990001
   },
   {
    "nome": "Helena Castro",
-   "partido": "ABC",
-   "uf": "AM",
+   "partido": "QRS",
+   "uf": "PA",
    "tipo": "Deputado",
-   "id_deputado": 990121
+   "id_parlamentar": 990008
   }
  ],
  "relatores": [
   {
    "nome": "Rui Albuquerque",
    "orgao": "CSAUDE",
-   "desde": "2026-03-20"
+   "desde": "2026-04-08",
+   "id_parlamentar": 990003
   }
  ],
  "etapas": [
@@ -56,42 +64,35 @@
    "fim": null,
    "orgaos": [
     "CSAUDE",
-    "CFT",
     "CCJC"
    ]
   }
  ],
  "tramitacoes": [
   {
-   "data": "2026-02-24T18:15:00Z",
+   "data": "2026-02-24T19:45:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1394/2026 pelo(a) autor(a): Carlos Menezes.",
+   "descricao": "Apresentação do PL 1201/2026 pelo(a) autor(a): Carlos Menezes.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100022"
   },
   {
-   "data": "2026-02-25T17:15:00Z",
+   "data": "2026-02-25T13:15:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100022"
   },
   {
-   "data": "2026-03-17T21:45:00Z",
+   "data": "2026-03-17T14:15:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CSAUDE, CFT, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CSAUDE, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100022"
   },
   {
-   "data": "2026-03-20T18:00:00Z",
+   "data": "2026-04-08T17:15:00Z",
    "orgao": "CSAUDE",
    "descricao": "Designado relator(a) Dep. Rui Albuquerque.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100022"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

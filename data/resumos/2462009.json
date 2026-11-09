@@ -1,0 +1,28 @@
+{
+ "id": 2462009,
+ "titulo": "Inclui a violência vicária entre as formas de violência doméstica e familiar contra a mulher",
+ "tldr": [
+  "A Lei Maria da Penha passou a tratar como violência contra a mulher a agressão praticada contra filho, dependente, parente ou pessoa da rede de apoio dela com o objetivo de atingi-la.",
+  "Mulheres em situação de violência doméstica e familiar e seus filhos, dependentes, parentes e pessoas da rede de apoio.",
+  "Virou a Lei Ordinária 15384/2026 em 09/04/2026, publicada no Diário Oficial da União em 10/04/2026. Foi aprovada pelo Plenário da Câmara em 18/03/2026 e enviada à sanção pelo Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2462009",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2484097",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "53080ad1c0914667",
+ "hash_tramitacao": "e9626bfeb62dc988",
+ "tentativa": 1
+}

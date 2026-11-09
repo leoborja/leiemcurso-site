@@ -1,0 +1,201 @@
+{
+ "id": 7200003,
+ "sigla": "PL 2430/2025",
+ "tipo": "PL",
+ "numero": 2430,
+ "ano": 2025,
+ "ementa": "Cria o selo estadual de qualidade do queijo artesanal produzido em Minas Gerais.",
+ "tema": [
+  "Agricultura, Pecuária, Pesca e Extrativismo"
+ ],
+ "data_apresentacao": "2025-05-06",
+ "autor_principal": {
+  "nome": "Célia Drummond",
+  "partido": "QRS",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880002
+ },
+ "etapa": "sancao",
+ "orgao_atual": "GOV",
+ "ultima_movimentacao": "2026-11-03",
+ "dias_parado": 4,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200003",
+ "autores": [
+  {
+   "nome": "Célia Drummond",
+   "partido": "QRS",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880002
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Gisele Amaral",
+   "orgao": "AGROPEC",
+   "desde": "2026-01-22",
+   "id_parlamentar": 880006
+  },
+  {
+   "nome": "Ivone Guimarães",
+   "orgao": "CCJ",
+   "desde": "2026-02-06",
+   "id_parlamentar": 880008
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-05-06",
+   "fim": "2026-01-21"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-01-21",
+   "fim": "2026-03-21",
+   "orgaos": [
+    "AGROPEC",
+    "CCJ"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2026-03-21",
+   "fim": "2026-11-03"
+  },
+  {
+   "etapa": "sancao",
+   "inicio": "2026-11-03",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-05-06T14:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2430/2025 pelo(a) autor(a): Célia Drummond.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2025-05-07T17:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2026-01-21T18:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: AGROPEC, CCJ.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2026-01-22T14:15:00Z",
+   "orgao": "AGROPEC",
+   "descricao": "Designado relator(a) Dep. Gisele Amaral.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2026-02-05T14:00:00Z",
+   "orgao": "AGROPEC",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2026-02-06T19:00:00Z",
+   "orgao": "CCJ",
+   "descricao": "Designado relator(a) Dep. Ivone Guimarães.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2026-03-21T14:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2026-03-21T20:30:00Z",
+   "orgao": "CCJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2026-10-28T21:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2026-11-03T14:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa à sanção do Governador.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "data": "2026-11-03T18:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "7200003-1",
+   "data": "2026-02-05",
+   "orgao": "AGROPEC",
+   "descricao": "Aprovado o parecer do(a) relator(a) na AGROPEC.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 1,
+    "abstencao": 1
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "id": "7200003-2",
+   "data": "2026-03-21",
+   "orgao": "CCJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 4,
+    "abstencao": 0
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "id": "7200003-3",
+   "data": "2026-10-28",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 48,
+    "nao": 17,
+    "abstencao": 1
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003",
+   "turno": 1
+  },
+  {
+   "id": "7200003-4",
+   "data": "2026-11-03",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 41,
+    "nao": 24,
+    "abstencao": 0
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200003",
+   "turno": 2
+  }
+ ]
+}

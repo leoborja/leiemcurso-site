@@ -1,0 +1,91 @@
+{
+ "id": 7200005,
+ "sigla": "PLC 174/2025",
+ "tipo": "PLC",
+ "numero": 174,
+ "ano": 2025,
+ "ementa": "Altera a lei complementar que organiza a carreira dos profissionais da educação básica do Estado.",
+ "tema": [
+  "Administração Pública",
+  "Educação"
+ ],
+ "data_apresentacao": "2025-10-07",
+ "autor_principal": {
+  "nome": "Elisa Vasconcelos",
+  "partido": "UVW",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880004
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "ADMPUB",
+ "ultima_movimentacao": "2026-10-29",
+ "dias_parado": 9,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200005",
+ "autores": [
+  {
+   "nome": "Elisa Vasconcelos",
+   "partido": "UVW",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880004
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Alice Fontoura",
+   "orgao": "ADMPUB",
+   "desde": "2026-10-28",
+   "id_parlamentar": 880000
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-10-07",
+   "fim": "2026-10-21"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-10-21",
+   "fim": null,
+   "orgaos": [
+    "ADMPUB",
+    "CCJ"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-10-07T14:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PLC 174/2025 pelo(a) autor(a): Elisa Vasconcelos.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200005"
+  },
+  {
+   "data": "2025-10-08T18:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200005"
+  },
+  {
+   "data": "2026-10-21T13:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: ADMPUB, CCJ.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200005"
+  },
+  {
+   "data": "2026-10-28T20:00:00Z",
+   "orgao": "ADMPUB",
+   "descricao": "Designado relator(a) Dep. Alice Fontoura.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200005"
+  },
+  {
+   "data": "2026-10-29T14:00:00Z",
+   "orgao": "ADMPUB",
+   "descricao": "Apresentação do parecer do(a) relator(a). Aguardando inclusão em pauta.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200005"
+  }
+ ],
+ "votacoes": []
+}

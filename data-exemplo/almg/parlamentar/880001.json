@@ -1,0 +1,140 @@
+{
+ "id": 880001,
+ "nome": "Bruno Tavares",
+ "partido": "XYZ",
+ "uf": "MG",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 3,
+ "n_relatorias": 1,
+ "ultima_atividade": "2026-11-04",
+ "url_fonte": "https://www.almg.gov.br/deputados/?id=880001",
+ "nome_civil": "Bruno Tavares de Souza",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "CCJ",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "EDUC",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "etapa": "lei",
+   "proponente": true
+  },
+  {
+   "proposicao_id": 7200007,
+   "sigla": "PL 2361/2023",
+   "etapa": "comissoes",
+   "proponente": false
+  },
+  {
+   "proposicao_id": 7200014,
+   "sigla": "PL 2607/2026",
+   "etapa": "apresentado",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 7200004,
+   "sigla": "PL 2480/2025",
+   "orgao": "CCJ",
+   "desde": "2026-08-22"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "7200003-3",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-10-28",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200010-4",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200010-3",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200002-5",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-10",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200002-4",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-04",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200001-3",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  }
+ ],
+ "discursos": [
+  {
+   "data": "2026-07-17",
+   "sumario": "Comunicação sobre audiência pública realizada na comissão.",
+   "url": "https://www.almg.gov.br/deputados/?id=880001"
+  }
+ ],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 1,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

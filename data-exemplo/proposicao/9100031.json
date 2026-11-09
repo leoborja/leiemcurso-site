@@ -1,8 +1,8 @@
 {
  "id": 9100031,
- "sigla": "PL 1834/2026",
+ "sigla": "PL 1532/2026",
  "tipo": "PL",
- "numero": 1834,
+ "numero": 1532,
  "ano": 2026,
  "ementa": "Estabelece diretrizes para o uso de inteligência artificial no atendimento ao cidadão em órgãos públicos.",
  "tema": [
@@ -12,29 +12,36 @@
  "data_apresentacao": "2026-11-03",
  "autor_principal": {
   "nome": "Sônia Barros",
-  "partido": "ABC",
-  "uf": "RJ",
-  "tipo": "Deputado"
+  "partido": "UVW",
+  "uf": "AM",
+  "tipo": "Deputado",
+  "id_parlamentar": 990010
  },
  "etapa": "apresentado",
  "orgao_atual": "MESA",
  "ultima_movimentacao": "2026-11-03",
  "dias_parado": 4,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100031",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Sônia Barros",
-   "partido": "ABC",
-   "uf": "RJ",
+   "partido": "UVW",
+   "uf": "AM",
    "tipo": "Deputado",
-   "id_deputado": 990030
+   "id_parlamentar": 990010
   },
   {
    "nome": "Hugo Valente",
-   "partido": "MNO",
-   "uf": "RS",
+   "partido": "HJK",
+   "uf": "BA",
    "tipo": "Deputado",
-   "id_deputado": 990130
+   "id_parlamentar": 990017
   }
  ],
  "relatores": [],
@@ -47,17 +54,11 @@
  ],
  "tramitacoes": [
   {
-   "data": "2026-11-03T21:15:00Z",
+   "data": "2026-11-03T13:00:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1834/2026 pelo(a) autor(a): Sônia Barros.",
+   "descricao": "Apresentação do PL 1532/2026 pelo(a) autor(a): Sônia Barros.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100031"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

@@ -1,0 +1,28 @@
+{
+ "id": 2529428,
+ "titulo": "Inclui representante dos servidores nos conselhos das Defensorias Públicas dos estados e do Distrito Federal",
+ "tldr": [
+  "O presidente da entidade de classe mais representativa dos servidores de cada Defensoria Pública estadual e do Distrito Federal passa a participar das reuniões do Conselho Superior, com direito a falar, em caráter consultivo.",
+  "Servidores das Defensorias Públicas dos estados e do Distrito Federal, suas entidades de classe e os Conselhos Superiores dessas instituições.",
+  "Apresentado em 30/06/2025, aguarda despacho do Presidente da Câmara dos Deputados e ainda não foi enviado às comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2529428",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2945007",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "340f2d483128c470",
+ "hash_tramitacao": "337b53004d0a3b13",
+ "tentativa": 1
+}

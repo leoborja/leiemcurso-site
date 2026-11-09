@@ -1,0 +1,208 @@
+{
+ "id": 5300007,
+ "sigla": "PL 939/2022",
+ "tipo": "PL",
+ "numero": 939,
+ "ano": 2022,
+ "ementa": "Dispõe sobre o horário de funcionamento de bares em áreas predominantemente residenciais.",
+ "tema": [
+  "Cidades e Desenvolvimento Urbano"
+ ],
+ "data_apresentacao": "2022-04-12",
+ "autor_principal": {
+  "nome": "Graça Ventura",
+  "partido": "ABC",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770006
+ },
+ "etapa": "arquivado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-10-22",
+ "dias_parado": 16,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007",
+ "autores": [
+  {
+   "nome": "Graça Ventura",
+   "partido": "ABC",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770006
+  },
+  {
+   "nome": "Daniel Arruda",
+   "partido": "MNO",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770003
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Isadora Neves",
+   "orgao": "POLURB",
+   "desde": "2023-02-13",
+   "id_parlamentar": 770008
+  },
+  {
+   "nome": "Aline Barcelos",
+   "orgao": "CLJ",
+   "desde": "2024-11-24",
+   "id_parlamentar": 770000
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2022-04-12",
+   "fim": "2022-10-10"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2022-10-10",
+   "fim": "2025-04-29",
+   "orgaos": [
+    "POLURB",
+    "CLJ"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2025-04-29",
+   "fim": "2026-10-22"
+  },
+  {
+   "etapa": "arquivado",
+   "inicio": "2026-10-22",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2022-04-12T17:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 939/2022 pelo(a) autor(a): Graça Ventura.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2022-04-13T13:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2022-10-10T17:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: POLURB, CLJ.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2023-02-13T17:45:00Z",
+   "orgao": "POLURB",
+   "descricao": "Designado relator(a) Ver. Isadora Neves.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2023-12-12T19:30:00Z",
+   "orgao": "POLURB",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2024-11-24T17:30:00Z",
+   "orgao": "CLJ",
+   "descricao": "Designado relator(a) Ver. Aline Barcelos.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2025-04-29T20:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2025-04-29T20:45:00Z",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2026-10-16T18:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2026-10-22T17:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Rejeitado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "data": "2026-10-22T20:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Arquivado após rejeição em Plenário.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "5300007-1",
+   "data": "2023-12-12",
+   "orgao": "POLURB",
+   "descricao": "Aprovado o parecer do(a) relator(a) na POLURB.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 3,
+    "nao": 2,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "id": "5300007-2",
+   "data": "2025-04-29",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CLJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 2,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "id": "5300007-3",
+   "data": "2026-10-16",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 22,
+    "nao": 16,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007",
+   "turno": 1
+  },
+  {
+   "id": "5300007-4",
+   "data": "2026-10-22",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Rejeitado o projeto.",
+   "aprovada": false,
+   "nominal": true,
+   "placar": {
+    "sim": 9,
+    "nao": 26,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007",
+   "turno": 2
+  }
+ ]
+}

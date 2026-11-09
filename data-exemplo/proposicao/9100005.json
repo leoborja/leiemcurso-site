@@ -1,8 +1,8 @@
 {
  "id": 9100005,
- "sigla": "PEC 165/2023",
+ "sigla": "PEC 295/2023",
  "tipo": "PEC",
- "numero": 165,
+ "numero": 295,
  "ano": 2023,
  "ementa": "Altera o art. 6º da Constituição Federal para incluir a mobilidade urbana entre os direitos sociais.",
  "tema": [
@@ -11,35 +11,44 @@
  ],
  "data_apresentacao": "2023-09-12",
  "autor_principal": {
-  "nome": "Edson Paiva",
-  "partido": "ABC",
-  "uf": "GO",
-  "tipo": "Senador"
+  "nome": "Marta Siqueira",
+  "partido": "UVW",
+  "uf": "PE",
+  "tipo": "Deputado",
+  "id_parlamentar": 990004
  },
  "etapa": "lei",
  "orgao_atual": null,
  "ultima_movimentacao": "2025-12-16",
  "dias_parado": 326,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": 170004,
+  "sigla": "PEC 3295/2025",
+  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170004"
+ },
  "autores": [
   {
-   "nome": "Edson Paiva",
-   "partido": "ABC",
-   "uf": "GO",
-   "tipo": "Senador",
-   "id_deputado": null
+   "nome": "Marta Siqueira",
+   "partido": "UVW",
+   "uf": "PE",
+   "tipo": "Deputado",
+   "id_parlamentar": 990004
   }
  ],
  "relatores": [
   {
    "nome": "Renata Quintela",
    "orgao": "CCJC",
-   "desde": "2023-11-08"
+   "desde": "2023-11-08",
+   "id_parlamentar": 990012
   },
   {
    "nome": "Irene Matos",
-   "orgao": "CESP",
-   "desde": "2024-05-04"
+   "orgao": "ESPECIAL",
+   "desde": "2024-05-04",
+   "id_parlamentar": 990014
   }
  ],
  "etapas": [
@@ -54,17 +63,17 @@
    "fim": "2024-11-07",
    "orgaos": [
     "CCJC",
-    "CESP"
+    "ESPECIAL"
    ]
   },
   {
    "etapa": "plenario_origem",
    "inicio": "2024-11-07",
-   "fim": "2025-01-25"
+   "fim": "2025-04-01"
   },
   {
    "etapa": "casa_revisora",
-   "inicio": "2025-01-25",
+   "inicio": "2025-04-01",
    "fim": "2025-06-02"
   },
   {
@@ -80,154 +89,154 @@
  ],
  "tramitacoes": [
   {
-   "data": "2023-09-12T19:30:00Z",
+   "data": "2023-09-12T17:30:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PEC 165/2023 pelo(a) autor(a): Edson Paiva.",
+   "descricao": "Apresentação do PEC 295/2023 pelo(a) autor(a): Marta Siqueira.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2023-09-13T17:45:00Z",
+   "data": "2023-09-13T18:30:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2023-11-01T20:30:00Z",
+   "data": "2023-11-01T17:30:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CCJC, CESP. Proposição sujeita à apreciação do Plenário.",
+   "descricao": "Despacho às comissões: CCJC, ESPECIAL.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2023-11-08T14:45:00Z",
+   "data": "2023-11-08T18:30:00Z",
    "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Renata Quintela.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2024-03-20T21:15:00Z",
+   "data": "2024-01-05T20:45:00Z",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2024-05-04T20:45:00Z",
-   "orgao": "CESP",
+   "data": "2024-05-04T19:45:00Z",
+   "orgao": "ESPECIAL",
    "descricao": "Designado relator(a) Dep. Irene Matos.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
    "data": "2024-11-07T17:15:00Z",
+   "orgao": "ESPECIAL",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
+  },
+  {
+   "data": "2024-11-07T19:30:00Z",
    "orgao": "PLEN",
    "descricao": "Pronta para pauta no Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2024-11-07T19:45:00Z",
-   "orgao": "CESP",
-   "descricao": "Aprovado o parecer.",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
-  },
-  {
-   "data": "2025-01-20T18:00:00Z",
+   "data": "2025-03-26T18:00:00Z",
    "orgao": "PLEN",
-   "descricao": "Votação em primeiro turno. Aprovado o projeto. Votação nominal.",
+   "descricao": "Votação em 1º turno. Aprovado o projeto. Votação nominal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2025-01-25T14:30:00Z",
+   "data": "2025-04-01T20:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
+  },
+  {
+   "data": "2025-04-01T20:45:00Z",
    "orgao": "MESA",
    "descricao": "Remessa ao Senado Federal por meio de ofício.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2025-01-25T14:45:00Z",
-   "orgao": "PLEN",
-   "descricao": "Votação em segundo turno. Aprovado o projeto. Votação nominal.",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
-  },
-  {
-   "data": "2025-01-27T19:00:00Z",
+   "data": "2025-04-03T14:45:00Z",
    "orgao": "SF",
    "descricao": "Recebido no Senado Federal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2025-06-01T17:00:00Z",
+   "data": "2025-06-01T14:30:00Z",
    "orgao": "SF",
    "descricao": "Aprovado pelo Plenário do Senado Federal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2025-06-02T13:15:00Z",
+   "data": "2025-06-02T19:00:00Z",
    "orgao": "MESA",
-   "descricao": "Remessa à promulgação pelas Mesas da Câmara e do Senado.",
+   "descricao": "Remessa à promulgação.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
-   "data": "2025-12-16T19:45:00Z",
-   "orgao": "MESA",
-   "descricao": "Transformado na Emenda Constitucional nº 134/2025. Publicação no Diário Oficial da União.",
+   "data": "2025-12-16T17:00:00Z",
+   "orgao": "PR",
+   "descricao": "Transformado na Emenda Constitucional nº 134/2025. Publicação no diário oficial.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   }
  ],
  "votacoes": [
   {
    "id": "9100005-1",
-   "data": "2024-03-20",
+   "data": "2024-01-05",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 20,
-    "nao": 9,
-    "abstencao": 1
+    "sim": 19,
+    "nao": 5,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
    "id": "9100005-2",
    "data": "2024-11-07",
-   "orgao": "CESP",
-   "descricao": "Aprovado o parecer do(a) relator(a) na CESP.",
+   "orgao": "ESPECIAL",
+   "descricao": "Aprovado o parecer do(a) relator(a) na ESPECIAL.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 32,
-    "nao": 5,
+    "sim": 11,
+    "nao": 6,
     "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
   },
   {
    "id": "9100005-3",
-   "data": "2025-01-20",
+   "data": "2025-03-26",
    "orgao": "PLEN",
-   "descricao": "Votação em primeiro turno. Aprovado o projeto.",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 393,
-    "nao": 78,
+    "sim": 404,
+    "nao": 73,
     "abstencao": 2
    },
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005",
+   "turno": 1
   },
   {
    "id": "9100005-4",
-   "data": "2025-01-25",
+   "data": "2025-04-01",
    "orgao": "PLEN",
-   "descricao": "Votação em segundo turno. Aprovado o projeto.",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 384,
-    "nao": 103,
-    "abstencao": 6
+    "sim": 391,
+    "nao": 75,
+    "abstencao": 7
    },
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005"
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100005",
+   "turno": 2
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": 170004,
-  "sigla": "PEC 3165/2025",
-  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170004"
- }
+ ]
 }

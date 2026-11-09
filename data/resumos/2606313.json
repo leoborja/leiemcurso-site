@@ -1,0 +1,28 @@
+{
+ "id": 2606313,
+ "titulo": "Cria sistema nacional contra violência a meninas e mulheres e financia ações de estados e municípios",
+ "tldr": [
+  "A União fica autorizada a transferir até R$ 5.000.000.000,00, sem convênio, a estados, Distrito Federal e municípios para ações contra o feminicídio, mediante plano de ação, com 50% para estados e 50% para municípios.",
+  "Estados, Distrito Federal e municípios, que recebem os recursos, e meninas e mulheres atendidas pelas ações de prevenção e proteção.",
+  "Aprovada pelo Plenário da Câmara em 07/07/2026, na forma de texto alternativo da relatoria, por 470 votos a 1; foi enviada ao Senado em 15/07/2026, onde aguarda análise."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606313",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3091429",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "210b103c8cf4e163",
+ "hash_tramitacao": "07c631cbf3f62e47",
+ "tentativa": 1
+}

@@ -1,0 +1,131 @@
+{
+ "id": 880009,
+ "nome": "Júlio Brandão",
+ "partido": "MNO",
+ "uf": "MG",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 1,
+ "n_relatorias": 1,
+ "ultima_atividade": "2026-10-28",
+ "url_fonte": "https://www.almg.gov.br/deputados/?id=880009",
+ "nome_civil": "Júlio Brandão da Silva",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "EDUC",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "TRABALHO",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "etapa": "vetado",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 7200004,
+   "sigla": "PL 2480/2025",
+   "orgao": "EDUC",
+   "desde": "2026-06-23"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "7200003-3",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-10-28",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200010-4",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200010-3",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200002-5",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-10",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200002-4",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-04",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200001-4",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200001-3",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  }
+ ],
+ "discursos": [],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

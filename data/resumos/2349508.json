@@ -1,0 +1,28 @@
+{
+ "id": 2349508,
+ "titulo": "Permite que trabalhador rural contratado por safra continue recebendo benefícios sociais",
+ "tldr": [
+  "O trabalhador rural com contrato de safra, que dura conforme as épocas da atividade agrícola, manteria os benefícios sociais que já recebe. No texto original, isso valia para contratos de até 3 meses.",
+  "Trabalhadores rurais contratados por safra que recebem benefícios sociais.",
+  "Foi vetada totalmente pelo Poder Executivo em 10/06/2026 e aguarda a análise do veto pelo Congresso. A Câmara havia concluído a votação em 19/05/2026 e enviado o texto à sanção."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349508",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2238211",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d215427b5c572037",
+ "hash_tramitacao": "fdd792b489db9e96",
+ "tentativa": 1
+}

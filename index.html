@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Lei em Curso</title>
-  <meta name="description" content="Acompanhe a vida inteira de uma lei no Brasil, do protocolo à sanção — inclusive o que ficou parado. Só dados públicos, com link para a fonte oficial.">
+  <meta name="description" content="Acompanhe a vida inteira de uma lei — na Câmara dos Deputados, na Assembleia de Minas e na Câmara de BH — do protocolo à sanção, inclusive o que ficou parado. Só dados públicos, com link para a fonte oficial.">
   <meta name="theme-color" content="#f5f2ea" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#111316" media="(prefers-color-scheme: dark)">
   <link rel="icon" href="assets/img/marca.svg" type="image/svg+xml">
@@ -26,30 +26,36 @@
         <svg class="marca__icone" viewBox="0 0 40 16" aria-hidden="true"><path d="M3 8h34" class="marca__trilho"/><circle cx="4" cy="8" r="3"/><circle cx="14" cy="8" r="3"/><circle cx="24" cy="8" r="3" class="marca__vazia"/><circle cx="34" cy="8" r="3" class="marca__vazia"/><circle cx="14" cy="8" r="6" class="marca__peca"/></svg>
         <span class="marca__nome">Lei em <em>Curso</em></span>
       </a>
+      <label class="casa-sel" id="casa-sel" hidden>
+        <span class="vh">Casa legislativa</span>
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M3 20h18M5 20v-8M19 20v-8M9 20v-8M15 20v-8M3 12l9-7 9 7"/></svg>
+        <select id="casa"></select>
+      </label>
       <nav class="nav" aria-label="Seções">
         <a href="#/" data-rota="semana"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 6h16M4 12h10M4 18h6"/></svg><span>Esta semana</span></a>
         <a href="#/tabuleiro" data-rota="tabuleiro"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M3 12h18"/><circle cx="6" cy="12" r="2.2"/><circle cx="12" cy="12" r="2.2"/><circle cx="18" cy="12" r="2.2"/></svg><span>Tabuleiro</span></a>
+        <a href="#/parlamentares" data-rota="parlamentares"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M3 19a9 9 0 0 1 18 0"/><circle cx="12" cy="9" r="3.2"/></svg><span>Parlamentares</span></a>
         <a href="#/gaveta" data-rota="gaveta"><svg aria-hidden="true" viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="14" rx="1.5"/><path d="M4 12h16M10 8.5h4M10 15.5h4"/></svg><span>Gaveta</span></a>
         <a href="#/funil" data-rota="funil"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 5h16l-6 7v6l-4 2v-8z"/></svg><span>Funil</span></a>
-        <a href="#/seguindo" data-rota="seguindo"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M7 4h10v16l-5-3.5L7 20z"/></svg><span>Seguindo</span><b class="nav__n" id="n-seguindo" hidden></b></a>
       </nav>
-      <button class="tema" id="tema" type="button" aria-label="Tema: automático">
+      <a class="icone-topo" href="#/seguindo" data-rota="seguindo" aria-label="Seguindo" title="Proposições que você segue">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M7 4h10v16l-5-3.5L7 20z"/></svg><b class="nav__n" id="n-seguindo" hidden></b>
+      </a>
+      <button class="icone-topo tema" id="tema" type="button" aria-label="Tema: automático">
         <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 0 0 16z" class="tema__meia"/></svg>
       </button>
     </div>
   </header>
-  <div class="aviso-exemplo" id="aviso-exemplo" hidden>
-    <strong>Dados de exemplo.</strong> Projetos, nomes e partidos são fictícios — servem para testar o site enquanto a coleta real não chega.
-  </div>
+  <div class="aviso-exemplo" id="aviso-exemplo" hidden></div>
   <main id="conteudo" tabindex="-1">
     <p class="carregando">Carregando…</p>
   </main>
   <footer class="rodape">
     <div class="rodape__in">
-      <p><strong>Lei em Curso</strong> acompanha proposições do protocolo ao desfecho, usando só bases públicas. Cada fato tem link para a fonte oficial. Os textos descrevem; não avaliam parlamentares nem partidos.</p>
+      <p><strong>Lei em Curso</strong> acompanha proposições do protocolo ao desfecho, usando só bases públicas. Cada fato tem link para a fonte oficial. Os textos descrevem; não avaliam parlamentares nem partidos. Resumos automáticos são marcados como tal.</p>
       <p class="rodape__meta" id="rodape-meta"></p>
     </div>
   </footer>
-  <div class="anuncio" id="anuncio" aria-live="polite" role="status"></div>
+  <div class="anuncio vh" id="anuncio" aria-live="polite" role="status"></div>
 </body>
 </html>

@@ -1,8 +1,8 @@
 {
  "id": 9100009,
- "sigla": "PL 1945/2024",
+ "sigla": "PL 1243/2024",
  "tipo": "PL",
- "numero": 1945,
+ "numero": 1243,
  "ano": 2024,
  "ementa": "Dispõe sobre a transparência dos algoritmos de recomendação em plataformas digitais de grande porte.",
  "tema": [
@@ -14,58 +14,61 @@
   "nome": "Helena Castro",
   "partido": "QRS",
   "uf": "PA",
-  "tipo": "Deputado"
+  "tipo": "Deputado",
+  "id_parlamentar": 990008
  },
  "etapa": "casa_revisora",
  "orgao_atual": "SF",
  "ultima_movimentacao": "2026-11-07",
  "dias_parado": 0,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": 170008,
+  "sigla": "PL 4243/2026",
+  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170008"
+ },
  "autores": [
   {
    "nome": "Helena Castro",
    "partido": "QRS",
    "uf": "PA",
    "tipo": "Deputado",
-   "id_deputado": 990008
+   "id_parlamentar": 990008
   }
  ],
  "relatores": [
   {
    "nome": "Marta Siqueira",
    "orgao": "CCOM",
-   "desde": "2026-05-11"
+   "desde": "2025-01-14",
+   "id_parlamentar": 990004
   },
   {
    "nome": "Lúcia Andrade",
-   "orgao": "CFT",
-   "desde": "2026-05-18"
-  },
-  {
-   "nome": "Helena Castro",
    "orgao": "CCJC",
-   "desde": "2026-06-04"
+   "desde": "2025-01-31",
+   "id_parlamentar": 990006
   }
  ],
  "etapas": [
   {
    "etapa": "apresentado",
    "inicio": "2024-09-03",
-   "fim": "2026-04-05"
+   "fim": "2024-12-04"
   },
   {
    "etapa": "comissoes",
-   "inicio": "2026-04-05",
-   "fim": "2026-08-25",
+   "inicio": "2024-12-04",
+   "fim": "2025-04-24",
    "orgaos": [
     "CCOM",
-    "CFT",
     "CCJC"
    ]
   },
   {
    "etapa": "plenario_origem",
-   "inicio": "2026-08-25",
+   "inicio": "2025-04-24",
    "fim": "2026-11-05"
   },
   {
@@ -78,77 +81,65 @@
   {
    "data": "2024-09-03T18:15:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1945/2024 pelo(a) autor(a): Helena Castro.",
+   "descricao": "Apresentação do PL 1243/2024 pelo(a) autor(a): Helena Castro.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2024-09-04T20:30:00Z",
+   "data": "2024-09-04T20:45:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2026-04-05T19:15:00Z",
+   "data": "2024-12-04T14:30:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CCOM, CFT, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CCOM, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2026-05-11T21:30:00Z",
+   "data": "2025-01-14T19:15:00Z",
    "orgao": "CCOM",
    "descricao": "Designado relator(a) Dep. Marta Siqueira.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2026-05-16T17:45:00Z",
+   "data": "2025-01-18T14:30:00Z",
    "orgao": "CCOM",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2026-05-18T18:15:00Z",
-   "orgao": "CFT",
+   "data": "2025-01-31T19:45:00Z",
+   "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Lúcia Andrade.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2026-06-02T19:45:00Z",
-   "orgao": "CFT",
+   "data": "2025-04-24T17:45:00Z",
+   "orgao": "CCJC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2026-06-04T20:00:00Z",
-   "orgao": "CCJC",
-   "descricao": "Designado relator(a) Dep. Helena Castro.",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
-  },
-  {
-   "data": "2026-08-25T18:15:00Z",
+   "data": "2025-04-24T18:15:00Z",
    "orgao": "PLEN",
    "descricao": "Pronta para pauta no Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2026-08-25T21:45:00Z",
-   "orgao": "CCJC",
-   "descricao": "Aprovado o parecer.",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
-  },
-  {
-   "data": "2026-11-05T14:00:00Z",
+   "data": "2026-11-05T18:45:00Z",
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto. Votação nominal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2026-11-05T18:15:00Z",
+   "data": "2026-11-05T20:00:00Z",
    "orgao": "MESA",
    "descricao": "Remessa ao Senado Federal por meio de ofício.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
-   "data": "2026-11-07T18:00:00Z",
+   "data": "2026-11-07T18:15:00Z",
    "orgao": "SF",
    "descricao": "Recebido no Senado Federal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
@@ -157,61 +148,45 @@
  "votacoes": [
   {
    "id": "9100009-1",
-   "data": "2026-05-16",
+   "data": "2025-01-18",
    "orgao": "CCOM",
    "descricao": "Aprovado o parecer do(a) relator(a) na CCOM.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 27,
-    "nao": 5,
-    "abstencao": 6
+    "sim": 29,
+    "nao": 9,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
    "id": "9100009-2",
-   "data": "2026-06-02",
-   "orgao": "CFT",
-   "descricao": "Aprovado o parecer do(a) relator(a) na CFT.",
+   "data": "2025-04-24",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 25,
-    "nao": 6,
-    "abstencao": 7
+    "sim": 27,
+    "nao": 10,
+    "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   },
   {
    "id": "9100009-3",
-   "data": "2026-08-25",
-   "orgao": "CCJC",
-   "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
-   "aprovada": true,
-   "placar": {
-    "sim": 25,
-    "nao": 5,
-    "abstencao": 8
-   },
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
-  },
-  {
-   "id": "9100009-4",
    "data": "2026-11-05",
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 316,
-    "nao": 153,
-    "abstencao": 5
+    "sim": 315,
+    "nao": 170,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100009"
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": 170008,
-  "sigla": "PL 4945/2026",
-  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170008"
- }
+ ]
 }

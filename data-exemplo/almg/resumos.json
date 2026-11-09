@@ -1,0 +1,85 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "resumos": [
+  {
+   "id": 7200001,
+   "titulo": "Política estadual contra enchentes na bacia do Rio Doce",
+   "tldr": [
+    "Cria diretrizes estaduais de prevenção a enchentes nos municípios da bacia do Rio Doce.",
+    "Municípios da bacia e seus moradores.",
+    "Virou lei."
+   ],
+   "fontes": [
+    "ementa",
+    "tramitacao"
+   ],
+   "modelo": "exemplo",
+   "gerado_em": "2026-11-07T12:00:00Z",
+   "revisado": false
+  },
+  {
+   "id": 7200002,
+   "titulo": "Segunda via da identidade gratuita para pessoas em situação de rua",
+   "tldr": [
+    "Isenta da taxa a emissão da segunda via da carteira de identidade para esse público.",
+    "Pessoas em situação de rua em Minas Gerais.",
+    "Virou lei."
+   ],
+   "fontes": [
+    "ementa",
+    "tramitacao"
+   ],
+   "modelo": "exemplo",
+   "gerado_em": "2026-11-07T12:00:00Z",
+   "revisado": false
+  },
+  {
+   "id": 7200003,
+   "titulo": "Selo estadual para o queijo artesanal mineiro",
+   "tldr": [
+    "Cria um selo de qualidade para o queijo artesanal produzido no Estado.",
+    "Produtores de queijo artesanal e consumidores.",
+    "Aprovado; aguarda sanção do Governador."
+   ],
+   "fontes": [
+    "ementa",
+    "tramitacao"
+   ],
+   "modelo": "exemplo",
+   "gerado_em": "2026-11-07T12:00:00Z",
+   "revisado": false
+  },
+  {
+   "id": 7200007,
+   "titulo": "Duas primeiras horas grátis no estacionamento de hospital público estadual",
+   "tldr": [
+    "Proíbe a cobrança de estacionamento nas duas primeiras horas em hospitais públicos estaduais.",
+    "Pacientes, acompanhantes e visitantes.",
+    "Em análise nas comissões (SAUDE)."
+   ],
+   "fontes": [
+    "ementa",
+    "tramitacao"
+   ],
+   "modelo": "exemplo",
+   "gerado_em": "2026-11-07T12:00:00Z",
+   "revisado": false
+  },
+  {
+   "id": 7200009,
+   "titulo": "Filas de cirurgias eletivas públicas e transparentes",
+   "tldr": [
+    "Obriga a divulgação das filas de cirurgias eletivas do sistema estadual de saúde.",
+    "Pacientes que aguardam cirurgia eletiva.",
+    "Pronto para votação no Plenário."
+   ],
+   "fontes": [
+    "ementa",
+    "tramitacao"
+   ],
+   "modelo": "exemplo",
+   "gerado_em": "2026-11-07T12:00:00Z",
+   "revisado": false
+  }
+ ]
+}

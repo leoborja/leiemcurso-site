@@ -1,8 +1,8 @@
 {
  "id": 9100010,
- "sigla": "PL 1547/2025",
+ "sigla": "PL 1248/2025",
  "tipo": "PL",
- "numero": 1547,
+ "numero": 1248,
  "ano": 2025,
  "ementa": "Cria o Cadastro Nacional de Pessoas Desaparecidas integrado aos órgãos de segurança pública.",
  "tema": [
@@ -14,51 +14,60 @@
   "nome": "Otávio Lima",
   "partido": "MNO",
   "uf": "GO",
-  "tipo": "Deputado"
+  "tipo": "Deputado",
+  "id_parlamentar": 990009
  },
  "etapa": "casa_revisora",
  "orgao_atual": "SF",
  "ultima_movimentacao": "2026-06-05",
  "dias_parado": 155,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": 170009,
+  "sigla": "PL 4248/2026",
+  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170009"
+ },
  "autores": [
   {
    "nome": "Otávio Lima",
    "partido": "MNO",
    "uf": "GO",
    "tipo": "Deputado",
-   "id_deputado": 990009
+   "id_parlamentar": 990009
   },
   {
    "nome": "Beatriz Nunes",
-   "partido": "ABC",
-   "uf": "SC",
+   "partido": "UVW",
+   "uf": "RJ",
    "tipo": "Deputado",
-   "id_deputado": 990109
+   "id_parlamentar": 990016
   }
  ],
  "relatores": [
   {
    "nome": "Tiago Moura",
    "orgao": "CSPCCO",
-   "desde": "2026-02-20"
+   "desde": "2025-11-15",
+   "id_parlamentar": 990007
   },
   {
    "nome": "Otávio Lima",
    "orgao": "CCJC",
-   "desde": "2026-03-30"
+   "desde": "2026-02-02",
+   "id_parlamentar": 990009
   }
  ],
  "etapas": [
   {
    "etapa": "apresentado",
    "inicio": "2025-02-11",
-   "fim": "2026-02-05"
+   "fim": "2025-11-07"
   },
   {
    "etapa": "comissoes",
-   "inicio": "2026-02-05",
-   "fim": "2026-04-10",
+   "inicio": "2025-11-07",
+   "fim": "2026-05-12",
    "orgaos": [
     "CSPCCO",
     "CCJC"
@@ -66,7 +75,7 @@
   },
   {
    "etapa": "plenario_origem",
-   "inicio": "2026-04-10",
+   "inicio": "2026-05-12",
    "fim": "2026-06-03"
   },
   {
@@ -77,67 +86,67 @@
  ],
  "tramitacoes": [
   {
-   "data": "2025-02-11T19:15:00Z",
+   "data": "2025-02-11T21:45:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1547/2025 pelo(a) autor(a): Otávio Lima.",
+   "descricao": "Apresentação do PL 1248/2025 pelo(a) autor(a): Otávio Lima.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2025-02-12T17:45:00Z",
+   "data": "2025-02-12T18:15:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2026-02-05T17:45:00Z",
+   "data": "2025-11-07T20:30:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CSPCCO, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CSPCCO, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2026-02-20T17:45:00Z",
+   "data": "2025-11-15T18:15:00Z",
    "orgao": "CSPCCO",
    "descricao": "Designado relator(a) Dep. Tiago Moura.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2026-03-26T14:30:00Z",
+   "data": "2026-01-05T20:15:00Z",
    "orgao": "CSPCCO",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2026-03-30T21:15:00Z",
+   "data": "2026-02-02T17:45:00Z",
    "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Otávio Lima.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2026-04-10T13:15:00Z",
+   "data": "2026-05-12T21:15:00Z",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2026-04-10T18:30:00Z",
+   "data": "2026-05-12T21:30:00Z",
    "orgao": "PLEN",
    "descricao": "Pronta para pauta no Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2026-06-03T17:15:00Z",
+   "data": "2026-06-03T14:30:00Z",
    "orgao": "MESA",
    "descricao": "Remessa ao Senado Federal por meio de ofício.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2026-06-03T18:00:00Z",
+   "data": "2026-06-03T21:15:00Z",
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto. Votação nominal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
-   "data": "2026-06-05T13:30:00Z",
+   "data": "2026-06-05T21:15:00Z",
    "orgao": "SF",
    "descricao": "Recebido no Senado Federal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
@@ -146,27 +155,29 @@
  "votacoes": [
   {
    "id": "9100010-1",
-   "data": "2026-03-26",
+   "data": "2026-01-05",
    "orgao": "CSPCCO",
    "descricao": "Aprovado o parecer do(a) relator(a) na CSPCCO.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 25,
-    "nao": 2,
-    "abstencao": 3
+    "sim": 24,
+    "nao": 14,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
   {
    "id": "9100010-2",
-   "data": "2026-04-10",
+   "data": "2026-05-12",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 12,
-    "nao": 1,
-    "abstencao": 5
+    "sim": 23,
+    "nao": 6,
+    "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   },
@@ -176,18 +187,13 @@
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 249,
-    "nao": 190,
-    "abstencao": 7
+    "sim": 346,
+    "nao": 112,
+    "abstencao": 4
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100010"
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": 170009,
-  "sigla": "PL 4547/2026",
-  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170009"
- }
+ ]
 }

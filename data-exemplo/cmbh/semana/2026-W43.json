@@ -1,0 +1,27 @@
+{
+ "semana": "2026-W43",
+ "inicio": "2026-10-19",
+ "fim": "2026-10-25",
+ "mudaram_de_etapa": [
+  {
+   "id": 5300007,
+   "sigla": "PL 939/2022",
+   "de": "plenario_origem",
+   "para": "arquivado",
+   "data": "2026-10-22"
+  }
+ ],
+ "votadas": [
+  {
+   "id": 5300007,
+   "sigla": "PL 939/2022",
+   "votacao_id": "5300007-4",
+   "aprovada": false,
+   "orgao": "PLEN",
+   "data": "2026-10-22"
+  }
+ ],
+ "apresentadas": [
+  5300010
+ ]
+}

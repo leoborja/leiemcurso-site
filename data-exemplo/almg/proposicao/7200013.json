@@ -1,0 +1,58 @@
+{
+ "id": 7200013,
+ "sigla": "PL 2382/2023",
+ "tipo": "PL",
+ "numero": 2382,
+ "ano": 2023,
+ "ementa": "Dispõe sobre normas de segurança em eventos com grande público em praças esportivas estaduais.",
+ "tema": [
+  "Segurança Pública",
+  "Esporte e Lazer"
+ ],
+ "data_apresentacao": "2023-12-05",
+ "autor_principal": {
+  "nome": "Alice Fontoura",
+  "partido": "ABC",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880000
+ },
+ "etapa": "apresentado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2023-12-05",
+ "dias_parado": 1068,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200013",
+ "autores": [
+  {
+   "nome": "Alice Fontoura",
+   "partido": "ABC",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880000
+  },
+  {
+   "nome": "Heitor Campos",
+   "partido": "XYZ",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880007
+  }
+ ],
+ "relatores": [],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2023-12-05",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2023-12-05T17:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2382/2023 pelo(a) autor(a): Alice Fontoura.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200013"
+  }
+ ],
+ "votacoes": []
+}

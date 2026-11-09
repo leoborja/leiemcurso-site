@@ -1,0 +1,28 @@
+{
+ "id": 2362646,
+ "titulo": "Inclui emendas de bancada nas transferências especiais de recursos federais a estados e municípios",
+ "tldr": [
+  "Emendas individuais e de bancada ao orçamento federal poderiam enviar recursos direto a estados, Distrito Federal e municípios, sem convênio. Ao menos 70% iriam para despesas de capital (como obras), sem uso em pessoal ou dívida.",
+  "Estados, Distrito Federal e municípios que recebem recursos de emendas parlamentares ao orçamento federal.",
+  "Retirada pelo autor em 06/12/2024, após pedido apresentado em 19/11/2024. Estava na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2273619",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d793786b904cdeee",
+ "hash_tramitacao": "bd25449d14fded95",
+ "tentativa": 1
+}

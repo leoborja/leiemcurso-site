@@ -1,8 +1,8 @@
 {
  "id": 9100019,
- "sigla": "PL 2225/2024",
+ "sigla": "PL 1355/2024",
  "tipo": "PL",
- "numero": 2225,
+ "numero": 1355,
  "ano": 2024,
  "ementa": "Cria incentivo fiscal para empresas que contratem jovens egressos de medidas socioeducativas.",
  "tema": [
@@ -14,34 +14,42 @@
   "nome": "Clara Bastos",
   "partido": "ABC",
   "uf": "PE",
-  "tipo": "Deputado"
+  "tipo": "Deputado",
+  "id_parlamentar": 990018
  },
  "etapa": "comissoes",
  "orgao_atual": "CTRAB",
- "ultima_movimentacao": "2024-12-04",
- "dias_parado": 703,
+ "ultima_movimentacao": "2025-05-08",
+ "dias_parado": 548,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100019",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Clara Bastos",
    "partido": "ABC",
    "uf": "PE",
    "tipo": "Deputado",
-   "id_deputado": 990018
+   "id_parlamentar": 990018
   },
   {
    "nome": "Paulo Freitas",
-   "partido": "MNO",
-   "uf": "CE",
+   "partido": "HJK",
+   "uf": "RS",
    "tipo": "Deputado",
-   "id_deputado": 990118
+   "id_parlamentar": 990005
   }
  ],
  "relatores": [
   {
    "nome": "Irene Matos",
    "orgao": "CTRAB",
-   "desde": "2024-12-04"
+   "desde": "2025-05-08",
+   "id_parlamentar": 990014
   }
  ],
  "etapas": [
@@ -63,35 +71,29 @@
  ],
  "tramitacoes": [
   {
-   "data": "2024-10-29T21:30:00Z",
+   "data": "2024-10-29T14:15:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 2225/2024 pelo(a) autor(a): Clara Bastos.",
+   "descricao": "Apresentação do PL 1355/2024 pelo(a) autor(a): Clara Bastos.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100019"
   },
   {
-   "data": "2024-10-30T14:00:00Z",
+   "data": "2024-10-30T18:30:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100019"
   },
   {
-   "data": "2024-11-19T14:15:00Z",
+   "data": "2024-11-19T19:45:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CTRAB, CFT, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CTRAB, CFT, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100019"
   },
   {
-   "data": "2024-12-04T14:15:00Z",
+   "data": "2025-05-08T13:15:00Z",
    "orgao": "CTRAB",
    "descricao": "Designado relator(a) Dep. Irene Matos.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100019"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

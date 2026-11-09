@@ -1,8 +1,8 @@
 {
  "id": 9100036,
- "sigla": "PL 1919/2023",
+ "sigla": "PL 1754/2023",
  "tipo": "PL",
- "numero": 1919,
+ "numero": 1754,
  "ano": 2023,
  "ementa": "Proíbe o uso de fogos de artifício com estampido em áreas urbanas.",
  "tema": [
@@ -11,46 +11,55 @@
  "data_apresentacao": "2023-03-28",
  "autor_principal": {
   "nome": "Davi Cordeiro",
-  "partido": "HJK",
-  "uf": "CE",
-  "tipo": "Deputado"
+  "partido": "MNO",
+  "uf": "SP",
+  "tipo": "Deputado",
+  "id_parlamentar": 990015
  },
  "etapa": "arquivado",
  "orgao_atual": "MESA",
  "ultima_movimentacao": "2026-11-03",
  "dias_parado": 4,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Davi Cordeiro",
-   "partido": "HJK",
-   "uf": "CE",
+   "partido": "MNO",
+   "uf": "SP",
    "tipo": "Deputado",
-   "id_deputado": 990035
+   "id_parlamentar": 990015
   }
  ],
  "relatores": [
   {
    "nome": "Paulo Freitas",
    "orgao": "CMADS",
-   "desde": "2023-12-05"
+   "desde": "2025-09-30",
+   "id_parlamentar": 990005
   },
   {
    "nome": "Tiago Moura",
    "orgao": "CCJC",
-   "desde": "2024-08-15"
+   "desde": "2026-03-17",
+   "id_parlamentar": 990007
   }
  ],
  "etapas": [
   {
    "etapa": "apresentado",
    "inicio": "2023-03-28",
-   "fim": "2023-11-16"
+   "fim": "2025-09-07"
   },
   {
    "etapa": "comissoes",
-   "inicio": "2023-11-16",
-   "fim": "2024-12-21",
+   "inicio": "2025-09-07",
+   "fim": "2026-07-06",
    "orgaos": [
     "CMADS",
     "CCJC"
@@ -58,7 +67,7 @@
   },
   {
    "etapa": "plenario_origem",
-   "inicio": "2024-12-21",
+   "inicio": "2026-07-06",
    "fim": "2026-11-03"
   },
   {
@@ -69,61 +78,61 @@
  ],
  "tramitacoes": [
   {
-   "data": "2023-03-28T13:00:00Z",
+   "data": "2023-03-28T20:15:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1919/2023 pelo(a) autor(a): Davi Cordeiro.",
+   "descricao": "Apresentação do PL 1754/2023 pelo(a) autor(a): Davi Cordeiro.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
   {
-   "data": "2023-03-29T19:15:00Z",
+   "data": "2023-03-29T20:00:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
   {
-   "data": "2023-11-16T14:30:00Z",
+   "data": "2025-09-07T21:15:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CMADS, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CMADS, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
   {
-   "data": "2023-12-05T20:15:00Z",
+   "data": "2025-09-30T17:15:00Z",
    "orgao": "CMADS",
    "descricao": "Designado relator(a) Dep. Paulo Freitas.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
   {
-   "data": "2024-01-10T13:15:00Z",
+   "data": "2025-12-04T19:30:00Z",
    "orgao": "CMADS",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
   {
-   "data": "2024-08-15T17:00:00Z",
+   "data": "2026-03-17T18:45:00Z",
    "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Tiago Moura.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
   {
-   "data": "2024-12-21T14:00:00Z",
-   "orgao": "CCJC",
-   "descricao": "Aprovado o parecer.",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
-  },
-  {
-   "data": "2024-12-21T18:00:00Z",
+   "data": "2026-07-06T17:45:00Z",
    "orgao": "PLEN",
    "descricao": "Pronta para pauta no Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
   {
-   "data": "2026-11-03T17:00:00Z",
+   "data": "2026-07-06T21:30:00Z",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
+  },
+  {
+   "data": "2026-11-03T18:30:00Z",
    "orgao": "MESA",
    "descricao": "Arquivado após rejeição em Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
   {
-   "data": "2026-11-03T20:45:00Z",
+   "data": "2026-11-03T19:30:00Z",
    "orgao": "PLEN",
    "descricao": "Rejeitado o projeto. Votação nominal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
@@ -132,27 +141,29 @@
  "votacoes": [
   {
    "id": "9100036-1",
-   "data": "2024-01-10",
+   "data": "2025-12-04",
    "orgao": "CMADS",
    "descricao": "Aprovado o parecer do(a) relator(a) na CMADS.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 25,
-    "nao": -2,
-    "abstencao": 7
+    "sim": 24,
+    "nao": 14,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
   {
    "id": "9100036-2",
-   "data": "2024-12-21",
+   "data": "2026-07-06",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 28,
-    "nao": 7,
-    "abstencao": 3
+    "sim": 15,
+    "nao": 8,
+    "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   },
@@ -162,18 +173,13 @@
    "orgao": "PLEN",
    "descricao": "Rejeitado o projeto.",
    "aprovada": false,
+   "nominal": true,
    "placar": {
-    "sim": 189,
-    "nao": 295,
-    "abstencao": 4
+    "sim": 170,
+    "nao": 258,
+    "abstencao": 3
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100036"
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ ]
 }

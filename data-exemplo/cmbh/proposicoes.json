@@ -1,0 +1,300 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "proposicoes": [
+  {
+   "id": 5300001,
+   "sigla": "PL 679/2025",
+   "tipo": "PL",
+   "numero": 679,
+   "ano": 2025,
+   "ementa": "Institui o programa municipal de hortas pedagógicas nas escolas.",
+   "tema": [
+    "Educação",
+    "Meio Ambiente e Desenvolvimento Sustentável"
+   ],
+   "data_apresentacao": "2025-03-11",
+   "autor_principal": {
+    "nome": "Aline Barcelos",
+    "partido": "ABC",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770000
+   },
+   "etapa": "lei",
+   "orgao_atual": null,
+   "ultima_movimentacao": "2026-07-09",
+   "dias_parado": 121,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "id": 5300002,
+   "sigla": "PL 759/2024",
+   "tipo": "PL",
+   "numero": 759,
+   "ano": 2024,
+   "ementa": "Dispõe sobre a poda de árvores em vias públicas e a comunicação prévia aos moradores.",
+   "tema": [
+    "Meio Ambiente e Desenvolvimento Sustentável",
+    "Cidades e Desenvolvimento Urbano"
+   ],
+   "data_apresentacao": "2024-05-21",
+   "autor_principal": {
+    "nome": "Breno Saraiva",
+    "partido": "XYZ",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770001
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "ORCFIN",
+   "ultima_movimentacao": "2026-06-23",
+   "dias_parado": 137,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300002"
+  },
+  {
+   "id": 5300003,
+   "sigla": "PL 1013/2026",
+   "tipo": "PL",
+   "numero": 1013,
+   "ano": 2026,
+   "ementa": "Denomina praça localizada no bairro Santa Tereza.",
+   "tema": [
+    "Homenagens e Datas Comemorativas"
+   ],
+   "data_apresentacao": "2026-02-03",
+   "autor_principal": {
+    "nome": "Cecília Mourão",
+    "partido": "QRS",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770002
+   },
+   "etapa": "lei",
+   "orgao_atual": null,
+   "ultima_movimentacao": "2026-10-29",
+   "dias_parado": 9,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "id": 5300004,
+   "sigla": "PL 769/2025",
+   "tipo": "PL",
+   "numero": 769,
+   "ano": 2025,
+   "ementa": "Dispõe sobre acessibilidade em pontos de ônibus do transporte coletivo municipal.",
+   "tema": [
+    "Viação, Transporte e Mobilidade",
+    "Direitos Humanos e Minorias"
+   ],
+   "data_apresentacao": "2025-09-09",
+   "autor_principal": {
+    "nome": "Daniel Arruda",
+    "partido": "MNO",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770003
+   },
+   "etapa": "plenario_origem",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2026-11-05",
+   "dias_parado": 2,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "id": 5300005,
+   "sigla": "PL 817/2025",
+   "tipo": "PL",
+   "numero": 817,
+   "ano": 2025,
+   "ementa": "Cria o cadastro municipal de imóveis abandonados para fins de habitação social.",
+   "tema": [
+    "Cidades e Desenvolvimento Urbano"
+   ],
+   "data_apresentacao": "2025-11-18",
+   "autor_principal": {
+    "nome": "Estela Paiva",
+    "partido": "UVW",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770004
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "POLURB",
+   "ultima_movimentacao": "2026-06-07",
+   "dias_parado": 153,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300005"
+  },
+  {
+   "id": 5300006,
+   "sigla": "PELO 168/2024",
+   "tipo": "PELO",
+   "numero": 168,
+   "ano": 2024,
+   "ementa": "Altera a Lei Orgânica para tornar obrigatória audiência pública na revisão do plano diretor.",
+   "tema": [
+    "Direito Constitucional",
+    "Cidades e Desenvolvimento Urbano"
+   ],
+   "data_apresentacao": "2024-08-06",
+   "autor_principal": {
+    "nome": "Flávio Godinho",
+    "partido": "HJK",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770005
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CLJ",
+   "ultima_movimentacao": "2025-06-27",
+   "dias_parado": 498,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300006"
+  },
+  {
+   "id": 5300007,
+   "sigla": "PL 939/2022",
+   "tipo": "PL",
+   "numero": 939,
+   "ano": 2022,
+   "ementa": "Dispõe sobre o horário de funcionamento de bares em áreas predominantemente residenciais.",
+   "tema": [
+    "Cidades e Desenvolvimento Urbano"
+   ],
+   "data_apresentacao": "2022-04-12",
+   "autor_principal": {
+    "nome": "Graça Ventura",
+    "partido": "ABC",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770006
+   },
+   "etapa": "arquivado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-10-22",
+   "dias_parado": 16,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300007"
+  },
+  {
+   "id": 5300008,
+   "sigla": "PL 1105/2026",
+   "tipo": "PL",
+   "numero": 1105,
+   "ano": 2026,
+   "ementa": "Institui o Dia Municipal do Ciclista.",
+   "tema": [
+    "Homenagens e Datas Comemorativas",
+    "Esporte e Lazer"
+   ],
+   "data_apresentacao": "2026-03-17",
+   "autor_principal": {
+    "nome": "Henrique Lobo",
+    "partido": "XYZ",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770007
+   },
+   "etapa": "sancao",
+   "orgao_atual": "PREF",
+   "ultima_movimentacao": "2026-11-03",
+   "dias_parado": 4,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "id": 5300009,
+   "sigla": "PL 823/2025",
+   "tipo": "PL",
+   "numero": 823,
+   "ano": 2025,
+   "ementa": "Dispõe sobre a instalação de fraldários acessíveis a todos os responsáveis em estabelecimentos comerciais.",
+   "tema": [
+    "Defesa do Consumidor"
+   ],
+   "data_apresentacao": "2025-04-29",
+   "autor_principal": {
+    "nome": "Isadora Neves",
+    "partido": "QRS",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770008
+   },
+   "etapa": "vetado",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2026-05-21",
+   "dias_parado": 170,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "id": 5300010,
+   "sigla": "PL 1225/2026",
+   "tipo": "PL",
+   "numero": 1225,
+   "ano": 2026,
+   "ementa": "Cria a ouvidoria municipal da pessoa idosa.",
+   "tema": [
+    "Direitos Humanos e Minorias",
+    "Administração Pública"
+   ],
+   "data_apresentacao": "2026-10-20",
+   "autor_principal": {
+    "nome": "Jorge Rocha",
+    "partido": "MNO",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770009
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-10-20",
+   "dias_parado": 18,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300010"
+  },
+  {
+   "id": 5300011,
+   "sigla": "PL 848/2025",
+   "tipo": "PL",
+   "numero": 848,
+   "ano": 2025,
+   "ementa": "Dispõe sobre a limpeza de lotes vagos e a aplicação de multa ao proprietário.",
+   "tema": [
+    "Cidades e Desenvolvimento Urbano"
+   ],
+   "data_apresentacao": "2025-10-14",
+   "autor_principal": {
+    "nome": "Aline Barcelos",
+    "partido": "ABC",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770000
+   },
+   "etapa": "retirado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-04-07",
+   "dias_parado": 214,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "id": 5300012,
+   "sigla": "PL 1248/2026",
+   "tipo": "PL",
+   "numero": 1248,
+   "ano": 2026,
+   "ementa": "Institui o programa de bicicletas compartilhadas em parques municipais.",
+   "tema": [
+    "Esporte e Lazer",
+    "Viação, Transporte e Mobilidade"
+   ],
+   "data_apresentacao": "2026-11-05",
+   "autor_principal": {
+    "nome": "Breno Saraiva",
+    "partido": "XYZ",
+    "uf": "MG",
+    "tipo": "Vereador",
+    "id_parlamentar": 770001
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-11-05",
+   "dias_parado": 2,
+   "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300012"
+  }
+ ]
+}

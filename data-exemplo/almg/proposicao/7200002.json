@@ -1,0 +1,245 @@
+{
+ "id": 7200002,
+ "sigla": "PL 2363/2025",
+ "tipo": "PL",
+ "numero": 2363,
+ "ano": 2025,
+ "ementa": "Dispõe sobre a gratuidade da segunda via da carteira de identidade para pessoas em situação de rua.",
+ "tema": [
+  "Direitos Humanos e Minorias"
+ ],
+ "data_apresentacao": "2025-02-18",
+ "autor_principal": {
+  "nome": "Bruno Tavares",
+  "partido": "XYZ",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880001
+ },
+ "etapa": "lei",
+ "orgao_atual": null,
+ "ultima_movimentacao": "2026-11-04",
+ "dias_parado": 3,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200002",
+ "autores": [
+  {
+   "nome": "Bruno Tavares",
+   "partido": "XYZ",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880001
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Diego Rezende",
+   "orgao": "DIRHUM",
+   "desde": "2025-08-04",
+   "id_parlamentar": 880003
+  },
+  {
+   "nome": "Fernando Lage",
+   "orgao": "FFO",
+   "desde": "2025-09-18",
+   "id_parlamentar": 880005
+  },
+  {
+   "nome": "Heitor Campos",
+   "orgao": "CCJ",
+   "desde": "2025-10-23",
+   "id_parlamentar": 880007
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-02-18",
+   "fim": "2025-07-24"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2025-07-24",
+   "fim": "2025-11-10",
+   "orgaos": [
+    "DIRHUM",
+    "FFO",
+    "CCJ"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2025-11-10",
+   "fim": "2026-04-10"
+  },
+  {
+   "etapa": "sancao",
+   "inicio": "2026-04-10",
+   "fim": "2026-11-04"
+  },
+  {
+   "etapa": "lei",
+   "inicio": "2026-11-04",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-02-18T20:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2363/2025 pelo(a) autor(a): Bruno Tavares.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2025-02-19T14:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2025-07-24T17:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: DIRHUM, FFO, CCJ.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2025-08-04T21:30:00Z",
+   "orgao": "DIRHUM",
+   "descricao": "Designado relator(a) Dep. Diego Rezende.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2025-08-29T18:00:00Z",
+   "orgao": "DIRHUM",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2025-09-18T17:15:00Z",
+   "orgao": "FFO",
+   "descricao": "Designado relator(a) Dep. Fernando Lage.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2025-10-03T21:15:00Z",
+   "orgao": "FFO",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2025-10-23T17:15:00Z",
+   "orgao": "CCJ",
+   "descricao": "Designado relator(a) Dep. Heitor Campos.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2025-11-10T17:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2025-11-10T20:15:00Z",
+   "orgao": "CCJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2026-04-04T21:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2026-04-10T13:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2026-04-10T17:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa à sanção do Governador.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "data": "2026-11-04T21:45:00Z",
+   "orgao": "GOV",
+   "descricao": "Transformado na Lei nº 24037/2026. Publicação no diário oficial.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "7200002-1",
+   "data": "2025-08-29",
+   "orgao": "DIRHUM",
+   "descricao": "Aprovado o parecer do(a) relator(a) na DIRHUM.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 3,
+    "nao": 2,
+    "abstencao": 0
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "id": "7200002-2",
+   "data": "2025-10-03",
+   "orgao": "FFO",
+   "descricao": "Aprovado o parecer do(a) relator(a) na FFO.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 3,
+    "nao": 2,
+    "abstencao": 0
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "id": "7200002-3",
+   "data": "2025-11-10",
+   "orgao": "CCJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 4,
+    "nao": 3,
+    "abstencao": 0
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "id": "7200002-4",
+   "data": "2026-04-04",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 61,
+    "nao": 11,
+    "abstencao": 0
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002",
+   "turno": 1
+  },
+  {
+   "id": "7200002-5",
+   "data": "2026-04-10",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 38,
+    "nao": 27,
+    "abstencao": 1
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200002",
+   "turno": 2
+  }
+ ]
+}

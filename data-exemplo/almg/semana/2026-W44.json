@@ -1,0 +1,35 @@
+{
+ "semana": "2026-W44",
+ "inicio": "2026-10-26",
+ "fim": "2026-11-01",
+ "mudaram_de_etapa": [
+  {
+   "id": 7200004,
+   "sigla": "PL 2480/2025",
+   "de": "comissoes",
+   "para": "plenario_origem",
+   "data": "2026-10-28"
+  }
+ ],
+ "votadas": [
+  {
+   "id": 7200003,
+   "sigla": "PL 2430/2025",
+   "votacao_id": "7200003-3",
+   "aprovada": true,
+   "orgao": "PLEN",
+   "data": "2026-10-28"
+  },
+  {
+   "id": 7200004,
+   "sigla": "PL 2480/2025",
+   "votacao_id": "7200004-3",
+   "aprovada": true,
+   "orgao": "CCJ",
+   "data": "2026-10-28"
+  }
+ ],
+ "apresentadas": [
+  7200014
+ ]
+}

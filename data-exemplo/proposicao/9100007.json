@@ -1,8 +1,8 @@
 {
  "id": 9100007,
- "sigla": "PL 1814/2024",
+ "sigla": "PL 1127/2024",
  "tipo": "PL",
- "numero": 1814,
+ "numero": 1127,
  "ano": 2024,
  "ementa": "Estabelece normas para a doação de alimentos próximos ao vencimento por supermercados e restaurantes.",
  "tema": [
@@ -14,51 +14,60 @@
   "nome": "Lúcia Andrade",
   "partido": "ABC",
   "uf": "PR",
-  "tipo": "Deputado"
+  "tipo": "Deputado",
+  "id_parlamentar": 990006
  },
  "etapa": "sancao",
  "orgao_atual": "PR",
  "ultima_movimentacao": "2026-10-28",
  "dias_parado": 10,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": 170006,
+  "sigla": "PL 4127/2026",
+  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170006"
+ },
  "autores": [
   {
    "nome": "Lúcia Andrade",
    "partido": "ABC",
    "uf": "PR",
    "tipo": "Deputado",
-   "id_deputado": 990006
+   "id_parlamentar": 990006
   },
   {
    "nome": "Gustavo Pires",
-   "partido": "MNO",
-   "uf": "GO",
+   "partido": "XYZ",
+   "uf": "MA",
    "tipo": "Deputado",
-   "id_deputado": 990106
+   "id_parlamentar": 990013
   }
  ],
  "relatores": [
   {
    "nome": "Clara Bastos",
    "orgao": "CDC",
-   "desde": "2025-02-20"
+   "desde": "2025-05-08",
+   "id_parlamentar": 990018
   },
   {
    "nome": "Ana Ribeiro",
    "orgao": "CCJC",
-   "desde": "2025-06-07"
+   "desde": "2025-09-19",
+   "id_parlamentar": 990000
   }
  ],
  "etapas": [
   {
    "etapa": "apresentado",
    "inicio": "2024-04-16",
-   "fim": "2024-10-20"
+   "fim": "2025-02-01"
   },
   {
    "etapa": "comissoes",
-   "inicio": "2024-10-20",
-   "fim": "2025-10-14",
+   "inicio": "2025-02-01",
+   "fim": "2026-01-27",
    "orgaos": [
     "CDC",
     "CCJC"
@@ -66,7 +75,7 @@
   },
   {
    "etapa": "plenario_origem",
-   "inicio": "2025-10-14",
+   "inicio": "2026-01-27",
    "fim": "2026-09-24"
   },
   {
@@ -82,9 +91,9 @@
  ],
  "tramitacoes": [
   {
-   "data": "2024-04-16T20:30:00Z",
+   "data": "2024-04-16T13:00:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1814/2024 pelo(a) autor(a): Lúcia Andrade.",
+   "descricao": "Apresentação do PL 1127/2024 pelo(a) autor(a): Lúcia Andrade.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
@@ -94,96 +103,98 @@
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2024-10-20T13:00:00Z",
+   "data": "2025-02-01T18:15:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CDC, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CDC, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2025-02-20T18:15:00Z",
+   "data": "2025-05-08T19:30:00Z",
    "orgao": "CDC",
    "descricao": "Designado relator(a) Dep. Clara Bastos.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2025-05-31T17:15:00Z",
+   "data": "2025-08-31T17:15:00Z",
    "orgao": "CDC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2025-06-07T21:45:00Z",
+   "data": "2025-09-19T21:45:00Z",
    "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Ana Ribeiro.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2025-10-14T20:15:00Z",
+   "data": "2026-01-27T18:30:00Z",
    "orgao": "PLEN",
    "descricao": "Pronta para pauta no Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2025-10-14T21:00:00Z",
+   "data": "2026-01-27T20:15:00Z",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2026-09-24T14:30:00Z",
-   "orgao": "MESA",
-   "descricao": "Remessa ao Senado Federal por meio de ofício.",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
-  },
-  {
-   "data": "2026-09-24T17:30:00Z",
+   "data": "2026-09-24T17:45:00Z",
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto. Votação nominal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2026-09-26T18:15:00Z",
+   "data": "2026-09-24T20:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa ao Senado Federal por meio de ofício.",
+   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
+  },
+  {
+   "data": "2026-09-26T17:15:00Z",
    "orgao": "SF",
    "descricao": "Recebido no Senado Federal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2026-10-27T17:15:00Z",
+   "data": "2026-10-27T14:15:00Z",
    "orgao": "SF",
    "descricao": "Aprovado pelo Plenário do Senado Federal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
-   "data": "2026-10-28T14:15:00Z",
+   "data": "2026-10-28T13:15:00Z",
    "orgao": "MESA",
-   "descricao": "Remessa à sanção.",
+   "descricao": "Remessa à sanção do Presidente da República.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   }
  ],
  "votacoes": [
   {
    "id": "9100007-1",
-   "data": "2025-05-31",
+   "data": "2025-08-31",
    "orgao": "CDC",
    "descricao": "Aprovado o parecer do(a) relator(a) na CDC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 21,
-    "nao": 9,
+    "sim": 22,
+    "nao": 8,
     "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
   {
    "id": "9100007-2",
-   "data": "2025-10-14",
+   "data": "2026-01-27",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
     "sim": 32,
-    "nao": -2,
-    "abstencao": 8
+    "nao": 6,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   },
@@ -193,18 +204,13 @@
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 385,
-    "nao": 99,
-    "abstencao": 5
+    "sim": 379,
+    "nao": 68,
+    "abstencao": 3
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100007"
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": 170006,
-  "sigla": "PL 4814/2026",
-  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170006"
- }
+ ]
 }

@@ -1,8 +1,8 @@
 {
  "id": 9100032,
- "sigla": "PLP 384/2026",
+ "sigla": "PLP 250/2026",
  "tipo": "PLP",
- "numero": 384,
+ "numero": 250,
  "ano": 2026,
  "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para dispor sobre a publicação de dados de execução orçamentária em formato aberto.",
  "tema": [
@@ -11,23 +11,30 @@
  ],
  "data_apresentacao": "2026-11-04",
  "autor_principal": {
-  "nome": "Edson Paiva",
-  "partido": "MNO",
-  "uf": "PA",
-  "tipo": "Senador"
+  "nome": "Fábio Teles",
+  "partido": "HJK",
+  "uf": "DF",
+  "tipo": "Deputado",
+  "id_parlamentar": 990011
  },
  "etapa": "apresentado",
  "orgao_atual": "MESA",
  "ultima_movimentacao": "2026-11-04",
  "dias_parado": 3,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100032",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
-   "nome": "Edson Paiva",
-   "partido": "MNO",
-   "uf": "PA",
-   "tipo": "Senador",
-   "id_deputado": null
+   "nome": "Fábio Teles",
+   "partido": "HJK",
+   "uf": "DF",
+   "tipo": "Deputado",
+   "id_parlamentar": 990011
   }
  ],
  "relatores": [],
@@ -40,17 +47,11 @@
  ],
  "tramitacoes": [
   {
-   "data": "2026-11-04T19:00:00Z",
+   "data": "2026-11-04T18:00:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PLP 384/2026 pelo(a) autor(a): Edson Paiva.",
+   "descricao": "Apresentação do PLP 250/2026 pelo(a) autor(a): Fábio Teles.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100032"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

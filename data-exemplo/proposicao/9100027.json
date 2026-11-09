@@ -1,8 +1,8 @@
 {
  "id": 9100027,
- "sigla": "PL 1837/2023",
+ "sigla": "PL 1685/2023",
  "tipo": "PL",
- "numero": 1837,
+ "numero": 1685,
  "ano": 2023,
  "ementa": "Dispõe sobre a gratuidade do transporte público intermunicipal para estudantes de baixa renda.",
  "tema": [
@@ -12,22 +12,29 @@
  "data_apresentacao": "2023-10-03",
  "autor_principal": {
   "nome": "Lúcia Andrade",
-  "partido": "QRS",
-  "uf": "SC",
-  "tipo": "Deputado"
+  "partido": "ABC",
+  "uf": "PR",
+  "tipo": "Deputado",
+  "id_parlamentar": 990006
  },
  "etapa": "apresentado",
  "orgao_atual": "MESA",
  "ultima_movimentacao": "2023-10-03",
  "dias_parado": 1131,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100027",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Lúcia Andrade",
-   "partido": "QRS",
-   "uf": "SC",
+   "partido": "ABC",
+   "uf": "PR",
    "tipo": "Deputado",
-   "id_deputado": 990026
+   "id_parlamentar": 990006
   }
  ],
  "relatores": [],
@@ -40,17 +47,11 @@
  ],
  "tramitacoes": [
   {
-   "data": "2023-10-03T14:30:00Z",
+   "data": "2023-10-03T18:15:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1837/2023 pelo(a) autor(a): Lúcia Andrade.",
+   "descricao": "Apresentação do PL 1685/2023 pelo(a) autor(a): Lúcia Andrade.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100027"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

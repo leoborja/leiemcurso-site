@@ -1,0 +1,34 @@
+{
+ "semana": "2026-W45",
+ "inicio": "2026-11-02",
+ "fim": "2026-11-08",
+ "mudaram_de_etapa": [
+  {
+   "id": 7200002,
+   "sigla": "PL 2363/2025",
+   "de": "sancao",
+   "para": "lei",
+   "data": "2026-11-04"
+  },
+  {
+   "id": 7200003,
+   "sigla": "PL 2430/2025",
+   "de": "plenario_origem",
+   "para": "sancao",
+   "data": "2026-11-03"
+  }
+ ],
+ "votadas": [
+  {
+   "id": 7200003,
+   "sigla": "PL 2430/2025",
+   "votacao_id": "7200003-4",
+   "aprovada": true,
+   "orgao": "PLEN",
+   "data": "2026-11-03"
+  }
+ ],
+ "apresentadas": [
+  7200008
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2624751,
+ "titulo": "Autoriza subvenção a produtores e importadores de gasolina e diesel em troca de desconto no preço",
+ "tldr": [
+  "O governo federal poderia pagar, em 2026, a produtores e importadores um valor equivalente a parte do PIS/Pasep, da Cofins e da Cide sobre gasolina e diesel, desde que esse valor fosse descontado do preço de venda.",
+  "Produtores e importadores de gasolina e de óleo diesel rodoviário autorizados pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis.",
+  "Perdeu a validade na comissão mista: o prazo de vigência terminou em 09/09/2026, conforme ato do Congresso Nacional publicado em 17/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624751",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3131648",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "26cdbbdccdd10202",
+ "hash_tramitacao": "b5bfee14e96f852f",
+ "tentativa": 1
+}

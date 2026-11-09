@@ -1,0 +1,152 @@
+{
+ "id": 880008,
+ "nome": "Ivone Guimarães",
+ "partido": "QRS",
+ "uf": "MG",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 1,
+ "n_relatorias": 2,
+ "ultima_atividade": "2026-11-03",
+ "url_fonte": "https://www.almg.gov.br/deputados/?id=880008",
+ "nome_civil": "Ivone Guimarães Costa",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "CCJ",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "SEGPUB",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 7200009,
+   "sigla": "PL 2495/2026",
+   "etapa": "plenario_origem",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "orgao": "CCJ",
+   "desde": "2026-02-06"
+  },
+  {
+   "proposicao_id": 7200011,
+   "sigla": "PL 2251/2019",
+   "orgao": "CCJ",
+   "desde": "2022-11-02"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "7200003-4",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-11-03",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200003-3",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-10-28",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200010-4",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200010-3",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200002-5",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-10",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200002-4",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-04",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200001-4",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200001-3",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  }
+ ],
+ "discursos": [
+  {
+   "data": "2026-07-24",
+   "sumario": "Pronunciamento sobre a tramitação de proposições na área de saúde.",
+   "url": "https://www.almg.gov.br/deputados/?id=880008"
+  }
+ ],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

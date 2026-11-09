@@ -1,0 +1,28 @@
+{
+ "id": 2426676,
+ "titulo": "Define regras de tributos para manter o diferencial competitivo da Zona Franca de Manaus",
+ "tldr": [
+  "Cria créditos de IBS e CBS (novos tributos sobre consumo) para empresas da Zona Franca e quem compra delas, e zera o IPI a partir de 1º de janeiro de 2027, menos para produtos com produção relevante na região.",
+  "Empresas da Zona Franca de Manaus com projeto aprovado pela Superintendência da Zona Franca de Manaus, seus compradores e fabricantes de produtos sujeitos ao IPI.",
+  "Aguarda parecer na Comissão da Amazônia e dos Povos Originários e Tradicionais, que designou relatoria em 12/12/2024. Tramita com prioridade."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2426676",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2406769",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fcef9953117f2a6b",
+ "hash_tramitacao": "84db2535ce6c710e",
+ "tentativa": 1
+}

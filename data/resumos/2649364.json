@@ -1,0 +1,28 @@
+{
+ "id": 2649364,
+ "titulo": "Obriga embalagens de alimentos a destacar mudança na composição e proíbe rótulos que induzam a erro",
+ "tldr": [
+  "Mudança relevante na composição de um alimento já vendido terá de aparecer em destaque na frente da embalagem; produtos substitutos ou análogos devem informar a principal diferença e não podem imitar o visual do alimento tradicional.",
+  "Fabricantes de alimentos industrializados e consumidores que compram esses produtos.",
+  "Apresentada em 28/10/2026, ainda não foi distribuída às comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649364",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187077",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a7defd4549978134",
+ "hash_tramitacao": "a28cd84f27e13239",
+ "tentativa": 1
+}

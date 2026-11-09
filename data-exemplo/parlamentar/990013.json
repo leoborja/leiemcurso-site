@@ -1,0 +1,217 @@
+{
+ "id": 990013,
+ "nome": "Gustavo Pires",
+ "partido": "XYZ",
+ "uf": "MA",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 2,
+ "n_relatorias": 2,
+ "ultima_atividade": "2026-11-05",
+ "url_fonte": "https://www.camara.leg.br/deputados/990013",
+ "nome_civil": "Gustavo Pires de Souza",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "CCJC",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "CMADS",
+   "nome": null,
+   "papel": "Suplente"
+  },
+  {
+   "sigla": "CVT",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 9100007,
+   "sigla": "PL 1127/2024",
+   "etapa": "sancao",
+   "proponente": false
+  },
+  {
+   "proposicao_id": 9100014,
+   "sigla": "PL 1590/2023",
+   "etapa": "plenario_origem",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 9100004,
+   "sigla": "PLP 263/2024",
+   "orgao": "CCJC",
+   "desde": "2025-06-24"
+  },
+  {
+   "proposicao_id": 9100012,
+   "sigla": "PL 1271/2024",
+   "orgao": "CMADS",
+   "desde": "2026-05-20"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "9100009-3",
+   "proposicao_id": 9100009,
+   "sigla": "PL 1243/2024",
+   "data": "2026-11-05",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "9100036-3",
+   "proposicao_id": 9100036,
+   "sigla": "PL 1754/2023",
+   "data": "2026-11-03",
+   "descricao": "Rejeitado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100002-5",
+   "proposicao_id": 9100002,
+   "sigla": "PL 1246/2023",
+   "data": "2026-10-29",
+   "descricao": "Votação das emendas do Senado Federal. Aprovadas.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100007-3",
+   "proposicao_id": 9100007,
+   "sigla": "PL 1127/2024",
+   "data": "2026-09-24",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100003-2",
+   "proposicao_id": 9100003,
+   "sigla": "MPV 1345/2026",
+   "data": "2026-08-21",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100011-3",
+   "proposicao_id": 9100011,
+   "sigla": "PL 1499/2023",
+   "data": "2026-06-22",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100010-3",
+   "proposicao_id": 9100010,
+   "sigla": "PL 1248/2025",
+   "data": "2026-06-03",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100006-4",
+   "proposicao_id": 9100006,
+   "sigla": "PL 1358/2023",
+   "data": "2026-04-16",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100004-4",
+   "proposicao_id": 9100004,
+   "sigla": "PLP 263/2024",
+   "data": "2025-10-20",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100002-4",
+   "proposicao_id": 9100002,
+   "sigla": "PL 1246/2023",
+   "data": "2025-09-17",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100005-4",
+   "proposicao_id": 9100005,
+   "sigla": "PEC 295/2023",
+   "data": "2025-04-01",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100005-3",
+   "proposicao_id": 9100005,
+   "sigla": "PEC 295/2023",
+   "data": "2025-03-26",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100008-3",
+   "proposicao_id": 9100008,
+   "sigla": "PL 1462/2023",
+   "data": "2024-11-26",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100001-3",
+   "proposicao_id": 9100001,
+   "sigla": "PL 1197/2023",
+   "data": "2024-01-19",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  }
+ ],
+ "discursos": [
+  {
+   "data": "2026-08-05",
+   "sumario": "Comunicação sobre audiência pública realizada na comissão.",
+   "url": "https://www.camara.leg.br/deputados/990013"
+  }
+ ],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 0,
+   "votos": 2,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

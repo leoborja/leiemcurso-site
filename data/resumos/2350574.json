@@ -1,0 +1,28 @@
+{
+ "id": 2350574,
+ "titulo": "Dispensa municípios de até cem mil habitantes de estar em dia para receber repasses em 2023",
+ "tldr": [
+  "Na execução do orçamento de 2023, a reserva de verba, os repasses de recursos, a assinatura dos acordos e a doação de bens a municípios de até cem mil habitantes não dependeriam de o município estar em dia.",
+  "Municípios de até cem mil habitantes.",
+  "Foi devolvida ao autor pela Mesa da Câmara em 12/05/2023, com base no Regimento Interno da Câmara e no artigo 165 da Constituição."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2350574",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2240840",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ab6f280c69ad8250",
+ "hash_tramitacao": "b162448465f5fb44",
+ "tentativa": 1
+}

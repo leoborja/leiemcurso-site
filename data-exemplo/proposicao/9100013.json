@@ -1,8 +1,8 @@
 {
  "id": 9100013,
- "sigla": "PEC 784/2025",
+ "sigla": "PEC 271/2025",
  "tipo": "PEC",
- "numero": 784,
+ "numero": 271,
  "ano": 2025,
  "ementa": "Altera o art. 37 da Constituição Federal para vedar o nepotismo cruzado na administração pública.",
  "tema": [
@@ -14,54 +14,63 @@
   "nome": "Renata Quintela",
   "partido": "ABC",
   "uf": "SC",
-  "tipo": "Deputado"
+  "tipo": "Deputado",
+  "id_parlamentar": 990012
  },
  "etapa": "plenario_origem",
  "orgao_atual": "PLEN",
  "ultima_movimentacao": "2026-10-20",
  "dias_parado": 18,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Renata Quintela",
    "partido": "ABC",
    "uf": "SC",
    "tipo": "Deputado",
-   "id_deputado": 990012
+   "id_parlamentar": 990012
   },
   {
    "nome": "Mauro Teixeira",
-   "partido": "MNO",
-   "uf": "SP",
+   "partido": "XYZ",
+   "uf": "RS",
    "tipo": "Deputado",
-   "id_deputado": 990112
+   "id_parlamentar": 990019
   }
  ],
  "relatores": [
   {
    "nome": "Beatriz Nunes",
    "orgao": "CCJC",
-   "desde": "2026-03-30"
+   "desde": "2026-04-20",
+   "id_parlamentar": 990016
   },
   {
    "nome": "Clara Bastos",
-   "orgao": "CESP",
-   "desde": "2026-08-23"
+   "orgao": "ESPECIAL",
+   "desde": "2026-07-06",
+   "id_parlamentar": 990018
   }
  ],
  "etapas": [
   {
    "etapa": "apresentado",
    "inicio": "2025-03-18",
-   "fim": "2026-02-12"
+   "fim": "2026-04-09"
   },
   {
    "etapa": "comissoes",
-   "inicio": "2026-02-12",
+   "inicio": "2026-04-09",
    "fim": "2026-10-20",
    "orgaos": [
     "CCJC",
-    "CESP"
+    "ESPECIAL"
    ]
   },
   {
@@ -72,49 +81,49 @@
  ],
  "tramitacoes": [
   {
-   "data": "2025-03-18T19:00:00Z",
+   "data": "2025-03-18T14:00:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PEC 784/2025 pelo(a) autor(a): Renata Quintela.",
+   "descricao": "Apresentação do PEC 271/2025 pelo(a) autor(a): Renata Quintela.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
   },
   {
-   "data": "2025-03-19T14:45:00Z",
+   "data": "2025-03-19T21:45:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
   },
   {
-   "data": "2026-02-12T20:15:00Z",
+   "data": "2026-04-09T21:00:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CCJC, CESP. Proposição sujeita à apreciação do Plenário.",
+   "descricao": "Despacho às comissões: CCJC, ESPECIAL.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
   },
   {
-   "data": "2026-03-30T14:15:00Z",
+   "data": "2026-04-20T19:00:00Z",
    "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Beatriz Nunes.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
   },
   {
-   "data": "2026-06-11T17:45:00Z",
+   "data": "2026-06-03T19:00:00Z",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
   },
   {
-   "data": "2026-08-23T18:15:00Z",
-   "orgao": "CESP",
+   "data": "2026-07-06T14:15:00Z",
+   "orgao": "ESPECIAL",
    "descricao": "Designado relator(a) Dep. Clara Bastos.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
   },
   {
-   "data": "2026-10-20T14:45:00Z",
-   "orgao": "CESP",
+   "data": "2026-10-20T20:00:00Z",
+   "orgao": "ESPECIAL",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
   },
   {
-   "data": "2026-10-20T18:45:00Z",
+   "data": "2026-10-20T21:15:00Z",
    "orgao": "PLEN",
    "descricao": "Pronta para pauta no Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
@@ -123,35 +132,31 @@
  "votacoes": [
   {
    "id": "9100013-1",
-   "data": "2026-06-11",
+   "data": "2026-06-03",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
     "sim": 18,
-    "nao": 6,
-    "abstencao": 0
+    "nao": 5,
+    "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
   },
   {
    "id": "9100013-2",
    "data": "2026-10-20",
-   "orgao": "CESP",
-   "descricao": "Aprovado o parecer do(a) relator(a) na CESP.",
+   "orgao": "ESPECIAL",
+   "descricao": "Aprovado o parecer do(a) relator(a) na ESPECIAL.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 23,
-    "nao": -1,
-    "abstencao": 8
+    "sim": 18,
+    "nao": 5,
+    "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100013"
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ ]
 }

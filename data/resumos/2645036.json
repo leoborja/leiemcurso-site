@@ -1,0 +1,28 @@
+{
+ "id": 2645036,
+ "titulo": "Cria programa nacional de intercâmbio e formação internacional para alunos e professores da rede pública",
+ "tldr": [
+  "Cria o Programa Nacional Ganhe o Mundo, com cursos de idiomas e preparação no Brasil, intercâmbios curtos e, depois, mais longos no exterior, priorizando alunos em vulnerabilidade socioeconômica e de alto desempenho.",
+  "Estudantes de ensino médio e educação profissional da rede pública, inclusive de institutos federais, e professores e gestores de escolas públicas.",
+  "Apresentada em 31/08/2026, ainda não foi distribuída às comissões; aguarda despacho do Presidente da Câmara dos Deputados."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645036",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3176001",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4a86da0813a31c77",
+ "hash_tramitacao": "73f0c25c24be8bfa",
+ "tentativa": 1
+}

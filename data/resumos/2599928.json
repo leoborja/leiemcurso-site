@@ -1,0 +1,28 @@
+{
+ "id": 2599928,
+ "titulo": "Muda a fórmula de reajuste anual do piso salarial dos professores da educação básica pública",
+ "tldr": [
+  "O reajuste anual do piso passa a somar a inflação do INPC do ano anterior e 50% da média de crescimento real da receita do Fundeb nos cinco anos anteriores, sem ficar abaixo do INPC.",
+  "Profissionais do magistério público da educação básica e as redes de ensino de estados, Distrito Federal e municípios.",
+  "Aprovada no Plenário da Câmara em 20/05/2026 e no Senado em 26/05/2026, virou a Lei 15.437/2026 em 18/06/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599928",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3075288",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "14ee203e23dc06af",
+ "hash_tramitacao": "dc9c36061bc34abf",
+ "tentativa": 1
+}

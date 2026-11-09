@@ -1,8 +1,8 @@
 {
  "id": 9100028,
- "sigla": "PL 1648/2026",
+ "sigla": "PL 1305/2026",
  "tipo": "PL",
- "numero": 1648,
+ "numero": 1305,
  "ano": 2026,
  "ementa": "Institui o programa de hortas comunitárias em terrenos públicos ociosos.",
  "tema": [
@@ -12,29 +12,36 @@
  "data_apresentacao": "2026-10-21",
  "autor_principal": {
   "nome": "Tiago Moura",
-  "partido": "MNO",
-  "uf": "MA",
-  "tipo": "Deputado"
+  "partido": "XYZ",
+  "uf": "CE",
+  "tipo": "Deputado",
+  "id_parlamentar": 990007
  },
  "etapa": "apresentado",
  "orgao_atual": "MESA",
  "ultima_movimentacao": "2026-10-21",
  "dias_parado": 17,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100028",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Tiago Moura",
-   "partido": "MNO",
-   "uf": "MA",
+   "partido": "XYZ",
+   "uf": "CE",
    "tipo": "Deputado",
-   "id_deputado": 990027
+   "id_parlamentar": 990007
   },
   {
    "nome": "Irene Matos",
-   "partido": "ABC",
-   "uf": "RJ",
+   "partido": "QRS",
+   "uf": "MG",
    "tipo": "Deputado",
-   "id_deputado": 990127
+   "id_parlamentar": 990014
   }
  ],
  "relatores": [],
@@ -47,17 +54,11 @@
  ],
  "tramitacoes": [
   {
-   "data": "2026-10-21T19:15:00Z",
+   "data": "2026-10-21T13:00:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1648/2026 pelo(a) autor(a): Tiago Moura.",
+   "descricao": "Apresentação do PL 1305/2026 pelo(a) autor(a): Tiago Moura.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100028"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

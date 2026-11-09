@@ -1,8 +1,8 @@
 {
  "id": 9100008,
- "sigla": "PL 1529/2023",
+ "sigla": "PL 1462/2023",
  "tipo": "PL",
- "numero": 1529,
+ "numero": 1462,
  "ano": 2023,
  "ementa": "Regulamenta o exercício da profissão de cuidador de pessoa idosa.",
  "tema": [
@@ -14,58 +14,61 @@
   "nome": "Tiago Moura",
   "partido": "XYZ",
   "uf": "CE",
-  "tipo": "Deputado"
+  "tipo": "Deputado",
+  "id_parlamentar": 990007
  },
  "etapa": "casa_revisora",
  "orgao_atual": "SF",
  "ultima_movimentacao": "2024-11-28",
  "dias_parado": 709,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": 170007,
+  "sigla": "PL 4462/2024",
+  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170007"
+ },
  "autores": [
   {
    "nome": "Tiago Moura",
    "partido": "XYZ",
    "uf": "CE",
    "tipo": "Deputado",
-   "id_deputado": 990007
+   "id_parlamentar": 990007
   }
  ],
  "relatores": [
   {
    "nome": "Carlos Menezes",
    "orgao": "CTRAB",
-   "desde": "2024-07-31"
+   "desde": "2024-01-22",
+   "id_parlamentar": 990001
   },
   {
    "nome": "Rui Albuquerque",
-   "orgao": "CFT",
-   "desde": "2024-08-08"
-  },
-  {
-   "nome": "Paulo Freitas",
    "orgao": "CCJC",
-   "desde": "2024-08-18"
+   "desde": "2024-04-01",
+   "id_parlamentar": 990003
   }
  ],
  "etapas": [
   {
    "etapa": "apresentado",
    "inicio": "2023-08-08",
-   "fim": "2024-07-25"
+   "fim": "2023-12-25"
   },
   {
    "etapa": "comissoes",
-   "inicio": "2024-07-25",
-   "fim": "2024-09-08",
+   "inicio": "2023-12-25",
+   "fim": "2024-04-07",
    "orgaos": [
     "CTRAB",
-    "CFT",
     "CCJC"
    ]
   },
   {
    "etapa": "plenario_origem",
-   "inicio": "2024-09-08",
+   "inicio": "2024-04-07",
    "fim": "2024-11-26"
   },
   {
@@ -78,77 +81,65 @@
   {
    "data": "2023-08-08T20:30:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1529/2023 pelo(a) autor(a): Tiago Moura.",
+   "descricao": "Apresentação do PL 1462/2023 pelo(a) autor(a): Tiago Moura.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2023-08-09T18:30:00Z",
+   "data": "2023-08-09T21:30:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2024-07-25T21:30:00Z",
+   "data": "2023-12-25T13:00:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CTRAB, CFT, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CTRAB, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2024-07-31T20:45:00Z",
+   "data": "2024-01-22T17:30:00Z",
    "orgao": "CTRAB",
    "descricao": "Designado relator(a) Dep. Carlos Menezes.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2024-08-01T19:15:00Z",
+   "data": "2024-03-06T18:15:00Z",
    "orgao": "CTRAB",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2024-08-08T19:45:00Z",
-   "orgao": "CFT",
+   "data": "2024-04-01T19:45:00Z",
+   "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Rui Albuquerque.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2024-08-16T17:30:00Z",
-   "orgao": "CFT",
-   "descricao": "Aprovado o parecer.",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
-  },
-  {
-   "data": "2024-08-18T21:30:00Z",
-   "orgao": "CCJC",
-   "descricao": "Designado relator(a) Dep. Paulo Freitas.",
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
-  },
-  {
-   "data": "2024-09-08T13:15:00Z",
+   "data": "2024-04-07T17:30:00Z",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2024-09-08T20:45:00Z",
+   "data": "2024-04-07T21:30:00Z",
    "orgao": "PLEN",
    "descricao": "Pronta para pauta no Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2024-11-26T21:30:00Z",
+   "data": "2024-11-26T14:45:00Z",
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto. Votação nominal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2024-11-26T21:30:00Z",
+   "data": "2024-11-26T19:00:00Z",
    "orgao": "MESA",
    "descricao": "Remessa ao Senado Federal por meio de ofício.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
-   "data": "2024-11-28T21:00:00Z",
+   "data": "2024-11-28T17:15:00Z",
    "orgao": "SF",
    "descricao": "Recebido no Senado Federal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
@@ -157,61 +148,45 @@
  "votacoes": [
   {
    "id": "9100008-1",
-   "data": "2024-08-01",
+   "data": "2024-03-06",
    "orgao": "CTRAB",
    "descricao": "Aprovado o parecer do(a) relator(a) na CTRAB.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 20,
-    "nao": 4,
-    "abstencao": 6
+    "sim": 25,
+    "nao": 13,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
    "id": "9100008-2",
-   "data": "2024-08-16",
-   "orgao": "CFT",
-   "descricao": "Aprovado o parecer do(a) relator(a) na CFT.",
+   "data": "2024-04-07",
+   "orgao": "CCJC",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
     "sim": 20,
-    "nao": 0,
-    "abstencao": 4
+    "nao": 3,
+    "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   },
   {
    "id": "9100008-3",
-   "data": "2024-09-08",
-   "orgao": "CCJC",
-   "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
-   "aprovada": true,
-   "placar": {
-    "sim": 13,
-    "nao": -3,
-    "abstencao": 8
-   },
-   "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
-  },
-  {
-   "id": "9100008-4",
    "data": "2024-11-26",
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 261,
-    "nao": 230,
-    "abstencao": 3
+    "sim": 329,
+    "nao": 149,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100008"
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": 170007,
-  "sigla": "PL 4529/2024",
-  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170007"
- }
+ ]
 }

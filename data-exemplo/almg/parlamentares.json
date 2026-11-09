@@ -1,0 +1,149 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "parlamentares": [
+  {
+   "id": 880000,
+   "nome": "Alice Fontoura",
+   "partido": "ABC",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 2,
+   "n_relatorias": 3,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880000"
+  },
+  {
+   "id": 880001,
+   "nome": "Bruno Tavares",
+   "partido": "XYZ",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 3,
+   "n_relatorias": 1,
+   "ultima_atividade": "2026-11-04",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880001"
+  },
+  {
+   "id": 880002,
+   "nome": "Célia Drummond",
+   "partido": "QRS",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 2,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880002"
+  },
+  {
+   "id": 880003,
+   "nome": "Diego Rezende",
+   "partido": "MNO",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 3,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880003"
+  },
+  {
+   "id": 880004,
+   "nome": "Elisa Vasconcelos",
+   "partido": "UVW",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 2,
+   "n_relatorias": 0,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880004"
+  },
+  {
+   "id": 880005,
+   "nome": "Fernando Lage",
+   "partido": "HJK",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 2,
+   "ultima_atividade": "2026-10-28",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880005"
+  },
+  {
+   "id": 880006,
+   "nome": "Gisele Amaral",
+   "partido": "ABC",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 3,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880006"
+  },
+  {
+   "id": 880007,
+   "nome": "Heitor Campos",
+   "partido": "XYZ",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 3,
+   "n_relatorias": 1,
+   "ultima_atividade": "2026-11-04",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880007"
+  },
+  {
+   "id": 880008,
+   "nome": "Ivone Guimarães",
+   "partido": "QRS",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 2,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880008"
+  },
+  {
+   "id": 880009,
+   "nome": "Júlio Brandão",
+   "partido": "MNO",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 1,
+   "ultima_atividade": "2026-10-28",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880009"
+  },
+  {
+   "id": 880010,
+   "nome": "Lívia Pacheco",
+   "partido": "UVW",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 2,
+   "n_relatorias": 0,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880010"
+  },
+  {
+   "id": 880011,
+   "nome": "Marcos Viana",
+   "partido": "HJK",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": false,
+   "n_autorias": 1,
+   "n_relatorias": 1,
+   "ultima_atividade": "2026-10-28",
+   "url_fonte": "https://www.almg.gov.br/deputados/?id=880011"
+  }
+ ]
+}

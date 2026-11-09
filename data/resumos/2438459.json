@@ -1,0 +1,28 @@
+{
+ "id": 2438459,
+ "titulo": "Cria comitê gestor do novo imposto sobre consumo e regula divisão da arrecadação e imposto sobre herança",
+ "tldr": [
+  "Estados, Distrito Federal e municípios passam a administrar o Imposto sobre Bens e Serviços por um comitê gestor, que arrecada, reparte o dinheiro e julga recursos; o texto também regula o imposto sobre herança e doação.",
+  "Estados, Distrito Federal e municípios, seus fiscos e procuradorias, contribuintes do imposto e pessoas que recebem herança ou doação.",
+  "Virou a Lei Complementar 227/2026, publicada em 14/01/2026 com vetos parciais. Em 22/01/2026, a Câmara pediu correção de erro material na ementa do texto enviado à sanção."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2438459",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2433204",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c2925d6f281c3392",
+ "hash_tramitacao": "2c56419f6c9b1900",
+ "tentativa": 1
+}

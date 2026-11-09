@@ -1,0 +1,28 @@
+{
+ "id": 2497816,
+ "titulo": "Transforma cargos vagos de juiz em cargos de desembargador no Tribunal Regional do Trabalho da 2ª Região",
+ "tldr": [
+  "O tribunal, com sede em São Paulo, passou a ter 105 desembargadores. A troca de 27 cargos vagos de juiz substituto por 11 de desembargador, sem aumento de despesas, também cria cargos em comissão e funções comissionadas.",
+  "O Tribunal Regional do Trabalho da 2ª Região, com sede em São Paulo, seus juízes, desembargadores e servidores em cargos de confiança.",
+  "Virou a Lei Ordinária 15208/2025 em 15/09/2025, publicada no Diário Oficial da União em 16/09/2025. Foi aprovada pelo Plenário da Câmara em 11/06/2025 e enviada à sanção pelo Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497816",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2886932",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "706d33b3916e2b88",
+ "hash_tramitacao": "9e71ea451164dee8",
+ "tentativa": 1
+}

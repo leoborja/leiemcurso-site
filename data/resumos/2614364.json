@@ -1,0 +1,28 @@
+{
+ "id": 2614364,
+ "titulo": "Cria regime emergencial de abastecimento de combustíveis com subvenção ao diesel importado",
+ "tldr": [
+  "A União poderia pagar R$ 1,20 por litro a importadores de diesel até 31 de maio de 2026, dos quais R$ 0,60 bancados pelos estados que aderissem; previa ainda apoio a gás liquefeito importado e ao setor aéreo.",
+  "Importadores de óleo diesel rodoviário, estados e Distrito Federal que aderissem, importadores de gás liquefeito e empresas do setor aéreo.",
+  "Perdeu a validade na comissão mista: o prazo de vigência terminou em 04/08/2026, conforme ato do Congresso Nacional de 11/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614364",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3117423",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "16a743729d4a938a",
+ "hash_tramitacao": "83ecb41704242318",
+ "tentativa": 1
+}

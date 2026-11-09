@@ -1,0 +1,28 @@
+{
+ "id": 2480948,
+ "titulo": "Obriga a priorizar municípios em vulnerabilidade social nos investimentos em saneamento básico",
+ "tldr": [
+  "A execução dos serviços de saneamento básico passa a priorizar municípios em vulnerabilidade social, definidos pelo Ministério do Desenvolvimento Social com base em pobreza, saúde pública e acesso a serviços essenciais.",
+  "Municípios em situação de vulnerabilidade social e os responsáveis pela execução dos serviços de saneamento básico.",
+  "Tramita com prioridade (urgência aprovada no Plenário da Câmara em 03/11/2025, por 275 votos a 146) e está pronta para votação no Plenário. O parecer preliminar foi apresentado em 05/11/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480948",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2844593",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a12b0f5b14bd88bc",
+ "hash_tramitacao": "2b6e2ea5d304d422",
+ "tentativa": 1
+}

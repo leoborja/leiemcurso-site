@@ -1,0 +1,28 @@
+{
+ "id": 2595897,
+ "titulo": "Define como terras indígenas as ocupadas na data da promulgação da Constituição e proíbe ampliar demarcações",
+ "tldr": [
+  "Só contam como terras indígenas as ocupadas por esses povos na promulgação da Constituição, sem ampliar áreas já demarcadas. Fora disso, valem títulos de particulares, com indenização da União se houver desapropriação.",
+  "Povos indígenas, proprietários e possuidores de áreas reivindicadas, a União e os estados e municípios envolvidos em demarcações.",
+  "Aprovada no Senado, chegou à Câmara em 10/12/2025. Aguarda designação de relatoria na Comissão de Constituição e Justiça e de Cidadania; em 27/05/2026 houve pedido para incluí-la na pauta do Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2595897",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3065981",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "779c65207144cdd0",
+ "hash_tramitacao": "ee58f9ce272aff3b",
+ "tentativa": 1
+}

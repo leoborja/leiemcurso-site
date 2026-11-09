@@ -1,0 +1,28 @@
+{
+ "id": 2537739,
+ "titulo": "Define regras para transporte e entregas por aplicativo, com direitos de usuários e trabalhadores",
+ "tldr": [
+  "Empresas de aplicativo passam a responder por danos ao usuário mesmo sem culpa e a firmar contrato escrito com motoristas e entregadores, sem exigir exclusividade ou jornada mínima; também há regras de contribuição ao INSS.",
+  "Motoristas e entregadores autônomos que trabalham por aplicativo, as empresas que operam essas plataformas e os usuários dos serviços.",
+  "Pronta para entrar na pauta de votação de comissão da Câmara, com prioridade; em 07/04/2026 a relatoria apresentou novo parecer pela aprovação, com texto alternativo (substitutivo)."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2537739",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2959384",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e2a790fe542f2116",
+ "hash_tramitacao": "cb18f4d632850c75",
+ "tentativa": 1
+}

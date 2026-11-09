@@ -1,8 +1,8 @@
 {
  "id": 9100039,
- "sigla": "PEC 216/2023",
+ "sigla": "PEC 339/2023",
  "tipo": "PEC",
- "numero": 216,
+ "numero": 339,
  "ano": 2023,
  "ementa": "Altera o art. 14 da Constituição Federal para dispor sobre o voto facultativo.",
  "tema": [
@@ -11,49 +11,58 @@
  "data_apresentacao": "2023-05-23",
  "autor_principal": {
   "nome": "Clara Bastos",
-  "partido": "QRS",
-  "uf": "AM",
-  "tipo": "Deputado"
+  "partido": "ABC",
+  "uf": "PE",
+  "tipo": "Deputado",
+  "id_parlamentar": 990018
  },
  "etapa": "arquivado",
  "orgao_atual": "MESA",
  "ultima_movimentacao": "2026-10-29",
  "dias_parado": 9,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Clara Bastos",
-   "partido": "QRS",
-   "uf": "AM",
+   "partido": "ABC",
+   "uf": "PE",
    "tipo": "Deputado",
-   "id_deputado": 990038
+   "id_parlamentar": 990018
   }
  ],
  "relatores": [
   {
    "nome": "Irene Matos",
    "orgao": "CCJC",
-   "desde": "2025-12-26"
+   "desde": "2026-03-09",
+   "id_parlamentar": 990014
   },
   {
    "nome": "Beatriz Nunes",
-   "orgao": "CESP",
-   "desde": "2026-04-07"
+   "orgao": "ESPECIAL",
+   "desde": "2026-08-02",
+   "id_parlamentar": 990016
   }
  ],
  "etapas": [
   {
    "etapa": "apresentado",
    "inicio": "2023-05-23",
-   "fim": "2025-09-07"
+   "fim": "2026-03-08"
   },
   {
    "etapa": "comissoes",
-   "inicio": "2025-09-07",
+   "inicio": "2026-03-08",
    "fim": "2026-10-29",
    "orgaos": [
     "CCJC",
-    "CESP"
+    "ESPECIAL"
    ]
   },
   {
@@ -64,86 +73,82 @@
  ],
  "tramitacoes": [
   {
-   "data": "2023-05-23T19:45:00Z",
+   "data": "2023-05-23T17:00:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PEC 216/2023 pelo(a) autor(a): Clara Bastos.",
+   "descricao": "Apresentação do PEC 339/2023 pelo(a) autor(a): Clara Bastos.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   },
   {
-   "data": "2023-05-24T17:30:00Z",
+   "data": "2023-05-24T21:45:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   },
   {
-   "data": "2025-09-07T14:15:00Z",
+   "data": "2026-03-08T18:45:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CCJC, CESP. Proposição sujeita à apreciação do Plenário.",
+   "descricao": "Despacho às comissões: CCJC, ESPECIAL.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   },
   {
-   "data": "2025-12-26T14:00:00Z",
+   "data": "2026-03-09T18:15:00Z",
    "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Irene Matos.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   },
   {
-   "data": "2026-01-25T20:00:00Z",
+   "data": "2026-07-20T13:30:00Z",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   },
   {
-   "data": "2026-04-07T21:00:00Z",
-   "orgao": "CESP",
+   "data": "2026-08-02T19:15:00Z",
+   "orgao": "ESPECIAL",
    "descricao": "Designado relator(a) Dep. Beatriz Nunes.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   },
   {
-   "data": "2026-10-29T13:30:00Z",
-   "orgao": "CESP",
+   "data": "2026-10-29T14:00:00Z",
+   "orgao": "ESPECIAL",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   },
   {
-   "data": "2026-10-29T14:00:00Z",
+   "data": "2026-10-29T14:15:00Z",
    "orgao": "MESA",
-   "descricao": "Arquivado por não ter sido admitido na CCJC.",
+   "descricao": "Arquivado por não ter sido admitido na comissão de constituição e justiça.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   }
  ],
  "votacoes": [
   {
    "id": "9100039-1",
-   "data": "2026-01-25",
+   "data": "2026-07-20",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 15,
-    "nao": 6,
-    "abstencao": 3
+    "sim": 28,
+    "nao": 10,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   },
   {
    "id": "9100039-2",
    "data": "2026-10-29",
-   "orgao": "CESP",
-   "descricao": "Aprovado o parecer do(a) relator(a) na CESP.",
+   "orgao": "ESPECIAL",
+   "descricao": "Aprovado o parecer do(a) relator(a) na ESPECIAL.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 15,
-    "nao": -6,
-    "abstencao": 9
+    "sim": 22,
+    "nao": 8,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100039"
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ ]
 }

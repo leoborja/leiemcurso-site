@@ -1,8 +1,8 @@
 {
  "id": 9100034,
- "sigla": "MPV 2113/2026",
+ "sigla": "MPV 1467/2026",
  "tipo": "MPV",
- "numero": 2113,
+ "numero": 1467,
  "ano": 2026,
  "ementa": "Dispõe sobre medidas temporárias de apoio ao setor pesqueiro afetado pela estiagem.",
  "tema": [
@@ -13,19 +13,27 @@
   "nome": "Poder Executivo",
   "partido": null,
   "uf": null,
-  "tipo": "Poder Executivo"
+  "tipo": "Poder Executivo",
+  "id_parlamentar": null
  },
  "etapa": "apresentado",
  "orgao_atual": "MESA",
  "ultima_movimentacao": "2026-11-05",
  "dias_parado": 2,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100034",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Poder Executivo",
    "partido": null,
    "uf": null,
-   "tipo": "Poder Executivo"
+   "tipo": "Poder Executivo",
+   "id_parlamentar": null
   }
  ],
  "relatores": [],
@@ -38,17 +46,11 @@
  ],
  "tramitacoes": [
   {
-   "data": "2026-11-05T19:45:00Z",
+   "data": "2026-11-05T20:15:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do MPV 2113/2026 pelo(a) autor(a): Poder Executivo.",
+   "descricao": "Apresentação do MPV 1467/2026 pelo(a) autor(a): Poder Executivo.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100034"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

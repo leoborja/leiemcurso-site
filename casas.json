@@ -1,0 +1,52 @@
+{
+ "_leia": "Casas que o site mostra. 'base' é relativo a site/. 'recursos' diz o que a coleta daquela casa já publica (o site só busca o que está listado): proposicoes, semanas, estatisticas, parlamentares, resumos (resumos.json em lote) ou resumos_individuais (resumos/{id}.json). Ao começar a publicar algo, a coleta acrescenta aqui. Ver docs/design.md.",
+ "casas": [
+  {
+   "id": "camara",
+   "nome": "Câmara dos Deputados",
+   "curto": "Câmara",
+   "esfera": "federal",
+   "base": "data/",
+   "membros": 513,
+   "bicameral": true,
+   "executivo": "Presidente da República",
+   "parlamentar": "Deputado",
+   "recursos": [
+    "proposicoes",
+    "semanas",
+    "estatisticas",
+    "parlamentares",
+    "resumos_individuais"
+   ]
+  },
+  {
+   "id": "almg",
+   "nome": "Assembleia Legislativa de Minas Gerais",
+   "curto": "ALMG",
+   "esfera": "estadual",
+   "base": "data/almg/",
+   "membros": 77,
+   "bicameral": false,
+   "executivo": "Governador",
+   "parlamentar": "Deputado Estadual",
+   "recursos": [
+    "proposicoes",
+    "semanas",
+    "estatisticas",
+    "parlamentares"
+   ]
+  },
+  {
+   "id": "cmbh",
+   "nome": "Câmara Municipal de Belo Horizonte",
+   "curto": "CMBH",
+   "esfera": "municipal",
+   "base": "data/cmbh/",
+   "membros": 41,
+   "bicameral": false,
+   "executivo": "Prefeito",
+   "parlamentar": "Vereador",
+   "recursos": []
+  }
+ ]
+}

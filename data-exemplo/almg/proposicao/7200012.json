@@ -1,0 +1,68 @@
+{
+ "id": 7200012,
+ "sigla": "PL 2574/2025",
+ "tipo": "PL",
+ "numero": 2574,
+ "ano": 2025,
+ "ementa": "Institui a semana estadual de conscientização sobre o transtorno do espectro autista.",
+ "tema": [
+  "Saúde",
+  "Direitos Humanos e Minorias"
+ ],
+ "data_apresentacao": "2025-06-03",
+ "autor_principal": {
+  "nome": "Marcos Viana",
+  "partido": "HJK",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880011
+ },
+ "etapa": "retirado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2025-07-01",
+ "dias_parado": 494,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200012",
+ "autores": [
+  {
+   "nome": "Marcos Viana",
+   "partido": "HJK",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880011
+  }
+ ],
+ "relatores": [],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-06-03",
+   "fim": "2025-07-01"
+  },
+  {
+   "etapa": "retirado",
+   "inicio": "2025-07-01",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-06-03T21:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2574/2025 pelo(a) autor(a): Marcos Viana.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200012"
+  },
+  {
+   "data": "2025-06-04T20:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200012"
+  },
+  {
+   "data": "2025-07-01T19:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Deferido o requerimento de retirada de tramitação apresentado pelo(a) autor(a).",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200012"
+  }
+ ],
+ "votacoes": []
+}

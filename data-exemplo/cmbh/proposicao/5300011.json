@@ -1,0 +1,181 @@
+{
+ "id": 5300011,
+ "sigla": "PL 848/2025",
+ "tipo": "PL",
+ "numero": 848,
+ "ano": 2025,
+ "ementa": "Dispõe sobre a limpeza de lotes vagos e a aplicação de multa ao proprietário.",
+ "tema": [
+  "Cidades e Desenvolvimento Urbano"
+ ],
+ "data_apresentacao": "2025-10-14",
+ "autor_principal": {
+  "nome": "Aline Barcelos",
+  "partido": "ABC",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770000
+ },
+ "etapa": "retirado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-04-07",
+ "dias_parado": 214,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011",
+ "autores": [
+  {
+   "nome": "Aline Barcelos",
+   "partido": "ABC",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770000
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Aline Barcelos",
+   "orgao": "POLURB",
+   "desde": "2025-12-19",
+   "id_parlamentar": 770000
+  },
+  {
+   "nome": "Cecília Mourão",
+   "orgao": "ORCFIN",
+   "desde": "2026-02-04",
+   "id_parlamentar": 770002
+  },
+  {
+   "nome": "Estela Paiva",
+   "orgao": "CLJ",
+   "desde": "2026-03-18",
+   "id_parlamentar": 770004
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-10-14",
+   "fim": "2025-11-30"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2025-11-30",
+   "fim": "2026-04-07",
+   "orgaos": [
+    "POLURB",
+    "ORCFIN",
+    "CLJ"
+   ]
+  },
+  {
+   "etapa": "retirado",
+   "inicio": "2026-04-07",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-10-14T14:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 848/2025 pelo(a) autor(a): Aline Barcelos.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "data": "2025-10-15T17:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "data": "2025-11-30T18:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: POLURB, ORCFIN, CLJ.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "data": "2025-12-19T21:15:00Z",
+   "orgao": "POLURB",
+   "descricao": "Designado relator(a) Ver. Aline Barcelos.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "data": "2026-01-01T19:30:00Z",
+   "orgao": "POLURB",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "data": "2026-02-04T19:45:00Z",
+   "orgao": "ORCFIN",
+   "descricao": "Designado relator(a) Ver. Cecília Mourão.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "data": "2026-03-15T18:45:00Z",
+   "orgao": "ORCFIN",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "data": "2026-03-18T21:30:00Z",
+   "orgao": "CLJ",
+   "descricao": "Designado relator(a) Ver. Estela Paiva.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "data": "2026-04-07T13:15:00Z",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "data": "2026-04-07T17:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Deferido o requerimento de retirada de tramitação apresentado pelo(a) autor(a).",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "5300011-1",
+   "data": "2026-01-01",
+   "orgao": "POLURB",
+   "descricao": "Aprovado o parecer do(a) relator(a) na POLURB.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 7,
+    "nao": 1,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "id": "5300011-2",
+   "data": "2026-03-15",
+   "orgao": "ORCFIN",
+   "descricao": "Aprovado o parecer do(a) relator(a) na ORCFIN.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 3,
+    "nao": 1,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  },
+  {
+   "id": "5300011-3",
+   "data": "2026-04-07",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CLJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 2,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300011"
+  }
+ ]
+}

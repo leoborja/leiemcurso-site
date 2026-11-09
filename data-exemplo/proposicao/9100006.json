@@ -1,8 +1,8 @@
 {
  "id": 9100006,
- "sigla": "PL 1522/2023",
+ "sigla": "PL 1358/2023",
  "tipo": "PL",
- "numero": 1522,
+ "numero": 1358,
  "ano": 2023,
  "ementa": "Concede isenção do imposto de importação para equipamentos de energia solar destinados a cooperativas rurais.",
  "tema": [
@@ -14,49 +14,59 @@
   "nome": "Paulo Freitas",
   "partido": "HJK",
   "uf": "RS",
-  "tipo": "Deputado"
+  "tipo": "Deputado",
+  "id_parlamentar": 990005
  },
  "etapa": "vetado",
- "orgao_atual": "CN",
+ "orgao_atual": "PLEN",
  "ultima_movimentacao": "2026-07-30",
  "dias_parado": 100,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": 170005,
+  "sigla": "PL 4358/2026",
+  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170005"
+ },
  "autores": [
   {
    "nome": "Paulo Freitas",
    "partido": "HJK",
    "uf": "RS",
    "tipo": "Deputado",
-   "id_deputado": 990005
+   "id_parlamentar": 990005
   }
  ],
  "relatores": [
   {
    "nome": "Davi Cordeiro",
    "orgao": "CAPADR",
-   "desde": "2024-05-26"
+   "desde": "2025-06-18",
+   "id_parlamentar": 990015
   },
   {
    "nome": "Hugo Valente",
    "orgao": "CFT",
-   "desde": "2024-08-17"
+   "desde": "2025-07-26",
+   "id_parlamentar": 990017
   },
   {
    "nome": "Mauro Teixeira",
    "orgao": "CCJC",
-   "desde": "2025-01-12"
+   "desde": "2025-10-25",
+   "id_parlamentar": 990019
   }
  ],
  "etapas": [
   {
    "etapa": "apresentado",
    "inicio": "2023-06-27",
-   "fim": "2023-09-25"
+   "fim": "2025-06-07"
   },
   {
    "etapa": "comissoes",
-   "inicio": "2023-09-25",
-   "fim": "2025-02-18",
+   "inicio": "2025-06-07",
+   "fim": "2025-12-19",
    "orgaos": [
     "CAPADR",
     "CFT",
@@ -65,17 +75,17 @@
   },
   {
    "etapa": "plenario_origem",
-   "inicio": "2025-02-18",
-   "fim": "2025-05-28"
+   "inicio": "2025-12-19",
+   "fim": "2026-04-16"
   },
   {
    "etapa": "casa_revisora",
-   "inicio": "2025-05-28",
-   "fim": "2025-07-16"
+   "inicio": "2026-04-16",
+   "fim": "2026-06-05"
   },
   {
    "etapa": "sancao",
-   "inicio": "2025-07-16",
+   "inicio": "2026-06-05",
    "fim": "2026-07-30"
   },
   {
@@ -86,160 +96,158 @@
  ],
  "tramitacoes": [
   {
-   "data": "2023-06-27T19:15:00Z",
+   "data": "2023-06-27T14:30:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1522/2023 pelo(a) autor(a): Paulo Freitas.",
+   "descricao": "Apresentação do PL 1358/2023 pelo(a) autor(a): Paulo Freitas.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2023-06-28T14:30:00Z",
+   "data": "2023-06-28T13:30:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2023-09-25T13:30:00Z",
+   "data": "2025-06-07T20:30:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CAPADR, CFT, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CAPADR, CFT, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2024-05-26T19:15:00Z",
+   "data": "2025-06-18T17:45:00Z",
    "orgao": "CAPADR",
    "descricao": "Designado relator(a) Dep. Davi Cordeiro.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2024-06-16T18:00:00Z",
+   "data": "2025-07-18T18:00:00Z",
    "orgao": "CAPADR",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2024-08-17T14:15:00Z",
+   "data": "2025-07-26T14:15:00Z",
    "orgao": "CFT",
    "descricao": "Designado relator(a) Dep. Hugo Valente.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2024-11-13T18:30:00Z",
+   "data": "2025-08-24T18:30:00Z",
    "orgao": "CFT",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2025-01-12T17:00:00Z",
+   "data": "2025-10-25T17:00:00Z",
    "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Mauro Teixeira.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2025-02-18T17:15:00Z",
+   "data": "2025-12-19T17:15:00Z",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2025-02-18T19:45:00Z",
+   "data": "2025-12-19T19:45:00Z",
    "orgao": "PLEN",
    "descricao": "Pronta para pauta no Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2025-05-28T14:45:00Z",
+   "data": "2026-04-16T13:30:00Z",
    "orgao": "MESA",
    "descricao": "Remessa ao Senado Federal por meio de ofício.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2025-05-28T21:45:00Z",
+   "data": "2026-04-16T14:45:00Z",
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto. Votação nominal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2025-05-30T13:30:00Z",
+   "data": "2026-04-18T13:30:00Z",
    "orgao": "SF",
    "descricao": "Recebido no Senado Federal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2025-07-15T13:30:00Z",
+   "data": "2026-06-04T13:30:00Z",
    "orgao": "SF",
    "descricao": "Aprovado pelo Plenário do Senado Federal.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2025-07-16T13:30:00Z",
+   "data": "2026-06-05T17:00:00Z",
    "orgao": "MESA",
-   "descricao": "Remessa à sanção.",
+   "descricao": "Remessa à sanção do Presidente da República.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
-   "data": "2026-07-30T17:00:00Z",
+   "data": "2026-07-30T21:15:00Z",
    "orgao": "PR",
-   "descricao": "Vetado totalmente. Veto encaminhado ao Congresso Nacional.",
+   "descricao": "Vetado totalmente pelo Presidente da República.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   }
  ],
  "votacoes": [
   {
    "id": "9100006-1",
-   "data": "2024-06-16",
+   "data": "2025-07-18",
    "orgao": "CAPADR",
    "descricao": "Aprovado o parecer do(a) relator(a) na CAPADR.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 22,
-    "nao": 4,
-    "abstencao": 4
+    "sim": 16,
+    "nao": 7,
+    "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
    "id": "9100006-2",
-   "data": "2024-11-13",
+   "data": "2025-08-24",
    "orgao": "CFT",
    "descricao": "Aprovado o parecer do(a) relator(a) na CFT.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
     "sim": 14,
-    "nao": -2,
-    "abstencao": 6
+    "nao": 3,
+    "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
    "id": "9100006-3",
-   "data": "2025-02-18",
+   "data": "2025-12-19",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
     "sim": 19,
-    "nao": -1,
-    "abstencao": 6
+    "nao": 4,
+    "abstencao": 1
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   },
   {
    "id": "9100006-4",
-   "data": "2025-05-28",
+   "data": "2026-04-16",
    "orgao": "PLEN",
    "descricao": "Aprovado o projeto.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 315,
-    "nao": 163,
-    "abstencao": 8
+    "sim": 305,
+    "nao": 159,
+    "abstencao": 6
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100006"
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": 170005,
-  "sigla": "PL 4522/2025",
-  "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170005"
- }
+ ]
 }

@@ -1,0 +1,69 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "resumos": [
+  {
+   "id": 5300001,
+   "titulo": "Hortas pedagógicas nas escolas municipais",
+   "tldr": [
+    "Institui um programa de hortas pedagógicas nas escolas do município.",
+    "Escolas municipais e seus estudantes.",
+    "Virou lei."
+   ],
+   "fontes": [
+    "ementa",
+    "tramitacao"
+   ],
+   "modelo": "exemplo",
+   "gerado_em": "2026-11-07T12:00:00Z",
+   "revisado": false
+  },
+  {
+   "id": 5300002,
+   "titulo": "Moradores avisados antes da poda de árvores na rua",
+   "tldr": [
+    "Exige comunicação prévia aos moradores antes da poda de árvores em vias públicas.",
+    "Moradores e o serviço municipal de poda.",
+    "Em análise nas comissões (ORCFIN)."
+   ],
+   "fontes": [
+    "ementa",
+    "tramitacao"
+   ],
+   "modelo": "exemplo",
+   "gerado_em": "2026-11-07T12:00:00Z",
+   "revisado": false
+  },
+  {
+   "id": 5300004,
+   "titulo": "Pontos de ônibus acessíveis",
+   "tldr": [
+    "Define requisitos de acessibilidade para pontos de ônibus do transporte coletivo.",
+    "Usuários do transporte coletivo, especialmente pessoas com deficiência.",
+    "Pronto para votação no Plenário."
+   ],
+   "fontes": [
+    "ementa",
+    "tramitacao"
+   ],
+   "modelo": "exemplo",
+   "gerado_em": "2026-11-07T12:00:00Z",
+   "revisado": false
+  },
+  {
+   "id": 5300005,
+   "titulo": "Cadastro de imóveis abandonados para habitação social",
+   "tldr": [
+    "Cria um cadastro municipal de imóveis abandonados que podem ser usados para habitação social.",
+    "Proprietários de imóveis abandonados e famílias que aguardam moradia.",
+    "Em análise nas comissões (POLURB)."
+   ],
+   "fontes": [
+    "ementa",
+    "tramitacao"
+   ],
+   "modelo": "exemplo",
+   "gerado_em": "2026-11-07T12:00:00Z",
+   "revisado": false
+  }
+ ]
+}

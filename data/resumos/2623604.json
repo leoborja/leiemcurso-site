@@ -1,0 +1,28 @@
+{
+ "id": 2623604,
+ "titulo": "Reduz a idade penal para 16 anos e faz maiores de 12 responderem por certos crimes",
+ "tldr": [
+  "Só os menores de 16 anos ficam isentos de responder criminalmente, seguindo lei especial. Quem tem mais de 12 e menos de 16 anos passa a responder por crimes com violência ou grave ameaça, hediondos e contra a vida.",
+  "Adolescentes com mais de 12 anos que cometam crimes, conforme a idade e o tipo de crime.",
+  "Tramita junto com a PEC 32/2015, à qual foi apensada em 18/05/2026. Em 12/08/2026, foi designada nova relatoria para a proposta principal."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3127176",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d483cc3127aad580",
+ "hash_tramitacao": "cb3889e488968af8",
+ "tentativa": 1
+}

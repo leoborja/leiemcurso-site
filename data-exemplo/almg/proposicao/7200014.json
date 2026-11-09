@@ -1,0 +1,50 @@
+{
+ "id": 7200014,
+ "sigla": "PL 2607/2026",
+ "tipo": "PL",
+ "numero": 2607,
+ "ano": 2026,
+ "ementa": "Cria o programa estadual de apoio a cuidadores familiares de pessoas com deficiência.",
+ "tema": [
+  "Direitos Humanos e Minorias"
+ ],
+ "data_apresentacao": "2026-10-27",
+ "autor_principal": {
+  "nome": "Bruno Tavares",
+  "partido": "XYZ",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880001
+ },
+ "etapa": "apresentado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-10-27",
+ "dias_parado": 11,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200014",
+ "autores": [
+  {
+   "nome": "Bruno Tavares",
+   "partido": "XYZ",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880001
+  }
+ ],
+ "relatores": [],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-10-27",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-10-27T19:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2607/2026 pelo(a) autor(a): Bruno Tavares.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200014"
+  }
+ ],
+ "votacoes": []
+}

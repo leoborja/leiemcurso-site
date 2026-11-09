@@ -1,0 +1,28 @@
+{
+ "id": 2528446,
+ "titulo": "Aumenta para três o número de empregados do MEI e eleva seu limite de receita bruta para R$ 150.000,00",
+ "tldr": [
+  "O microempreendedor individual poderá ter até três empregados que recebam salário mínimo ou piso da categoria e ter receita bruta de até R$ 150.000,00 no ano anterior sem deixar de ser MEI.",
+  "Microempreendedores individuais (MEI) e seus empregados.",
+  "Tramita com urgência junto com o PLP 35/2025, ligado ao PLP 108/2021, e depende de votação no Plenário da Câmara; em 29/04/2026 foi designada a relatoria do PLP 108/2021."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2528446",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2942024",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e207094c4b1da252",
+ "hash_tramitacao": "e3bea14985c2f17b",
+ "tentativa": 1
+}

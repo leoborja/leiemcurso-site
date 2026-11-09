@@ -1,0 +1,58 @@
+{
+ "id": 5300010,
+ "sigla": "PL 1225/2026",
+ "tipo": "PL",
+ "numero": 1225,
+ "ano": 2026,
+ "ementa": "Cria a ouvidoria municipal da pessoa idosa.",
+ "tema": [
+  "Direitos Humanos e Minorias",
+  "Administração Pública"
+ ],
+ "data_apresentacao": "2026-10-20",
+ "autor_principal": {
+  "nome": "Jorge Rocha",
+  "partido": "MNO",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770009
+ },
+ "etapa": "apresentado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-10-20",
+ "dias_parado": 18,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300010",
+ "autores": [
+  {
+   "nome": "Jorge Rocha",
+   "partido": "MNO",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770009
+  },
+  {
+   "nome": "Graça Ventura",
+   "partido": "ABC",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770006
+  }
+ ],
+ "relatores": [],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-10-20",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-10-20T21:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1225/2026 pelo(a) autor(a): Jorge Rocha.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300010"
+  }
+ ],
+ "votacoes": []
+}

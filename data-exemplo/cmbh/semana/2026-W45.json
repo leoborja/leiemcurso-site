@@ -1,0 +1,42 @@
+{
+ "semana": "2026-W45",
+ "inicio": "2026-11-02",
+ "fim": "2026-11-08",
+ "mudaram_de_etapa": [
+  {
+   "id": 5300004,
+   "sigla": "PL 769/2025",
+   "de": "comissoes",
+   "para": "plenario_origem",
+   "data": "2026-11-05"
+  },
+  {
+   "id": 5300008,
+   "sigla": "PL 1105/2026",
+   "de": "plenario_origem",
+   "para": "sancao",
+   "data": "2026-11-03"
+  }
+ ],
+ "votadas": [
+  {
+   "id": 5300004,
+   "sigla": "PL 769/2025",
+   "votacao_id": "5300004-3",
+   "aprovada": true,
+   "orgao": "CLJ",
+   "data": "2026-11-05"
+  },
+  {
+   "id": 5300008,
+   "sigla": "PL 1105/2026",
+   "votacao_id": "5300008-3",
+   "aprovada": true,
+   "orgao": "PLEN",
+   "data": "2026-11-03"
+  }
+ ],
+ "apresentadas": [
+  5300012
+ ]
+}

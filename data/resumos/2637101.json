@@ -1,0 +1,28 @@
+{
+ "id": 2637101,
+ "titulo": "Amplia indenização por trabalho em localidades estratégicas e transforma cargos vagos do serviço federal",
+ "tldr": [
+  "Mais carreiras federais passam a ter direito à indenização de R$ 91,00 por dia trabalhado em localidades estratégicas; 254 cargos vagos viram 50 na Comissão de Valores Mobiliários; reabre opção a policiais de ex-territórios.",
+  "Servidores federais de carreiras como analista técnico, auditoria federal de finanças e controle e da Agência Brasileira de Inteligência, e servidores de ex-territórios.",
+  "Aprovada no Plenário da Câmara em 27/10/2026, com texto modificado pelo Congresso, foi enviada ao Senado em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637101",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157732",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "859fa1f2dd61992c",
+ "hash_tramitacao": "298c29e3b75cb85d",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2431991,
+ "titulo": "Atualiza o termo usado para pessoa com deficiência em várias leis, seguindo convenção internacional",
+ "tldr": [
+  "Leis como o Código Penal, o Código Civil, a CLT e normas de acessibilidade passariam a usar a expressão pessoa com deficiência, adotada pela Convenção Internacional sobre os Direitos das Pessoas com Deficiência.",
+  "Pessoas com deficiência, mencionadas nas leis alteradas; a mudança é na redação dessas leis.",
+  "Foi arquivada em 03/04/2025, após a aprovação do texto substitutivo do PL 344/2024, com o qual tramitava junto (apensada)."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2431991",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2418934",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2a5f468e7ad9fbc4",
+ "hash_tramitacao": "6b21dabd9e12699a",
+ "tentativa": 1
+}

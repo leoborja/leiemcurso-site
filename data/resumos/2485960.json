@@ -1,0 +1,28 @@
+{
+ "id": 2485960,
+ "titulo": "Amplia os usos do Fundo Social para clima, calamidades, infraestrutura social e habitação popular",
+ "tldr": [
+  "Recursos do Fundo Social passam a poder financiar ações sobre mudanças climáticas e calamidades públicas, infraestrutura social e habitação de interesse social; o conselho gestor passa a propor o uso e publicar plano e relatório anuais.",
+  "Órgãos federais que recebem recursos do Fundo Social e o Conselho Deliberativo do Fundo Social.",
+  "Aprovada no Plenário da Câmara em 25/06/2025 e no Senado em 01/07/2025, virou a Lei 15.164/2025 em 14/07/2025, com veto parcial."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485960",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2868074",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9bdbbc70d0a2a1b6",
+ "hash_tramitacao": "622732f33e00d162",
+ "tentativa": 1
+}

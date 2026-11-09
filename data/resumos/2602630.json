@@ -1,0 +1,28 @@
+{
+ "id": 2602630,
+ "titulo": "Cria programa no SUS para ampliar o acesso de adultos e idosos a vacinas de custo elevado",
+ "tldr": [
+  "O SUS passa a ter um programa para oferecer a adultos e idosos vacinas como as contra herpes-zóster e vírus sincicial respiratório, com compra centralizada e possível cobrança parcial, exceto de pessoas vulneráveis.",
+  "Adultos e idosos atendidos pelo SUS e União, estados, Distrito Federal e municípios, que dividem o financiamento do programa.",
+  "Tramita junto (apensada) com o PL 5696/2025 na Comissão de Saúde da Câmara, que a recebeu em 20/03/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602630",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3082093",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9a16b0399696b040",
+ "hash_tramitacao": "0462ef8e8e542c75",
+ "tentativa": 1
+}

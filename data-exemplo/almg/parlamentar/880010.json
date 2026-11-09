@@ -1,0 +1,125 @@
+{
+ "id": 880010,
+ "nome": "Lívia Pacheco",
+ "partido": "UVW",
+ "uf": "MG",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 2,
+ "n_relatorias": 0,
+ "ultima_atividade": "2026-11-03",
+ "url_fonte": "https://www.almg.gov.br/deputados/?id=880010",
+ "nome_civil": "Lívia Pacheco Oliveira",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "ASSMUN",
+   "nome": null,
+   "papel": "Titular"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 7200004,
+   "sigla": "PL 2480/2025",
+   "etapa": "plenario_origem",
+   "proponente": false
+  },
+  {
+   "proposicao_id": 7200011,
+   "sigla": "PL 2251/2019",
+   "etapa": "arquivado",
+   "proponente": true
+  }
+ ],
+ "relatorias": [],
+ "votos": [
+  {
+   "votacao_id": "7200003-4",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-11-03",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200010-4",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200010-3",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200002-5",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-10",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200002-4",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-04",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200001-4",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200001-3",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Não"
+  }
+ ],
+ "discursos": [],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "id": 880006,
+ "nome": "Gisele Amaral",
+ "partido": "ABC",
+ "uf": "MG",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 1,
+ "n_relatorias": 3,
+ "ultima_atividade": "2026-11-03",
+ "url_fonte": "https://www.almg.gov.br/deputados/?id=880006",
+ "nome_civil": "Gisele Amaral de Souza",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "AGROPEC",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "DIRHUM",
+   "nome": null,
+   "papel": "Suplente"
+  },
+  {
+   "sigla": "SAUDE",
+   "nome": null,
+   "papel": "Suplente"
+  },
+  {
+   "sigla": "TRABALHO",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 7200007,
+   "sigla": "PL 2361/2023",
+   "etapa": "comissoes",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "orgao": "AGROPEC",
+   "desde": "2026-01-22"
+  },
+  {
+   "proposicao_id": 7200007,
+   "sigla": "PL 2361/2023",
+   "orgao": "SAUDE",
+   "desde": "2024-07-01"
+  },
+  {
+   "proposicao_id": 7200011,
+   "sigla": "PL 2251/2019",
+   "orgao": "TRABALHO",
+   "desde": "2021-09-15"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "7200003-4",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-11-03",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200003-3",
+   "proposicao_id": 7200003,
+   "sigla": "PL 2430/2025",
+   "data": "2026-10-28",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200010-3",
+   "proposicao_id": 7200010,
+   "sigla": "PL 2517/2025",
+   "data": "2026-08-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "7200002-5",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-10",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "7200002-4",
+   "proposicao_id": 7200002,
+   "sigla": "PL 2363/2025",
+   "data": "2026-04-04",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200001-4",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-24",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "7200001-3",
+   "proposicao_id": 7200001,
+   "sigla": "PL 2416/2024",
+   "data": "2026-01-18",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  }
+ ],
+ "discursos": [],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

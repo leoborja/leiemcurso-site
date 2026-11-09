@@ -1,8 +1,8 @@
 {
  "id": 9100037,
- "sigla": "PL 2355/2024",
+ "sigla": "PL 1368/2024",
  "tipo": "PL",
- "numero": 2355,
+ "numero": 1368,
  "ano": 2024,
  "ementa": "Institui o selo nacional de empresa amiga da primeira infância.",
  "tema": [
@@ -11,29 +11,36 @@
  "data_apresentacao": "2024-07-09",
  "autor_principal": {
   "nome": "Beatriz Nunes",
-  "partido": "ABC",
-  "uf": "PA",
-  "tipo": "Deputado"
+  "partido": "UVW",
+  "uf": "RJ",
+  "tipo": "Deputado",
+  "id_parlamentar": 990016
  },
  "etapa": "retirado",
  "orgao_atual": "MESA",
  "ultima_movimentacao": "2024-08-13",
  "dias_parado": 816,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100037",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Beatriz Nunes",
-   "partido": "ABC",
-   "uf": "PA",
+   "partido": "UVW",
+   "uf": "RJ",
    "tipo": "Deputado",
-   "id_deputado": 990036
+   "id_parlamentar": 990016
   },
   {
    "nome": "Rui Albuquerque",
    "partido": "MNO",
-   "uf": "DF",
+   "uf": "BA",
    "tipo": "Deputado",
-   "id_deputado": 990136
+   "id_parlamentar": 990003
   }
  ],
  "relatores": [],
@@ -51,29 +58,23 @@
  ],
  "tramitacoes": [
   {
-   "data": "2024-07-09T19:45:00Z",
+   "data": "2024-07-09T19:15:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 2355/2024 pelo(a) autor(a): Beatriz Nunes.",
+   "descricao": "Apresentação do PL 1368/2024 pelo(a) autor(a): Beatriz Nunes.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100037"
   },
   {
-   "data": "2024-07-10T13:45:00Z",
+   "data": "2024-07-10T14:30:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100037"
   },
   {
-   "data": "2024-08-13T20:15:00Z",
+   "data": "2024-08-13T21:00:00Z",
    "orgao": "MESA",
    "descricao": "Deferido o requerimento de retirada de tramitação apresentado pelo(a) autor(a).",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100037"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

@@ -1,0 +1,28 @@
+{
+ "id": 2530252,
+ "titulo": "Inclui mulheres com deficiência em vulnerabilidade econômica ou social no programa de saúde menstrual",
+ "tldr": [
+  "Mulheres com deficiência em situação de vulnerabilidade econômica ou social passam a ser beneficiárias do programa e podem receber, quando cabível, absorventes e outros cuidados de saúde menstrual adaptados.",
+  "Mulheres com deficiência em situação de vulnerabilidade econômica ou social.",
+  "Teve pareceres aprovados nas Comissões de Saúde (15/10/2025) e de Defesa dos Direitos das Pessoas com Deficiência (06/11/2025). Aguarda relator na Comissão de Constituição e Justiça e de Cidadania desde 10/11/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2530252",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2946720",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4d47e47c75349284",
+ "hash_tramitacao": "c6e7dd9d874d8466",
+ "tentativa": 1
+}

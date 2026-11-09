@@ -1,0 +1,93 @@
+{
+ "id": 7200007,
+ "sigla": "PL 2361/2023",
+ "tipo": "PL",
+ "numero": 2361,
+ "ano": 2023,
+ "ementa": "Proíbe a cobrança de estacionamento nas duas primeiras horas em hospitais públicos estaduais.",
+ "tema": [
+  "Saúde",
+  "Defesa do Consumidor"
+ ],
+ "data_apresentacao": "2023-09-26",
+ "autor_principal": {
+  "nome": "Gisele Amaral",
+  "partido": "ABC",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880006
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "SAUDE",
+ "ultima_movimentacao": "2024-07-01",
+ "dias_parado": 859,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200007",
+ "autores": [
+  {
+   "nome": "Gisele Amaral",
+   "partido": "ABC",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880006
+  },
+  {
+   "nome": "Bruno Tavares",
+   "partido": "XYZ",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880001
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Gisele Amaral",
+   "orgao": "SAUDE",
+   "desde": "2024-07-01",
+   "id_parlamentar": 880006
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2023-09-26",
+   "fim": "2023-11-07"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2023-11-07",
+   "fim": null,
+   "orgaos": [
+    "SAUDE",
+    "FFO",
+    "CCJ"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2023-09-26T20:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2361/2023 pelo(a) autor(a): Gisele Amaral.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200007"
+  },
+  {
+   "data": "2023-09-27T13:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200007"
+  },
+  {
+   "data": "2023-11-07T19:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: SAUDE, FFO, CCJ.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200007"
+  },
+  {
+   "data": "2024-07-01T19:45:00Z",
+   "orgao": "SAUDE",
+   "descricao": "Designado relator(a) Dep. Gisele Amaral.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200007"
+  }
+ ],
+ "votacoes": []
+}

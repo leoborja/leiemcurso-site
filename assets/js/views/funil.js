@@ -1,19 +1,22 @@
 // Funil + curva de sobrevivência (estatisticas.json).
 import * as dados from '../data.js';
-import { html, raw, esc, ETAPAS, ETAPA, fmtN, fmtDuracao, vazio } from '../ui.js';
+import { html, raw, esc, etapasDaCasa, ETAPA, fmtN, fmtDuracao, vazio, href, TIPOS } from '../ui.js';
 
 export default async function funil(main, ctx) {
   const est = await dados.estatisticas();
   if (!ctx.valido()) return;
-  const f = est.funil || {};
+  const tipo = ctx.query.get('tipo') || '';
+  const porTipo = est.funil_por_tipo || null;
+  const f = (tipo && porTipo?.[tipo]) || est.funil || {};
+  const ETAPAS = etapasDaCasa();
   const base = f.apresentado || Math.max(0, ...Object.values(f)) || 1;
   // a volta à origem é um desvio (nem todo projeto passa por ela): fica fora das barras, citada em nota
   const linhas = ETAPAS.filter((e) => f[e.id] != null && e.id !== 'retorno_origem');
   const tempos = est.tempo_mediano_por_etapa_dias || {};
-  const sob = (est.sobrevivencia || []).filter((s) => s.dias != null && s.pct_ainda_ativo != null).sort((a, b) => a.dias - b.dias);
+  const sob = ((tipo && est.sobrevivencia_por_tipo?.[tipo]) || est.sobrevivencia || []).filter((s) => s.dias != null && s.pct_ainda_ativo != null).sort((a, b) => a.dias - b.dias);
   const lei = f.lei != null ? (100 * f.lei) / base : null;
   // soma das medianas no caminho principal até a sanção (aproximação, não é mediana do total)
-  const caminho = ['apresentado', 'comissoes', 'plenario_origem', 'casa_revisora', 'sancao'];
+  const caminho = ETAPAS.map((e) => e.id).filter((k) => k !== 'lei' && k !== 'retorno_origem');
   const somaMed = caminho.every((k) => tempos[k] != null) ? caminho.reduce((s, k) => s + tempos[k], 0) : null;
 
   const por100 = (v) => (100 * v) / base;
@@ -21,9 +24,13 @@ export default async function funil(main, ctx) {
 
   main.innerHTML = String(html`
     <div class="cab">
-      <p class="olho">Funil</p>
+      <p class="olho">Funil · ${ctx.casa.nome}</p>
       <h1>De cada 100 apresentadas, quantas chegam lá</h1>
-      <p class="lead">${lei != null ? raw(`De cada 100 proposições apresentadas, <b>${esc(fmtPor100(f.lei))}</b> viraram lei.`) : ''} As demais seguem tramitando, ficaram paradas no caminho ou saíram por arquivamento, retirada ou veto.</p>
+      ${porTipo ? html`<nav class="seg seg--links" aria-label="Recorte por tipo de proposição">
+        <a href="${href('/funil')}" ${!tipo ? raw('aria-current="true"') : ''}>Todas</a>
+        ${Object.keys(porTipo).sort().map((t) => html`<a href="${href('/funil?tipo=' + t)}" title="${TIPOS[t] || t}" ${t === tipo ? raw('aria-current="true"') : ''}>${t}</a>`)}
+      </nav>` : ''}
+      <p class="lead">${lei != null ? raw(`De cada 100 proposições${tipo ? ` do tipo ${tipo}` : ''} apresentadas, <b>${esc(fmtPor100(f.lei))}</b> viraram lei.`) : ''} As demais seguem tramitando, ficaram paradas no caminho ou saíram por arquivamento, retirada ou veto.</p>
     </div>
 
     <section aria-labelledby="h-funil">
@@ -43,7 +50,7 @@ export default async function funil(main, ctx) {
     </section>
 
     <section class="secao" aria-labelledby="h-tempo">
-      <div class="secao__cab"><h2 id="h-tempo">Quanto tempo fica em cada etapa</h2><p>Mediana entre as que já saíram da etapa</p></div>
+      <div class="secao__cab"><h2 id="h-tempo">Quanto tempo fica em cada etapa</h2><p>Mediana entre as que já saíram da etapa${tipo ? ' · todos os tipos' : ''}</p></div>
       <div class="tempos">
         ${ETAPAS.filter((e) => tempos[e.id] != null).map((e) => html`<div class="tempo"><span>${e.nome}</span><b>${fmtDuracao(tempos[e.id])}</b></div>`)}
         ${somaMed != null ? html`<div class="tempo" style="border-style:dashed"><span>Da apresentação à sanção (soma das medianas)</span><b>${fmtDuracao(somaMed)}</b></div>` : ''}

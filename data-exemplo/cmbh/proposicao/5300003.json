@@ -1,0 +1,179 @@
+{
+ "id": 5300003,
+ "sigla": "PL 1013/2026",
+ "tipo": "PL",
+ "numero": 1013,
+ "ano": 2026,
+ "ementa": "Denomina praça localizada no bairro Santa Tereza.",
+ "tema": [
+  "Homenagens e Datas Comemorativas"
+ ],
+ "data_apresentacao": "2026-02-03",
+ "autor_principal": {
+  "nome": "Cecília Mourão",
+  "partido": "QRS",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770002
+ },
+ "etapa": "lei",
+ "orgao_atual": null,
+ "ultima_movimentacao": "2026-10-29",
+ "dias_parado": 9,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003",
+ "autores": [
+  {
+   "nome": "Cecília Mourão",
+   "partido": "QRS",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770002
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Graça Ventura",
+   "orgao": "CLJ",
+   "desde": "2026-09-28",
+   "id_parlamentar": 770006
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-02-03",
+   "fim": "2026-09-15"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-09-15",
+   "fim": "2026-10-03",
+   "orgaos": [
+    "CLJ"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2026-10-03",
+   "fim": "2026-10-04"
+  },
+  {
+   "etapa": "sancao",
+   "inicio": "2026-10-04",
+   "fim": "2026-10-29"
+  },
+  {
+   "etapa": "lei",
+   "inicio": "2026-10-29",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-02-03T18:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1013/2026 pelo(a) autor(a): Cecília Mourão.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "data": "2026-02-04T20:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "data": "2026-09-15T14:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CLJ.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "data": "2026-09-28T14:00:00Z",
+   "orgao": "CLJ",
+   "descricao": "Designado relator(a) Ver. Graça Ventura.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "data": "2026-09-28T18:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "data": "2026-10-03T14:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "data": "2026-10-03T19:30:00Z",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "data": "2026-10-04T13:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "data": "2026-10-04T13:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa à sanção do Prefeito.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "data": "2026-10-29T18:00:00Z",
+   "orgao": "PREF",
+   "descricao": "Transformado na Lei nº 11874/2026. Publicação no diário oficial.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "5300003-1",
+   "data": "2026-10-03",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CLJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 3,
+    "nao": 1,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003"
+  },
+  {
+   "id": "5300003-2",
+   "data": "2026-09-28",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 27,
+    "nao": 9,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003",
+   "turno": 1
+  },
+  {
+   "id": "5300003-3",
+   "data": "2026-10-04",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 28,
+    "nao": 6,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300003",
+   "turno": 2
+  }
+ ]
+}

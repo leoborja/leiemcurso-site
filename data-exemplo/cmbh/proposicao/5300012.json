@@ -1,0 +1,51 @@
+{
+ "id": 5300012,
+ "sigla": "PL 1248/2026",
+ "tipo": "PL",
+ "numero": 1248,
+ "ano": 2026,
+ "ementa": "Institui o programa de bicicletas compartilhadas em parques municipais.",
+ "tema": [
+  "Esporte e Lazer",
+  "Viação, Transporte e Mobilidade"
+ ],
+ "data_apresentacao": "2026-11-05",
+ "autor_principal": {
+  "nome": "Breno Saraiva",
+  "partido": "XYZ",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770001
+ },
+ "etapa": "apresentado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2026-11-05",
+ "dias_parado": 2,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300012",
+ "autores": [
+  {
+   "nome": "Breno Saraiva",
+   "partido": "XYZ",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770001
+  }
+ ],
+ "relatores": [],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-11-05",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-11-05T18:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1248/2026 pelo(a) autor(a): Breno Saraiva.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300012"
+  }
+ ],
+ "votacoes": []
+}

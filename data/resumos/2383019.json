@@ -1,0 +1,27 @@
+{
+ "id": 2383019,
+ "titulo": "Muda regras da Lei Complementar nº 78, de 30 de dezembro de 1993",
+ "tldr": [
+  "Alteraria a Lei Complementar nº 78, de 30 de dezembro de 1993. As fontes disponíveis não detalham quais mudanças o texto faz.",
+  "O texto não especifica quem é atingido",
+  "Aprovada na Câmara e no Senado, com as emendas do Senado aprovadas pela Câmara em 25/06/2025, foi vetada integralmente pelo Poder Executivo em 16/07/2025; o veto aguarda análise."
+ ],
+ "fontes": [
+  "ementa",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2383019",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2318934",
+ "inteiro_teor": "indisponivel",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "39a003390bbfb1fe",
+ "hash_tramitacao": "476659eefd97225c",
+ "tentativa": 1
+}

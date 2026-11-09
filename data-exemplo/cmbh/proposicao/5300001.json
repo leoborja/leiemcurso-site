@@ -1,0 +1,253 @@
+{
+ "id": 5300001,
+ "sigla": "PL 679/2025",
+ "tipo": "PL",
+ "numero": 679,
+ "ano": 2025,
+ "ementa": "Institui o programa municipal de hortas pedagógicas nas escolas.",
+ "tema": [
+  "Educação",
+  "Meio Ambiente e Desenvolvimento Sustentável"
+ ],
+ "data_apresentacao": "2025-03-11",
+ "autor_principal": {
+  "nome": "Aline Barcelos",
+  "partido": "ABC",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770000
+ },
+ "etapa": "lei",
+ "orgao_atual": null,
+ "ultima_movimentacao": "2026-07-09",
+ "dias_parado": 121,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001",
+ "autores": [
+  {
+   "nome": "Aline Barcelos",
+   "partido": "ABC",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770000
+  },
+  {
+   "nome": "Henrique Lobo",
+   "partido": "XYZ",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770007
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Aline Barcelos",
+   "orgao": "EDUCACAO",
+   "desde": "2025-07-17",
+   "id_parlamentar": 770000
+  },
+  {
+   "nome": "Cecília Mourão",
+   "orgao": "ORCFIN",
+   "desde": "2025-09-06",
+   "id_parlamentar": 770002
+  },
+  {
+   "nome": "Estela Paiva",
+   "orgao": "CLJ",
+   "desde": "2026-01-10",
+   "id_parlamentar": 770004
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-03-11",
+   "fim": "2025-06-30"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2025-06-30",
+   "fim": "2026-03-09",
+   "orgaos": [
+    "EDUCACAO",
+    "ORCFIN",
+    "CLJ"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2026-03-09",
+   "fim": "2026-04-28"
+  },
+  {
+   "etapa": "sancao",
+   "inicio": "2026-04-28",
+   "fim": "2026-07-09"
+  },
+  {
+   "etapa": "lei",
+   "inicio": "2026-07-09",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-03-11T17:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 679/2025 pelo(a) autor(a): Aline Barcelos.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2025-03-12T13:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2025-06-30T18:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: EDUCACAO, ORCFIN, CLJ.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2025-07-17T20:00:00Z",
+   "orgao": "EDUCACAO",
+   "descricao": "Designado relator(a) Ver. Aline Barcelos.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2025-07-30T18:15:00Z",
+   "orgao": "EDUCACAO",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2025-09-06T21:15:00Z",
+   "orgao": "ORCFIN",
+   "descricao": "Designado relator(a) Ver. Cecília Mourão.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2025-10-04T19:00:00Z",
+   "orgao": "ORCFIN",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2026-01-10T13:15:00Z",
+   "orgao": "CLJ",
+   "descricao": "Designado relator(a) Ver. Estela Paiva.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2026-03-09T13:30:00Z",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2026-03-09T13:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2026-04-22T19:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2026-04-28T14:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa à sanção do Prefeito.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2026-04-28T17:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "data": "2026-07-09T20:15:00Z",
+   "orgao": "PREF",
+   "descricao": "Transformado na Lei nº 11800/2026. Publicação no diário oficial.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "5300001-1",
+   "data": "2025-07-30",
+   "orgao": "EDUCACAO",
+   "descricao": "Aprovado o parecer do(a) relator(a) na EDUCACAO.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 4,
+    "nao": 2,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "id": "5300001-2",
+   "data": "2025-10-04",
+   "orgao": "ORCFIN",
+   "descricao": "Aprovado o parecer do(a) relator(a) na ORCFIN.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 7,
+    "nao": 2,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "id": "5300001-3",
+   "data": "2026-03-09",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CLJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 6,
+    "nao": 3,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001"
+  },
+  {
+   "id": "5300001-4",
+   "data": "2026-04-22",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 30,
+    "nao": 6,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001",
+   "turno": 1
+  },
+  {
+   "id": "5300001-5",
+   "data": "2026-04-28",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 21,
+    "nao": 16,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300001",
+   "turno": 2
+  }
+ ]
+}

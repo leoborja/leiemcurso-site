@@ -1,0 +1,16 @@
+{
+ "semana": "2026-W43",
+ "inicio": "2026-10-19",
+ "fim": "2026-10-25",
+ "mudaram_de_etapa": [
+  {
+   "id": 7200005,
+   "sigla": "PLC 174/2025",
+   "de": "apresentado",
+   "para": "comissoes",
+   "data": "2026-10-21"
+  }
+ ],
+ "votadas": [],
+ "apresentadas": []
+}

@@ -1,0 +1,169 @@
+{
+ "id": 5300008,
+ "sigla": "PL 1105/2026",
+ "tipo": "PL",
+ "numero": 1105,
+ "ano": 2026,
+ "ementa": "Institui o Dia Municipal do Ciclista.",
+ "tema": [
+  "Homenagens e Datas Comemorativas",
+  "Esporte e Lazer"
+ ],
+ "data_apresentacao": "2026-03-17",
+ "autor_principal": {
+  "nome": "Henrique Lobo",
+  "partido": "XYZ",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770007
+ },
+ "etapa": "sancao",
+ "orgao_atual": "PREF",
+ "ultima_movimentacao": "2026-11-03",
+ "dias_parado": 4,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008",
+ "autores": [
+  {
+   "nome": "Henrique Lobo",
+   "partido": "XYZ",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770007
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Breno Saraiva",
+   "orgao": "CLJ",
+   "desde": "2026-08-17",
+   "id_parlamentar": 770001
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2026-03-17",
+   "fim": "2026-04-16"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2026-04-16",
+   "fim": "2026-10-15",
+   "orgaos": [
+    "CLJ"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2026-10-15",
+   "fim": "2026-11-03"
+  },
+  {
+   "etapa": "sancao",
+   "inicio": "2026-11-03",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2026-03-17T18:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 1105/2026 pelo(a) autor(a): Henrique Lobo.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "data": "2026-03-18T13:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "data": "2026-04-16T19:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CLJ.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "data": "2026-08-17T18:30:00Z",
+   "orgao": "CLJ",
+   "descricao": "Designado relator(a) Ver. Breno Saraiva.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "data": "2026-10-15T13:15:00Z",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "data": "2026-10-15T18:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "data": "2026-10-28T18:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "data": "2026-11-03T17:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa à sanção do Prefeito.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "data": "2026-11-03T21:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "5300008-1",
+   "data": "2026-10-15",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CLJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 1,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008"
+  },
+  {
+   "id": "5300008-2",
+   "data": "2026-10-28",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 21,
+    "nao": 15,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008",
+   "turno": 1
+  },
+  {
+   "id": "5300008-3",
+   "data": "2026-11-03",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 24,
+    "nao": 13,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300008",
+   "turno": 2
+  }
+ ]
+}

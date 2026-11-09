@@ -1,0 +1,28 @@
+{
+ "id": 2401138,
+ "titulo": "Cria auxílio de parcela única para pescadores artesanais do Norte em municípios afetados pela seca",
+ "tldr": [
+  "Previa pagamento único de R$ 2.640,00, pelo INSS, a pescadores artesanais com Seguro Defeso cadastrados em municípios do Norte em emergência por seca ou estiagem, sem prejuízo de outros benefícios.",
+  "Pescadores artesanais beneficiários do Seguro Defeso cadastrados nos municípios listados do Acre, Amazonas, Amapá e Pará.",
+  "Perdeu a validade em 10/04/2024, quando estava na comissão mista; o Congresso Nacional comunicou o fim da vigência em 12/04/2024."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2401138",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2479853",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "30598a4b7dff0adf",
+ "hash_tramitacao": "b29b719d64a33792",
+ "tentativa": 1
+}

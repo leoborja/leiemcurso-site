@@ -1,0 +1,85 @@
+{
+ "id": 5300006,
+ "sigla": "PELO 168/2024",
+ "tipo": "PELO",
+ "numero": 168,
+ "ano": 2024,
+ "ementa": "Altera a Lei Orgânica para tornar obrigatória audiência pública na revisão do plano diretor.",
+ "tema": [
+  "Direito Constitucional",
+  "Cidades e Desenvolvimento Urbano"
+ ],
+ "data_apresentacao": "2024-08-06",
+ "autor_principal": {
+  "nome": "Flávio Godinho",
+  "partido": "HJK",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770005
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "CLJ",
+ "ultima_movimentacao": "2025-06-27",
+ "dias_parado": 498,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300006",
+ "autores": [
+  {
+   "nome": "Flávio Godinho",
+   "partido": "HJK",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770005
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Flávio Godinho",
+   "orgao": "CLJ",
+   "desde": "2025-06-27",
+   "id_parlamentar": 770005
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2024-08-06",
+   "fim": "2024-09-17"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2024-09-17",
+   "fim": null,
+   "orgaos": [
+    "CLJ",
+    "ESPECIAL"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2024-08-06T20:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PELO 168/2024 pelo(a) autor(a): Flávio Godinho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300006"
+  },
+  {
+   "data": "2024-08-07T21:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300006"
+  },
+  {
+   "data": "2024-09-17T14:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CLJ, ESPECIAL.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300006"
+  },
+  {
+   "data": "2025-06-27T18:15:00Z",
+   "orgao": "CLJ",
+   "descricao": "Designado relator(a) Ver. Flávio Godinho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300006"
+  }
+ ],
+ "votacoes": []
+}

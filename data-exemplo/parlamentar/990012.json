@@ -1,0 +1,205 @@
+{
+ "id": 990012,
+ "nome": "Renata Quintela",
+ "partido": "ABC",
+ "uf": "SC",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 2,
+ "n_relatorias": 3,
+ "ultima_atividade": "2026-11-05",
+ "url_fonte": "https://www.camara.leg.br/deputados/990012",
+ "nome_civil": "Renata Quintela da Silva",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "CAPADR",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "CCJC",
+   "nome": null,
+   "papel": "Suplente"
+  },
+  {
+   "sigla": "CMADS",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 9100013,
+   "sigla": "PEC 271/2025",
+   "etapa": "plenario_origem",
+   "proponente": true
+  },
+  {
+   "proposicao_id": 9100033,
+   "sigla": "PL 1543/2026",
+   "etapa": "apresentado",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 9100005,
+   "sigla": "PEC 295/2023",
+   "orgao": "CCJC",
+   "desde": "2023-11-08"
+  },
+  {
+   "proposicao_id": 9100011,
+   "sigla": "PL 1499/2023",
+   "orgao": "CCJC",
+   "desde": "2024-06-13"
+  },
+  {
+   "proposicao_id": 9100025,
+   "sigla": "PL 1267/2026",
+   "orgao": "CMADS",
+   "desde": "2026-10-27"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "9100009-3",
+   "proposicao_id": 9100009,
+   "sigla": "PL 1243/2024",
+   "data": "2026-11-05",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100036-3",
+   "proposicao_id": 9100036,
+   "sigla": "PL 1754/2023",
+   "data": "2026-11-03",
+   "descricao": "Rejeitado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100007-3",
+   "proposicao_id": 9100007,
+   "sigla": "PL 1127/2024",
+   "data": "2026-09-24",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100003-2",
+   "proposicao_id": 9100003,
+   "sigla": "MPV 1345/2026",
+   "data": "2026-08-21",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100011-3",
+   "proposicao_id": 9100011,
+   "sigla": "PL 1499/2023",
+   "data": "2026-06-22",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "9100010-3",
+   "proposicao_id": 9100010,
+   "sigla": "PL 1248/2025",
+   "data": "2026-06-03",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100006-4",
+   "proposicao_id": 9100006,
+   "sigla": "PL 1358/2023",
+   "data": "2026-04-16",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "9100004-4",
+   "proposicao_id": 9100004,
+   "sigla": "PLP 263/2024",
+   "data": "2025-10-20",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100002-4",
+   "proposicao_id": 9100002,
+   "sigla": "PL 1246/2023",
+   "data": "2025-09-17",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100005-4",
+   "proposicao_id": 9100005,
+   "sigla": "PEC 295/2023",
+   "data": "2025-04-01",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100005-3",
+   "proposicao_id": 9100005,
+   "sigla": "PEC 295/2023",
+   "data": "2025-03-26",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100001-3",
+   "proposicao_id": 9100001,
+   "sigla": "PL 1197/2023",
+   "data": "2024-01-19",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  }
+ ],
+ "discursos": [
+  {
+   "data": "2026-08-25",
+   "sumario": "Pronunciamento sobre a tramitação de proposições na área de direito constitucional.",
+   "url": "https://www.camara.leg.br/deputados/990012"
+  }
+ ],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 1,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 1,
+   "votos": 2,
+   "relatorias": 0,
+   "discursos": 0
+  }
+ ]
+}

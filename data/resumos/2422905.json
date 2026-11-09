@@ -1,0 +1,27 @@
+{
+ "id": 2422905,
+ "titulo": "Cria imunidade do IPVA para tipos de veículos definidos no texto",
+ "tldr": [
+  "A Constituição passa a proibir a cobrança do Imposto sobre a Propriedade de Veículos Automotores (IPVA) sobre os veículos listados no texto.",
+  "Proprietários dos veículos abrangidos; o texto disponível não detalha quais são.",
+  "Virou a Emenda Constitucional 137/2025 em 09/12/2025, publicada em 10/12/2025. Antes, o Plenário da Câmara aprovou o texto em dois turnos em 02/12/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2422905",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2398479",
+ "inteiro_teor": "indisponivel",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ff966cf27a911b39",
+ "hash_tramitacao": "c0bbc8a091259817",
+ "tentativa": 1
+}

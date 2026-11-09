@@ -1,0 +1,28 @@
+{
+ "id": 2572246,
+ "titulo": "Permite transferir a autorização de táxi a terceiros e pune quem deixa de prestar o serviço sem justificativa",
+ "tldr": [
+  "A autorização de táxi pode ser transferida a quem cumprir os requisitos, inclusive a cônjuge, companheiro ou filhos após a morte do titular. Parar o serviço sem justificativa gera multa e perda da autorização.",
+  "Taxistas com autorização para o serviço, seus cônjuges, companheiros e filhos, e os órgãos públicos que concedem e fiscalizam as autorizações.",
+  "Enviada pelo Senado, chegou à Câmara para revisão em 14/10/2025. Em 22/10/2025 foram apresentados pedidos para que tramite com prioridade (urgência); aguarda despacho do Presidente da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2572246",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3022608",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ce849d781da48347",
+ "hash_tramitacao": "50bcdaf8141d81a0",
+ "tentativa": 1
+}

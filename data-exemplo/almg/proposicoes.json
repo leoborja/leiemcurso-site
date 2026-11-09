@@ -1,0 +1,349 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "proposicoes": [
+  {
+   "id": 7200001,
+   "sigla": "PL 2416/2024",
+   "tipo": "PL",
+   "numero": 2416,
+   "ano": 2024,
+   "ementa": "Institui a política estadual de prevenção a enchentes nos municípios da bacia do Rio Doce.",
+   "tema": [
+    "Meio Ambiente e Desenvolvimento Sustentável",
+    "Cidades e Desenvolvimento Urbano"
+   ],
+   "data_apresentacao": "2024-03-12",
+   "autor_principal": {
+    "nome": "Alice Fontoura",
+    "partido": "ABC",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880000
+   },
+   "etapa": "lei",
+   "orgao_atual": null,
+   "ultima_movimentacao": "2026-06-18",
+   "dias_parado": 142,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200001"
+  },
+  {
+   "id": 7200002,
+   "sigla": "PL 2363/2025",
+   "tipo": "PL",
+   "numero": 2363,
+   "ano": 2025,
+   "ementa": "Dispõe sobre a gratuidade da segunda via da carteira de identidade para pessoas em situação de rua.",
+   "tema": [
+    "Direitos Humanos e Minorias"
+   ],
+   "data_apresentacao": "2025-02-18",
+   "autor_principal": {
+    "nome": "Bruno Tavares",
+    "partido": "XYZ",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880001
+   },
+   "etapa": "lei",
+   "orgao_atual": null,
+   "ultima_movimentacao": "2026-11-04",
+   "dias_parado": 3,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200002"
+  },
+  {
+   "id": 7200003,
+   "sigla": "PL 2430/2025",
+   "tipo": "PL",
+   "numero": 2430,
+   "ano": 2025,
+   "ementa": "Cria o selo estadual de qualidade do queijo artesanal produzido em Minas Gerais.",
+   "tema": [
+    "Agricultura, Pecuária, Pesca e Extrativismo"
+   ],
+   "data_apresentacao": "2025-05-06",
+   "autor_principal": {
+    "nome": "Célia Drummond",
+    "partido": "QRS",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880002
+   },
+   "etapa": "sancao",
+   "orgao_atual": "GOV",
+   "ultima_movimentacao": "2026-11-03",
+   "dias_parado": 4,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200003"
+  },
+  {
+   "id": 7200004,
+   "sigla": "PL 2480/2025",
+   "tipo": "PL",
+   "numero": 2480,
+   "ano": 2025,
+   "ementa": "Dispõe sobre a instalação de bebedouros com água filtrada nas escolas estaduais.",
+   "tema": [
+    "Educação",
+    "Saúde"
+   ],
+   "data_apresentacao": "2025-08-19",
+   "autor_principal": {
+    "nome": "Diego Rezende",
+    "partido": "MNO",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880003
+   },
+   "etapa": "plenario_origem",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2026-10-28",
+   "dias_parado": 10,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200004"
+  },
+  {
+   "id": 7200005,
+   "sigla": "PLC 174/2025",
+   "tipo": "PLC",
+   "numero": 174,
+   "ano": 2025,
+   "ementa": "Altera a lei complementar que organiza a carreira dos profissionais da educação básica do Estado.",
+   "tema": [
+    "Administração Pública",
+    "Educação"
+   ],
+   "data_apresentacao": "2025-10-07",
+   "autor_principal": {
+    "nome": "Elisa Vasconcelos",
+    "partido": "UVW",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880004
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "ADMPUB",
+   "ultima_movimentacao": "2026-10-29",
+   "dias_parado": 9,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200005"
+  },
+  {
+   "id": 7200006,
+   "sigla": "PEC 123/2024",
+   "tipo": "PEC",
+   "numero": 123,
+   "ano": 2024,
+   "ementa": "Altera a Constituição do Estado para reduzir o número de assinaturas exigidas na iniciativa popular de leis.",
+   "tema": [
+    "Direito Constitucional"
+   ],
+   "data_apresentacao": "2024-04-09",
+   "autor_principal": {
+    "nome": "Fernando Lage",
+    "partido": "HJK",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880005
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "CCJ",
+   "ultima_movimentacao": "2024-12-11",
+   "dias_parado": 696,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200006"
+  },
+  {
+   "id": 7200007,
+   "sigla": "PL 2361/2023",
+   "tipo": "PL",
+   "numero": 2361,
+   "ano": 2023,
+   "ementa": "Proíbe a cobrança de estacionamento nas duas primeiras horas em hospitais públicos estaduais.",
+   "tema": [
+    "Saúde",
+    "Defesa do Consumidor"
+   ],
+   "data_apresentacao": "2023-09-26",
+   "autor_principal": {
+    "nome": "Gisele Amaral",
+    "partido": "ABC",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880006
+   },
+   "etapa": "comissoes",
+   "orgao_atual": "SAUDE",
+   "ultima_movimentacao": "2024-07-01",
+   "dias_parado": 859,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200007"
+  },
+  {
+   "id": 7200008,
+   "sigla": "PL 2434/2026",
+   "tipo": "PL",
+   "numero": 2434,
+   "ano": 2026,
+   "ementa": "Institui o programa estadual de transporte escolar rural.",
+   "tema": [
+    "Educação",
+    "Viação, Transporte e Mobilidade"
+   ],
+   "data_apresentacao": "2026-11-04",
+   "autor_principal": {
+    "nome": "Heitor Campos",
+    "partido": "XYZ",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880007
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-11-04",
+   "dias_parado": 3,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200008"
+  },
+  {
+   "id": 7200009,
+   "sigla": "PL 2495/2026",
+   "tipo": "PL",
+   "numero": 2495,
+   "ano": 2026,
+   "ementa": "Dispõe sobre a transparência das filas de cirurgias eletivas no sistema estadual de saúde.",
+   "tema": [
+    "Saúde"
+   ],
+   "data_apresentacao": "2026-02-10",
+   "autor_principal": {
+    "nome": "Ivone Guimarães",
+    "partido": "QRS",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880008
+   },
+   "etapa": "plenario_origem",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2026-09-15",
+   "dias_parado": 53,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200009"
+  },
+  {
+   "id": 7200010,
+   "sigla": "PL 2517/2025",
+   "tipo": "PL",
+   "numero": 2517,
+   "ano": 2025,
+   "ementa": "Cria o cadastro estadual de barragens desativadas.",
+   "tema": [
+    "Meio Ambiente e Desenvolvimento Sustentável"
+   ],
+   "data_apresentacao": "2025-03-25",
+   "autor_principal": {
+    "nome": "Júlio Brandão",
+    "partido": "MNO",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880009
+   },
+   "etapa": "vetado",
+   "orgao_atual": "PLEN",
+   "ultima_movimentacao": "2026-08-27",
+   "dias_parado": 72,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200010"
+  },
+  {
+   "id": 7200011,
+   "sigla": "PL 2251/2019",
+   "tipo": "PL",
+   "numero": 2251,
+   "ano": 2019,
+   "ementa": "Dispõe sobre a reserva de vagas para mulheres em cursos técnicos mantidos pelo Estado.",
+   "tema": [
+    "Trabalho e Emprego",
+    "Direitos Humanos e Minorias"
+   ],
+   "data_apresentacao": "2019-05-14",
+   "autor_principal": {
+    "nome": "Lívia Pacheco",
+    "partido": "UVW",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880010
+   },
+   "etapa": "arquivado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2023-02-01",
+   "dias_parado": 1375,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  },
+  {
+   "id": 7200012,
+   "sigla": "PL 2574/2025",
+   "tipo": "PL",
+   "numero": 2574,
+   "ano": 2025,
+   "ementa": "Institui a semana estadual de conscientização sobre o transtorno do espectro autista.",
+   "tema": [
+    "Saúde",
+    "Direitos Humanos e Minorias"
+   ],
+   "data_apresentacao": "2025-06-03",
+   "autor_principal": {
+    "nome": "Marcos Viana",
+    "partido": "HJK",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880011
+   },
+   "etapa": "retirado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2025-07-01",
+   "dias_parado": 494,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200012"
+  },
+  {
+   "id": 7200013,
+   "sigla": "PL 2382/2023",
+   "tipo": "PL",
+   "numero": 2382,
+   "ano": 2023,
+   "ementa": "Dispõe sobre normas de segurança em eventos com grande público em praças esportivas estaduais.",
+   "tema": [
+    "Segurança Pública",
+    "Esporte e Lazer"
+   ],
+   "data_apresentacao": "2023-12-05",
+   "autor_principal": {
+    "nome": "Alice Fontoura",
+    "partido": "ABC",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880000
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2023-12-05",
+   "dias_parado": 1068,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200013"
+  },
+  {
+   "id": 7200014,
+   "sigla": "PL 2607/2026",
+   "tipo": "PL",
+   "numero": 2607,
+   "ano": 2026,
+   "ementa": "Cria o programa estadual de apoio a cuidadores familiares de pessoas com deficiência.",
+   "tema": [
+    "Direitos Humanos e Minorias"
+   ],
+   "data_apresentacao": "2026-10-27",
+   "autor_principal": {
+    "nome": "Bruno Tavares",
+    "partido": "XYZ",
+    "uf": "MG",
+    "tipo": "Deputado Estadual",
+    "id_parlamentar": 880001
+   },
+   "etapa": "apresentado",
+   "orgao_atual": "MESA",
+   "ultima_movimentacao": "2026-10-27",
+   "dias_parado": 11,
+   "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200014"
+  }
+ ]
+}

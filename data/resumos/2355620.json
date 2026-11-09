@@ -1,0 +1,28 @@
+{
+ "id": 2355620,
+ "titulo": "Obriga escolas públicas e privadas a instalar portal detector de metal ou usar detector manual",
+ "tldr": [
+  "Escolas públicas e privadas de todo o país passam a ter de instalar portal detector de metal ou usar detector manual para identificar objetos como armas e lâminas. O Poder Executivo regulamenta a aplicação.",
+  "Estabelecimentos de ensino das redes pública e privada de todo o país.",
+  "Tramita junto com outros projetos (apensada ao PL 1465/2023) e está no Plenário da Câmara. Passou a tramitar com prioridade (urgência) em 09/12/2024."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2355620",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2257294",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "06322618507990b5",
+ "hash_tramitacao": "b4ceaaf3ee0510f7",
+ "tentativa": 1
+}

@@ -1,0 +1,92 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "total": 12,
+ "funil": {
+  "apresentado": 12,
+  "comissoes": 10,
+  "plenario_origem": 6,
+  "sancao": 4,
+  "lei": 2
+ },
+ "gaveta_top": [
+  {
+   "id": 5300006,
+   "dias_parado": 498,
+   "orgao_atual": "CLJ"
+  },
+  {
+   "id": 5300005,
+   "dias_parado": 153,
+   "orgao_atual": "POLURB"
+  },
+  {
+   "id": 5300002,
+   "dias_parado": 137,
+   "orgao_atual": "ORCFIN"
+  },
+  {
+   "id": 5300010,
+   "dias_parado": 18,
+   "orgao_atual": "MESA"
+  },
+  {
+   "id": 5300008,
+   "dias_parado": 4,
+   "orgao_atual": "PREF"
+  },
+  {
+   "id": 5300004,
+   "dias_parado": 2,
+   "orgao_atual": "PLEN"
+  },
+  {
+   "id": 5300012,
+   "dias_parado": 2,
+   "orgao_atual": "MESA"
+  }
+ ],
+ "tempo_mediano_por_etapa_dias": {
+  "apresentado": 91,
+  "comissoes": 182,
+  "plenario_origem": 19,
+  "sancao": 72
+ },
+ "sobrevivencia": [
+  {
+   "dias": 0,
+   "pct_ainda_ativo": 100.0
+  },
+  {
+   "dias": 30,
+   "pct_ainda_ativo": 100.0
+  },
+  {
+   "dias": 90,
+   "pct_ainda_ativo": 100.0
+  },
+  {
+   "dias": 180,
+   "pct_ainda_ativo": 90.0
+  },
+  {
+   "dias": 365,
+   "pct_ainda_ativo": 78.8
+  },
+  {
+   "dias": 545,
+   "pct_ainda_ativo": 49.2
+  },
+  {
+   "dias": 730,
+   "pct_ainda_ativo": 49.2
+  },
+  {
+   "dias": 1095,
+   "pct_ainda_ativo": 49.2
+  },
+  {
+   "dias": 1460,
+   "pct_ainda_ativo": 49.2
+  }
+ ]
+}

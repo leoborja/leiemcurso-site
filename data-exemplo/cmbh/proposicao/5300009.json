@@ -1,0 +1,212 @@
+{
+ "id": 5300009,
+ "sigla": "PL 823/2025",
+ "tipo": "PL",
+ "numero": 823,
+ "ano": 2025,
+ "ementa": "Dispõe sobre a instalação de fraldários acessíveis a todos os responsáveis em estabelecimentos comerciais.",
+ "tema": [
+  "Defesa do Consumidor"
+ ],
+ "data_apresentacao": "2025-04-29",
+ "autor_principal": {
+  "nome": "Isadora Neves",
+  "partido": "QRS",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770008
+ },
+ "etapa": "vetado",
+ "orgao_atual": "PLEN",
+ "ultima_movimentacao": "2026-05-21",
+ "dias_parado": 170,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009",
+ "autores": [
+  {
+   "nome": "Isadora Neves",
+   "partido": "QRS",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770008
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Estela Paiva",
+   "orgao": "CONSUM",
+   "desde": "2025-08-26",
+   "id_parlamentar": 770004
+  },
+  {
+   "nome": "Graça Ventura",
+   "orgao": "CLJ",
+   "desde": "2025-09-09",
+   "id_parlamentar": 770006
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-04-29",
+   "fim": "2025-08-16"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2025-08-16",
+   "fim": "2025-09-23",
+   "orgaos": [
+    "CONSUM",
+    "CLJ"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2025-09-23",
+   "fim": "2025-09-27"
+  },
+  {
+   "etapa": "sancao",
+   "inicio": "2025-09-27",
+   "fim": "2026-05-21"
+  },
+  {
+   "etapa": "vetado",
+   "inicio": "2026-05-21",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-04-29T20:00:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 823/2025 pelo(a) autor(a): Isadora Neves.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-04-30T14:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-08-16T20:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: CONSUM, CLJ.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-08-26T14:30:00Z",
+   "orgao": "CONSUM",
+   "descricao": "Designado relator(a) Ver. Estela Paiva.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-09-04T13:15:00Z",
+   "orgao": "CONSUM",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-09-09T13:45:00Z",
+   "orgao": "CLJ",
+   "descricao": "Designado relator(a) Ver. Graça Ventura.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-09-21T13:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-09-23T14:30:00Z",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-09-23T18:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-09-27T13:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Remessa à sanção do Prefeito.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2025-09-27T18:30:00Z",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto. Votação nominal.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "data": "2026-05-21T13:15:00Z",
+   "orgao": "PREF",
+   "descricao": "Vetado totalmente pelo Prefeito.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "5300009-1",
+   "data": "2025-09-04",
+   "orgao": "CONSUM",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CONSUM.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 1,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "id": "5300009-2",
+   "data": "2025-09-23",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CLJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 4,
+    "abstencao": 0
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009"
+  },
+  {
+   "id": "5300009-3",
+   "data": "2025-09-21",
+   "orgao": "PLEN",
+   "descricao": "Votação em 1º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 22,
+    "nao": 11,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009",
+   "turno": 1
+  },
+  {
+   "id": "5300009-4",
+   "data": "2025-09-27",
+   "orgao": "PLEN",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 19,
+    "nao": 16,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300009",
+   "turno": 2
+  }
+ ]
+}

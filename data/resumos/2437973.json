@@ -1,0 +1,28 @@
+{
+ "id": 2437973,
+ "titulo": "Define que a vítima de estupro de vulnerável é sempre considerada vulnerável, sem exceção",
+ "tldr": [
+  "A vulnerabilidade da vítima não pode mais ser relativizada, e a pena se aplica mesmo com consentimento, experiência sexual anterior da vítima ou gravidez resultante do crime.",
+  "Vítimas do crime de estupro de vulnerável e pessoas acusadas desse crime.",
+  "Virou a Lei Ordinária 15353/2026 em 08/03/2026, publicada em edição extra do Diário Oficial da União no mesmo dia. Foi aprovada pelo Plenário da Câmara em 05/12/2024 e enviada à sanção pelo Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2437973",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2432553",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5073d88bc64e2f63",
+ "hash_tramitacao": "658de3d26928e9c9",
+ "tentativa": 1
+}

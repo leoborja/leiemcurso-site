@@ -1,0 +1,104 @@
+{
+ "id": 5300002,
+ "sigla": "PL 759/2024",
+ "tipo": "PL",
+ "numero": 759,
+ "ano": 2024,
+ "ementa": "Dispõe sobre a poda de árvores em vias públicas e a comunicação prévia aos moradores.",
+ "tema": [
+  "Meio Ambiente e Desenvolvimento Sustentável",
+  "Cidades e Desenvolvimento Urbano"
+ ],
+ "data_apresentacao": "2024-05-21",
+ "autor_principal": {
+  "nome": "Breno Saraiva",
+  "partido": "XYZ",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770001
+ },
+ "etapa": "comissoes",
+ "orgao_atual": "ORCFIN",
+ "ultima_movimentacao": "2026-06-23",
+ "dias_parado": 137,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300002",
+ "autores": [
+  {
+   "nome": "Breno Saraiva",
+   "partido": "XYZ",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770001
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Daniel Arruda",
+   "orgao": "MEIOAMB",
+   "desde": "2024-10-09",
+   "id_parlamentar": 770003
+  },
+  {
+   "nome": "Flávio Godinho",
+   "orgao": "ORCFIN",
+   "desde": "2026-06-23",
+   "id_parlamentar": 770005
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2024-05-21",
+   "fim": "2024-08-13"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2024-08-13",
+   "fim": null,
+   "orgaos": [
+    "MEIOAMB",
+    "ORCFIN",
+    "CLJ"
+   ]
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2024-05-21T19:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 759/2024 pelo(a) autor(a): Breno Saraiva.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300002"
+  },
+  {
+   "data": "2024-05-22T13:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300002"
+  },
+  {
+   "data": "2024-08-13T13:45:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: MEIOAMB, ORCFIN, CLJ.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300002"
+  },
+  {
+   "data": "2024-10-09T18:30:00Z",
+   "orgao": "MEIOAMB",
+   "descricao": "Designado relator(a) Ver. Daniel Arruda.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300002"
+  },
+  {
+   "data": "2026-05-21T20:45:00Z",
+   "orgao": "MEIOAMB",
+   "descricao": "Apresentação do parecer do(a) relator(a). Aguardando inclusão em pauta.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300002"
+  },
+  {
+   "data": "2026-06-23T17:30:00Z",
+   "orgao": "ORCFIN",
+   "descricao": "Designado relator(a) Ver. Flávio Godinho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300002"
+  }
+ ],
+ "votacoes": []
+}

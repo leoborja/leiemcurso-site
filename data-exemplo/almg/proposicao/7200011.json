@@ -1,0 +1,149 @@
+{
+ "id": 7200011,
+ "sigla": "PL 2251/2019",
+ "tipo": "PL",
+ "numero": 2251,
+ "ano": 2019,
+ "ementa": "Dispõe sobre a reserva de vagas para mulheres em cursos técnicos mantidos pelo Estado.",
+ "tema": [
+  "Trabalho e Emprego",
+  "Direitos Humanos e Minorias"
+ ],
+ "data_apresentacao": "2019-05-14",
+ "autor_principal": {
+  "nome": "Lívia Pacheco",
+  "partido": "UVW",
+  "uf": "MG",
+  "tipo": "Deputado Estadual",
+  "id_parlamentar": 880010
+ },
+ "etapa": "arquivado",
+ "orgao_atual": "MESA",
+ "ultima_movimentacao": "2023-02-01",
+ "dias_parado": 1375,
+ "url_fonte": "https://www.almg.gov.br/projetos-de-lei/?id=7200011",
+ "autores": [
+  {
+   "nome": "Lívia Pacheco",
+   "partido": "UVW",
+   "uf": "MG",
+   "tipo": "Deputado Estadual",
+   "id_parlamentar": 880010
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Gisele Amaral",
+   "orgao": "TRABALHO",
+   "desde": "2021-09-15",
+   "id_parlamentar": 880006
+  },
+  {
+   "nome": "Ivone Guimarães",
+   "orgao": "CCJ",
+   "desde": "2022-11-02",
+   "id_parlamentar": 880008
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2019-05-14",
+   "fim": "2019-05-19"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2019-05-19",
+   "fim": "2023-02-01",
+   "orgaos": [
+    "TRABALHO",
+    "CCJ"
+   ]
+  },
+  {
+   "etapa": "arquivado",
+   "inicio": "2023-02-01",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2019-05-14T14:15:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 2251/2019 pelo(a) autor(a): Lívia Pacheco.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  },
+  {
+   "data": "2019-05-15T14:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  },
+  {
+   "data": "2019-05-19T20:00:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: TRABALHO, CCJ.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  },
+  {
+   "data": "2021-09-15T13:45:00Z",
+   "orgao": "TRABALHO",
+   "descricao": "Designado relator(a) Dep. Gisele Amaral.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  },
+  {
+   "data": "2022-06-02T13:15:00Z",
+   "orgao": "TRABALHO",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  },
+  {
+   "data": "2022-11-02T14:00:00Z",
+   "orgao": "CCJ",
+   "descricao": "Designado relator(a) Dep. Ivone Guimarães.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  },
+  {
+   "data": "2023-02-01T17:45:00Z",
+   "orgao": "CCJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  },
+  {
+   "data": "2023-02-01T21:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Arquivado ao fim da legislatura.",
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "7200011-1",
+   "data": "2022-06-02",
+   "orgao": "TRABALHO",
+   "descricao": "Aprovado o parecer do(a) relator(a) na TRABALHO.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 5,
+    "nao": 2,
+    "abstencao": 0
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  },
+  {
+   "id": "7200011-2",
+   "data": "2023-02-01",
+   "orgao": "CCJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CCJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 4,
+    "nao": 3,
+    "abstencao": 0
+   },
+   "url": "https://www.almg.gov.br/projetos-de-lei/?id=7200011"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": 2644524,
+ "titulo": "Abre crédito extraordinário de R$ 3.152.000.000,00 para o Ministério de Minas e Energia",
+ "tldr": [
+  "Autoriza verba extra no orçamento do Ministério de Minas e Energia; a ementa não informa em que o dinheiro será usado.",
+  "Ministério de Minas e Energia.",
+  "Em análise na comissão de orçamento do Congresso, onde não recebeu emendas; o prazo para votação foi prorrogado em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644524",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3174806",
+ "inteiro_teor": "indisponivel",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9670089607598e59",
+ "hash_tramitacao": "246c115b80dcd9a8",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2551011,
+ "titulo": "Obriga cumprir em regime fechado toda a pena por tortura, tráfico de drogas, terrorismo e crimes hediondos",
+ "tldr": [
+  "A Constituição passa a exigir que a pena por esses crimes seja cumprida inteira em regime fechado. Continua a regra de que respondem mandantes, executores e quem, podendo evitar o crime, se omitiu.",
+  "Pessoas condenadas por tortura, tráfico ilícito de drogas, terrorismo e crimes hediondos.",
+  "Aguarda despacho do Presidente da Câmara dos Deputados desde a apresentação, em 20/08/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2551011",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2982206",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "85d1f03b8d477e56",
+ "hash_tramitacao": "ba4dae7651d9d561",
+ "tentativa": 1
+}

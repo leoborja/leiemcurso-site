@@ -1,0 +1,213 @@
+{
+ "id": 990011,
+ "nome": "Fábio Teles",
+ "partido": "HJK",
+ "uf": "DF",
+ "foto_url": null,
+ "em_exercicio": true,
+ "n_autorias": 3,
+ "n_relatorias": 4,
+ "ultima_atividade": "2026-11-04",
+ "url_fonte": "https://www.camara.leg.br/deputados/990011",
+ "nome_civil": "Fábio Teles da Silva",
+ "email": null,
+ "comissoes": [
+  {
+   "sigla": "CDHMIR",
+   "nome": null,
+   "papel": "Titular"
+  },
+  {
+   "sigla": "CFT",
+   "nome": null,
+   "papel": "Suplente"
+  },
+  {
+   "sigla": "CMMPV",
+   "nome": null,
+   "papel": "Suplente"
+  },
+  {
+   "sigla": "CSPCCO",
+   "nome": null,
+   "papel": "Suplente"
+  }
+ ],
+ "autorias": [
+  {
+   "proposicao_id": 9100012,
+   "sigla": "PL 1271/2024",
+   "etapa": "plenario_origem",
+   "proponente": true
+  },
+  {
+   "proposicao_id": 9100025,
+   "sigla": "PL 1267/2026",
+   "etapa": "comissoes",
+   "proponente": false
+  },
+  {
+   "proposicao_id": 9100032,
+   "sigla": "PLP 250/2026",
+   "etapa": "apresentado",
+   "proponente": true
+  }
+ ],
+ "relatorias": [
+  {
+   "proposicao_id": 9100004,
+   "sigla": "PLP 263/2024",
+   "orgao": "CFT",
+   "desde": "2025-05-19"
+  },
+  {
+   "proposicao_id": 9100018,
+   "sigla": "PL 1308/2024",
+   "orgao": "CDHMIR",
+   "desde": "2024-07-15"
+  },
+  {
+   "proposicao_id": 9100024,
+   "sigla": "PL 1249/2026",
+   "orgao": "CFT",
+   "desde": "2026-11-07"
+  },
+  {
+   "proposicao_id": 9100038,
+   "sigla": "MPV 1431/2025",
+   "orgao": "CMMPV",
+   "desde": "2026-03-02"
+  }
+ ],
+ "votos": [
+  {
+   "votacao_id": "9100036-3",
+   "proposicao_id": 9100036,
+   "sigla": "PL 1754/2023",
+   "data": "2026-11-03",
+   "descricao": "Rejeitado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100002-5",
+   "proposicao_id": 9100002,
+   "sigla": "PL 1246/2023",
+   "data": "2026-10-29",
+   "descricao": "Votação das emendas do Senado Federal. Aprovadas.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100007-3",
+   "proposicao_id": 9100007,
+   "sigla": "PL 1127/2024",
+   "data": "2026-09-24",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100003-2",
+   "proposicao_id": 9100003,
+   "sigla": "MPV 1345/2026",
+   "data": "2026-08-21",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100011-3",
+   "proposicao_id": 9100011,
+   "sigla": "PL 1499/2023",
+   "data": "2026-06-22",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Liberado"
+  },
+  {
+   "votacao_id": "9100006-4",
+   "proposicao_id": 9100006,
+   "sigla": "PL 1358/2023",
+   "data": "2026-04-16",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100004-4",
+   "proposicao_id": 9100004,
+   "sigla": "PLP 263/2024",
+   "data": "2025-10-20",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100002-4",
+   "proposicao_id": 9100002,
+   "sigla": "PL 1246/2023",
+   "data": "2025-09-17",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Não",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100005-4",
+   "proposicao_id": 9100005,
+   "sigla": "PEC 295/2023",
+   "data": "2025-04-01",
+   "descricao": "Votação em 2º turno. Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  },
+  {
+   "votacao_id": "9100008-3",
+   "proposicao_id": 9100008,
+   "sigla": "PL 1462/2023",
+   "data": "2024-11-26",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Sim"
+  },
+  {
+   "votacao_id": "9100001-3",
+   "proposicao_id": 9100001,
+   "sigla": "PL 1197/2023",
+   "data": "2024-01-19",
+   "descricao": "Aprovado o projeto.",
+   "voto": "Sim",
+   "orientacao_partido": "Não"
+  }
+ ],
+ "discursos": [
+  {
+   "data": "2026-09-06",
+   "sumario": "Encaminhamento de votação em Plenário.",
+   "url": "https://www.camara.leg.br/deputados/990011"
+  }
+ ],
+ "semanas": [
+  {
+   "semana": "2026-W43",
+   "autorias": 0,
+   "votos": 0,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W44",
+   "autorias": 0,
+   "votos": 1,
+   "relatorias": 0,
+   "discursos": 0
+  },
+  {
+   "semana": "2026-W45",
+   "autorias": 1,
+   "votos": 1,
+   "relatorias": 1,
+   "discursos": 0
+  }
+ ]
+}

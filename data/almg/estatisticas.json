@@ -1,0 +1,1925 @@
+{
+ "gerado_em": "2026-11-08T17:56:52Z",
+ "casa": "almg",
+ "total": 9083,
+ "funil": {
+  "apresentado": 9083,
+  "comissoes": 9056,
+  "plenario_origem": 2548,
+  "sancao": 1862,
+  "lei": 1813
+ },
+ "gaveta_top": [
+  {
+   "id": 1201500298,
+   "sigla": "PL 298/2015",
+   "dias_parado": 4240,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Defesa do Consumidor",
+    "Saúde Pública",
+    "Comunicação"
+   ]
+  },
+  {
+   "id": 1201500337,
+   "sigla": "PL 337/2015",
+   "dias_parado": 4218,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Segurança Pública",
+    "Educação"
+   ]
+  },
+  {
+   "id": 1201500086,
+   "sigla": "PL 86/2015",
+   "dias_parado": 4205,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Assistência Social",
+    "Política Fundiária",
+    "Administração Pública",
+    "Finanças Públicas"
+   ]
+  },
+  {
+   "id": 1201500052,
+   "sigla": "PL 52/2015",
+   "dias_parado": 4191,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Comunicação",
+    "Segurança Pública",
+    "Transporte e Trânsito"
+   ]
+  },
+  {
+   "id": 1201501164,
+   "sigla": "PL 1164/2015",
+   "dias_parado": 4176,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Transporte e Trânsito",
+    "Defesa do Consumidor"
+   ]
+  },
+  {
+   "id": 1201500457,
+   "sigla": "PL 457/2015",
+   "dias_parado": 4169,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Saúde Pública",
+    "Transporte e Trânsito"
+   ]
+  },
+  {
+   "id": 1201501575,
+   "sigla": "PL 1575/2015",
+   "dias_parado": 4106,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Direitos Humanos",
+    "Comunicação",
+    "Segurança Pública"
+   ]
+  },
+  {
+   "id": 1201501040,
+   "sigla": "PL 1040/2015",
+   "dias_parado": 4106,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Administração Pública",
+    "Ciência, Tecnologia e Inovação"
+   ]
+  },
+  {
+   "id": 2201500038,
+   "sigla": "PLC 38/2015",
+   "dias_parado": 4105,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Municípios e Desenvolvimento Regional"
+   ]
+  },
+  {
+   "id": 1201501315,
+   "sigla": "PL 1315/2015",
+   "dias_parado": 4099,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Educação",
+    "Comunicação",
+    "Assistência Social"
+   ]
+  },
+  {
+   "id": 1201501400,
+   "sigla": "PL 1400/2015",
+   "dias_parado": 4092,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Transporte e Trânsito",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201502202,
+   "sigla": "PL 2202/2015",
+   "dias_parado": 4078,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Saúde Pública",
+    "Defesa do Consumidor"
+   ]
+  },
+  {
+   "id": 1201500025,
+   "sigla": "PL 25/2015",
+   "dias_parado": 4071,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Saúde Pública",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501127,
+   "sigla": "PL 1127/2015",
+   "dias_parado": 4043,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Administração Pública",
+    "Política Fundiária",
+    "Transporte e Trânsito"
+   ]
+  },
+  {
+   "id": 1201500069,
+   "sigla": "PL 69/2015",
+   "dias_parado": 4022,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda",
+    "Saúde Pública"
+   ]
+  },
+  {
+   "id": 1201502027,
+   "sigla": "PL 2027/2015",
+   "dias_parado": 4015,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Finanças Públicas",
+    "Direitos Humanos",
+    "Defesa do Consumidor",
+    "Comunicação"
+   ]
+  },
+  {
+   "id": 1201501933,
+   "sigla": "PL 1933/2015",
+   "dias_parado": 3994,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Finanças Públicas",
+    "Esporte e Lazer"
+   ]
+  },
+  {
+   "id": 1201501630,
+   "sigla": "PL 1630/2015",
+   "dias_parado": 3994,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501233,
+   "sigla": "PL 1233/2015",
+   "dias_parado": 3994,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Transporte e Trânsito"
+   ]
+  },
+  {
+   "id": 1201501131,
+   "sigla": "PL 1131/2015",
+   "dias_parado": 3986,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Segurança Pública",
+    "Trabalho, Emprego e Renda",
+    "Comunicação"
+   ]
+  },
+  {
+   "id": 1201501467,
+   "sigla": "PL 1467/2015",
+   "dias_parado": 3931,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Indústria, Comércio e Serviços",
+    "Direitos Humanos",
+    "Defesa do Consumidor",
+    "Agropecuária"
+   ]
+  },
+  {
+   "id": 1201501198,
+   "sigla": "PL 1198/2015",
+   "dias_parado": 3931,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Agropecuária",
+    "Trabalho, Emprego e Renda",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201500904,
+   "sigla": "PL 904/2015",
+   "dias_parado": 3931,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Finanças Públicas",
+    "Trabalho, Emprego e Renda",
+    "Indústria, Comércio e Serviços"
+   ]
+  },
+  {
+   "id": 1201500198,
+   "sigla": "PL 198/2015",
+   "dias_parado": 3931,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Indústria, Comércio e Serviços",
+    "Segurança Pública"
+   ]
+  },
+  {
+   "id": 1201500002,
+   "sigla": "PL 2/2015",
+   "dias_parado": 3869,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa do Consumidor",
+    "Finanças Públicas"
+   ]
+  },
+  {
+   "id": 1201501452,
+   "sigla": "PL 1452/2015",
+   "dias_parado": 3868,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Transporte e Trânsito"
+   ]
+  },
+  {
+   "id": 1201603205,
+   "sigla": "PL 3205/2016",
+   "dias_parado": 3806,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201502772,
+   "sigla": "PL 2772/2015",
+   "dias_parado": 3806,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Assistência Social",
+    "Trabalho, Emprego e Renda",
+    "Finanças Públicas",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 2201500025,
+   "sigla": "PLC 25/2015",
+   "dias_parado": 3624,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201500641,
+   "sigla": "PL 641/2015",
+   "dias_parado": 3623,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Meio Ambiente",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501292,
+   "sigla": "PL 1292/2015",
+   "dias_parado": 3504,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Finanças Públicas"
+   ]
+  },
+  {
+   "id": 1201500526,
+   "sigla": "PL 526/2015",
+   "dias_parado": 3449,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Indústria, Comércio e Serviços",
+    "Direitos Humanos",
+    "Defesa do Consumidor"
+   ]
+  },
+  {
+   "id": 1201502077,
+   "sigla": "PL 2077/2015",
+   "dias_parado": 3420,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Segurança Pública",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501051,
+   "sigla": "PL 1051/2015",
+   "dias_parado": 3420,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Segurança Pública"
+   ]
+  },
+  {
+   "id": 1201603380,
+   "sigla": "PL 3380/2016",
+   "dias_parado": 3365,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Educação",
+    "Esporte e Lazer"
+   ]
+  },
+  {
+   "id": 1201501922,
+   "sigla": "PL 1922/2015",
+   "dias_parado": 3357,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 2201500007,
+   "sigla": "PLC 7/2015",
+   "dias_parado": 3357,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Finanças Públicas",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201603834,
+   "sigla": "PL 3834/2016",
+   "dias_parado": 3343,
+   "orgao_atual": "RED",
+   "etapa": "comissoes",
+   "tema": [
+    "Transporte e Trânsito",
+    "Municípios e Desenvolvimento Regional",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 2201500027,
+   "sigla": "PLC 27/2015",
+   "dias_parado": 3337,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Finanças Públicas",
+    "Segurança Pública"
+   ]
+  },
+  {
+   "id": 2201500041,
+   "sigla": "PLC 41/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201501065,
+   "sigla": "PL 1065/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201501053,
+   "sigla": "PL 1053/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201501002,
+   "sigla": "PL 1002/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201500934,
+   "sigla": "PL 934/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Municípios e Desenvolvimento Regional",
+    "Finanças Públicas"
+   ]
+  },
+  {
+   "id": 2201500023,
+   "sigla": "PLC 23/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 2201500021,
+   "sigla": "PLC 21/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Defesa do Consumidor"
+   ]
+  },
+  {
+   "id": 2201500020,
+   "sigla": "PLC 20/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 2201500016,
+   "sigla": "PLC 16/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 2201500014,
+   "sigla": "PLC 14/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 2201500008,
+   "sigla": "PLC 8/2015",
+   "dias_parado": 3273,
+   "orgao_atual": "APU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201501431,
+   "sigla": "PL 1431/2015",
+   "dias_parado": 3252,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Defesa do Consumidor",
+    "Administração Pública",
+    "Indústria, Comércio e Serviços",
+    "Finanças Públicas"
+   ]
+  },
+  {
+   "id": 1201501068,
+   "sigla": "PL 1068/2015",
+   "dias_parado": 3252,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Segurança Pública",
+    "Administração Pública",
+    "Comunicação",
+    "Direitos Humanos"
+   ]
+  },
+  {
+   "id": 1201501063,
+   "sigla": "PL 1063/2015",
+   "dias_parado": 3252,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Administração Pública",
+    "Trabalho, Emprego e Renda",
+    "Segurança Pública"
+   ]
+  },
+  {
+   "id": 1201501061,
+   "sigla": "PL 1061/2015",
+   "dias_parado": 3252,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Segurança Pública",
+    "Indústria, Comércio e Serviços",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201500451,
+   "sigla": "PL 451/2015",
+   "dias_parado": 3176,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Saúde Pública",
+    "Indústria, Comércio e Serviços"
+   ]
+  },
+  {
+   "id": 1201500197,
+   "sigla": "PL 197/2015",
+   "dias_parado": 3176,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Comunicação",
+    "Trabalho, Emprego e Renda",
+    "Saúde Pública"
+   ]
+  },
+  {
+   "id": 1201502111,
+   "sigla": "PL 2111/2015",
+   "dias_parado": 3098,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Administração Pública",
+    "Turismo",
+    "Finanças Públicas"
+   ]
+  },
+  {
+   "id": 1201503062,
+   "sigla": "PL 3062/2015",
+   "dias_parado": 3078,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Meio Ambiente"
+   ]
+  },
+  {
+   "id": 2201500009,
+   "sigla": "PLC 9/2015",
+   "dias_parado": 2973,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Administração Pública",
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201603893,
+   "sigla": "PL 3893/2016",
+   "dias_parado": 2944,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Meio Ambiente",
+    "Saneamento Básico"
+   ]
+  },
+  {
+   "id": 1201501347,
+   "sigla": "PL 1347/2015",
+   "dias_parado": 2917,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Esporte e Lazer",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201500711,
+   "sigla": "PL 711/2015",
+   "dias_parado": 2819,
+   "orgao_atual": "PLEN",
+   "etapa": "plenario_origem",
+   "tema": [
+    "Saúde Pública",
+    "Trabalho, Emprego e Renda",
+    "Assistência Social"
+   ]
+  },
+  {
+   "id": 1201900196,
+   "sigla": "PL 196/2019",
+   "dias_parado": 2816,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Saúde Pública",
+    "Comunicação"
+   ]
+  },
+  {
+   "id": 1201900053,
+   "sigla": "PL 53/2019",
+   "dias_parado": 2816,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Transporte e Trânsito"
+   ]
+  },
+  {
+   "id": 1201900038,
+   "sigla": "PL 38/2019",
+   "dias_parado": 2816,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda",
+    "Comunicação"
+   ]
+  },
+  {
+   "id": 1201900019,
+   "sigla": "PL 19/2019",
+   "dias_parado": 2816,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Meio Ambiente",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201900007,
+   "sigla": "PL 7/2019",
+   "dias_parado": 2816,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Meio Ambiente",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201900155,
+   "sigla": "PL 155/2019",
+   "dias_parado": 2816,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Meio Ambiente",
+    "Transporte e Trânsito"
+   ]
+  },
+  {
+   "id": 1201900171,
+   "sigla": "PL 171/2019",
+   "dias_parado": 2816,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Agropecuária"
+   ]
+  },
+  {
+   "id": 1201900069,
+   "sigla": "PL 69/2019",
+   "dias_parado": 2811,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Educação",
+    "Comunicação"
+   ]
+  },
+  {
+   "id": 1201502138,
+   "sigla": "PL 2138/2015",
+   "dias_parado": 2810,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Direitos Humanos",
+    "Segurança Pública"
+   ]
+  },
+  {
+   "id": 1201501369,
+   "sigla": "PL 1369/2015",
+   "dias_parado": 2810,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Indústria, Comércio e Serviços",
+    "Comunicação",
+    "Defesa do Consumidor"
+   ]
+  },
+  {
+   "id": 1201501359,
+   "sigla": "PL 1359/2015",
+   "dias_parado": 2810,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda",
+    "Assistência Social"
+   ]
+  },
+  {
+   "id": 1201501215,
+   "sigla": "PL 1215/2015",
+   "dias_parado": 2810,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Segurança Pública",
+    "Ciência, Tecnologia e Inovação",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201500824,
+   "sigla": "PL 824/2015",
+   "dias_parado": 2810,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Indústria, Comércio e Serviços",
+    "Transporte e Trânsito"
+   ]
+  },
+  {
+   "id": 1201900393,
+   "sigla": "PL 393/2019",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Indústria, Comércio e Serviços",
+    "Trabalho, Emprego e Renda",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201900387,
+   "sigla": "PL 387/2019",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Segurança Pública",
+    "Administração Pública",
+    "Transporte e Trânsito",
+    "Trabalho, Emprego e Renda",
+    "Ciência, Tecnologia e Inovação"
+   ]
+  },
+  {
+   "id": 1201900385,
+   "sigla": "PL 385/2019",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Direitos Humanos",
+    "Trabalho, Emprego e Renda",
+    "Segurança Pública"
+   ]
+  },
+  {
+   "id": 1201900277,
+   "sigla": "PL 277/2019",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Trabalho, Emprego e Renda",
+    "Segurança Pública",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201900240,
+   "sigla": "PL 240/2019",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa do Consumidor",
+    "Indústria, Comércio e Serviços",
+    "Transporte e Trânsito",
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201900238,
+   "sigla": "PL 238/2019",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Finanças Públicas"
+   ]
+  },
+  {
+   "id": 1201900220,
+   "sigla": "PL 220/2019",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Indústria, Comércio e Serviços",
+    "Cultura",
+    "Meio Ambiente",
+    "Segurança Pública"
+   ]
+  },
+  {
+   "id": 1201900211,
+   "sigla": "PL 211/2019",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Municípios e Desenvolvimento Regional"
+   ]
+  },
+  {
+   "id": 1201900329,
+   "sigla": "PL 329/2019",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201805177,
+   "sigla": "PL 5177/2018",
+   "dias_parado": 2798,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201502873,
+   "sigla": "PL 2873/2015",
+   "dias_parado": 2797,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Finanças Públicas",
+    "Trabalho, Emprego e Renda"
+   ]
+  },
+  {
+   "id": 1201502013,
+   "sigla": "PL 2013/2015",
+   "dias_parado": 2797,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Meio Ambiente"
+   ]
+  },
+  {
+   "id": 1201603949,
+   "sigla": "PL 3949/2016",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Saneamento Básico",
+    "Meio Ambiente"
+   ]
+  },
+  {
+   "id": 1201502599,
+   "sigla": "PL 2599/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Administração Pública",
+    "Política Fundiária"
+   ]
+  },
+  {
+   "id": 1201502525,
+   "sigla": "PL 2525/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Indústria, Comércio e Serviços",
+    "Defesa do Consumidor",
+    "Comunicação"
+   ]
+  },
+  {
+   "id": 1201502421,
+   "sigla": "PL 2421/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Cultura",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501935,
+   "sigla": "PL 1935/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Indústria, Comércio e Serviços",
+    "Direitos Humanos",
+    "Defesa do Consumidor"
+   ]
+  },
+  {
+   "id": 1201501445,
+   "sigla": "PL 1445/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501432,
+   "sigla": "PL 1432/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501430,
+   "sigla": "PL 1430/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501322,
+   "sigla": "PL 1322/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501297,
+   "sigla": "PL 1297/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501227,
+   "sigla": "PL 1227/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Defesa do Consumidor",
+    "Direitos Humanos",
+    "Comunicação",
+    "Saúde Pública"
+   ]
+  },
+  {
+   "id": 1201501075,
+   "sigla": "PL 1075/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Municípios e Desenvolvimento Regional",
+    "Administração Pública"
+   ]
+  },
+  {
+   "id": 1201501057,
+   "sigla": "PL 1057/2015",
+   "dias_parado": 2796,
+   "orgao_atual": "CJU",
+   "etapa": "comissoes",
+   "tema": [
+    "Comunicação",
+    "Saúde Pública",
+    "Administração Pública",
+    "Indústria, Comércio e Serviços",
+    "Segurança Pública"
+   ]
+  }
+ ],
+ "tempo_mediano_por_etapa_dias": {
+  "apresentado": 2,
+  "comissoes": 390,
+  "plenario_origem": 77,
+  "sancao": 21
+ },
+ "sobrevivencia": [
+  {
+   "dias": 0,
+   "pct_ainda_ativo": 99.7,
+   "em_observacao": 9083
+  },
+  {
+   "dias": 30,
+   "pct_ainda_ativo": 99.3,
+   "em_observacao": 8866
+  },
+  {
+   "dias": 60,
+   "pct_ainda_ativo": 98.6,
+   "em_observacao": 8809
+  },
+  {
+   "dias": 90,
+   "pct_ainda_ativo": 98.0,
+   "em_observacao": 8656
+  },
+  {
+   "dias": 120,
+   "pct_ainda_ativo": 97.1,
+   "em_observacao": 8542
+  },
+  {
+   "dias": 180,
+   "pct_ainda_ativo": 94.4,
+   "em_observacao": 8083
+  },
+  {
+   "dias": 270,
+   "pct_ainda_ativo": 90.5,
+   "em_observacao": 7228
+  },
+  {
+   "dias": 365,
+   "pct_ainda_ativo": 87.6,
+   "em_observacao": 6667
+  },
+  {
+   "dias": 545,
+   "pct_ainda_ativo": 82.8,
+   "em_observacao": 5628
+  },
+  {
+   "dias": 730,
+   "pct_ainda_ativo": 78.9,
+   "em_observacao": 4878
+  },
+  {
+   "dias": 910,
+   "pct_ainda_ativo": 76.0,
+   "em_observacao": 4243
+  },
+  {
+   "dias": 1095,
+   "pct_ainda_ativo": 74.2,
+   "em_observacao": 3785
+  },
+  {
+   "dias": 1280,
+   "pct_ainda_ativo": 72.9,
+   "em_observacao": 3081
+  },
+  {
+   "dias": 1460,
+   "pct_ainda_ativo": 71.8,
+   "em_observacao": 2711
+  }
+ ],
+ "por_etapa_atual": {
+  "comissoes": 6126,
+  "lei": 1813,
+  "plenario_origem": 685,
+  "arquivado": 252,
+  "retirado": 158,
+  "sancao": 46,
+  "vetado": 3
+ },
+ "por_tipo": {
+  "PEC": {
+   "comissoes": 46,
+   "plenario_origem": 2,
+   "lei": 11,
+   "arquivado": 2,
+   "retirado": 1
+  },
+  "PL": {
+   "comissoes": 5946,
+   "plenario_origem": 669,
+   "sancao": 46,
+   "lei": 1782,
+   "vetado": 3,
+   "arquivado": 247,
+   "retirado": 152
+  },
+  "PLC": {
+   "comissoes": 134,
+   "plenario_origem": 14,
+   "lei": 20,
+   "arquivado": 3,
+   "retirado": 5
+  }
+ },
+ "funil_por_tipo": {
+  "PEC": {
+   "apresentado": 62,
+   "comissoes": 60,
+   "plenario_origem": 13,
+   "sancao": 11,
+   "lei": 11
+  },
+  "PL": {
+   "apresentado": 8845,
+   "comissoes": 8822,
+   "plenario_origem": 2501,
+   "sancao": 1831,
+   "lei": 1782
+  },
+  "PLC": {
+   "apresentado": 176,
+   "comissoes": 174,
+   "plenario_origem": 34,
+   "sancao": 20,
+   "lei": 20
+  }
+ },
+ "tempo_por_etapa_detalhe": {
+  "apresentado": {
+   "mediana_fechadas": 2,
+   "n_fechadas": 7010,
+   "mediana_abertas_ate_hoje": null,
+   "n_abertas": 0
+  },
+  "comissoes": {
+   "mediana_fechadas": 390,
+   "n_fechadas": 3255,
+   "mediana_abertas_ate_hoje": 1076,
+   "n_abertas": 6126
+  },
+  "plenario_origem": {
+   "mediana_fechadas": 77,
+   "n_fechadas": 1042,
+   "mediana_abertas_ate_hoje": 452,
+   "n_abertas": 685
+  },
+  "sancao": {
+   "mediana_fechadas": 21,
+   "n_fechadas": 1805,
+   "mediana_abertas_ate_hoje": 11,
+   "n_abertas": 46
+  }
+ },
+ "gaveta_por_orgao": [
+  {
+   "chave": "CJU",
+   "ativas": 3772,
+   "dias_parado_mediano": 796,
+   "paradas_mais_de_365_dias": 2685
+  },
+  {
+   "chave": "PLEN",
+   "ativas": 594,
+   "dias_parado_mediano": 494,
+   "paradas_mais_de_365_dias": 359
+  },
+  {
+   "chave": "FFO",
+   "ativas": 184,
+   "dias_parado_mediano": 408,
+   "paradas_mais_de_365_dias": 100
+  },
+  {
+   "chave": "APU",
+   "ativas": 134,
+   "dias_parado_mediano": 116,
+   "paradas_mais_de_365_dias": 28
+  },
+  {
+   "chave": "CTU",
+   "ativas": 103,
+   "dias_parado_mediano": 117,
+   "paradas_mais_de_365_dias": 18
+  },
+  {
+   "chave": "DEC",
+   "ativas": 86,
+   "dias_parado_mediano": 325,
+   "paradas_mais_de_365_dias": 32
+  },
+  {
+   "chave": "MAD",
+   "ativas": 70,
+   "dias_parado_mediano": 371,
+   "paradas_mais_de_365_dias": 36
+  },
+  {
+   "chave": "TPA",
+   "ativas": 62,
+   "dias_parado_mediano": 221,
+   "paradas_mais_de_365_dias": 19
+  },
+  {
+   "chave": "TCO",
+   "ativas": 52,
+   "dias_parado_mediano": 198,
+   "paradas_mais_de_365_dias": 19
+  },
+  {
+   "chave": "AAG",
+   "ativas": 50,
+   "dias_parado_mediano": 192,
+   "paradas_mais_de_365_dias": 18
+  },
+  {
+   "chave": "SGM",
+   "ativas": 30,
+   "dias_parado_mediano": 4,
+   "paradas_mais_de_365_dias": 3
+  },
+  {
+   "chave": "SAU",
+   "ativas": 27,
+   "dias_parado_mediano": 123,
+   "paradas_mais_de_365_dias": 10
+  },
+  {
+   "chave": "GOV",
+   "ativas": 24,
+   "dias_parado_mediano": 11,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "DCC",
+   "ativas": 20,
+   "dias_parado_mediano": 610,
+   "paradas_mais_de_365_dias": 13
+  },
+  {
+   "chave": "SPU",
+   "ativas": 18,
+   "dias_parado_mediano": 214,
+   "paradas_mais_de_365_dias": 1
+  },
+  {
+   "chave": "ELJ",
+   "ativas": 17,
+   "dias_parado_mediano": 208,
+   "paradas_mais_de_365_dias": 4
+  },
+  {
+   "chave": "ECT",
+   "ativas": 14,
+   "dias_parado_mediano": 180,
+   "paradas_mais_de_365_dias": 5
+  },
+  {
+   "chave": "MEN",
+   "ativas": 12,
+   "dias_parado_mediano": 743,
+   "paradas_mais_de_365_dias": 10
+  },
+  {
+   "chave": "DHU",
+   "ativas": 11,
+   "dias_parado_mediano": 257,
+   "paradas_mais_de_365_dias": 5
+  },
+  {
+   "chave": "DPD",
+   "ativas": 10,
+   "dias_parado_mediano": 120,
+   "paradas_mais_de_365_dias": 1
+  },
+  {
+   "chave": "PCD",
+   "ativas": 10,
+   "dias_parado_mediano": 214,
+   "paradas_mais_de_365_dias": 2
+  },
+  {
+   "chave": "RED",
+   "ativas": 7,
+   "dias_parado_mediano": 4,
+   "paradas_mais_de_365_dias": 1
+  },
+  {
+   "chave": "ESP",
+   "ativas": 4,
+   "dias_parado_mediano": 924,
+   "paradas_mais_de_365_dias": 4
+  },
+  {
+   "chave": "AMR",
+   "ativas": 3,
+   "dias_parado_mediano": 124,
+   "paradas_mais_de_365_dias": 0
+  },
+  {
+   "chave": "MESA",
+   "ativas": 1,
+   "dias_parado_mediano": 712,
+   "paradas_mais_de_365_dias": 1
+  },
+  {
+   "chave": "Comissão de Transporte Comunicação e Obras Públicas",
+   "ativas": 1,
+   "dias_parado_mediano": 622,
+   "paradas_mais_de_365_dias": 1
+  }
+ ],
+ "gaveta_por_tema": [
+  {
+   "chave": "Administração Pública",
+   "ativas": 3593,
+   "dias_parado_mediano": 495,
+   "paradas_mais_de_365_dias": 2112
+  },
+  {
+   "chave": "Municípios e Desenvolvimento Regional",
+   "ativas": 2500,
+   "dias_parado_mediano": 481,
+   "paradas_mais_de_365_dias": 1448
+  },
+  {
+   "chave": "Saúde Pública",
+   "ativas": 710,
+   "dias_parado_mediano": 588,
+   "paradas_mais_de_365_dias": 490
+  },
+  {
+   "chave": "Trabalho, Emprego e Renda",
+   "ativas": 615,
+   "dias_parado_mediano": 691,
+   "paradas_mais_de_365_dias": 419
+  },
+  {
+   "chave": "Indústria, Comércio e Serviços",
+   "ativas": 579,
+   "dias_parado_mediano": 576,
+   "paradas_mais_de_365_dias": 360
+  },
+  {
+   "chave": "Transporte e Trânsito",
+   "ativas": 529,
+   "dias_parado_mediano": 597,
+   "paradas_mais_de_365_dias": 344
+  },
+  {
+   "chave": "Finanças Públicas",
+   "ativas": 475,
+   "dias_parado_mediano": 747,
+   "paradas_mais_de_365_dias": 318
+  },
+  {
+   "chave": "Cultura",
+   "ativas": 452,
+   "dias_parado_mediano": 347,
+   "paradas_mais_de_365_dias": 220
+  },
+  {
+   "chave": "Meio Ambiente",
+   "ativas": 444,
+   "dias_parado_mediano": 716,
+   "paradas_mais_de_365_dias": 308
+  },
+  {
+   "chave": "Segurança Pública",
+   "ativas": 426,
+   "dias_parado_mediano": 538,
+   "paradas_mais_de_365_dias": 270
+  },
+  {
+   "chave": "Comunicação",
+   "ativas": 407,
+   "dias_parado_mediano": 881,
+   "paradas_mais_de_365_dias": 342
+  },
+  {
+   "chave": "Educação",
+   "ativas": 352,
+   "dias_parado_mediano": 628,
+   "paradas_mais_de_365_dias": 234
+  },
+  {
+   "chave": "Direitos Humanos",
+   "ativas": 340,
+   "dias_parado_mediano": 611,
+   "paradas_mais_de_365_dias": 236
+  },
+  {
+   "chave": "Defesa do Consumidor",
+   "ativas": 324,
+   "dias_parado_mediano": 808,
+   "paradas_mais_de_365_dias": 254
+  },
+  {
+   "chave": "Agropecuária",
+   "ativas": 222,
+   "dias_parado_mediano": 368,
+   "paradas_mais_de_365_dias": 112
+  },
+  {
+   "chave": "Ciência, Tecnologia e Inovação",
+   "ativas": 168,
+   "dias_parado_mediano": 430,
+   "paradas_mais_de_365_dias": 98
+  },
+  {
+   "chave": "Assistência Social",
+   "ativas": 160,
+   "dias_parado_mediano": 404,
+   "paradas_mais_de_365_dias": 86
+  },
+  {
+   "chave": "Esporte e Lazer",
+   "ativas": 160,
+   "dias_parado_mediano": 491,
+   "paradas_mais_de_365_dias": 96
+  },
+  {
+   "chave": "Saneamento Básico",
+   "ativas": 96,
+   "dias_parado_mediano": 869,
+   "paradas_mais_de_365_dias": 67
+  },
+  {
+   "chave": "Energia",
+   "ativas": 76,
+   "dias_parado_mediano": 850,
+   "paradas_mais_de_365_dias": 58
+  },
+  {
+   "chave": "Turismo",
+   "ativas": 54,
+   "dias_parado_mediano": 246,
+   "paradas_mais_de_365_dias": 23
+  },
+  {
+   "chave": "Mineração",
+   "ativas": 47,
+   "dias_parado_mediano": 402,
+   "paradas_mais_de_365_dias": 25
+  },
+  {
+   "chave": "Política Fundiária",
+   "ativas": 34,
+   "dias_parado_mediano": 1326,
+   "paradas_mais_de_365_dias": 30
+  },
+  {
+   "chave": "(sem tema)",
+   "ativas": 4,
+   "dias_parado_mediano": 1296,
+   "paradas_mais_de_365_dias": 4
+  }
+ ],
+ "anexadas_ativas": 1541,
+ "sobrevivencia_por_tipo": {
+  "PEC": [
+   {
+    "dias": 0,
+    "pct_ainda_ativo": 100.0,
+    "em_observacao": 62
+   },
+   {
+    "dias": 30,
+    "pct_ainda_ativo": 96.7,
+    "em_observacao": 59
+   },
+   {
+    "dias": 60,
+    "pct_ainda_ativo": 96.7,
+    "em_observacao": 59
+   },
+   {
+    "dias": 90,
+    "pct_ainda_ativo": 96.7,
+    "em_observacao": 57
+   },
+   {
+    "dias": 120,
+    "pct_ainda_ativo": 95.0,
+    "em_observacao": 55
+   },
+   {
+    "dias": 180,
+    "pct_ainda_ativo": 93.3,
+    "em_observacao": 53
+   },
+   {
+    "dias": 270,
+    "pct_ainda_ativo": 91.5,
+    "em_observacao": 51
+   },
+   {
+    "dias": 365,
+    "pct_ainda_ativo": 91.5,
+    "em_observacao": 51
+   },
+   {
+    "dias": 545,
+    "pct_ainda_ativo": 82.0,
+    "em_observacao": 41
+   },
+   {
+    "dias": 730,
+    "pct_ainda_ativo": 77.8,
+    "em_observacao": 34
+   },
+   {
+    "dias": 910,
+    "pct_ainda_ativo": 75.5,
+    "em_observacao": 30
+   },
+   {
+    "dias": 1095,
+    "pct_ainda_ativo": 75.5,
+    "em_observacao": 27
+   },
+   {
+    "dias": 1280,
+    "pct_ainda_ativo": 75.5,
+    "em_observacao": 20
+   },
+   {
+    "dias": 1460,
+    "pct_ainda_ativo": 75.5,
+    "em_observacao": 12
+   }
+  ],
+  "PL": [
+   {
+    "dias": 0,
+    "pct_ainda_ativo": 99.8,
+    "em_observacao": 8845
+   },
+   {
+    "dias": 30,
+    "pct_ainda_ativo": 99.3,
+    "em_observacao": 8638
+   },
+   {
+    "dias": 60,
+    "pct_ainda_ativo": 98.7,
+    "em_observacao": 8584
+   },
+   {
+    "dias": 90,
+    "pct_ainda_ativo": 98.1,
+    "em_observacao": 8436
+   },
+   {
+    "dias": 120,
+    "pct_ainda_ativo": 97.2,
+    "em_observacao": 8328
+   },
+   {
+    "dias": 180,
+    "pct_ainda_ativo": 94.5,
+    "em_observacao": 7877
+   },
+   {
+    "dias": 270,
+    "pct_ainda_ativo": 90.6,
+    "em_observacao": 7043
+   },
+   {
+    "dias": 365,
+    "pct_ainda_ativo": 87.5,
+    "em_observacao": 6485
+   },
+   {
+    "dias": 545,
+    "pct_ainda_ativo": 82.7,
+    "em_observacao": 5472
+   },
+   {
+    "dias": 730,
+    "pct_ainda_ativo": 78.8,
+    "em_observacao": 4734
+   },
+   {
+    "dias": 910,
+    "pct_ainda_ativo": 75.8,
+    "em_observacao": 4108
+   },
+   {
+    "dias": 1095,
+    "pct_ainda_ativo": 74.0,
+    "em_observacao": 3659
+   },
+   {
+    "dias": 1280,
+    "pct_ainda_ativo": 72.6,
+    "em_observacao": 2978
+   },
+   {
+    "dias": 1460,
+    "pct_ainda_ativo": 71.5,
+    "em_observacao": 2625
+   }
+  ],
+  "PLC": [
+   {
+    "dias": 0,
+    "pct_ainda_ativo": 98.9,
+    "em_observacao": 176
+   },
+   {
+    "dias": 30,
+    "pct_ainda_ativo": 97.7,
+    "em_observacao": 169
+   },
+   {
+    "dias": 60,
+    "pct_ainda_ativo": 96.0,
+    "em_observacao": 166
+   },
+   {
+    "dias": 90,
+    "pct_ainda_ativo": 93.7,
+    "em_observacao": 163
+   },
+   {
+    "dias": 120,
+    "pct_ainda_ativo": 91.9,
+    "em_observacao": 159
+   },
+   {
+    "dias": 180,
+    "pct_ainda_ativo": 91.3,
+    "em_observacao": 153
+   },
+   {
+    "dias": 270,
+    "pct_ainda_ativo": 88.9,
+    "em_observacao": 134
+   },
+   {
+    "dias": 365,
+    "pct_ainda_ativo": 88.9,
+    "em_observacao": 131
+   },
+   {
+    "dias": 545,
+    "pct_ainda_ativo": 87.4,
+    "em_observacao": 115
+   },
+   {
+    "dias": 730,
+    "pct_ainda_ativo": 86.6,
+    "em_observacao": 110
+   },
+   {
+    "dias": 910,
+    "pct_ainda_ativo": 85.8,
+    "em_observacao": 105
+   },
+   {
+    "dias": 1095,
+    "pct_ainda_ativo": 85.0,
+    "em_observacao": 99
+   },
+   {
+    "dias": 1280,
+    "pct_ainda_ativo": 85.0,
+    "em_observacao": 83
+   },
+   {
+    "dias": 1460,
+    "pct_ainda_ativo": 85.0,
+    "em_observacao": 74
+   }
+  ]
+ },
+ "legislatura": {
+  "numero": 20,
+  "inicio": "2023-02-01",
+  "fim": "2027-01-31"
+ },
+ "por_origem": {
+  "numeradas_na_legislatura": 5941,
+  "de_legislaturas_anteriores": 3142
+ },
+ "funil_numeradas_na_legislatura": {
+  "apresentado": 5941,
+  "comissoes": 5914,
+  "plenario_origem": 1718,
+  "sancao": 1325,
+  "lei": 1284
+ },
+ "sobrevivencia_numeradas_na_legislatura": [
+  {
+   "dias": 0,
+   "pct_ainda_ativo": 99.6,
+   "em_observacao": 5941
+  },
+  {
+   "dias": 30,
+   "pct_ainda_ativo": 98.9,
+   "em_observacao": 5724
+  },
+  {
+   "dias": 60,
+   "pct_ainda_ativo": 97.9,
+   "em_observacao": 5667
+  },
+  {
+   "dias": 90,
+   "pct_ainda_ativo": 96.9,
+   "em_observacao": 5514
+  },
+  {
+   "dias": 120,
+   "pct_ainda_ativo": 95.5,
+   "em_observacao": 5400
+  },
+  {
+   "dias": 180,
+   "pct_ainda_ativo": 91.3,
+   "em_observacao": 4943
+  },
+  {
+   "dias": 270,
+   "pct_ainda_ativo": 85.4,
+   "em_observacao": 4104
+  },
+  {
+   "dias": 365,
+   "pct_ainda_ativo": 80.9,
+   "em_observacao": 3564
+  },
+  {
+   "dias": 545,
+   "pct_ainda_ativo": 73.9,
+   "em_observacao": 2596
+  },
+  {
+   "dias": 730,
+   "pct_ainda_ativo": 68.6,
+   "em_observacao": 1927
+  },
+  {
+   "dias": 910,
+   "pct_ainda_ativo": 64.7,
+   "em_observacao": 1368
+  },
+  {
+   "dias": 1095,
+   "pct_ainda_ativo": 62.2,
+   "em_observacao": 961
+  },
+  {
+   "dias": 1280,
+   "pct_ainda_ativo": 60.3,
+   "em_observacao": 296
+  }
+ ],
+ "por_regime": {
+  "Deliberação em dois turnos no Plenário": 6671,
+  "Deliberação em turno único nas comissões": 2064,
+  "Deliberação em turno único no Plenário": 347,
+  "Deliberação em dois turnos nas comissões": 1
+ },
+ "viraram_lei_por_ano_da_lei": {
+  "2023": 368,
+  "2024": 500,
+  "2025": 562,
+  "2026": 383
+ }
+}

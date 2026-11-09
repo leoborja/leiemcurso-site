@@ -1,0 +1,28 @@
+{
+ "id": 2483164,
+ "titulo": "Cria o cargo de primeiro-ministro e muda o sistema de governo para o semipresidencialismo",
+ "tldr": [
+  "O presidente passa a ser chefe de Estado e nomeia um primeiro-ministro, que governa com um Conselho de Ministros e depende do apoio da Câmara; o presidente pode dissolver a Câmara em caso de crise política.",
+  "Presidência da República, Câmara dos Deputados e o funcionamento do governo federal; o efeito é geral.",
+  "Apresentada em 06/02/2025, aguarda despacho do presidente da Câmara dos Deputados para começar a tramitar."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2852350",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9ecf790d1a3ac9dd",
+ "hash_tramitacao": "89a3dd49c3873a0e",
+ "tentativa": 1
+}

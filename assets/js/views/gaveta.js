@@ -1,6 +1,6 @@
 // Gaveta: o que está parado há mais tempo, por tema e por órgão. Só proposições que ainda tramitam.
 import * as dados from '../data.js';
-import { html, raw, esc, etapaTag, trilhaMini, botaoSeguir, fmtN, fmtData, fmtDuracao, plural, nomeOrgao, TERMINAIS, vazio } from '../ui.js';
+import { html, raw, esc, etapaTag, trilhaMini, botaoSeguir, fmtN, fmtData, fmtDuracao, plural, nomeOrgao, TERMINAIS, vazio, href } from '../ui.js';
 
 const FAIXAS = [
   { de: 0, ate: 180, nome: 'até 6 meses', c: 'var(--line-2)' },
@@ -50,7 +50,7 @@ export default async function gaveta(main, ctx) {
 
     main.innerHTML = String(html`
       <div class="cab">
-        <p class="olho">Gaveta</p>
+        <p class="olho">Gaveta · ${ctx.casa.nome}</p>
         <h1>O que está parado há mais tempo</h1>
         <p class="lead">Das <b>${fmtN(ativas.length)}</b> proposições que ainda tramitam, <b>${fmtN(nAno)}</b> estão há mais de um ano sem nenhuma movimentação.${maisAntiga ? raw(` A mais antiga na gaveta está parada há <b>${esc(fmtDuracao(maisAntiga.dias_parado))}</b>.`) : ''}</p>
       </div>
@@ -62,7 +62,7 @@ export default async function gaveta(main, ctx) {
           <article class="gaveta-item">
             <div class="dias">${fmtN(p.dias_parado)}<small>dias parada</small></div>
             <div class="corpo">
-              <div class="cartao__topo"><a class="cartao__sigla" href="#/p/${p.id}">${p.sigla}</a>${etapaTag(p.etapa)}</div>
+              <div class="cartao__topo"><a class="cartao__sigla" href="${href('/p/' + p.id)}">${p.sigla}</a>${etapaTag(p.etapa)}</div>
               <p class="cartao__ementa" style="-webkit-line-clamp:2">${p.ementa}</p>
               <div class="cartao__pe">${trilhaMini(p.etapa)}<span>${nomeOrgao(p.orgao_atual)} · sem movimentação desde ${fmtData(p.ultima_movimentacao)}</span><span style="margin-left:auto"></span>${botaoSeguir(p.id, dados.seguindo(p.id), true)}</div>
             </div>

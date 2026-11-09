@@ -1,8 +1,8 @@
 {
  "id": 9100033,
- "sigla": "PL 1891/2026",
+ "sigla": "PL 1543/2026",
  "tipo": "PL",
- "numero": 1891,
+ "numero": 1543,
  "ano": 2026,
  "ementa": "Dispõe sobre a prevenção ao assédio em ambientes esportivos de base.",
  "tema": [
@@ -12,22 +12,29 @@
  "data_apresentacao": "2026-11-05",
  "autor_principal": {
   "nome": "Renata Quintela",
-  "partido": "QRS",
-  "uf": "PE",
-  "tipo": "Deputado"
+  "partido": "ABC",
+  "uf": "SC",
+  "tipo": "Deputado",
+  "id_parlamentar": 990012
  },
  "etapa": "apresentado",
  "orgao_atual": "MESA",
  "ultima_movimentacao": "2026-11-05",
  "dias_parado": 2,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100033",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Renata Quintela",
-   "partido": "QRS",
-   "uf": "PE",
+   "partido": "ABC",
+   "uf": "SC",
    "tipo": "Deputado",
-   "id_deputado": 990032
+   "id_parlamentar": 990012
   }
  ],
  "relatores": [],
@@ -42,15 +49,9 @@
   {
    "data": "2026-11-05T14:30:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 1891/2026 pelo(a) autor(a): Renata Quintela.",
+   "descricao": "Apresentação do PL 1543/2026 pelo(a) autor(a): Renata Quintela.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100033"
   }
  ],
- "votacoes": [],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ "votacoes": []
 }

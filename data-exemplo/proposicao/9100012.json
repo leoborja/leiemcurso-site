@@ -1,8 +1,8 @@
 {
  "id": 9100012,
- "sigla": "PL 2042/2024",
+ "sigla": "PL 1271/2024",
  "tipo": "PL",
- "numero": 2042,
+ "numero": 1271,
  "ano": 2024,
  "ementa": "Institui a Política Nacional de Combate ao Desperdício de Água em edificações públicas.",
  "tema": [
@@ -14,43 +14,52 @@
   "nome": "Fábio Teles",
   "partido": "HJK",
   "uf": "DF",
-  "tipo": "Deputado"
+  "tipo": "Deputado",
+  "id_parlamentar": 990011
  },
  "etapa": "plenario_origem",
  "orgao_atual": "PLEN",
  "ultima_movimentacao": "2026-11-03",
  "dias_parado": 4,
  "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012",
+ "vinculo_outra_casa": {
+  "casa": "Senado",
+  "id": null,
+  "sigla": null,
+  "url": null
+ },
  "autores": [
   {
    "nome": "Fábio Teles",
    "partido": "HJK",
    "uf": "DF",
    "tipo": "Deputado",
-   "id_deputado": 990011
+   "id_parlamentar": 990011
   }
  ],
  "relatores": [
   {
    "nome": "Gustavo Pires",
    "orgao": "CMADS",
-   "desde": "2024-12-23"
+   "desde": "2026-05-20",
+   "id_parlamentar": 990013
   },
   {
    "nome": "Davi Cordeiro",
    "orgao": "CCJC",
-   "desde": "2025-11-19"
+   "desde": "2026-09-10",
+   "id_parlamentar": 990015
   }
  ],
  "etapas": [
   {
    "etapa": "apresentado",
    "inicio": "2024-03-05",
-   "fim": "2024-12-05"
+   "fim": "2025-12-16"
   },
   {
    "etapa": "comissoes",
-   "inicio": "2024-12-05",
+   "inicio": "2025-12-16",
    "fim": "2026-11-03",
    "orgaos": [
     "CMADS",
@@ -65,49 +74,49 @@
  ],
  "tramitacoes": [
   {
-   "data": "2024-03-05T21:45:00Z",
+   "data": "2024-03-05T13:15:00Z",
    "orgao": "PLEN",
-   "descricao": "Apresentação do PL 2042/2024 pelo(a) autor(a): Fábio Teles.",
+   "descricao": "Apresentação do PL 1271/2024 pelo(a) autor(a): Fábio Teles.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
   },
   {
-   "data": "2024-03-06T14:00:00Z",
+   "data": "2024-03-06T19:00:00Z",
    "orgao": "MESA",
    "descricao": "Recebimento e leitura. Aguardando despacho.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
   },
   {
-   "data": "2024-12-05T21:45:00Z",
+   "data": "2025-12-16T18:15:00Z",
    "orgao": "MESA",
-   "descricao": "Despacho às comissões: CMADS, CCJC. Proposição sujeita à apreciação conclusiva pelas comissões.",
+   "descricao": "Despacho às comissões: CMADS, CCJC.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
   },
   {
-   "data": "2024-12-23T13:00:00Z",
+   "data": "2026-05-20T14:30:00Z",
    "orgao": "CMADS",
    "descricao": "Designado relator(a) Dep. Gustavo Pires.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
   },
   {
-   "data": "2025-07-13T19:00:00Z",
+   "data": "2026-09-09T20:45:00Z",
    "orgao": "CMADS",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
   },
   {
-   "data": "2025-11-19T14:15:00Z",
+   "data": "2026-09-10T13:45:00Z",
    "orgao": "CCJC",
    "descricao": "Designado relator(a) Dep. Davi Cordeiro.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
   },
   {
-   "data": "2026-11-03T20:00:00Z",
+   "data": "2026-11-03T17:15:00Z",
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
   },
   {
-   "data": "2026-11-03T21:15:00Z",
+   "data": "2026-11-03T17:30:00Z",
    "orgao": "PLEN",
    "descricao": "Pronta para pauta no Plenário.",
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
@@ -116,14 +125,15 @@
  "votacoes": [
   {
    "id": "9100012-1",
-   "data": "2025-07-13",
+   "data": "2026-09-09",
    "orgao": "CMADS",
    "descricao": "Aprovado o parecer do(a) relator(a) na CMADS.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 18,
-    "nao": -1,
-    "abstencao": 7
+    "sim": 19,
+    "nao": 5,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
   },
@@ -133,18 +143,13 @@
    "orgao": "CCJC",
    "descricao": "Aprovado o parecer do(a) relator(a) na CCJC.",
    "aprovada": true,
+   "nominal": true,
    "placar": {
-    "sim": 18,
-    "nao": 0,
-    "abstencao": 6
+    "sim": 23,
+    "nao": 7,
+    "abstencao": 0
    },
    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=9100012"
   }
- ],
- "vinculo_outra_casa": {
-  "casa": "Senado",
-  "id": null,
-  "sigla": null,
-  "url": null
- }
+ ]
 }

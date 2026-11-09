@@ -1,0 +1,28 @@
+{
+ "id": 2471177,
+ "titulo": "Define regras para confirmar registros de imóveis rurais em faixa de fronteira titulados pelos estados",
+ "tldr": [
+  "Cartórios passam a confirmar registros de imóveis rurais em faixa de fronteira com origem em terras públicas vendidas ou concedidas pelos estados, mediante documentos; áreas acima de quinze módulos fiscais têm exigências extras.",
+  "Donos de imóveis rurais em faixa de fronteira com títulos emitidos pelos estados, cartórios de registro de imóveis, o Incra e o órgão de patrimônio da União.",
+  "Alterada pelo Senado, teve o texto do Senado aprovado no Plenário da Câmara em 09/12/2025 e foi enviada em 16/12/2025 para sanção ou veto do Presidente da República."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2471177",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2825379",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1fae8e4d43678789",
+ "hash_tramitacao": "b3a9d03a3c487486",
+ "tentativa": 1
+}

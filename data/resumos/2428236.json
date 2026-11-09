@@ -1,0 +1,28 @@
+{
+ "id": 2428236,
+ "titulo": "Obriga a lei a tratar como crime a posse e o porte de drogas sem autorização, em qualquer quantidade",
+ "tldr": [
+  "A Constituição passa a determinar que a posse e o porte de drogas sem autorização sejam crime, distinguindo traficante de usuário pelas circunstâncias do caso. Ao usuário, penas alternativas à prisão e tratamento.",
+  "Pessoas que tenham ou carreguem drogas sem autorização, tanto usuários quanto traficantes.",
+  "Aprovada no Senado, teve parecer aprovado na Comissão de Constituição e Justiça e de Cidadania da Câmara em 12/06/2024, por 47 votos a 17. Aguarda a instalação de comissão especial; o último pedido para isso é de 12/02/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "gerado_em": "2026-11-08T17:53:11Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2428236",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2410440",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cc1ee9a6572c6e7e",
+ "hash_tramitacao": "ea255ba6801054ab",
+ "tentativa": 1
+}

@@ -1,0 +1,189 @@
+{
+ "id": 5300004,
+ "sigla": "PL 769/2025",
+ "tipo": "PL",
+ "numero": 769,
+ "ano": 2025,
+ "ementa": "Dispõe sobre acessibilidade em pontos de ônibus do transporte coletivo municipal.",
+ "tema": [
+  "Viação, Transporte e Mobilidade",
+  "Direitos Humanos e Minorias"
+ ],
+ "data_apresentacao": "2025-09-09",
+ "autor_principal": {
+  "nome": "Daniel Arruda",
+  "partido": "MNO",
+  "uf": "MG",
+  "tipo": "Vereador",
+  "id_parlamentar": 770003
+ },
+ "etapa": "plenario_origem",
+ "orgao_atual": "PLEN",
+ "ultima_movimentacao": "2026-11-05",
+ "dias_parado": 2,
+ "url_fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004",
+ "autores": [
+  {
+   "nome": "Daniel Arruda",
+   "partido": "MNO",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770003
+  },
+  {
+   "nome": "Aline Barcelos",
+   "partido": "ABC",
+   "uf": "MG",
+   "tipo": "Vereador",
+   "id_parlamentar": 770000
+  }
+ ],
+ "relatores": [
+  {
+   "nome": "Jorge Rocha",
+   "orgao": "MOBIL",
+   "desde": "2026-01-02",
+   "id_parlamentar": 770009
+  },
+  {
+   "nome": "Breno Saraiva",
+   "orgao": "ORCFIN",
+   "desde": "2026-07-02",
+   "id_parlamentar": 770001
+  },
+  {
+   "nome": "Daniel Arruda",
+   "orgao": "CLJ",
+   "desde": "2026-09-10",
+   "id_parlamentar": 770003
+  }
+ ],
+ "etapas": [
+  {
+   "etapa": "apresentado",
+   "inicio": "2025-09-09",
+   "fim": "2025-11-23"
+  },
+  {
+   "etapa": "comissoes",
+   "inicio": "2025-11-23",
+   "fim": "2026-11-05",
+   "orgaos": [
+    "MOBIL",
+    "ORCFIN",
+    "CLJ"
+   ]
+  },
+  {
+   "etapa": "plenario_origem",
+   "inicio": "2026-11-05",
+   "fim": null
+  }
+ ],
+ "tramitacoes": [
+  {
+   "data": "2025-09-09T21:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Apresentação do PL 769/2025 pelo(a) autor(a): Daniel Arruda.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "data": "2025-09-10T18:15:00Z",
+   "orgao": "MESA",
+   "descricao": "Recebimento e leitura. Aguardando despacho.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "data": "2025-11-23T21:30:00Z",
+   "orgao": "MESA",
+   "descricao": "Despacho às comissões: MOBIL, ORCFIN, CLJ.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "data": "2026-01-02T17:30:00Z",
+   "orgao": "MOBIL",
+   "descricao": "Designado relator(a) Ver. Jorge Rocha.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "data": "2026-01-22T20:00:00Z",
+   "orgao": "MOBIL",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "data": "2026-07-02T19:15:00Z",
+   "orgao": "ORCFIN",
+   "descricao": "Designado relator(a) Ver. Breno Saraiva.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "data": "2026-09-08T21:15:00Z",
+   "orgao": "ORCFIN",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "data": "2026-09-10T18:00:00Z",
+   "orgao": "CLJ",
+   "descricao": "Designado relator(a) Ver. Daniel Arruda.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "data": "2026-11-05T14:00:00Z",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "data": "2026-11-05T14:45:00Z",
+   "orgao": "PLEN",
+   "descricao": "Pronta para pauta no Plenário.",
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  }
+ ],
+ "votacoes": [
+  {
+   "id": "5300004-1",
+   "data": "2026-01-22",
+   "orgao": "MOBIL",
+   "descricao": "Aprovado o parecer do(a) relator(a) na MOBIL.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 6,
+    "nao": 2,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "id": "5300004-2",
+   "data": "2026-09-08",
+   "orgao": "ORCFIN",
+   "descricao": "Aprovado o parecer do(a) relator(a) na ORCFIN.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 6,
+    "nao": 2,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  },
+  {
+   "id": "5300004-3",
+   "data": "2026-11-05",
+   "orgao": "CLJ",
+   "descricao": "Aprovado o parecer do(a) relator(a) na CLJ.",
+   "aprovada": true,
+   "nominal": true,
+   "placar": {
+    "sim": 4,
+    "nao": 2,
+    "abstencao": 1
+   },
+   "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes?id=5300004"
+  }
+ ]
+}

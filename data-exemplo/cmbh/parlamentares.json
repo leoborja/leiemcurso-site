@@ -1,0 +1,125 @@
+{
+ "gerado_em": "2026-11-07T12:00:00Z",
+ "parlamentares": [
+  {
+   "id": 770000,
+   "nome": "Aline Barcelos",
+   "partido": "ABC",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 3,
+   "n_relatorias": 3,
+   "ultima_atividade": "2026-11-05",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770000"
+  },
+  {
+   "id": 770001,
+   "nome": "Breno Saraiva",
+   "partido": "XYZ",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 2,
+   "n_relatorias": 2,
+   "ultima_atividade": "2026-11-05",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770001"
+  },
+  {
+   "id": 770002,
+   "nome": "Cecília Mourão",
+   "partido": "QRS",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 3,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770002"
+  },
+  {
+   "id": 770003,
+   "nome": "Daniel Arruda",
+   "partido": "MNO",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 2,
+   "n_relatorias": 2,
+   "ultima_atividade": "2026-11-05",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770003"
+  },
+  {
+   "id": 770004,
+   "nome": "Estela Paiva",
+   "partido": "UVW",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 3,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770004"
+  },
+  {
+   "id": 770005,
+   "nome": "Flávio Godinho",
+   "partido": "HJK",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 2,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770005"
+  },
+  {
+   "id": 770006,
+   "nome": "Graça Ventura",
+   "partido": "ABC",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 2,
+   "n_relatorias": 2,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770006"
+  },
+  {
+   "id": 770007,
+   "nome": "Henrique Lobo",
+   "partido": "XYZ",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 2,
+   "n_relatorias": 0,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770007"
+  },
+  {
+   "id": 770008,
+   "nome": "Isadora Neves",
+   "partido": "QRS",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": true,
+   "n_autorias": 1,
+   "n_relatorias": 1,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770008"
+  },
+  {
+   "id": 770009,
+   "nome": "Jorge Rocha",
+   "partido": "MNO",
+   "uf": "MG",
+   "foto_url": null,
+   "em_exercicio": false,
+   "n_autorias": 1,
+   "n_relatorias": 1,
+   "ultima_atividade": "2026-11-03",
+   "url_fonte": "https://www.cmbh.mg.gov.br/vereadores/?id=770009"
+  }
+ ]
+}
