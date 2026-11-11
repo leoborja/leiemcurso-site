@@ -45,12 +45,15 @@ export async function usarCasa(id) {
   casa = c;
   if (!listas.has(c.id)) {
     listas.set(c.id, (async () => {
-      const [json, res] = await Promise.all([
+      const [json, res, tit] = await Promise.all([
         getJSON(c.base + 'proposicoes.json'),
         tem('resumos', c) ? getJSON(c.base + 'resumos.json').catch(() => null)
           : tem('resumos_individuais', c) ? getJSON(c.base + 'resumos/index.json').catch(() => null) : null,
+        tem('titulos', c) ? getJSON(c.base + 'titulos.json').catch(() => null) : null,
       ]);
-      return prepararLista(json, c, res);
+      // títulos simples (só da ementa) entram onde ainda não há resumo completo
+      const lista = [...(tit?.titulos || []).map((t) => ({ ...t, so_titulo: true })), ...(res?.resumos || [])];
+      return prepararLista(json, c, { resumos: lista });
     })());
   }
   return listas.get(c.id);
@@ -114,7 +117,7 @@ export async function resumo(id) {
   const r = l?.resumos.get(Number(id)) || null;
   if (r?.tldr) return r;
   // resumos/index.json só traz o título; o TL;DR vem do arquivo individual (só busca se o índice tiver o id)
-  if (r && tem('resumos_individuais')) return getJSON(`${B()}resumos/${id}.json`).catch(() => r);
+  if (r && !r.so_titulo && tem('resumos_individuais')) return getJSON(`${B()}resumos/${id}.json`).catch(() => r);
   return r;
 }
 

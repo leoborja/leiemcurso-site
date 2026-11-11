@@ -67,6 +67,7 @@ export default async function proposicao(main, ctx) {
       </div>
       <h1>${resumo?.titulo || p.ementa}</h1>
       ${resumo ? html`<p class="prop-cab__ementa"><span class="rot">Ementa oficial</span> ${p.ementa}</p>` : ''}
+      ${resumo && !resumo.tldr?.length ? html`<p class="prop-cab__selo">${seloResumo()}</p>` : ''}
       <div class="prop-cab__linha">${etapaTag(p.etapa)} ${trilhaMini(p.etapa, vividas)} ${contadorParado(p)}</div>
       <div class="chips">${(p.tema || []).map((t) => html`<a class="chip" href="${href('/tabuleiro?tema=' + encodeURIComponent(t))}">${t}</a>`)}</div>
       <div class="prop-cab__acoes">
@@ -76,7 +77,7 @@ export default async function proposicao(main, ctx) {
       </div>
     </header>
 
-    ${resumo ? html`<section class="resumo" aria-labelledby="h-resumo">
+    ${resumo?.tldr?.length ? html`<section class="resumo" aria-labelledby="h-resumo">
       <div class="resumo__cab"><h2 id="h-resumo">Em resumo</h2>${seloResumo()}</div>
       <ul>${(resumo.tldr || []).map((t) => html`<li>${t}</li>`)}</ul>
       <p class="resumo__pe">Gerado automaticamente${resumo.gerado_em ? ` em ${fmtData(resumo.gerado_em)}` : ''} a partir de ${(resumo.fontes || ['ementa']).join(', ').replace('inteiro_teor', 'inteiro teor').replace('tramitacao', 'tramitação')}${resumo.revisado ? ', revisado por pessoa' : ', sem revisão humana'}. Pode conter imprecisões: confira ${fonte ? html`<a href="${fonte}" target="_blank" rel="noopener">a fonte oficial ↗</a>` : 'a fonte oficial'}.</p>

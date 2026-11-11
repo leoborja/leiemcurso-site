@@ -551,3 +551,4 @@ table.votos .lista-simples__txt { font-size: 13px; }
 .leg-bola.h-anel { box-shadow: 0 0 0 2px var(--ink); margin-right: 8px; }
 .leg-bola.h-sim { background: var(--sim); } .leg-bola.h-nao { background: var(--nao); } .leg-bola.h-abst { background: var(--abst); } .leg-bola.h-obst { background: var(--obst); }
 .seletor-semana select { flex: 1 1 0; width: 0; }
+.prop-cab__selo { margin-top: 6px; }
