@@ -1,0 +1,28 @@
+{
+ "id": 2612566,
+ "titulo": "Obriga bancos a oferecer a idosos a confirmação de operações por uma pessoa de confiança",
+ "tldr": [
+  "Bancos passam a ter de oferecer, de graça, a opção de o idoso cadastrar uma pessoa que confirma transferências, empréstimos e outras operações. A adesão é opcional e essa pessoa não tem acesso à conta.",
+  "Clientes com 60 anos ou mais, bancos e demais instituições autorizadas pelo Banco Central.",
+  "Aprovado com texto alternativo na Comissão de Defesa dos Direitos da Pessoa Idosa em 28/10/2026. Desde 04/11/2026, aguarda a escolha de relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612566",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106120",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "599a055fd8a2d1c5",
+ "hash_tramitacao": "67ae8e3ea6f321d1",
+ "tentativa": 1
+}

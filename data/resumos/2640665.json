@@ -1,0 +1,28 @@
+{
+ "id": 2640665,
+ "titulo": "Aumenta a pena de organizações criminosas que mantêm pessoas presas para aplicar golpes digitais",
+ "tldr": [
+  "A pena por organização criminosa aumenta de 1/3 a 2/3 quando o grupo mantém centros de tecnologia onde pessoas sofrem restrição de liberdade, servidão por dívida, retenção de documentos ou violência para aplicar fraudes.",
+  "Integrantes de organizações criminosas que mantêm esse tipo de centro e as pessoas forçadas a trabalhar neles.",
+  "Aguarda escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, onde chegou em 05/11/2026. Depois segue para a Comissão de Constituição e Justiça e para o Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640665",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164419",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "84ceb1a04b1a3073",
+ "hash_tramitacao": "0d05f58e0f5dddad",
+ "tentativa": 1
+}

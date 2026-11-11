@@ -1,0 +1,28 @@
+{
+ "id": 2633948,
+ "titulo": "Muda o Dia Nacional da Prematuridade de 17 para 15 de novembro",
+ "tldr": [
+  "A lei que criou o Novembro Roxo passa a fixar 15 de novembro como Dia Nacional da Prematuridade, e a Semana da Prematuridade passa a ser a que contém essa data.",
+  "O efeito é geral: altera uma data do calendário oficial de conscientização.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 20/08/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633948",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149428",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9f5dff9a61850342",
+ "hash_tramitacao": "1aeb0eae644a7e76",
+ "tentativa": 1
+}

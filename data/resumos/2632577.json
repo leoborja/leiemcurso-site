@@ -1,0 +1,28 @@
+{
+ "id": 2632577,
+ "titulo": "Obriga bancos a devolver em até 5 dias úteis o dinheiro perdido por vítimas de golpes no Pix",
+ "tldr": [
+  "A vítima de golpe recebe o valor do próprio banco, mesmo sem recuperação do dinheiro. O banco pagador e o recebedor dividem a perda. A operadora de celular também responde se trocar o chip sem conferir a identidade.",
+  "Pessoas físicas, microempresas e empresas de pequeno porte que fazem pagamentos, bancos, instituições de pagamento e operadoras de telecomunicações.",
+  "Aguarda a escolha de relator na Comissão de Comunicação da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632577",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147140",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7fef04d466cbd085",
+ "hash_tramitacao": "10fc7eb7a389b8fe",
+ "tentativa": 2
+}

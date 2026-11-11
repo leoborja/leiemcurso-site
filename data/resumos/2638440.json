@@ -1,0 +1,28 @@
+{
+ "id": 2638440,
+ "titulo": "Torna a queima o único meio permitido para destruir plantações e drogas apreendidas",
+ "tldr": [
+  "Proíbe enterrar ou cobrir com terra drogas e plantações apreendidas. Fixa prazo de 48 horas para queimar droga apreendida sem prisão em flagrante, com filmagem, vistoria e guarda de amostra para perícia.",
+  "Polícias, delegados, Ministério Público e autoridades sanitárias que atuam em apreensões de drogas.",
+  "Em análise na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026 e abriu prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638440",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159735",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5abfe7f1b6b6467b",
+ "hash_tramitacao": "62e39e1d445177bc",
+ "tentativa": 1
+}

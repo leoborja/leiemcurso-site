@@ -1,0 +1,28 @@
+{
+ "id": 2610575,
+ "titulo": "Reconhece o trabalho doméstico e de cuidado não remunerado como trabalho e o inclui nas contas nacionais",
+ "tldr": [
+  "O IBGE passa a medir o trabalho doméstico e de cuidado não pago e a incluí-lo nas contas da economia, com dados específicos sobre quem cuida de pessoas com deficiência que recebem o BPC. Isso não cria vínculo de emprego entre familiares.",
+  "Pessoas que fazem trabalho doméstico e de cuidado sem remuneração, cuidadoras de beneficiários do BPC, o IBGE e órgãos federais.",
+  "Aprovado com emenda na Comissão de Defesa dos Direitos da Mulher em 04/11/2026 e aguarda envio à próxima etapa."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610575",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3100996",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2b900a5526d96a37",
+ "hash_tramitacao": "ff8d28b8a44b6886",
+ "tentativa": 1
+}

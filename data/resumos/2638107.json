@@ -1,0 +1,28 @@
+{
+ "id": 2638107,
+ "titulo": "Cria programa federal de apoio à tarifa zero e a ônibus menos poluentes no transporte coletivo",
+ "tldr": [
+  "A União poderá repassar recursos a estados, municípios e consórcios para reduzir ou zerar tarifas e trocar frotas por veículos de baixa emissão, com metas, transparência e possibilidade de suspensão dos repasses.",
+  "Estados, Distrito Federal, municípios, consórcios públicos, empresas operadoras de transporte coletivo e usuários.",
+  "Tramita junto com o PL 3549/2026 na Comissão de Viação e Transportes da Câmara, que designou relator em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638107",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158984",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5047bf44279f33ca",
+ "hash_tramitacao": "900d486a64f91dca",
+ "tentativa": 1
+}

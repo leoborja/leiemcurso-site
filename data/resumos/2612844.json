@@ -1,0 +1,28 @@
+{
+ "id": 2612844,
+ "titulo": "Cria tarifa social de energia com limite de consumo com desconto que varia por região",
+ "tldr": [
+  "O limite de consumo com desconto para famílias de baixa renda passa a variar conforme um índice regional que considera custo de vida, clima e furtos de energia. Prevê compensação às distribuidoras e relatórios anuais.",
+  "Famílias de baixa renda inscritas em programas sociais, distribuidoras de energia, Aneel, Ministério de Minas e Energia, IBGE, estados e municípios.",
+  "Chegou à Comissão de Minas e Energia da Câmara em 04/09/2026, onde aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612844",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106976",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7f1cc971ddfc8950",
+ "hash_tramitacao": "7207f0c8a0808dac",
+ "tentativa": 1
+}

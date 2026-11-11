@@ -1,0 +1,28 @@
+{
+ "id": 2639200,
+ "titulo": "Cria política para o SUS fornecer sensores de monitoramento contínuo de glicose a pessoas com diabetes",
+ "tldr": [
+  "O SUS passa a fornecer sensores e leitores de glicose mediante prescrição e critérios clínicos, com compra centralizada, capacitação de profissionais e painel público de dados.",
+  "Pessoas com diabetes atendidas pelo SUS, profissionais de saúde, Ministério da Saúde, estados e municípios.",
+  "Tramita junto com o PL 1789/2026 na Comissão de Saúde da Câmara, onde foi recebido em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639200",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161721",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "81fa4bf8ce675d1a",
+ "hash_tramitacao": "9b2ae563d36f600b",
+ "tentativa": 1
+}

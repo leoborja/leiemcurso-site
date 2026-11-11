@@ -1,0 +1,28 @@
+{
+ "id": 2640014,
+ "titulo": "Cria política nacional de saúde mental no trabalho para profissionais da educação",
+ "tldr": [
+  "Redes de ensino passam a ter de prevenir riscos psicológicos no trabalho, monitorar adoecimentos, oferecer acolhimento e encaminhamento, adotar protocolos contra violência e assédio e capacitar gestores.",
+  "Profissionais da educação das redes pública e privada, de todos os tipos de vínculo, além de escolas, União, estados e municípios.",
+  "Tramita junto com o PL 4778/2025 na Comissão de Saúde da Câmara, onde foi recebido em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640014",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163216",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8a95948058eafd3d",
+ "hash_tramitacao": "63f5fbf8e01c59be",
+ "tentativa": 1
+}

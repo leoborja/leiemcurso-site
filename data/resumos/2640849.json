@@ -1,0 +1,28 @@
+{
+ "id": 2640849,
+ "titulo": "Cria protocolo de busca ativa para matricular na educação infantil crianças em situação de risco social",
+ "tldr": [
+  "Redes de ensino, com saúde e assistência social, passam a cruzar dados de registro de nascimento e do CadÚnico para achar crianças fora da escola e providenciar a matrícula.",
+  "Crianças em situação de risco social, sistemas de ensino e órgãos de saúde e assistência social.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 4109/2026 (apensado), em análise nas comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640849",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164609",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a3239d262116add1",
+ "hash_tramitacao": "396864b9da292ff0",
+ "tentativa": 1
+}

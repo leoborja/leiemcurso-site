@@ -1,0 +1,28 @@
+{
+ "id": 2640570,
+ "titulo": "Proíbe o uso de contas de demonstração com resultados manipulados na publicidade de apostas",
+ "tldr": [
+  "Fica proibido divulgar apostas com contas de teste que dão resultados mais favoráveis que os reais. Influenciadores que usarem contas de demonstração precisam exibir aviso durante todo o conteúdo e podem receber sanções.",
+  "Empresas de apostas de quota fixa, influenciadores digitais e criadores de conteúdo que divulgam apostas, e a Secretaria de Prêmios e Apostas do Ministério da Fazenda.",
+  "Em análise nas comissões da Câmara, tramita junto com o PL 3751/2026. Último andamento: publicação em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640570",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164324",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c4fbb6a37cc803da",
+ "hash_tramitacao": "efdf85509c56a302",
+ "tentativa": 1
+}

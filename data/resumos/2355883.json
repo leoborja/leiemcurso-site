@@ -1,0 +1,28 @@
+{
+ "id": 2355883,
+ "titulo": "Autoriza câmeras de reconhecimento facial em estações, vagões de trem e metrô, ruas e prédios públicos",
+ "tldr": [
+  "Operadoras de metrô, trem e rodoviárias podem instalar câmeras de reconhecimento facial e fazer parcerias com a polícia para achar foragidos e desaparecidos. O Poder Executivo pode instalá-las em vias e prédios públicos.",
+  "Passageiros e empresas de metrô, trem e rodoviárias, órgãos de segurança pública e o Poder Executivo.",
+  "Aprovado pelo Plenário da Câmara em 12/08/2026, em versão alternativa elaborada na Comissão de Viação e Transportes. Foi enviado ao Senado em 31/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2355883",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2257911",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "11bab2d2ecc7e65b",
+ "hash_tramitacao": "a814fc2d3d45abb0",
+ "tentativa": 2
+}

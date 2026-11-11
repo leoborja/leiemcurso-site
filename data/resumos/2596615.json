@@ -1,0 +1,28 @@
+{
+ "id": 2596615,
+ "titulo": "Muda as regras do seguro rural e torna obrigatória a verba para subsidiar o seguro",
+ "tldr": [
+  "Define prazos para seguradoras avaliarem perdas e pagarem indenizações, torna obrigatória a verba federal que ajuda a pagar o seguro e dá vantagens no crédito rural a quem tem seguro.",
+  "Produtores rurais, seguradoras e cooperativas de seguros, bancos que dão crédito rural e o Ministério da Agricultura e Pecuária.",
+  "Virou a Lei 15.526/2026, publicada em 30/09/2026, com partes vetadas. A Câmara aprovou uma versão alterada em 27/05/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2596615",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3067644",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1db4e188f712b89c",
+ "hash_tramitacao": "905ef2ae3f1a0087",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640668,
+ "titulo": "Inclui no Código Penal agravante para crimes contra a mulher motivados por posse, controle ou ciúme",
+ "tldr": [
+  "A pena pode ser aumentada quando o crime contra a mulher, em contexto de violência doméstica ou de gênero, for motivado por posse, dominação, controle ou ciúme. Isso não vale quando a motivação já aumentar a pena por outra regra.",
+  "Pessoas processadas por crimes contra mulheres em contexto de violência doméstica, familiar ou de gênero, e as vítimas desses crimes.",
+  "Aguarda designação de relator na Comissão de Defesa dos Direitos da Mulher da Câmara, onde chegou em 06/11/2026. Depois, será votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640668",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164422",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1132c323753809a8",
+ "hash_tramitacao": "6ec420f41241fb65",
+ "tentativa": 1
+}

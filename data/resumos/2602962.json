@@ -1,0 +1,28 @@
+{
+ "id": 2602962,
+ "titulo": "Garante a pessoas idosas ajustes em concursos públicos, exames e provas de habilitação profissional",
+ "tldr": [
+  "Muda o Estatuto da Pessoa Idosa para prever adaptações em provas, como mais tempo ou mudanças na forma de aplicação. Os ajustes não podem reduzir o nível de exigência técnica nem gerar custo desproporcional a quem organiza o exame.",
+  "Pessoas idosas que fazem concursos, exames e provas de habilitação profissional, e as entidades que organizam essas avaliações.",
+  "Em 12/08/2026, a Comissão de Defesa dos Direitos da Pessoa Idosa aprovou o parecer, que muda o texto original. Desde 24/08/2026, o projeto aguarda relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602962",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3083184",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3fba97758ac60a53",
+ "hash_tramitacao": "efee819d9dc4cade",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640814,
+ "titulo": "Cria auxílio de meio salário mínimo para familiar que cuida de pessoa com deficiência severa",
+ "tldr": [
+  "Cria o Auxílio-Cuidado, pago todo mês ao familiar que cuida sem receber salário e com dedicação exclusiva. Exige cadastro no CadÚnico e renda por pessoa abaixo de meio salário mínimo. O benefício pode ser somado ao BPC e ao Bolsa Família.",
+  "Cuidadores familiares de baixa renda de pessoas com deficiência com dependência severa e permanente.",
+  "Em análise na Câmara. Em 29/10/2026, a Mesa Diretora determinou que tramite junto com o PL 2399/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640814",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164569",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d5200ce2ad3dfb0f",
+ "hash_tramitacao": "3a03581648ff6790",
+ "tentativa": 1
+}

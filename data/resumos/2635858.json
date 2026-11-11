@@ -1,0 +1,28 @@
+{
+ "id": 2635858,
+ "titulo": "Cria no Código Penal o crime de corrupção sistêmica, com pena de 8 a 20 anos de prisão",
+ "tldr": [
+  "Passa a ser crime criar, financiar, integrar ou manter estrutura organizada para obter ou distribuir vantagens indevidas no poder público. A condenação leva à perda do cargo e a 15 anos sem função pública.",
+  "Agentes públicos, políticos eleitos, responsáveis pela fiscalização e empresas ou pessoas que se beneficiem do esquema.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, onde foi recebido em 18/08/2026. Depois precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635858",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154482",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "050f94bfde947799",
+ "hash_tramitacao": "5759d1e1cb3be689",
+ "tentativa": 2
+}

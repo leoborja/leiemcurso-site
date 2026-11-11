@@ -1,0 +1,28 @@
+{
+ "id": 2424098,
+ "titulo": "Inclui o trabalho doméstico e de cuidado entre as atividades que reduzem o tempo de pena",
+ "tldr": [
+  "Trabalho doméstico e cuidado de filhos, idosos e pessoas com deficiência passam a contar para reduzir a pena, com presunção de 8 horas diárias. Na prisão domiciliar para cuidar dos filhos, conta o trabalho doméstico de outro tipo.",
+  "Pessoas condenadas que fazem trabalho doméstico ou de cuidado e a Justiça responsável pela execução das penas.",
+  "Parecer favorável, com texto alternativo, aprovado na Comissão de Defesa dos Direitos da Mulher em 04/11/2026. Depois precisa ser votado pelo Plenário da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424098",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2401783",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "10cb7707ee465b2a",
+ "hash_tramitacao": "b888e348d8e6217f",
+ "tentativa": 2
+}

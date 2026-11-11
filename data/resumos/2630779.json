@@ -1,0 +1,28 @@
+{
+ "id": 2630779,
+ "titulo": "Obriga semáforos com fiscalização eletrônica a ter contador regressivo de tempo",
+ "tldr": [
+  "Semáforos com radar ou câmera devem mostrar o tempo restante do verde e do vermelho; sem o contador funcionando, não pode haver multa por esse equipamento. Prazo de 60 dias para adaptação.",
+  "Motoristas e órgãos de trânsito responsáveis por semáforos com fiscalização eletrônica.",
+  "Aguarda designação de relator na Comissão de Viação e Transportes da Câmara, onde chegou em 31/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630779",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143688",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7d7c45870a59d505",
+ "hash_tramitacao": "437a24bac4df4b32",
+ "tentativa": 1
+}

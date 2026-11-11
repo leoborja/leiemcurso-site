@@ -1,0 +1,28 @@
+{
+ "id": 2443767,
+ "titulo": "Permite ao juiz cancelar todos os dias de pena reduzidos por estudo ou trabalho em caso de falta grave",
+ "tldr": [
+  "Em caso de falta grave, o juiz pode retirar parte ou todo o tempo de pena descontado por trabalho ou estudo. Hoje o limite é um terço.",
+  "Pessoas presas que cumprem pena e reduziram o tempo por estudo ou trabalho e os juízes de execução penal.",
+  "Aprovada na Comissão de Segurança Pública em 05/11/2024. Tramita com prioridade (urgência aprovada em 12/08/2026) e está pronta para votação no Plenário da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2443767",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2443437",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d9604c9f689f7f75",
+ "hash_tramitacao": "1785a0081bbfa0ab",
+ "tentativa": 1
+}

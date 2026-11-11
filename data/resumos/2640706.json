@@ -1,0 +1,28 @@
+{
+ "id": 2640706,
+ "titulo": "Define distância mínima de 500 metros entre aterros sanitários e áreas habitadas",
+ "tldr": [
+  "Novos aterros e ampliações precisam ficar a pelo menos 500 metros de áreas habitadas, avaliar impactos à saúde e divulgar dados sobre ar, água e solo. Aterros em operação se adaptam aos poucos, quando a licença for renovada.",
+  "Empresas e órgãos que operam aterros sanitários e moradores de áreas próximas a eles.",
+  "Tramita junto com outro projeto (PL 5765/2025) e aguarda encaminhamento nas comissões da Câmara. Foi encaminhado para publicação em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640706",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164460",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "afa9f8ec18eaa335",
+ "hash_tramitacao": "6d480898dfac773a",
+ "tentativa": 1
+}

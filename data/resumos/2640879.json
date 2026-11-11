@@ -1,0 +1,28 @@
+{
+ "id": 2640879,
+ "titulo": "Inclui no SUS a capacitação de profissionais e campanhas sobre toxinas em peixes e a Síndrome de Haff",
+ "tldr": [
+  "O SUS passa a ter a atribuição de promover formação contínua de profissionais e campanhas sazonais sobre toxinas em pescados e a Síndrome de Haff, com foco em identificar cedo os sintomas.",
+  "Profissionais de saúde do SUS, União, estados e municípios, e a população que consome pescado.",
+  "Tramita junto com o PL 4198/2026 (apensado) por decisão da Mesa da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640879",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164645",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6ab316accafaa1bd",
+ "hash_tramitacao": "2ce9ddc031d02a8e",
+ "tentativa": 1
+}

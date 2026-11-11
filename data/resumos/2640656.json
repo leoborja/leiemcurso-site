@@ -1,0 +1,28 @@
+{
+ "id": 2640656,
+ "titulo": "Cria registro em três níveis para imóveis rurais sobrepostos a terras tradicionais na Amazônia Legal",
+ "tldr": [
+  "Os cartórios passam a anotar alerta, restrição parcial ou bloqueio total nas matrículas de imóveis rurais que se sobrepõem a terras indígenas, quilombolas ou de comunidades tradicionais, conforme a etapa oficial do reconhecimento.",
+  "Donos e credores de imóveis rurais na Amazônia Legal, cartórios de registro de imóveis, povos indígenas, quilombolas e comunidades tradicionais.",
+  "Desde 06/11/2026, aguarda a escolha de relator na Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640656",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164410",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75480a5d379cdfa6",
+ "hash_tramitacao": "d17a986e116185bd",
+ "tentativa": 1
+}

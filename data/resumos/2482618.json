@@ -1,0 +1,28 @@
+{
+ "id": 2482618,
+ "titulo": "Inclui câmeras com reconhecimento facial e Alerta Âmber na política de busca de pessoas desaparecidas",
+ "tldr": [
+  "Prevê câmeras com reconhecimento facial em locais de grande circulação e alertas por SMS e redes sociais sobre desaparecidos. Cria no Código Penal o crime de promover ou colaborar para o desaparecimento de pessoas.",
+  "Órgãos de segurança pública, União, estados e municípios, operadoras de celular, empresas de redes sociais e famílias de pessoas desaparecidas.",
+  "Aprovado em cinco comissões, a última a Comissão de Constituição e Justiça, em 03/11/2026. Está pronto para ser votado no Plenário da Câmara desde 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482618",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2850383",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "05ea58f0cfed56a7",
+ "hash_tramitacao": "549510ef0f26fd10",
+ "tentativa": 1
+}

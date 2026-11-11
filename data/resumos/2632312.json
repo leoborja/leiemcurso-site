@@ -1,0 +1,28 @@
+{
+ "id": 2632312,
+ "titulo": "Cria o Dia Nacional da Juventude Cristã, no último sábado de setembro",
+ "tldr": [
+  "A data entra no calendário oficial da União. Órgãos públicos e entidades poderão promover atividades nessa semana, sem gerar despesas obrigatórias para a União.",
+  "O efeito é geral: a data é simbólica e as atividades são opcionais.",
+  "Aguarda escolha de relator na Comissão de Cultura da Câmara desde 18/08/2026. Em 16/06/2026 foi apresentado um pedido para que o projeto tramite com prioridade, mas o projeto segue em tramitação normal."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632312",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146566",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bce4805befe28f1c",
+ "hash_tramitacao": "3bb40626c323d2c2",
+ "tentativa": 1
+}

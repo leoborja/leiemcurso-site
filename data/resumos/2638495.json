@@ -1,0 +1,28 @@
+{
+ "id": 2638495,
+ "titulo": "Obriga empresas de jogos eletrônicos a manter jogos utilizáveis ou reembolsar quando desligarem servidores",
+ "tldr": [
+  "Empresas terão de avisar com 180 dias de antecedência o fim de jogos que dependem de servidor e oferecer versão que funcione sem eles, liberar ferramentas para terceiros ou devolver o valor pago, proporcional ao uso.",
+  "Consumidores de jogos eletrônicos e editoras, distribuidoras, desenvolvedoras e operadoras que vendem jogos no Brasil.",
+  "Tramita com prioridade após aprovação de urgência no Plenário da Câmara em 15/07/2026. Desde 09/09/2026 está nas comissões, aguardando a escolha de relator na Comissão de Cultura."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638495",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159958",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "df230cb835bf01b7",
+ "hash_tramitacao": "8bc99716aa587dbc",
+ "tentativa": 1
+}

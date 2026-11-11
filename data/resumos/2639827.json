@@ -1,0 +1,28 @@
+{
+ "id": 2639827,
+ "titulo": "Obriga plataformas e empresas a oferecer pontos de apoio gratuitos a trabalhadores que atuam em deslocamento",
+ "tldr": [
+  "Plataformas e empresas com cem ou mais trabalhadores ativos no mesmo município devem garantir locais gratuitos com banheiro, água, descanso e abrigo, sem repassar custos ao trabalhador nem puni-lo por usá-los.",
+  "Motoristas e entregadores de aplicativo, motofretistas, caminhoneiros e outros trabalhadores externos, plataformas digitais, empresas, concessionárias e operadores de terminais federais.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara, que designou relator em 04/11/2026 e abriu prazo para emendas em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639827",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162945",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "08d643c4f011783d",
+ "hash_tramitacao": "54d695fe2057692f",
+ "tentativa": 1
+}

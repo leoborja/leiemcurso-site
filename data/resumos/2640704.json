@@ -1,0 +1,28 @@
+{
+ "id": 2640704,
+ "titulo": "Obriga o SUS a monitorar a saúde de quem mora perto de aterros sanitários e lixões",
+ "tldr": [
+  "O SUS passa a ter de coletar dados de saúde, fazer ações preventivas, dar assistência prioritária e divulgar informações periodicamente às comunidades vizinhas de aterros e lixões.",
+  "Moradores do entorno de aterros sanitários, lixões e áreas de descarte irregular de lixo, e os órgãos de saúde e de meio ambiente.",
+  "Aguarda designação de relator na Comissão de Saúde da Câmara, onde chegou em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640704",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164458",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "685c96756e748d0d",
+ "hash_tramitacao": "3f3a1af92cb1e777",
+ "tentativa": 1
+}

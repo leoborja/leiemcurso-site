@@ -1,0 +1,28 @@
+{
+ "id": 2640687,
+ "titulo": "Cria cadastro nacional para diferenciar pessoas com o mesmo nome de investigados ou condenados",
+ "tldr": [
+  "Quem comprovar prejuízo ou risco por ter o mesmo nome de um investigado ou condenado pode pedir, de graça, um alerta nos sistemas de segurança pública. Erros de identificação devem ser corrigidos de imediato.",
+  "Pessoas com o mesmo nome de investigados, processados ou condenados e os órgãos de segurança pública que mantêm bancos de dados.",
+  "Aguarda a escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que recebeu o projeto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640687",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164441",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1e97bdfd7319e582",
+ "hash_tramitacao": "09b04d08eb7e38a7",
+ "tentativa": 1
+}

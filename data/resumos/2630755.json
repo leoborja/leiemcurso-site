@@ -1,0 +1,28 @@
+{
+ "id": 2630755,
+ "titulo": "Cria programa nacional de autonomia financeira para mulheres e combate à violência",
+ "tldr": [
+  "A União passa a ter programa com qualificação profissional, acesso a crédito, apoio ao empreendedorismo e rede de acolhimento, além de um sistema nacional de dados sobre violência contra a mulher.",
+  "Mulheres, com prioridade para vítimas de violência doméstica, em vulnerabilidade, chefes de família, negras, indígenas e com deficiência.",
+  "Tramita junto com o PL 1952/2026 na Comissão de Defesa dos Direitos da Mulher da Câmara desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630755",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143651",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a2e852cfe4df4997",
+ "hash_tramitacao": "bc608ba470e72be3",
+ "tentativa": 1
+}

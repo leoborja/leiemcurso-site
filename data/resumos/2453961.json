@@ -1,0 +1,28 @@
+{
+ "id": 2453961,
+ "titulo": "Autoriza o governo federal a doar vacinas contra mpox a outros países afetados pela doença",
+ "tldr": [
+  "O Ministério da Saúde pode doar vacinas contra mpox a países que aceitem recebê-las, definindo quantidades e destinos após ouvir o Itamaraty, sem prejudicar a vacinação no Brasil.",
+  "Ministério da Saúde, Ministério das Relações Exteriores e países afetados pela mpox.",
+  "Aprovado na Comissão de Relações Exteriores e de Defesa Nacional em 12/08/2026. Desde 18/08/2026 aguarda relator na Comissão de Saúde."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2453961",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2466594",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e303b11a0f008281",
+ "hash_tramitacao": "a9faaa2d9a1a8dee",
+ "tentativa": 1
+}

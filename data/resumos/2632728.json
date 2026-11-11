@@ -1,0 +1,28 @@
+{
+ "id": 2632728,
+ "titulo": "Permite descontar do imposto de renda doações ao Fundo Nacional de Segurança Pública",
+ "tldr": [
+  "Permite descontar do imposto de renda o valor doado ao fundo: até 3% do imposto devido para pessoas físicas e até 1% para empresas tributadas pelo lucro real. A regra vale por cinco anos.",
+  "Contribuintes pessoas físicas que fazem a declaração completa, empresas tributadas pelo lucro real e o Fundo Nacional de Segurança Pública.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que recebeu o relator e abriu prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632728",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147453",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "42f81c25ff3edcb6",
+ "hash_tramitacao": "c14b0bbc27bcd98b",
+ "tentativa": 1
+}

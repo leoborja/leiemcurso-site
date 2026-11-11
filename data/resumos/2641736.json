@@ -1,0 +1,28 @@
+{
+ "id": 2641736,
+ "titulo": "Permite ao juiz autorizar de forma provisória compra, registro e porte de arma por vítimas de violência",
+ "tldr": [
+  "Se o acusado responde em liberdade, o juiz reconhece o risco à vítima e pode autorizar provisoriamente compra, registro e porte de arma. A Polícia Federal analisa os pedidos com prioridade e em prazos fixos.",
+  "Vítimas de violência doméstica e de crimes cometidos com violência ou ameaça, juízes e Polícia Federal.",
+  "Recebido pela Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara em 04/11/2026, aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641736",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167359",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "48057ce332cdcf10",
+ "hash_tramitacao": "23437d4e178e0d0a",
+ "tentativa": 2
+}

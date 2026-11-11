@@ -1,0 +1,28 @@
+{
+ "id": 2643842,
+ "titulo": "Define regras para associações sem fins lucrativos que oferecem benefícios mútuos, inclusive saúde",
+ "tldr": [
+  "As associações que cumprirem os requisitos, como contribuição igual para todos e benefícios só para associados, deixam de ser consideradas operadoras de plano de saúde. Vale só para as criadas antes da lei.",
+  "Associações civis sem fins lucrativos de utilidade pública com sistemas de assistência mútua, seus associados e dependentes.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara, que recebeu o projeto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643842",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3172575",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "57443e561da76602",
+ "hash_tramitacao": "819c6a8e2a20132f",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640726,
+ "titulo": "Prevê centros de atendimento 24 horas para população de rua e proíbe exigir documento para atender",
+ "tldr": [
+  "A assistência social passa a prever centros que funcionam sem parar, com guarda de pertences, higiene, comida, pernoite e endereço de referência. A falta de documentos ou comprovante de residência não pode impedir o atendimento.",
+  "Pessoas em situação de rua, serviços de assistência social e União, estados, Distrito Federal e municípios.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 06/11/2026. Depois segue para a Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640726",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164480",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9dfc9df84db0ba8c",
+ "hash_tramitacao": "124975fccdb30b3a",
+ "tentativa": 1
+}

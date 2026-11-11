@@ -1,0 +1,28 @@
+{
+ "id": 2637029,
+ "titulo": "Proíbe conselhos profissionais de exigir registro de empresas cuja atividade principal não é regulamentada",
+ "tldr": [
+  "Empresas cuja atividade principal não é exclusiva de profissão regulamentada deixam de ter de se registrar e pagar anuidades a conselhos, mesmo com responsável técnico. Vale para processos ainda não encerrados.",
+  "Empresas, agroindústrias, cooperativas e empresas rurais, além dos conselhos profissionais.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637029",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3156689",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4c3a89e457880491",
+ "hash_tramitacao": "f7eb132821196ff8",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2643936,
+ "titulo": "Cria aviso obrigatório ao Conselho Tutelar quando pai, mãe ou responsável se envolve em caso de violência",
+ "tldr": [
+  "Quando um responsável por criança tiver boletim de ocorrência, medida protetiva, prisão ou condenação por violência, as autoridades avisam o Conselho Tutelar. O conselho avalia o risco em 5 dias úteis.",
+  "Crianças e adolescentes, seus responsáveis, conselhos tutelares, polícias, Ministério Público e Justiça.",
+  "Foi retirado pelo autor em 28/10/2026, a pedido feito em 03/09/2026, e não tramita mais."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643936",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3172987",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ca52e3cefe627e9c",
+ "hash_tramitacao": "2435b1b9da162694",
+ "tentativa": 1
+}

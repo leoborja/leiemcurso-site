@@ -1,0 +1,28 @@
+{
+ "id": 2633254,
+ "titulo": "Cria o Dia Nacional de Proteção das Pessoas com Deficiência no Ambiente Escolar, em 18 de maio",
+ "tldr": [
+  "A data entra no calendário nacional. Nesse dia, escolas públicas e privadas podem promover palestras, campanhas e atividades sobre violência, discriminação e bullying.",
+  "Escolas públicas e privadas, estudantes, famílias e profissionais da educação.",
+  "Aguarda parecer da relatora na Comissão de Educação da Câmara. O prazo para emendas terminou em 13/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633254",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148638",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2d3ff61edd2079b7",
+ "hash_tramitacao": "d1d52f83dc04be41",
+ "tentativa": 1
+}

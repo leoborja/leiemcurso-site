@@ -1,0 +1,28 @@
+{
+ "id": 2624031,
+ "titulo": "Proíbe transferir militares estaduais contra a vontade sem justificativa concreta",
+ "tldr": [
+  "A transferência obrigatória de militar estadual passa a exigir justificativa específica e fundamentada, sem razões genéricas, e deve respeitar a antiguidade dentro do posto ou da graduação.",
+  "Policiais e bombeiros militares dos estados e os comandos dessas corporações.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara. O relator foi escolhido em 28/10/2026, e o prazo para emendas foi aberto em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624031",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3127977",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f0bcd203dab5c3e0",
+ "hash_tramitacao": "b338afc0dec2352d",
+ "tentativa": 1
+}

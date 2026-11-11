@@ -1,0 +1,28 @@
+{
+ "id": 2607443,
+ "titulo": "Define regras para a cobertura jornalística e a publicidade sobre violência contra a mulher",
+ "tldr": [
+  "Proíbe que a imprensa identifique as vítimas e faça abordagem sensacionalista. Obriga a divulgação de canais de denúncia junto às notícias. Contratos de publicidade do governo passam a exigir o cumprimento dessas regras.",
+  "Emissoras de rádio e TV, sites e blogs de notícias, agências de publicidade, órgãos públicos que contratam publicidade e mulheres vítimas de violência.",
+  "Aprovado com texto alternativo na Comissão de Cultura em 28/10/2026. Desde 04/11/2026, aguarda envio à próxima etapa."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607443",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3093991",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "40fa159a5e551d7d",
+ "hash_tramitacao": "4fbcf410cf5101ea",
+ "tentativa": 1
+}

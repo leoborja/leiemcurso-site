@@ -1,0 +1,28 @@
+{
+ "id": 2634836,
+ "titulo": "Obriga órgãos de trânsito a ter aparelhos de medir glicose em blitze de verificação de embriaguez",
+ "tldr": [
+  "Os agentes terão medidor de glicose e treinamento para usá-lo. O teste poderá ser oferecido ao motorista com seu consentimento, não substitui o bafômetro, e os órgãos terão 180 dias para se adequar.",
+  "Órgãos e agentes de fiscalização de trânsito e motoristas abordados em blitze.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 19/08/2026. Depois passa pelas comissões de Viação e Transportes e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634836",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151658",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f7bb722b9fcd386a",
+ "hash_tramitacao": "80f5771906071b66",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640508,
+ "titulo": "Inclui o diagnóstico precoce de doenças crônicas progressivas entre as diretrizes do SUS",
+ "tldr": [
+  "O SUS passa a ter como diretriz priorizar o diagnóstico precoce de doenças crônicas, autoimunes e neurodegenerativas, com acesso rápido a exames laboratoriais, de imagem e genéticos.",
+  "Pacientes com doenças crônicas, autoimunes e neurodegenerativas de evolução progressiva e os gestores do SUS.",
+  "Tramita junto com o PL 3831/2026 nas comissões da Câmara. Foi encaminhado para publicação em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640508",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164262",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "28d90fa17dcaff0b",
+ "hash_tramitacao": "27928d57cd5630dd",
+ "tentativa": 1
+}

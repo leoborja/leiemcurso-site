@@ -1,0 +1,28 @@
+{
+ "id": 2641080,
+ "titulo": "Cria política nacional de transparência sobre decisões financeiras tomadas por sistemas automáticos",
+ "tldr": [
+  "Instituições financeiras devem buscar informar aos clientes quando usam sistemas automáticos em decisões relevantes, sua finalidade e canais de atendimento, sem obrigação de revelar códigos ou segredos comerciais.",
+  "Clientes de serviços financeiros, instituições financeiras e de pagamento, cooperativas de crédito e fintechs.",
+  "Tramita junto (apensado) ao PL 4389/2026, por despacho da Mesa da Câmara de 26/10/2026; ainda sem parecer de comissão."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641080",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164965",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "edfd566eb3c3f67a",
+ "hash_tramitacao": "d25db1a06566caed",
+ "tentativa": 1
+}

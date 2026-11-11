@@ -1,0 +1,28 @@
+{
+ "id": 2618027,
+ "titulo": "Dá prioridade e simplifica a liberação de áreas públicas para a instalação de circos itinerantes",
+ "tldr": [
+  "Cria formulário único, lista fechada de documentos e prazo de 15 dias úteis para a decisão; sem resposta nesse prazo, o pedido é considerado aprovado. Também limita as taxas de ocupação.",
+  "Circos itinerantes e órgãos federais que administram áreas públicas; estados e municípios que aderirem.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, que recebeu o texto em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618027",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3117284",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "56f072b9a0d680ff",
+ "hash_tramitacao": "946760f338a9eb3a",
+ "tentativa": 1
+}

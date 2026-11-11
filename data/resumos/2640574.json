@@ -1,0 +1,28 @@
+{
+ "id": 2640574,
+ "titulo": "Inclui regras de acessibilidade cognitiva e leitura fácil em documentos e serviços públicos digitais",
+ "tldr": [
+  "Órgãos públicos passam a seguir diretrizes de linguagem compreensível e a priorizar versões simplificadas de editais, formulários e comunicações, sem substituir o documento oficial, de forma gradual.",
+  "Órgãos públicos e usuários de serviços públicos, com prioridade para pessoas com deficiência intelectual, autistas, idosos e pessoas com baixa escolaridade.",
+  "Na Comissão de Defesa dos Direitos das Pessoas com Deficiência, com relatora designada; prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640574",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164328",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0231bb58489ba9e3",
+ "hash_tramitacao": "db976ab78c88aaba",
+ "tentativa": 1
+}

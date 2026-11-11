@@ -1,0 +1,28 @@
+{
+ "id": 2637118,
+ "titulo": "Cria por lei a Política Nacional para as Culturas Tradicionais e Populares",
+ "tldr": [
+  "Transforma em lei uma política hoje prevista em decreto, com princípios, objetivos, um comitê gestor e fontes de recursos para proteger e apoiar as culturas tradicionais e populares.",
+  "Mestras e mestres, grupos, comunidades e povos de culturas tradicionais e populares, além da União, estados e municípios que aderirem.",
+  "Aguarda parecer da relatora na Comissão de Cultura da Câmara. O prazo para emendas terminou em 28/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637118",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157101",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "56b4f17c5e79b47b",
+ "hash_tramitacao": "552bb5646f449a51",
+ "tentativa": 1
+}

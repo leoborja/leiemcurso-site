@@ -1,0 +1,28 @@
+{
+ "id": 2640815,
+ "titulo": "Define prazo de 60 dias para diagnóstico e início de terapia de pessoas com autismo",
+ "tldr": [
+  "Diagnóstico e terapia devem começar em até 60 dias depois que a suspeita for anotada no prontuário. Se faltar vaga na rede pública, o poder público pode ajudar a pagar o tratamento em instituições privadas ou filantrópicas conveniadas.",
+  "Pessoas com transtorno do espectro autista, suas famílias e a rede pública de saúde.",
+  "Em análise na Câmara. Em 29/10/2026, a Mesa Diretora determinou que tramite junto com o PL 6750/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640815",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164570",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bb9e316002ea29f7",
+ "hash_tramitacao": "478b5043720902a1",
+ "tentativa": 1
+}

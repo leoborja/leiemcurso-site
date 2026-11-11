@@ -1,0 +1,28 @@
+{
+ "id": 2639456,
+ "titulo": "Proíbe anúncios de crédito consignado para beneficiários do INSS em aplicativos e canais digitais de bancos",
+ "tldr": [
+  "Bancos ficam proibidos de usar banners, pop-ups e notificações com oferta de consignado e só podem contratar em área separada, com confirmação em duas etapas. O cliente pode desistir em sete dias e bloquear ofertas.",
+  "Aposentados, pensionistas, beneficiários do INSS e do BPC e seus representantes, além de bancos e correspondentes bancários.",
+  "Recebido pela Comissão de Defesa do Consumidor da Câmara em 09/09/2026; aguarda a escolha de relator. O pedido de inclusão de coautor foi aceito em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639456",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162288",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e5ec461bda9a59f1",
+ "hash_tramitacao": "1e0e4c6d91ccd28e",
+ "tentativa": 1
+}

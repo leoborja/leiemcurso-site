@@ -1,0 +1,28 @@
+{
+ "id": 2641182,
+ "titulo": "Cria programa permanente de transporte de pacientes por terra, rio e ar na Amazônia Legal",
+ "tldr": [
+  "Permite à União apoiar compra de ambulanchas, ambulâncias e transporte aéreo, bases de remoção e comunicação para levar pacientes do SUS de áreas isoladas.",
+  "Pacientes do SUS em áreas remotas da Amazônia Legal, como comunidades ribeirinhas, indígenas e quilombolas, além de estados e municípios da região.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4449/2026 na Câmara, por decisão da Mesa Diretora. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641182",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165076",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ef4b46ee0803ffac",
+ "hash_tramitacao": "0b5f7660febe4fed",
+ "tentativa": 1
+}

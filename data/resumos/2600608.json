@@ -1,0 +1,28 @@
+{
+ "id": 2600608,
+ "titulo": "Obriga escolas de educação básica a manter brigada de bombeiros civis para emergências",
+ "tldr": [
+  "Escolas públicas e privadas passam a ter brigada de bombeiros civis, com no mínimo 2 profissionais por turno. Há a opção de brigadas que atendem várias escolas de uma mesma região. A União apoia com capacitação e recursos.",
+  "Escolas públicas e privadas de educação básica, alunos e funcionários, bombeiros civis, estados, municípios e União.",
+  "Aprovado na Comissão de Integração Nacional e Desenvolvimento Regional em 10/06/2026, na forma de texto alternativo. Aprovado também na Comissão de Educação em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600608",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078113",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "760c8b28b9e4e95b",
+ "hash_tramitacao": "3f5893a542f2d7e0",
+ "tentativa": 1
+}

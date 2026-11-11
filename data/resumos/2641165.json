@@ -1,0 +1,28 @@
+{
+ "id": 2641165,
+ "titulo": "Cria política para dar ao consumidor transparência e benefícios pelo uso de seus dados no Open Finance",
+ "tldr": [
+  "Instituições do Open Finance devem informar como usam os dados do cliente e entregar relatório simples; podem oferecer descontos ou cashback a quem autorizar uso ampliado.",
+  "Clientes e instituições participantes do Open Finance, com proteção prioritária para idosos, aposentados, pensionistas e pessoas com deficiência.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 3661/2025 na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641165",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165059",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "41696773e62442da",
+ "hash_tramitacao": "9dc5eb98e282e0c9",
+ "tentativa": 1
+}

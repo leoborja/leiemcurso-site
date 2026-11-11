@@ -1,0 +1,28 @@
+{
+ "id": 2641125,
+ "titulo": "Cria programa nacional de rotas comunitárias para fuga e acesso a serviços em emergências e desastres",
+ "tldr": [
+  "Estados e municípios poderão mapear e sinalizar rotas terrestres ou fluviais até abrigos, unidades de saúde e pontos de abastecimento em enchentes, deslizamentos e outros desastres.",
+  "União, estados, municípios, defesa civil e moradores de áreas de risco, como municípios pequenos, comunidades isoladas, indígenas, ribeirinhas e quilombolas.",
+  "Desde 26/10/2026 tramita junto com o PL 4437/2026 nas comissões da Câmara, que podem decidir sem passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641125",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165010",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "add3ed20e92553cf",
+ "hash_tramitacao": "d09755d8e15e807c",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635416,
+ "titulo": "Obriga partidos a declarar publicamente sua posição sobre 31 temas em um portal da Justiça Eleitoral",
+ "tldr": [
+  "Os partidos deverão dizer se são favoráveis, contrários ou sem posição em temas definidos em lei. Os candidatos deverão assinar um termo de adesão a essas posições. Tudo ficará em um portal público mantido pelo TSE.",
+  "Partidos políticos registrados, candidatos a cargos eletivos, o Tribunal Superior Eleitoral e os eleitores.",
+  "Tramita com prioridade e depois precisará ser votado no Plenário. Aguarda a escolha de relator na Comissão de Comunicação da Câmara, que recebeu o projeto em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635416",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153682",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3884873aa8995d8a",
+ "hash_tramitacao": "f8457a40cf6c6f22",
+ "tentativa": 1
+}

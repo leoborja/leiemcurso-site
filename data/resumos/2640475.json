@@ -1,0 +1,28 @@
+{
+ "id": 2640475,
+ "titulo": "Aumenta as penas de lesão corporal e maus-tratos contra pessoa idosa em casa ou por cuidadores",
+ "tldr": [
+  "A lesão corporal contra pessoa idosa passa a ter pena de 1 a 4 anos de reclusão. As penas aumentam de 1/3 até a metade quando o crime ocorre em casa ou em hospital, ou é cometido por filho, cônjuge ou cuidador.",
+  "Pessoas idosas e quem comete esses crimes contra elas, especialmente familiares, cuidadores e responsáveis legais.",
+  "Tramita junto com o PL 1706/2025, ao qual foi anexada em 06/11/2026. A decisão final cabe ao Plenário da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640475",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164224",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c7e354ea7ec10e4a",
+ "hash_tramitacao": "9f439f8f2827ba61",
+ "tentativa": 1
+}

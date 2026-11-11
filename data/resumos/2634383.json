@@ -1,0 +1,28 @@
+{
+ "id": 2634383,
+ "titulo": "Permite inspeção anual de veículos escolares aprovados sem restrição e muda regra para motoristas",
+ "tldr": [
+  "Veículos escolares aprovados sem restrições passam a ter inspeção anual, e não semestral; se reprovados, voltam à semestral. Também revoga uma exigência do Código de Trânsito para motoristas do transporte escolar.",
+  "Transportadores e motoristas de transporte escolar, órgãos de trânsito e estudantes.",
+  "Recebido pela Comissão de Viação e Transportes da Câmara em 31/08/2026. Aguarda a designação de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634383",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3150517",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "43f70ca8653fe08d",
+ "hash_tramitacao": "dd80b8c0d11071c2",
+ "tentativa": 2
+}

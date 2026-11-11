@@ -1,0 +1,28 @@
+{
+ "id": 2611992,
+ "titulo": "Prorroga até 2032 a dispensa de taxa sobre frete na navegação ligada a portos do Norte e Nordeste",
+ "tldr": [
+  "Prorroga até 8 de janeiro de 2032 a não cobrança do Adicional ao Frete para Renovação da Marinha Mercante na navegação costeira, fluvial e lacustre com origem ou destino em portos do Norte ou do Nordeste.",
+  "Empresas que transportam ou contratam transporte de cargas por navegação com origem ou destino em portos do Norte e do Nordeste.",
+  "Aprovada no Plenário da Câmara em 12/08/2026, na forma de um texto substituto, por 327 votos a 26. Foi enviada ao Senado em 14/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611992",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3104722",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3be8ec3afee6e494",
+ "hash_tramitacao": "ac2e786ecacf10e1",
+ "tentativa": 1
+}

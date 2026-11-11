@@ -1,0 +1,28 @@
+{
+ "id": 2637142,
+ "titulo": "Cria o Dia Nacional da Planta Medicinal e das Farmácias Vivas, em 21 de maio",
+ "tldr": [
+  "Cria a data comemorativa e prevê campanhas sobre plantas medicinais e incentivo às Farmácias Vivas pelos governos federal, estaduais e municipais. A lei receberá o nome de um professor e pesquisador.",
+  "Governos federal, estaduais e municipais. Na data comemorativa, o efeito é geral.",
+  "Aguarda parecer do relator na Comissão de Saúde da Câmara. O prazo para emendas terminou em 28/10/2026 sem nenhuma emenda."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637142",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157146",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8549297b41f2e87e",
+ "hash_tramitacao": "791b1638ab0065f3",
+ "tentativa": 1
+}

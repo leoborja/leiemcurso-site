@@ -1,0 +1,28 @@
+{
+ "id": 2508501,
+ "titulo": "Cria programa do SUS de visitas de enfermagem em casa para pessoas idosas",
+ "tldr": [
+  "Equipes de enfermagem do SUS fariam visitas mensais ou sob demanda a idosos para acompanhar doenças crônicas, aplicar medicamentos receitados e encaminhá-los a outros serviços quando houver risco.",
+  "Pessoas com 60 anos ou mais, com prioridade para quem tem dependência ou mobilidade reduzida, profissionais de enfermagem do SUS e governos federal, estaduais e municipais.",
+  "Aprovado na Comissão de Saúde em 04/11/2026. Está na Comissão de Defesa dos Direitos da Pessoa Idosa, com prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2508501",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2905872",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ceb228f2eccf41a4",
+ "hash_tramitacao": "3ad129b67f2c1621",
+ "tentativa": 2
+}

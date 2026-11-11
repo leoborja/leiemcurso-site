@@ -1,0 +1,28 @@
+{
+ "id": 2435330,
+ "titulo": "Cria o Dia Nacional dos Consórcios Públicos, em 22 de maio",
+ "tldr": [
+  "A data entra no calendário nacional. Os objetivos previstos incluem divulgar regras e experiências e estimular eventos sobre consórcios entre União, estados e municípios.",
+  "Consórcios públicos e os governos federal, estaduais e municipais que participam deles.",
+  "Aprovado pelas comissões da Câmara, sem precisar de votação no Plenário. Enviado ao Senado em 20/10/2026; o último andamento é de 22/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2435330",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2427006",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8898723d6972864b",
+ "hash_tramitacao": "1b6f741e40fd082f",
+ "tentativa": 1
+}

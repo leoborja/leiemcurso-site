@@ -1,0 +1,28 @@
+{
+ "id": 2640493,
+ "titulo": "Cria política nacional de saúde mental e valorização para profissionais da segurança pública",
+ "tldr": [
+  "Prevê acompanhamento psicológico e psiquiátrico obrigatório para agentes em áreas de alto estresse, treinamento em uso proporcional da força e incentivo às corregedorias.",
+  "Policiais civis, militares, penais e peritos de todo o país e as corregedorias das corporações.",
+  "Tramita junto com o PL 1351/2026 e foi recebida pela Comissão de Saúde da Câmara em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640493",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164247",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "59f42eedc09235d1",
+ "hash_tramitacao": "b6ac2def890afeb1",
+ "tentativa": 1
+}

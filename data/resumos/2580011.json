@@ -1,0 +1,28 @@
+{
+ "id": 2580011,
+ "titulo": "Reconhece a poesia oral improvisada, como repente, trova, pajada e rap, como manifestação da cultura nacional",
+ "tldr": [
+  "O texto reconhece em lei várias formas de poesia de improviso. Órgãos públicos podem promovê-las, e o poder público deve estimular sua presença em eventos e apoiar pesquisa e registro dessas formas de arte.",
+  "Poetas e artistas de improviso e órgãos e instituições culturais da União, dos estados e dos municípios.",
+  "A Comissão de Cultura aprovou o parecer, com texto alternativo (substitutivo), em 28/10/2026. Desde 05/11/2026 está na Comissão de Constituição e Justiça e de Cidadania, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2580011",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3036572",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ce4a8f62b895898a",
+ "hash_tramitacao": "195e955f8ae89903",
+ "tentativa": 1
+}

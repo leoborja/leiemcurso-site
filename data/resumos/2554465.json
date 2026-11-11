@@ -1,0 +1,28 @@
+{
+ "id": 2554465,
+ "titulo": "Transforma em lei a Política Nacional Integrada da Primeira Infância",
+ "tldr": [
+  "A política para crianças pequenas, hoje prevista em decreto, passa a ser lei, com eixos de saúde, educação, direitos e assistência, plano de ação de quatro anos e indicador nacional de monitoramento.",
+  "Crianças na primeira infância e seus cuidadores, órgãos federais e, em articulação, estados, Distrito Federal e municípios.",
+  "Aprovado em três comissões, a última a de Constituição e Justiça e de Cidadania em 04/11/2026; desde 06/11/2026 corre prazo para recurso ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554465",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2987884",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a5cc997615e4181f",
+ "hash_tramitacao": "d315c0bf3e5eda2e",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2638928,
+ "titulo": "Torna crime criar, ceder ou usar empresa, inclusive MEI, para cometer ou encobrir crimes",
+ "tldr": [
+  "Cria um crime no Código Penal, com pena de 4 a 10 anos de reclusão e multa, para quem monta, empresta ou usa empresa de fachada para movimentar dinheiro de crimes. A pena aumenta em casos como fraude eletrônica.",
+  "Pessoas que abrem, administram ou cedem empresas, CNPJ ou contas empresariais, inclusive microempreendedores individuais.",
+  "Aguarda a escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara desde 08/09/2026. Depois das comissões, precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638928",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161145",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3c44fdc7316eeb0a",
+ "hash_tramitacao": "b2d535fe5a7d9b50",
+ "tentativa": 1
+}

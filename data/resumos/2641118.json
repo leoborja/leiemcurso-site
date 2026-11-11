@@ -1,0 +1,28 @@
+{
+ "id": 2641118,
+ "titulo": "Cria política nacional de pequenas obras de drenagem contra alagamentos em vielas, becos e bairros",
+ "tldr": [
+  "Permite apoiar obras de pequena escala, como jardins de chuva, valas vegetadas e pavimentos que absorvem água, além do mapeamento de pontos de alagamento e de um cadastro de boas práticas.",
+  "Moradores de vielas, bairros periféricos e conjuntos habitacionais sujeitos a alagamentos, municípios, estados e União.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 4772/2025 (apensado). Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641118",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165003",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "35ccb826b8c18547",
+ "hash_tramitacao": "dd9c92814a522c0e",
+ "tentativa": 1
+}

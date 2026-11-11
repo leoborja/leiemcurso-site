@@ -1,0 +1,28 @@
+{
+ "id": 2462935,
+ "titulo": "Aumenta penas de homicídio e estupro contra mulher lésbica motivados por sua orientação sexual",
+ "tldr": [
+  "O assassinato de mulher lésbica por causa da orientação sexual passa a ser homicídio qualificado, com pena maior. O estupro de mulher lésbica com essa motivação passa a ter a pena aumentada.",
+  "Mulheres lésbicas vítimas desses crimes e autores de homicídio ou estupro com essa motivação.",
+  "A Comissão de Direitos Humanos da Câmara aprovou o parecer da relatoria, com emenda, em 28/10/2026. O texto aguarda envio à próxima etapa e depois precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2462935",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2486170",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d1470f2c5e9c8019",
+ "hash_tramitacao": "e1d27d7944289c7f",
+ "tentativa": 2
+}

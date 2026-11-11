@@ -1,0 +1,28 @@
+{
+ "id": 2640652,
+ "titulo": "Muda a Política Nacional do Meio Ambiente para adotar as diretrizes da OMS nos padrões de qualidade do ar",
+ "tldr": [
+  "O Conselho Nacional do Meio Ambiente passa a fixar limites de poluentes com base na OMS. Estados e municípios terão metas anuais de redução e podem perder transferências federais voluntárias se descumpri-las sem justificativa.",
+  "Estados, Distrito Federal, municípios e o Conselho Nacional do Meio Ambiente.",
+  "Desde 06/11/2026, aguarda a escolha de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640652",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164406",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7021763abc5659df",
+ "hash_tramitacao": "989b45be09534032",
+ "tentativa": 1
+}

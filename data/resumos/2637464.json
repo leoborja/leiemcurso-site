@@ -1,0 +1,28 @@
+{
+ "id": 2637464,
+ "titulo": "Cria política nacional de atendimento integral a pessoas com fibromialgia no SUS",
+ "tldr": [
+  "Prevê diagnóstico precoce, atendimento por várias áreas da saúde no SUS, protocolos de tratamento, capacitação de profissionais e campanhas educativas, conforme o orçamento disponível.",
+  "Pessoas com fibromialgia, profissionais de saúde e o SUS na União, nos estados e nos municípios.",
+  "Tramita junto com o PL 4314/2025 na Comissão de Saúde da Câmara. Em 03/11/2026, o PL 3793/2026 foi anexado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637464",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157709",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bce1c50be0bdb012",
+ "hash_tramitacao": "c7fb801821941fbc",
+ "tentativa": 1
+}

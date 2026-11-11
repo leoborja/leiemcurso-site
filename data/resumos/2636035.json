@@ -1,0 +1,28 @@
+{
+ "id": 2636035,
+ "titulo": "Cria fundo nacional da agricultura familiar e contribuição sobre exportação de produtos agrícolas",
+ "tldr": [
+  "É criado um fundo que repassa dinheiro a estados e municípios a cada três meses para ações da agricultura familiar. As fontes incluem parte do Funrural e uma nova contribuição sobre exportações de soja, milho, carnes e outros produtos.",
+  "Agricultores familiares, estados, Distrito Federal, municípios e exportadores de produtos agrícolas.",
+  "Aguarda a designação de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, que recebeu o projeto em 08/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636035",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154761",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b5fabf133cc88524",
+ "hash_tramitacao": "4322c1695107f318",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641110,
+ "titulo": "Cria política e programa nacional de banheiros públicos em funcionamento em pequenos municípios",
+ "tldr": [
+  "Permite apoiar a construção, a reforma e a manutenção de banheiros públicos em praças, feiras, parques, terminais e áreas turísticas, com acessibilidade e prioridade para que funcionem de forma contínua.",
+  "Municípios de pequeno porte, bairros periféricos, comunidades rurais, ribeirinhas e tradicionais e quem frequenta espaços públicos.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 4529/2025 (apensado). Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641110",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164995",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "10e0cdfca8deb72a",
+ "hash_tramitacao": "d7978e6cbf94edba",
+ "tentativa": 1
+}

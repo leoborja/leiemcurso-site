@@ -1,0 +1,28 @@
+{
+ "id": 2612367,
+ "titulo": "Define regras de cores e símbolos nacionais para os uniformes das seleções brasileiras de futebol",
+ "tldr": [
+  "Os uniformes terão de usar como cor predominante verde, amarelo, azul ou branco e não poderão ter inscrições políticas, religiosas ou de marcas sem relação com o futebol. Os modelos passam por um comitê antes de serem usados.",
+  "Confederação Brasileira de Futebol, fornecedores de uniformes das seleções e Ministério do Esporte.",
+  "Foi aprovado na Comissão do Esporte em 14/10/2026. Aguarda relator na Comissão de Constituição e Justiça desde 20/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612367",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3105499",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2380757a5f882ba9",
+ "hash_tramitacao": "f4785176b78d6b15",
+ "tentativa": 1
+}

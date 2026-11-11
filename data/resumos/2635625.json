@@ -1,0 +1,28 @@
+{
+ "id": 2635625,
+ "titulo": "Cria incentivos fiscais para escolas com vagas para alunos autistas e empresas que contratem seus pais",
+ "tldr": [
+  "Escolas privadas com vagas reservadas para alunos com autismo e empresas que contratem pais ou responsáveis no contraturno escolar podem ter redução de tributos federais e preferência no desempate em licitações.",
+  "Estudantes com autismo, suas mães, pais ou responsáveis, escolas privadas e empresas.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635625",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154212",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f47e5eb4cf5cce42",
+ "hash_tramitacao": "8feb645197ef3f25",
+ "tentativa": 2
+}

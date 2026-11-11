@@ -1,0 +1,28 @@
+{
+ "id": 2631766,
+ "titulo": "Garante multa do FGTS, aviso prévio e seguro-desemprego a doméstico quando o patrão morre",
+ "tldr": [
+  "A morte do empregador encerra o contrato doméstico, exceto se o trabalho continuar para a mesma família. O empregado passa a receber a indenização depositada, aviso prévio indenizado e seguro-desemprego.",
+  "Empregados domésticos, seus empregadores e as famílias que continuam com o serviço após a morte do empregador.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631766",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145178",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "98b96f6427902459",
+ "hash_tramitacao": "1e573cf0a5ef5cae",
+ "tentativa": 1
+}

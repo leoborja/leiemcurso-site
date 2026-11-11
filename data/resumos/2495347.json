@@ -1,0 +1,28 @@
+{
+ "id": 2495347,
+ "titulo": "Dá o nome de Anel Viário Dr. Neife Abrahão ao anel viário da BR-158/262 em Três Lagoas (MS)",
+ "tldr": [
+  "O anel viário da BR-158/262 em Três Lagoas, Mato Grosso do Sul, passa a se chamar oficialmente Anel Viário Dr. Neife Abrahão.",
+  "O município de Três Lagoas (MS) e os usuários da rodovia.",
+  "Veio do Senado em 07/04/2025. Aprovado nas comissões de Viação e Transportes (17/09/2025) e de Cultura (28/10/2026) da Câmara; chegou à Comissão de Constituição e Justiça em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2495347",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2882429",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "15709c46f0ec8ddd",
+ "hash_tramitacao": "3e60a4691a626bae",
+ "tentativa": 1
+}

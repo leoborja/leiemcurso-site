@@ -1,0 +1,28 @@
+{
+ "id": 2635510,
+ "titulo": "Permite transferir passagem aérea para outra pessoa uma vez, até 24 horas antes do embarque",
+ "tldr": [
+  "O passageiro pode passar o bilhete a outra pessoa uma única vez, sem multa nem diferença de tarifa, e a companhia tem até 2 horas para concluir. Ficam excluídas as passagens com desconto para grupos específicos e a revenda.",
+  "Passageiros de voos com bilhete comprado no Brasil, companhias aéreas e a Agência Nacional de Aviação Civil.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara. O prazo para emendas terminou em 28/10/2026, sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635510",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153988",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e51644ee1e9db898",
+ "hash_tramitacao": "393f1fb09fcdcf4b",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2622760,
+ "titulo": "Muda regras de patentes de sementes e plantas geneticamente modificadas e limita cobrança de royalties",
+ "tldr": [
+  "Pequeno produtor de até quatro módulos fiscais pode guardar sementes para a safra seguinte sem pagar ao dono da patente. A cobrança fica limitada a 1,5% da venda e cobranças abusivas viram crime.",
+  "Produtores rurais, empresas de biotecnologia agrícola donas de patentes e o Instituto Nacional da Propriedade Industrial.",
+  "Aguarda escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara desde 03/11/2026. Tramita junto com o PL 3036/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622760",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3125335",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6eb151bafefe0932",
+ "hash_tramitacao": "468554ce02b25c7d",
+ "tentativa": 1
+}

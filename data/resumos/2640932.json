@@ -1,0 +1,28 @@
+{
+ "id": 2640932,
+ "titulo": "Inclui raça, cor e etnia como motivação da violência política contra a mulher e aumenta a pena",
+ "tldr": [
+  "A pena do crime de violência política aumenta de 1/3 até a metade quando houver motivação racial ou étnica. A Justiça Eleitoral passa a determinar medidas urgentes de proteção às vítimas.",
+  "Mulheres candidatas e em cargos políticos, autores desse crime e a Justiça Eleitoral.",
+  "Tramita junto com o PL 2565/2024, por decisão da Mesa Diretora da Câmara em 29/10/2026. Depende de votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640932",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164699",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a1224751a314437a",
+ "hash_tramitacao": "0b24833a135bef9d",
+ "tentativa": 1
+}

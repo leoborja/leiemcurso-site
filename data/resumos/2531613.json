@@ -1,0 +1,28 @@
+{
+ "id": 2531613,
+ "titulo": "Cria o Dia Nacional da Consolidação da Independência do Brasil, em 2 de julho",
+ "tldr": [
+  "O dia 2 de julho passa a ser comemorado todo ano como data nacional da consolidação da Independência.",
+  "O efeito é geral, por se tratar de uma data comemorativa nacional.",
+  "Aprovado no Plenário da Câmara em 04/11/2026, com prioridade na tramitação. Segue para o Senado Federal."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2531613",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2948514",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7a2a4b52a60c389c",
+ "hash_tramitacao": "073c8bb822e64408",
+ "tentativa": 1
+}

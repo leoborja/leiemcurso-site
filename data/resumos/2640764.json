@@ -1,0 +1,28 @@
+{
+ "id": 2640764,
+ "titulo": "Permite deduzir no Imposto de Renda gastos educacionais com autistas como despesas médicas",
+ "tldr": [
+  "Gastos com educação de dependente com autismo, com laudo e plano terapêutico, poderão ser deduzidos como despesa médica, sem o limite aplicado às despesas de instrução.",
+  "Contribuintes do Imposto de Renda com dependente ou alimentando diagnosticado com Transtorno do Espectro Autista.",
+  "Em análise nas comissões da Câmara. Desde 29/10/2026 tramita junto com o PL 3208/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640764",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164518",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9dbdb8f17274575a",
+ "hash_tramitacao": "cb8ed933fa87906a",
+ "tentativa": 1
+}

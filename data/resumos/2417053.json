@@ -1,0 +1,28 @@
+{
+ "id": 2417053,
+ "titulo": "Garante redução de jornada e afastamento a professores da rede pública que cursam mestrado ou doutorado",
+ "tldr": [
+  "Profissionais da educação básica pública em mestrado ou doutorado passam a ter ao menos 20% menos carga horária durante as aulas e afastamento integral de no mínimo 4 meses antes da defesa final.",
+  "Profissionais da educação escolar básica pública em cursos de mestrado ou doutorado e as redes de ensino que os empregam.",
+  "Aprovado com texto alternativo na Comissão de Educação em 04/11/2026. Desde 05/11/2026 está na Comissão de Constituição e Justiça e de Cidadania, à espera de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2417053",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2384449",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "72659b3a132410b5",
+ "hash_tramitacao": "8c05133326338c0c",
+ "tentativa": 1
+}

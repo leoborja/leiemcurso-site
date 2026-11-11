@@ -1,0 +1,28 @@
+{
+ "id": 2635366,
+ "titulo": "Garante acesso gratuito e descentralizado a remédios do SUS para asma e DPOC",
+ "tldr": [
+  "Medicamentos e tecnologias já incorporados ao SUS para asma e doença pulmonar obstrutiva crônica passam a ser entregues de forma descentralizada, de preferência nas unidades de atenção primária.",
+  "Pacientes com asma ou DPOC atendidos pelo SUS e os gestores de saúde da União, estados e municípios.",
+  "Tramita junto com o PL 3279/2026 e foi recebido pela Comissão de Saúde da Câmara em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635366",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153182",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "85561cdb93d8d6f1",
+ "hash_tramitacao": "856d4e953763c0c8",
+ "tentativa": 1
+}

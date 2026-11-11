@@ -1,0 +1,28 @@
+{
+ "id": 2640513,
+ "titulo": "Obriga o SUS a capacitar em saúde LGBTQIA+ e inclui gênero e orientação sexual em prontuários",
+ "tldr": [
+  "A formação permanente no SUS passa a ter conteúdo sobre saúde LGBTQIA+. Prontuários e sistemas de saúde públicos e privados terão campos de nome social, identidade de gênero e orientação sexual, de preenchimento opcional.",
+  "Profissionais do SUS, redes públicas e privadas de saúde e pacientes, em especial a população LGBTQIA+.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 04/11/2026. Depois, passa por outras três comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640513",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164267",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8abfcb1f6a75c3a2",
+ "hash_tramitacao": "39b8a2e030c8978e",
+ "tentativa": 2
+}

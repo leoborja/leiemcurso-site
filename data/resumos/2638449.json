@@ -1,0 +1,28 @@
+{
+ "id": 2638449,
+ "titulo": "Estende a aposentados e militares da reserva a isenção de taxas de registro e porte de arma",
+ "tldr": [
+  "Integrantes das categorias isentas das taxas de registro e porte de arma deixam de pagá-las também depois que se aposentam, vão para a reserva remunerada ou são reformados.",
+  "Policiais, militares e outros agentes públicos aposentados, da reserva ou reformados que já têm direito a arma pelo Estatuto do Desarmamento.",
+  "Em análise na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026 e abriu prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638449",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159751",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c339cdf8063bfbe2",
+ "hash_tramitacao": "2529e152eaf3c264",
+ "tentativa": 1
+}

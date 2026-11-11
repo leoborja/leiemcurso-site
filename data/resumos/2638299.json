@@ -1,0 +1,28 @@
+{
+ "id": 2638299,
+ "titulo": "Proíbe publicidade e patrocínio de apostas online (bets) e cria regras de proteção ao apostador",
+ "tldr": [
+  "Proíbe anúncios, patrocínio esportivo, divulgação por influenciadores e bônus de cadastro das bets. As plataformas passam a ter de exibir alertas, oferecer autoexclusão e vetar apostas com cartão de crédito.",
+  "Empresas de apostas e jogos online, afiliados, influenciadores, atletas, clubes, emissoras e veículos de comunicação, e apostadores.",
+  "Tramita junto com o PL 3133/2026. Foi encaminhada para publicação em 27/10/2026 e aguarda envio às comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638299",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159308",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "43344c2b7c1a0508",
+ "hash_tramitacao": "2a4c34cd7448795b",
+ "tentativa": 1
+}

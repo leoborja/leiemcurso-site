@@ -1,0 +1,28 @@
+{
+ "id": 2639457,
+ "titulo": "Proíbe exigir seguro ou outros serviços extras para liberar consignado a aposentados do INSS",
+ "tldr": [
+  "Bancos não podem condicionar o consignado à compra de seguros, títulos de capitalização e similares. Serviço extra só vale com contrato separado e aceite específico, e cobrança irregular deve ser devolvida em dobro.",
+  "Aposentados e pensionistas do INSS, bancos e correspondentes bancários que oferecem crédito consignado.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família desde 03/09/2026. Pedido de coautoria aceito em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639457",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162289",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "13a45ef0913f35b0",
+ "hash_tramitacao": "3fc38419027fe0ca",
+ "tentativa": 1
+}

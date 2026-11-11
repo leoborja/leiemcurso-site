@@ -1,0 +1,28 @@
+{
+ "id": 2640636,
+ "titulo": "Cria diretrizes de política nacional para formação e requalificação profissional em tecnologias digitais",
+ "tldr": [
+  "Define diretrizes para cursos e programas em programação, ciência de dados, inteligência artificial e segurança cibernética, entre outras áreas. A execução depende de recursos no orçamento e não cria órgãos nem despesas obrigatórias.",
+  "Trabalhadores e estudantes, instituições de ensino e pesquisa, entidades do Sistema S, empresas de tecnologia e o Poder Executivo.",
+  "Tramita junto com o PL 2850/2026 nas comissões da Câmara, que podem decidir sem passar pelo Plenário. Último andamento: publicação em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640636",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164390",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dba1357373820d86",
+ "hash_tramitacao": "374f216c1c4624a8",
+ "tentativa": 1
+}

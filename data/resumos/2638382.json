@@ -1,0 +1,28 @@
+{
+ "id": 2638382,
+ "titulo": "Cria regras para apoio público a ações sociais de organizações religiosas sem fins lucrativos",
+ "tldr": [
+  "Permite apoio e linhas de crédito para ações sociais de entidades religiosas, com prestação de contas. Proíbe uso de dinheiro público em culto ou templo e exigir adesão religiosa dos atendidos.",
+  "Organizações religiosas sem fins lucrativos, pessoas atendidas por suas ações sociais, bancos públicos federais e o Poder Executivo.",
+  "Tramita junto com o PL 3405/2026 em comissão da Câmara, onde foi recebida em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638382",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159455",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "58456b779f9f0f5f",
+ "hash_tramitacao": "528acbe456b1e9fa",
+ "tentativa": 1
+}

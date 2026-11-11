@@ -1,0 +1,28 @@
+{
+ "id": 2635672,
+ "titulo": "Impede que seguradora negue indenização de seguro de vida por imprudência ou negligência do segurado",
+ "tldr": [
+  "Muda a lei dos contratos de seguro: imprudência, negligência ou falta de habilidade do segurado deixam de ser motivo para perder a indenização ou excluir a cobertura nos seguros de vida e de integridade física.",
+  "Segurados e beneficiários de seguros de vida e de integridade física, e as seguradoras.",
+  "Aguarda a escolha de relator na Comissão de Finanças e Tributação da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635672",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154273",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dc880d3a797d5c3e",
+ "hash_tramitacao": "3165b1954f57f99c",
+ "tentativa": 1
+}

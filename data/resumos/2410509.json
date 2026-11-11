@@ -1,0 +1,28 @@
+{
+ "id": 2410509,
+ "titulo": "Inclui o Padre Ibiapina no Livro dos Heróis e Heroínas da Pátria",
+ "tldr": [
+  "O nome do Padre José Antônio Maria Ibiapina passa a constar no livro guardado no Panteão da Pátria e da Liberdade Tancredo Neves, em Brasília.",
+  "Tem caráter de homenagem e não atinge diretamente nenhum grupo.",
+  "Aprovado pelas comissões da Câmara, sem precisar de votação no Plenário. Enviado ao Senado em 20/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2410509",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2371431",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2580c1a1aabf456c",
+ "hash_tramitacao": "73e0d52223e5f4f8",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640993,
+ "titulo": "Cria regras especiais e incentivos fiscais para pesquisa e inovação em bioeconomia na Amazônia Ocidental",
+ "tldr": [
+  "Prevê Zonas de Bioinovação com licenciamento simplificado, redução de 50% do IPI sobre equipamentos, abatimentos no Imposto de Renda, crédito subsidiado e um comitê gestor no Ministério da Ciência.",
+  "Empresas de pesquisa e inovação, estados e municípios da Amazônia Legal, povos indígenas, comunidades tradicionais e agricultores familiares.",
+  "Tramita junto com o PL 6155/2025 (apensado) e foi recebido pela comissão de povos indígenas e comunidades tradicionais da Câmara (sigla CPOVOS) em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640993",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164760",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "34bc238722e41b59",
+ "hash_tramitacao": "998ea18e77a5e536",
+ "tentativa": 1
+}

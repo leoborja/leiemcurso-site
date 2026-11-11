@@ -1,0 +1,28 @@
+{
+ "id": 2635677,
+ "titulo": "Permite apresentar depois documentos que provem requisito que a empresa já cumpria na data da licitação",
+ "tldr": [
+  "A Lei de Licitações passa a aceitar documentos entregues depois da proposta, desde que comprovem condição que já existia naquela data. Vale mesmo que o participante não tivesse o documento em mãos no momento da proposta.",
+  "Empresas e pessoas que participam de licitações e os órgãos públicos que as realizam.",
+  "Aguarda a escolha de relator na Comissão de Finanças e Tributação da Câmara, onde foi recebido em 18/08/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635677",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154278",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f517256751a4f55b",
+ "hash_tramitacao": "30eafebc078bde95",
+ "tentativa": 1
+}

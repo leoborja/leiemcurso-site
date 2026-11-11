@@ -1,0 +1,28 @@
+{
+ "id": 2639342,
+ "titulo": "Proíbe apostas de quota fixa para quem tem restrição judicial por dívida de pensão alimentícia",
+ "tldr": [
+  "O juiz pode incluir o devedor de pensão em um cadastro nacional de impedidos. As casas de apostas terão de consultá-lo e bloquear cadastro, depósitos e apostas, sem acessar detalhes da dívida.",
+  "Devedores de pensão alimentícia com decisão judicial, empresas de apostas de quota fixa e o Poder Judiciário.",
+  "Tramita junto com o PL 3400/2026 e foi recebido pela Comissão de Finanças e Tributação da Câmara em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639342",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162118",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a1a171dd0ce4d622",
+ "hash_tramitacao": "19d5647d59761019",
+ "tentativa": 1
+}

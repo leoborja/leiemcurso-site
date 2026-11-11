@@ -1,0 +1,28 @@
+{
+ "id": 2640638,
+ "titulo": "Cria selo para cursinhos preparatórios que incluem estudantes com autismo",
+ "tldr": [
+  "O governo federal poderá dar o Selo Cursinho Inclusivo a cursinhos de vestibular e exames nacionais que adaptem o ensino, o material e a formação de professores para alunos com autismo. Os critérios virão em regulamento.",
+  "Cursinhos preparatórios públicos e privados e estudantes com Transtorno do Espectro Autista.",
+  "Aguarda a escolha de relator na Comissão de Defesa dos Direitos das Pessoas com Deficiência da Câmara, que recebeu o texto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640638",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164392",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "96da86295d47c195",
+ "hash_tramitacao": "92b27d3f0c34592b",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2639491,
+ "titulo": "Torna crime manipular sistemas de inteligência artificial para obter vantagem ou causar dano",
+ "tldr": [
+  "Cria um crime no Código Penal, com pena de 1 a 2 anos de reclusão e multa, para quem insere comandos ocultos em sistemas de IA para fraudar. A pena sobe se houver vazamento de dados ou prejuízo maior.",
+  "Quem usa ou manipula sistemas de inteligência artificial. Testes e pesquisas de segurança sem finalidade de fraude ficam de fora.",
+  "Em análise na Comissão de Constituição e Justiça e de Cidadania da Câmara, que designou relator em 04/11/2026. Depois, precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639491",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162385",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a6618fff6f03d338",
+ "hash_tramitacao": "9b7de1c88e3b6335",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2636566,
+ "titulo": "Obriga o público a ficar a dez metros de policiais durante abordagens e ocorrências",
+ "tldr": [
+  "Policiais e guardas podem isolar o local e exigir distância mínima de dez metros. Quem desobedecer comete crime de desobediência, com pena de dois a quatro anos de reclusão nesses casos.",
+  "Policiais, guardas municipais e demais agentes de segurança pública, além de qualquer pessoa presente em abordagens e ocorrências.",
+  "Em análise na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026. Depois, precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636566",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155707",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1e1dc48b2d689c70",
+ "hash_tramitacao": "de7b8cef6c65536c",
+ "tentativa": 1
+}

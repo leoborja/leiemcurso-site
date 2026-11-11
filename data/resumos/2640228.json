@@ -1,0 +1,28 @@
+{
+ "id": 2640228,
+ "titulo": "Dá a Santa Maria Madalena (RJ) o título de Capital Nacional do Astroturismo",
+ "tldr": [
+  "A cidade de Santa Maria Madalena, no Rio de Janeiro, recebe o título de Capital Nacional do Astroturismo e é declarada \"Cidade das Estrelas\".",
+  "O município de Santa Maria Madalena (RJ).",
+  "Aguarda a escolha de relator na Comissão de Turismo da Câmara, que recebeu o texto em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640228",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163532",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "99887e6613355219",
+ "hash_tramitacao": "b3d10a8482889aa6",
+ "tentativa": 1
+}

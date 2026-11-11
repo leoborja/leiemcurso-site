@@ -1,0 +1,28 @@
+{
+ "id": 2572868,
+ "titulo": "Obriga o atendimento de saúde a informar à pessoa com sofrimento mental e à família quais são seus direitos",
+ "tldr": [
+  "Em qualquer atendimento de saúde, pacientes com sofrimento mental e familiares passam a ser informados formalmente de seus direitos. O Estado deve fazer manuais e capacitar os profissionais.",
+  "Pessoas com sofrimento ou transtorno mental, seus familiares e profissionais e serviços de saúde.",
+  "Aprovada com mudanças na Comissão de Saúde em 12/08/2026. Desde 14/08/2026 aguarda a escolha de relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2572868",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3023894",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75b1ee8d9f405add",
+ "hash_tramitacao": "d61b729a37a73c01",
+ "tentativa": 1
+}

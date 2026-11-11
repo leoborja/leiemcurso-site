@@ -1,0 +1,28 @@
+{
+ "id": 2640542,
+ "titulo": "Cria política no SUS de tratamento dentário para mulheres com lesões na face por violência doméstica",
+ "tldr": [
+  "O SUS passa a oferecer, com prioridade, atendimento odontológico completo a essas mulheres, incluindo cirurgias, próteses e implantes quando indispensáveis, articulado com psicologia e assistência social.",
+  "Mulheres vítimas de violência doméstica e familiar com lesões na boca e na face, serviços do SUS, estados, Distrito Federal e municípios.",
+  "Aguarda escolha de relator na Comissão de Saúde da Câmara, que a recebeu em 05/11/2026. Tramita junto com os PLs 3868/2026, 3880/2026 e 3894/2026, apensados a ela."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640542",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164296",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8c4c0bcc185ebd44",
+ "hash_tramitacao": "3fdd45cfa24c4d17",
+ "tentativa": 2
+}

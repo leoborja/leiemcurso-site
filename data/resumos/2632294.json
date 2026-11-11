@@ -1,0 +1,28 @@
+{
+ "id": 2632294,
+ "titulo": "Cria programa para que parentes cuidem de crianças e adolescentes afastados dos pais",
+ "tldr": [
+  "Municípios e o Distrito Federal passam a gerir um programa em que parentes acolhem crianças e adolescentes com acompanhamento de equipe técnica. Os parentes podem receber ajuda de custo e isenção de IPTU.",
+  "Crianças e adolescentes afastados da família de origem, os parentes que os acolhem e os municípios e o Distrito Federal.",
+  "Aguarda parecer da relatora na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. O prazo de emendas terminou em 13/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632294",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146538",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6b77e4c70b9bc51e",
+ "hash_tramitacao": "e5b006890571b0e5",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2371476,
+ "titulo": "Declara Luís da Câmara Cascudo patrono do folclore nacional",
+ "tldr": [
+  "O escritor e pesquisador Luís da Câmara Cascudo passa a ter, por lei, o título de patrono do folclore brasileiro.",
+  "O efeito é simbólico e geral, sem grupo atingido diretamente.",
+  "Aprovado com uma emenda na Comissão de Cultura em 28/10/2026. Está na Comissão de Constituição e Justiça desde 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2371476",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2293356",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cd53e696fd3a3797",
+ "hash_tramitacao": "ebf1d00ca4281fe9",
+ "tentativa": 1
+}

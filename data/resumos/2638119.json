@@ -1,0 +1,28 @@
+{
+ "id": 2638119,
+ "titulo": "Cria regras de proteção a mulheres vítimas de assédio moral, sexual e eleitoral no serviço público",
+ "tldr": [
+  "A mulher que denunciar assédio não pode ser demitida ou transferida por 24 meses, e o agressor é afastado. O Ministério Público do Trabalho conduz a investigação e as penas aumentam.",
+  "Trabalhadoras de órgãos e empresas públicas de todos os níveis, inclusive terceirizadas e estagiárias, e as empresas que prestam serviço ao poder público.",
+  "Aguarda escolha de relator na Comissão de Trabalho da Câmara desde 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638119",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159003",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75ea1ab398f28622",
+ "hash_tramitacao": "647faa09cc9c37db",
+ "tentativa": 1
+}

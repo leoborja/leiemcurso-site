@@ -1,0 +1,28 @@
+{
+ "id": 2635103,
+ "titulo": "Isenta candidatos de baixa renda e doadores de medula de pagar exames médicos de admissão em cargos federais",
+ "tldr": [
+  "Quem já é isento da taxa de concurso federal também não pagará consultas, laudos e exames de admissão, feitos de preferência pelo SUS. O candidato não pode ser eliminado se o exame gratuito não for oferecido.",
+  "Candidatos de famílias do Cadastro Único e doadores de medula óssea em concursos e seleções da União, e os órgãos federais.",
+  "Tramita junto com o PL 3282/2026 (apensada). Recebida em 13/10/2026 pela comissão da Câmara onde está."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635103",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152196",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0d6d4290015ddcaf",
+ "hash_tramitacao": "9ff936b32558293e",
+ "tentativa": 1
+}

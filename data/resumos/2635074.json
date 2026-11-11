@@ -1,0 +1,28 @@
+{
+ "id": 2635074,
+ "titulo": "Obriga polícia e Justiça a avisar a vítima sobre o fim do inquérito em crimes de ação penal privada",
+ "tldr": [
+  "A polícia terá 5 dias para avisar a vítima e seu advogado de que concluiu a investigação e enviou o caso à Justiça; o cartório judicial terá 5 dias para informar o número do processo. A falta de aviso não muda os prazos para a queixa.",
+  "Vítimas de crimes em que cabe a elas abrir a ação penal, seus advogados, delegacias e cartórios judiciais.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, onde foi recebido em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635074",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152085",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "93c582bf9acd39b9",
+ "hash_tramitacao": "4d3c4ca9290af599",
+ "tentativa": 1
+}

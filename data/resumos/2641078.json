@@ -1,0 +1,28 @@
+{
+ "id": 2641078,
+ "titulo": "Cria política nacional de diretrizes para o uso de algoritmos e inteligência artificial no sistema financeiro",
+ "tldr": [
+  "Define princípios como supervisão humana, rastreabilidade e prevenção de discriminação no uso de algoritmos por instituições financeiras, que devem buscar adotar boas práticas de gestão de riscos.",
+  "Instituições financeiras e de pagamento, cooperativas de crédito, fintechs e órgãos reguladores como Banco Central e Comissão de Valores Mobiliários.",
+  "Tramita junto (apensado) ao PL 4389/2026, por despacho da Mesa da Câmara de 26/10/2026; ainda sem parecer de comissão."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641078",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164962",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3aacf17274c8d228",
+ "hash_tramitacao": "05ffca1b46473f34",
+ "tentativa": 1
+}

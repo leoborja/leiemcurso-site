@@ -1,0 +1,28 @@
+{
+ "id": 2631275,
+ "titulo": "Permite cobrar do agressor o custo da tornozeleira eletrônica em casos de violência doméstica",
+ "tldr": [
+  "O juiz pode mandar o agressor pagar a tornozeleira e sua manutenção, conforme a renda dele, sem que isso afete a medida protetiva. O dinheiro vai para fundo contra a violência à mulher. Se o agressor não puder pagar, o poder público paga.",
+  "Agressores com monitoramento eletrônico pela Lei Maria da Penha, juízes e o poder público.",
+  "Tramita na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, com relator escolhido em 28/10/2026. O prazo de emendas foi aberto em 29/10/2026. Outro projeto foi anexado a este."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631275",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144329",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c1eb395d1a1ce6e2",
+ "hash_tramitacao": "fa062352f3046d2d",
+ "tentativa": 1
+}

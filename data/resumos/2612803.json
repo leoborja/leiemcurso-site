@@ -1,0 +1,28 @@
+{
+ "id": 2612803,
+ "titulo": "Cria regras contra fraudes financeiras em massa e crimes de grupos que intimidam investigadores",
+ "tldr": [
+  "Emissores que captam dinheiro do público terão de se registrar e cumprir exigências de capital. Permite suspender ofertas e bloquear bens diante de indícios de fraude e cria crimes de intimidação e obstrução de investigação.",
+  "Emissores e plataformas de investimento, investidores, Banco Central, Comissão de Valores Mobiliários, Polícia Federal, Ministério Público, servidores e jornalistas.",
+  "Aprovado com texto alternativo na Comissão de Segurança Pública e Combate ao Crime Organizado em 11/08/2026. Desde 14/08/2026 aguarda relator na Comissão de Finanças e Tributação. Depois vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612803",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106877",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "85d399f7f677c77a",
+ "hash_tramitacao": "840669138bb17c62",
+ "tentativa": 2
+}

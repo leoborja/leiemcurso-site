@@ -1,0 +1,28 @@
+{
+ "id": 2638762,
+ "titulo": "Obriga identificar cabos e equipamentos em postes de energia e manter cadastro de quem os ocupa",
+ "tldr": [
+  "Cada cabo e equipamento em poste deverá ter etiqueta com código do responsável, e as donas dos postes manterão cadastro georreferenciado. Instalações sem identificação são presumidas irregulares e os custos ficam com quem os causar.",
+  "Empresas de telecomunicações e outros ocupantes de postes, distribuidoras de energia, agências reguladoras, municípios e o Distrito Federal.",
+  "Tramita junto com o PL 2065/2025 e aguarda envio às comissões da Câmara; publicado em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638762",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3160323",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5681f21b5d8fe246",
+ "hash_tramitacao": "aa70f398c2529fc7",
+ "tentativa": 1
+}

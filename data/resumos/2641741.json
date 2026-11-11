@@ -1,0 +1,28 @@
+{
+ "id": 2641741,
+ "titulo": "Obriga rótulos de alimentos que sugerem fruta a informar o percentual de fruta no produto",
+ "tldr": [
+  "Produtos com imagem ou nome de fruta devem informar quanto da fruta contêm ou avisar \"ESSE ALIMENTO NÃO CONTÉM FRUTA\". Destacar uma fruta só será permitido acima de um mínimo definido pela Anvisa.",
+  "Fabricantes de alimentos, anunciantes, consumidores e a Anvisa.",
+  "Recebido pela Comissão de Saúde da Câmara em 04/11/2026, aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641741",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167423",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fea2f173b99f27d5",
+ "hash_tramitacao": "2d1fe1cd69aba8f1",
+ "tentativa": 1
+}

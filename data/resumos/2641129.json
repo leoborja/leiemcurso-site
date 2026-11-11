@@ -1,0 +1,28 @@
+{
+ "id": 2641129,
+ "titulo": "Cria programa nacional de manutenção e segurança de barcos usados por comunidades que dependem dos rios",
+ "tldr": [
+  "Prevê ações de manutenção preventiva, inspeção, capacitação de mecânicos e operadores e apoio a oficinas comunitárias para barcos de transporte escolar, de saúde e de acesso a serviços públicos.",
+  "Comunidades ribeirinhas, indígenas, extrativistas e quilombolas, localidades isoladas, municípios pequenos, áreas de fronteira e a União, estados e municípios.",
+  "Tramita junto com o PL 4441/2026, ao qual foi apensado em 26/10/2026. Em 03/11/2026, o PL 4519/2026 foi apensado a ele. Está na Mesa Diretora da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641129",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165014",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "04bbad4a2addcb9c",
+ "hash_tramitacao": "0c1e6e4afad1bf8d",
+ "tentativa": 1
+}

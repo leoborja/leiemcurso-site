@@ -1,0 +1,28 @@
+{
+ "id": 2635472,
+ "titulo": "Cria benefício temporário para o cuidador principal de pessoa com deficiência grave que recebia BPC e morreu",
+ "tldr": [
+  "Com a morte do beneficiário, o cuidador principal pode receber 1 salário-mínimo por mês por até 12 meses, prorrogável uma vez, se cumprir os critérios de renda do BPC.",
+  "Familiares ou responsáveis legais que cuidavam de pessoa com deficiência grave beneficiária do BPC.",
+  "Tramita junto com o PL 1583/2026 e foi recebido pela Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635472",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153914",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a0861a2110f15d3b",
+ "hash_tramitacao": "73efb213a64a0439",
+ "tentativa": 1
+}

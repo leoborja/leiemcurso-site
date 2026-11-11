@@ -1,0 +1,28 @@
+{
+ "id": 2641256,
+ "titulo": "Cria triagem remota de urgência no SUS para regiões isoladas, ligada ao SAMU e aos postos de saúde",
+ "tldr": [
+  "Moradores de regiões isoladas passam a ter avaliação inicial de urgência por telefone, aplicativo ou pontos comunitários. Os casos são classificados por gravidade e encaminhados ao SAMU ou à unidade de saúde adequada.",
+  "Moradores de comunidades rurais, ribeirinhas, indígenas e remotas, profissionais do SUS e o Ministério da Saúde.",
+  "Em 03/11/2026, a Mesa da Câmara determinou que tramite junto com o PL 4496/2026. Será analisada nas comissões, sem precisar ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641256",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165155",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0c840d6e6eb147fe",
+ "hash_tramitacao": "13539e5be9ad83e6",
+ "tentativa": 1
+}

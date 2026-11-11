@@ -1,0 +1,28 @@
+{
+ "id": 2641233,
+ "titulo": "Garante opção de atendimento não digital para acessar serviços essenciais",
+ "tldr": [
+  "Ninguém poderá ficar sem um serviço essencial por não ter celular ou internet ou por não conseguir usar o reconhecimento facial. Exigir aplicativo como único meio de acesso passa a ser prática abusiva.",
+  "Pessoas idosas e pessoas com dificuldade de usar meios digitais, além de órgãos públicos, bancos, planos de saúde, concessionárias e outros prestadores de serviços essenciais.",
+  "Em 03/11/2026, a Mesa Diretora da Câmara mandou o texto tramitar junto com o PL 2870/2026. A análise cabe às comissões, sem precisar passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641233",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165131",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "43f22b64cdeca155",
+ "hash_tramitacao": "9937dab1b0c72e7b",
+ "tentativa": 1
+}

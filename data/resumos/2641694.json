@@ -1,0 +1,28 @@
+{
+ "id": 2641694,
+ "titulo": "Muda o local do processo por calúnia, difamação e injúria na internet para a cidade da vítima",
+ "tldr": [
+  "Os processos por calúnia, difamação e injúria cometidas pela internet passam a ser julgados onde mora a vítima.",
+  "Vítimas e acusados de calúnia, difamação ou injúria pela internet e a Justiça criminal.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, que recebeu o projeto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641694",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166978",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5a6822e8a40f4576",
+ "hash_tramitacao": "f6f12425c46332fc",
+ "tentativa": 1
+}

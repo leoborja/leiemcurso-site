@@ -1,0 +1,28 @@
+{
+ "id": 2611430,
+ "titulo": "Obriga o poder público a manter políticas de saúde mental para profissionais da segurança pública",
+ "tldr": [
+  "União, estados e municípios passam a ter de oferecer acompanhamento psicológico e psiquiátrico sigiloso, prevenção ao suicídio e programas de apoio. Quem buscar atendimento não pode ser discriminado nem prejudicado no trabalho.",
+  "Profissionais da segurança pública e a União, os estados, o Distrito Federal e os municípios.",
+  "Aguarda a escolha de relator na Comissão de Saúde. Em 03/11/2026, outro projeto (PL 3818/2026) passou a tramitar junto com este."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611430",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3103261",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c1dd5bed3daf208e",
+ "hash_tramitacao": "63225fc79151d57d",
+ "tentativa": 1
+}

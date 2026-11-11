@@ -1,0 +1,28 @@
+{
+ "id": 2347177,
+ "titulo": "Obriga o SUS a oferecer exames e tratamento de trombofilia para mulheres",
+ "tldr": [
+  "O SUS passa a ter de oferecer exames para detectar trombofilia (tendência a formar coágulos) e o tratamento. Os exames devem ser feitos antes do primeiro anticoncepcional, no pré-natal e antes da reposição hormonal.",
+  "Mulheres atendidas pelo SUS e a rede pública de saúde.",
+  "Aprovado nas comissões da Mulher, de Saúde e de Finanças e Tributação, esta em 02/09/2026. Desde 03/09/2026 aguarda relator na Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347177",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2233290",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "08e552ead4b44309",
+ "hash_tramitacao": "e7be16464de1f5e6",
+ "tentativa": 1
+}

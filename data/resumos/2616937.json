@@ -1,0 +1,28 @@
+{
+ "id": 2616937,
+ "titulo": "Define quem pode trabalhar como psicopedagogo e quais são as atribuições da profissão",
+ "tldr": [
+  "Exige diploma em psicopedagogia ou especialização de no mínimo 600 horas, garante a quem já atua continuar trabalhando, lista as atividades da profissão e obriga o psicopedagogo a guardar sigilo.",
+  "Psicopedagogos, profissionais de psicologia, pedagogia e fonoaudiologia e as instituições de ensino e de saúde.",
+  "Virou a Lei 15.519/2026 com vetos parciais do Poder Executivo, publicada no Diário Oficial em 23/09/2026. A Câmara aprovou o texto vindo do Senado em 31/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616937",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3114638",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2371bc1155235565",
+ "hash_tramitacao": "45682214e937259b",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641201,
+ "titulo": "Cria programa federal de poços, reservatórios e filtros de água para pequenas comunidades",
+ "tldr": [
+  "A União pode financiar poços, cisternas, filtros e pequenos sistemas de água em locais sem rede pública, inclusive em situações de emergência como secas.",
+  "Comunidades rurais, isoladas, indígenas, quilombolas e ribeirinhas, escolas rurais, unidades de saúde e municípios participantes.",
+  "Aguarda análise nas comissões da Câmara. Em 03/11/2026 passou a tramitar junto com o PL 3900/2026, e o PL 4572/2026 foi anexado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641201",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165096",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c2f0ca7089ab86b1",
+ "hash_tramitacao": "309bd271ad8c3340",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640534,
+ "titulo": "Cria regras de transparência e concorrência para plataformas digitais e programa de tecnologia regional",
+ "tldr": [
+  "Plataformas digitais com posição econômica relevante passam a ter deveres de transparência. Cria um programa nacional de desenvolvimento tecnológico regional e muda a lei de defesa da concorrência. Promoções não são, por si só, infração.",
+  "Plataformas digitais de intermediação, empresas brasileiras de tecnologia, pequenos empreendedores, consumidores e o Poder Executivo.",
+  "Aguarda a escolha de relator na Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara desde 04/11/2026. Ainda passará por outras quatro comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640534",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164288",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "935654dabf4663f1",
+ "hash_tramitacao": "b17f84484f807996",
+ "tentativa": 1
+}

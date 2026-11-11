@@ -1,0 +1,28 @@
+{
+ "id": 2500126,
+ "titulo": "Reconhece o futebol praticado no Brasil como patrimônio cultural imaterial do povo brasileiro",
+ "tldr": [
+  "O futebol passa a ser reconhecido por lei como manifestação da cultura nacional, e o Poder Executivo deve promover ações de preservação e valorização dessa prática.",
+  "O efeito é geral; atinge o órgão federal responsável pela cultura, encarregado das ações de preservação.",
+  "Aprovada pelo Plenário da Câmara em 13/08/2026, na forma do texto substituto da Comissão de Cultura. Enviada ao Senado em 31/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2500126",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2891294",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "66e8f64cd4b8ba14",
+ "hash_tramitacao": "2e7950cc438b5790",
+ "tentativa": 1
+}

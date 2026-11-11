@@ -1,0 +1,28 @@
+{
+ "id": 2641763,
+ "titulo": "Proíbe barrar veículos do transporte escolar só pelo ano de fabricação",
+ "tldr": [
+  "Veículos escolares não poderão ser barrados só pela idade. Eles seguem rodando se passarem nas inspeções técnicas do Conselho Nacional de Trânsito. Estados e municípios terão de 12 a 24 meses para adaptar suas regras.",
+  "Donos e motoristas de transporte escolar, estados, Distrito Federal, municípios e o Conselho Nacional de Trânsito.",
+  "Recebido pela Comissão de Viação e Transportes em 04/11/2026, aguarda a escolha de relator. Também passará pela Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641763",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167740",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "937f791d07203fc1",
+ "hash_tramitacao": "f45f82cae831dddc",
+ "tentativa": 2
+}

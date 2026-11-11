@@ -1,0 +1,28 @@
+{
+ "id": 2640286,
+ "titulo": "Obriga boates e locais de eventos a exibir cartazes sobre os riscos do uso de drogas",
+ "tldr": [
+  "Esses locais terão de exibir cartazes de tamanho mínimo A3 ou mensagens em telas sobre os riscos das drogas. Quem descumprir leva advertência e depois multa de R$ 2.000,00 a R$ 10.000,00, podendo ter o alvará suspenso.",
+  "Boates, casas noturnas, locais de eventos artísticos, culturais e esportivos e os organizadores desses eventos.",
+  "Aguarda a escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara, onde chegou em 08/09/2026. Depois passa pelas comissões de Saúde e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640286",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163754",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0bd5edd7262e8549",
+ "hash_tramitacao": "21c8bbfb23391aa1",
+ "tentativa": 1
+}

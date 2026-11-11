@@ -1,0 +1,28 @@
+{
+ "id": 2640709,
+ "titulo": "Proíbe planos de saúde de limitar o número de sessões de terapia para pessoas com autismo",
+ "tldr": [
+  "Os planos de saúde ficam proibidos de limitar o número de sessões de terapias indicadas no plano de tratamento de pessoas com autismo. A regra vale também para contratos antigos, e quem descumprir pode ser punido.",
+  "Pessoas com Transtorno do Espectro Autista que têm plano de saúde e as operadoras de planos.",
+  "Tramita junto com outro projeto (PL 1291/2026) e aguarda encaminhamento nas comissões da Câmara. Foi encaminhado para publicação em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640709",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164463",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "321eda0483659ba0",
+ "hash_tramitacao": "764e4fb3ab007d08",
+ "tentativa": 1
+}

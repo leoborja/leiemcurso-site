@@ -1,0 +1,28 @@
+{
+ "id": 2618165,
+ "titulo": "Obriga distribuidoras de energia a ligar a luz de circos itinerantes em até quarenta e oito horas",
+ "tldr": [
+  "Para pedir a ligação, o circo pode apresentar uma declaração própria com laudo técnico no lugar do alvará municipal. Se a distribuidora atrasar, tem de indenizar o circo por cada dia de atraso.",
+  "Circos itinerantes, distribuidoras de energia elétrica, a Aneel e profissionais que emitem laudos elétricos.",
+  "Chegou à Comissão de Minas e Energia da Câmara em 04/09/2026, onde aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618165",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3117480",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "acceefe5272314cb",
+ "hash_tramitacao": "cc4db1e54410d78f",
+ "tentativa": 2
+}

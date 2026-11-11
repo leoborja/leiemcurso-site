@@ -1,0 +1,28 @@
+{
+ "id": 2468146,
+ "titulo": "Define que o limite de dois terços da jornada de professores em sala seja contado em horas-aula",
+ "tldr": [
+  "O limite de 2/3 da jornada para atividades com alunos passa a ser calculado em tempos de aula. Aulas de menos de sessenta minutos contam como uma hora-aula na composição da jornada.",
+  "Profissionais do magistério da educação básica e as redes de ensino que os empregam.",
+  "Foi aprovado pelas Comissões de Educação e de Constituição e Justiça. A versão final do texto foi aprovada em 04/11/2026, e agora aguarda a preparação do texto oficial para envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2468146",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2818956",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ef0ca73084e92da6",
+ "hash_tramitacao": "d28f89985b61848c",
+ "tentativa": 1
+}

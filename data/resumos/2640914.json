@@ -1,0 +1,28 @@
+{
+ "id": 2640914,
+ "titulo": "Estende as medidas protetivas da Lei Maria da Penha a vítimas de qualquer sexo ou identidade de gênero",
+ "tldr": [
+  "A lei passa a prever de forma expressa que medidas protetivas de urgência valem para qualquer vítima de violência doméstica e familiar, como já decidiu o Supremo Tribunal Federal. Órgãos públicos deverão adaptar o atendimento.",
+  "Vítimas de violência doméstica e familiar de qualquer sexo ou identidade de gênero e órgãos de segurança, justiça, defensoria e assistência social.",
+  "Em 29/10/2026 a Mesa Diretora da Câmara determinou que tramite junto com o PL 4954/2025. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640914",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164681",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8b2e9e7061183a87",
+ "hash_tramitacao": "d4f97419fda3e760",
+ "tentativa": 1
+}

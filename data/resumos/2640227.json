@@ -1,0 +1,28 @@
+{
+ "id": 2640227,
+ "titulo": "Limita contratos de professores temporários e define direitos desses profissionais",
+ "tldr": [
+  "Contratos temporários na educação básica pública passam a durar até um ano, prorrogável por mais um, com piso salarial e 13º e férias retroativos se houver renovações seguidas além do prazo.",
+  "Professores temporários da educação básica pública e as redes de ensino que os contratam.",
+  "Aguarda escolha de relator na Comissão de Educação desde 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640227",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163531",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e7ca1c2ff3e8d984",
+ "hash_tramitacao": "5c65ae961ae865c4",
+ "tentativa": 1
+}

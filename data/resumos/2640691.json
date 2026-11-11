@@ -1,0 +1,28 @@
+{
+ "id": 2640691,
+ "titulo": "Obriga farmácias a reter a receita de remédios como os do tipo GLP-1 e a informar os riscos ao paciente",
+ "tldr": [
+  "A venda desses remédios passa a exigir a retenção da receita e a entrega de um termo que lista riscos como pancreatite. O farmacêutico terá de orientar o paciente sobre sinais de alerta e registrar a orientação no sistema da Anvisa.",
+  "Pacientes que usam remédios do tipo GLP-1 ou outros indicados pela Anvisa, farmácias e farmacêuticos.",
+  "Aguarda designação de relator na Comissão de Saúde da Câmara, onde chegou em 06/11/2026. Tramita junto com outro projeto apensado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640691",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164445",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "40857687f96be0ab",
+ "hash_tramitacao": "bde3d102822db41b",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2639317,
+ "titulo": "Obriga aplicativos de entrega e transporte a ter seguro e dar assistência a trabalhadores acidentados",
+ "tldr": [
+  "As plataformas terão de pagar seguro contra acidentes para entregadores e motoristas, sem repassar o custo a eles, e manter canal de socorro. Também ficam proibidas de bloquear o trabalhador por causa de acidente.",
+  "Entregadores e motoristas de aplicativo e as empresas que operam plataformas de entrega e de transporte de passageiros.",
+  "Aguarda a escolha de relator na Comissão de Comunicação da Câmara, onde chegou em 08/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639317",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162047",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4f009c5067094147",
+ "hash_tramitacao": "06d0295142fb1126",
+ "tentativa": 1
+}

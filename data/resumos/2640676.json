@@ -1,0 +1,28 @@
+{
+ "id": 2640676,
+ "titulo": "Proíbe sigilo em documentos públicos sobre violações de direitos humanos cometidas por agentes do Estado",
+ "tldr": [
+  "Muda a Lei de Acesso à Informação para impedir sigilo, inclusive por segurança nacional, em documentos com indícios de tortura, desaparecimento forçado ou execuções. Essas informações devem ser divulgadas de imediato.",
+  "Órgãos públicos que guardam documentos, agentes públicos e qualquer pessoa que peça acesso a essas informações.",
+  "Aguarda escolha de relator na Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara desde 05/11/2026. Também passará por outras duas comissões, que podem decidir sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640676",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164430",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ef1ddda5a8d3bcbd",
+ "hash_tramitacao": "3e24b497ed9c2722",
+ "tentativa": 1
+}

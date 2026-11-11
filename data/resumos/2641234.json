@@ -1,0 +1,28 @@
+{
+ "id": 2641234,
+ "titulo": "Obriga serviços digitais a permitir a troca do atendimento automático por atendimento humano em certos casos",
+ "tldr": [
+  "Em casos como contestação de cobrança, suspeita de fraude ou reclamação formal, o usuário poderá pedir para falar com uma pessoa. Dificultar cancelamentos e esconder canais de atendimento passam a ser práticas abusivas.",
+  "Usuários de serviços digitais, com prioridade para pessoas idosas, e empresas como bancos, planos de saúde, operadoras de telefonia e serviços públicos.",
+  "Em 03/11/2026, a Mesa Diretora da Câmara mandou o texto tramitar junto com o PL 2818/2026. A análise cabe às comissões, sem precisar passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641234",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165132",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1f0c596980cb4b7e",
+ "hash_tramitacao": "53a87f477b479192",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640015,
+ "titulo": "Obriga propagandas de apostas a alertar sobre risco de perdas e proíbe apresentá-las como fonte de renda",
+ "tldr": [
+  "Anúncios de apostas terão de avisar sobre risco financeiro, informar sobre autoexclusão e canais de apoio. Fica proibido apresentar apostas como emprego, investimento ou enriquecimento garantido.",
+  "Empresas de apostas de quota fixa, anunciantes e veículos de publicidade, além de apostadores.",
+  "Tramita junto com o PL 3324/2026; foi enviado para publicação em 27/10/2026 e aguarda encaminhamento na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640015",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163217",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3c69433dd876011f",
+ "hash_tramitacao": "947b1b5cc0a823fd",
+ "tentativa": 1
+}

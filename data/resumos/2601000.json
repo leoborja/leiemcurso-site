@@ -1,0 +1,28 @@
+{
+ "id": 2601000,
+ "titulo": "Garante porte de arma a guardas municipais e vigilantes sem exigir comprovação de necessidade",
+ "tldr": [
+  "Guardas municipais terão porte em serviço e fora dele em todo o país, sem limite pelo tamanho da cidade; vigilantes, em serviço e no trajeto para casa. Ambos poderão usar arma particular registrada.",
+  "Integrantes das Guardas Civis Municipais, vigilantes, municípios e órgãos que autorizam o porte de armas.",
+  "Aprovado com texto alterado na Comissão de Segurança Pública e Combate ao Crime Organizado em 01/09/2026. Aguarda relator na Comissão de Constituição e Justiça e de Cidadania desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601000",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078770",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b6aba845f04cf6c1",
+ "hash_tramitacao": "4a5a0b11a3f64000",
+ "tentativa": 1
+}

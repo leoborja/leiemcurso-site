@@ -1,0 +1,28 @@
+{
+ "id": 2451877,
+ "titulo": "Dá a Uberlândia (MG) o título de Capital Nacional do Paradesporto",
+ "tldr": [
+  "Uberlândia passa a ter oficialmente o título de Capital Nacional do Paradesporto.",
+  "O município de Uberlândia (MG).",
+  "Aprovado na Câmara pelas comissões; texto final aprovado na Comissão de Constituição e Justiça em 04/11/2026. Aguarda a versão final para envio."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2451877",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2462496",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "38f176af0812c299",
+ "hash_tramitacao": "3586e19cd13b70f5",
+ "tentativa": 1
+}

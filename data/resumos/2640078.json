@@ -1,0 +1,28 @@
+{
+ "id": 2640078,
+ "titulo": "Acaba com a separação de bens obrigatória no casamento de pessoas com mais de 70 anos",
+ "tldr": [
+  "Quem tem mais de 70 anos poderá escolher o regime de bens. Sem acordo antes do casamento, vale a separação de bens. Casais que hoje estão na separação obrigatória poderão pedir a troca do regime.",
+  "Pessoas com mais de 70 anos que se casam ou já são casadas no regime de separação obrigatória de bens.",
+  "Aguarda parecer do relator na Comissão de Defesa dos Direitos da Pessoa Idosa da Câmara. O prazo para emendas terminou em 04/11/2026 e nenhuma emenda foi apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640078",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163290",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fd49256ac5820609",
+ "hash_tramitacao": "3a06a816c5c4ccc4",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2637496,
+ "titulo": "Permite que pessoas em tratamento de câncer usem lenço ou turbante na foto de documentos oficiais",
+ "tldr": [
+  "Quem perdeu o cabelo pela doença ou pelo tratamento pode usar cobertura na foto, desde que o rosto fique visível. Depois, pode atualizar a foto sem pagar taxa.",
+  "Pessoas em tratamento contra o câncer com perda de cabelo e órgãos que emitem identidade, CNH e outros documentos com foto.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, que recebeu o texto em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637496",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157772",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5329ee65f409cd81",
+ "hash_tramitacao": "4e20d1cef5cdb15d",
+ "tentativa": 1
+}

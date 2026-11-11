@@ -1,0 +1,28 @@
+{
+ "id": 2606862,
+ "titulo": "Muda as regras de frequência e avaliação escolar para alunos com deficiência ou em tratamento de saúde",
+ "tldr": [
+  "Inclui alunos com deficiência no regime escolar especial, que terá regras próprias de controle de faltas e avaliação de rendimento, diferentes das aplicadas aos demais alunos.",
+  "Estudantes com deficiência ou em tratamento de saúde, suas famílias e as escolas.",
+  "Aprovado na Comissão de Educação em 28/10/2026. Está na Comissão de Defesa dos Direitos das Pessoas com Deficiência, com relator escolhido e prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606862",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3092448",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7e9ce5d7641228ec",
+ "hash_tramitacao": "22ea4bf3bc50b923",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2631789,
+ "titulo": "Cria devolução de tributos federais ao consumidor em compras de até R$ 250 no varejo nacional",
+ "tldr": [
+  "Em compras no Brasil de até R$ 250,00, ou o equivalente a US$ 50,00, com nota fiscal e CPF, o consumidor recebe de volta ou abate os tributos federais sobre consumo, por desconto, Pix ou crédito.",
+  "Consumidores pessoas físicas, lojas e plataformas de venda estabelecidas no país e a Receita Federal.",
+  "Aguarda a escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631789",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145231",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "266f0bea466a6e24",
+ "hash_tramitacao": "850877b27f4fe900",
+ "tentativa": 1
+}

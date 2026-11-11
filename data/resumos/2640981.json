@@ -1,0 +1,28 @@
+{
+ "id": 2640981,
+ "titulo": "Define regras para proteger imagem e dados do rosto das pessoas contra uso por inteligência artificial",
+ "tldr": [
+  "Dados como traços do rosto usados por inteligência artificial recebem proteção de dados sensíveis. Empresas devem oferecer canal gratuito para recusar esse uso; dados de crianças exigem consentimento dos pais.",
+  "Empresas que usam inteligência artificial com imagens e dados do rosto, e a população em geral. Ficam de fora usos jornalísticos, científicos e de segurança pública.",
+  "Tramita junto com o PL 3093/2026, por decisão da Mesa da Câmara de 29/10/2026. Será analisado nas comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640981",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164748",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6703384c2cd8c18e",
+ "hash_tramitacao": "c4f341f5c539ef8a",
+ "tentativa": 2
+}

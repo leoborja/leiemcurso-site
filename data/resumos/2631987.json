@@ -1,0 +1,28 @@
+{
+ "id": 2631987,
+ "titulo": "Define regras nacionais para as Patrulhas Maria da Penha com policiais militares e guardas municipais",
+ "tldr": [
+  "A Lei Maria da Penha passa a prever patrulhas para fiscalizar medidas protetivas, com visitas às vítimas, contato direto, equipes de resposta rápida e apoio de 24 horas. Guardas municipais ajudam as polícias militares.",
+  "Mulheres com medidas protetivas de urgência, polícias militares, guardas municipais, estados, Distrito Federal e municípios.",
+  "Tramita junto com o PL 6043/2025 e foi recebido pela Comissão de Defesa dos Direitos da Mulher da Câmara em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631987",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145743",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d5eea353e7750c22",
+ "hash_tramitacao": "41d8745c1d9cbb68",
+ "tentativa": 1
+}

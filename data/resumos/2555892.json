@@ -1,0 +1,28 @@
+{
+ "id": 2555892,
+ "titulo": "Cria incentivos fiscais e crédito com juros reduzidos para construir e modernizar abrigos de idosos",
+ "tldr": [
+  "Cria um programa federal com benefícios fiscais e crédito em bancos públicos para obras em casas de longa permanência para idosos. Têm prioridade os projetos com energia sustentável, acesso digital e telemedicina.",
+  "Instituições de longa permanência para idosos públicas, filantrópicas ou sem fins lucrativos, empresas de construção e fornecedores de equipamentos e tecnologia.",
+  "Aprovado com texto alternativo nas Comissões de Saúde (15/04/2026) e de Defesa dos Direitos da Pessoa Idosa (12/08/2026). Desde 24/08/2026 aguarda relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2555892",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2990839",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5408ef7ac46c60f5",
+ "hash_tramitacao": "df6c82a12655d9b4",
+ "tentativa": 1
+}

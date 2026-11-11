@@ -1,0 +1,28 @@
+{
+ "id": 2636593,
+ "titulo": "Dá a Guaraçaí, em São Paulo, o título de Capital Nacional do Abacaxi Havaiano",
+ "tldr": [
+  "O município de Guaraçaí passa a ter oficialmente o título honorífico de Capital Nacional do Abacaxi Havaiano.",
+  "Município de Guaraçaí, no Estado de São Paulo.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636593",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155822",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c0334575e450841b",
+ "hash_tramitacao": "a15483ee4715a45f",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2570333,
+ "titulo": "Cria o Dia Nacional do Professor e da Professora de Sociologia, em 11 de maio",
+ "tldr": [
+  "O dia 11 de maio passa a ser a data nacional em homenagem a professores de Sociologia.",
+  "Professores e professoras de Sociologia.",
+  "Aprovada com mudanças na Comissão de Cultura em 12/08/2026, junto com outro projeto apensado (que tramita junto). Desde 13/08/2026 aguarda a escolha de relator na Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570333",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3018694",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "daf4b2417fcb956c",
+ "hash_tramitacao": "a9f60c23e7dfeaf2",
+ "tentativa": 1
+}

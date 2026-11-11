@@ -1,0 +1,28 @@
+{
+ "id": 2641571,
+ "titulo": "Cria o Maio Azul, mês nacional de conscientização sobre doenças da tireoide",
+ "tldr": [
+  "O mês de maio passa a ser dedicado todos os anos à divulgação de informações sobre prevenção, diagnóstico, tratamento e acompanhamento das doenças da tireoide.",
+  "O efeito é geral: a medida se dirige à população.",
+  "Em 26/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 4133/2026. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641571",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165916",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "eebe130605af7b67",
+ "hash_tramitacao": "0702b2050a4009cf",
+ "tentativa": 1
+}

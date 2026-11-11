@@ -1,0 +1,28 @@
+{
+ "id": 2638108,
+ "titulo": "Cria política nacional de passe livre estudantil financiada por nova contribuição e por um fundo nacional",
+ "tldr": [
+  "Cria uma contribuição sobre receitas de aplicativos de transporte, estacionamentos grandes e locadoras de veículos para custear transporte gratuito ou subsidiado de estudantes, com prioridade à rede pública e à baixa renda.",
+  "Estudantes, aplicativos de transporte, estacionamentos com 100 vagas ou mais, locadoras de veículos, estados e municípios.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara, que designou relator em 04/11/2026. Prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638108",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158986",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "beb05eef435e64cc",
+ "hash_tramitacao": "37d98cfe299d0364",
+ "tentativa": 1
+}

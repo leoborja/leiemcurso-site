@@ -1,0 +1,28 @@
+{
+ "id": 2640843,
+ "titulo": "Impede que falhas em detalhes secundários anulem sozinhas o relato de vítima de violência doméstica",
+ "tldr": [
+  "Divergências sobre detalhes fora do núcleo do relato não tiram, sozinhas, a credibilidade da vítima. O juiz deve justificar sua avaliação, sem presumir que o relato é verdadeiro.",
+  "Mulheres vítimas de violência doméstica e familiar, acusados nesses processos e juízes criminais.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 5013/2025 (apensado). Está em análise nas comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640843",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164601",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "84ff83786ca680e5",
+ "hash_tramitacao": "e75c1cb63467d15d",
+ "tentativa": 2
+}

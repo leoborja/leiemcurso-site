@@ -1,0 +1,28 @@
+{
+ "id": 2638225,
+ "titulo": "Dá o nome de Ponte Avelino Ganzer à ponte sobre o Rio Xingu na BR-230, no Pará",
+ "tldr": [
+  "A ponte entre Anapu e Vitória do Xingu passa a ter oficialmente o nome Ponte Avelino Ganzer.",
+  "A ponte da BR-230 entre os municípios de Anapu e Vitória do Xingu, no Pará.",
+  "Aguarda a escolha de relator na Comissão de Viação e Transportes da Câmara, onde chegou em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638225",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159164",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d9a0159e0bebcc47",
+ "hash_tramitacao": "14456cf283df6db1",
+ "tentativa": 1
+}

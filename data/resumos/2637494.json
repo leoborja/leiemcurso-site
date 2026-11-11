@@ -1,0 +1,28 @@
+{
+ "id": 2637494,
+ "titulo": "Obriga a atualização anual do valor da bolsa permanência pela inflação medida pelo IPCA",
+ "tldr": [
+  "O valor da bolsa permanência passa a ter reajuste periódico por critério do Poder Executivo e revisão anual pelo IPCA, índice oficial de inflação.",
+  "Estudantes que recebem a bolsa permanência e o Poder Executivo federal, que paga o benefício.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 08/09/2026. Depois segue para as comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637494",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157770",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "14598d7ce278e1fb",
+ "hash_tramitacao": "3bc93ae80f7ea400",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2599283,
+ "titulo": "Cria política nacional de bibliotecas digitais comunitárias gratuitas voltadas a jovens",
+ "tldr": [
+  "A União passa a coordenar uma plataforma que reúne acervos digitais gratuitos e a apoiar projetos de bibliotecas digitais. Estados e municípios podem aderir se quiserem. O texto não cria novas despesas obrigatórias.",
+  "Jovens, bibliotecas públicas e comunitárias, organizações da sociedade civil, União, estados e municípios que aderirem.",
+  "Aprovado com texto alternativo na Comissão de Cultura em 28/10/2026. Desde 04/11/2026, aguarda a escolha de relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599283",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071955",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "60aa857afeccf3e8",
+ "hash_tramitacao": "e305d845d2b72c2f",
+ "tentativa": 1
+}

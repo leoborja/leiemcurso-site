@@ -1,0 +1,28 @@
+{
+ "id": 2589671,
+ "titulo": "Cria estratégia nacional para avaliar a qualidade dos serviços privados de saúde e prevê multa",
+ "tldr": [
+  "A Anvisa passa a fixar padrões de qualidade e a avaliar e divulgar resultados dos serviços de saúde privados e públicos. Prestadores privados que descumprirem pagam multa diária de R$ 5.000,00, que pode aumentar até 100 vezes.",
+  "Hospitais, clínicas e demais prestadores privados de saúde, estabelecimentos públicos de saúde, pacientes e a Anvisa.",
+  "Virou a Lei 15.524/2026, publicada em 29/09/2026. A Câmara aprovou o texto em 01/09/2026 e o enviou à sanção."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589671",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3055407",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75770158fc4962a6",
+ "hash_tramitacao": "f724edf5c9f3c534",
+ "tentativa": 2
+}

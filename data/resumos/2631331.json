@@ -1,0 +1,28 @@
+{
+ "id": 2631331,
+ "titulo": "Garante vaga no ensino superior público a todos que concluírem o ensino médio e proíbe vestibular",
+ "tldr": [
+  "Proíbe vestibulares e provas eliminatórias nas universidades públicas e cria um ciclo básico obrigatório antes da escolha do curso, com ação afirmativa na passagem para a graduação.",
+  "Concluintes do ensino médio, estudantes e instituições públicas de ensino superior e o poder público.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631331",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144423",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "62de67f13e434ccd",
+ "hash_tramitacao": "9698b1eb9f2d7391",
+ "tentativa": 1
+}

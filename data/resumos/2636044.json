@@ -1,0 +1,28 @@
+{
+ "id": 2636044,
+ "titulo": "Proíbe multas federais baseadas só em decisões automáticas e exige revisão humana",
+ "tldr": [
+  "Órgãos e agências federais só podem multar a partir de sistemas automatizados ou inteligência artificial após revisão de um servidor qualificado, aviso prévio ao fiscalizado e registros auditáveis.",
+  "Órgãos e agências reguladoras federais com função de fiscalização e pessoas e empresas fiscalizadas por eles.",
+  "Tramita junto com o PL 904/2026, com prioridade e sujeito ao Plenário da Câmara. Foi encaminhado para publicação em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636044",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154774",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8a18b3a270c61382",
+ "hash_tramitacao": "dd8d8b26ff1928d9",
+ "tentativa": 1
+}

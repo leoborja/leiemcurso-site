@@ -1,0 +1,28 @@
+{
+ "id": 2635671,
+ "titulo": "Aumenta para 20 dias o prazo para contestar a lista de credores em recuperação judicial e falência",
+ "tldr": [
+  "O prazo para contestar a lista de credores passa a ser de 20 dias. Contestações feitas depois do prazo, mas antes da homologação da lista final, serão aceitas com as regras dos pedidos fora de prazo.",
+  "Empresas em recuperação judicial ou falência, seus sócios, credores, comitê de credores e Ministério Público.",
+  "Aguarda a escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara desde 19/08/2026; depois vai à Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635671",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154272",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b9c2bd046adffb85",
+ "hash_tramitacao": "d8fca985571f977e",
+ "tentativa": 1
+}

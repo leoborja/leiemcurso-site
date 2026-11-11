@@ -1,0 +1,28 @@
+{
+ "id": 2638223,
+ "titulo": "Obriga a divulgar processos disciplinares encerrados contra ministros e altos dirigentes federais",
+ "tldr": [
+  "Após decisão final, órgãos federais terão de publicar a abertura, o relatório, a decisão e a punição ou o arquivamento do processo disciplinar, em seção própria do Portal da Transparência, por no mínimo dez anos.",
+  "Ministros, dirigentes de autarquias, estatais e agências reguladoras, outras autoridades nomeadas pelo Presidente da República e órgãos federais.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, que recebeu o texto em 13/10/2026. Depois segue para a Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638223",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159156",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a1774e98d011decf",
+ "hash_tramitacao": "d0a1a76b6e0fe55c",
+ "tentativa": 1
+}

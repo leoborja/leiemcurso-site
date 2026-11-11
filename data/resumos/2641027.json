@@ -1,0 +1,28 @@
+{
+ "id": 2641027,
+ "titulo": "Define informações obrigatórias e linguagem simples nos rótulos de alimentos para animais de companhia",
+ "tldr": [
+  "Os rótulos deverão informar a espécie, a fase da vida, os ingredientes, as restrições e as advertências em linguagem clara. Os fabricantes terão de manter na internet informações completas sobre os produtos.",
+  "Fabricantes de alimentos para animais de companhia e os tutores, como consumidores.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026, passou a tramitar junto com o PL 4340/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641027",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164795",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1bbe0f76b052bf73",
+ "hash_tramitacao": "6fc0db1e3ab3a388",
+ "tentativa": 1
+}

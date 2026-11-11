@@ -1,0 +1,28 @@
+{
+ "id": 2555654,
+ "titulo": "Define regras para o uso de inteligência artificial pelos órgãos de segurança pública",
+ "tldr": [
+  "Fixa níveis mínimos de acerto para essas tecnologias, auditorias anuais, finalidades permitidas e proibidas e revisão por pessoas. Quem não cumprir pode deixar de receber recursos do Fundo Nacional de Segurança Pública.",
+  "Órgãos do Sistema Único de Segurança Pública, estados e municípios que recebem recursos do Fundo Nacional de Segurança Pública e pessoas monitoradas por essas tecnologias.",
+  "A Comissão de Ciência, Tecnologia e Inovação aprovou o parecer em 12/08/2026. Está na Comissão de Segurança Pública, que abriu prazo para emendas em 29/10/2026, e tramita junto com outro projeto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2555654",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2990573",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6119508f59b5f019",
+ "hash_tramitacao": "672b34b90349048e",
+ "tentativa": 1
+}

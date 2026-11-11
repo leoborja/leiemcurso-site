@@ -1,0 +1,28 @@
+{
+ "id": 2638660,
+ "titulo": "Cria programa nacional de acesso à energia solar com crédito pago pela economia na conta de luz",
+ "tldr": [
+  "Autoriza uma linha de crédito em que a parcela é descontada da economia na conta de luz, o uso de até 50% do saldo do FGTS na instalação, condomínios solares comunitários e redução de impostos sobre equipamentos.",
+  "Titulares de contas de luz residenciais, com prioridade para famílias de baixa renda, moradores de regiões remotas e agricultores familiares, além de distribuidoras de energia e bancos.",
+  "Aguarda escolha de relator na Comissão de Trabalho da Câmara desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638660",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3160205",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "926d1e0918b09edf",
+ "hash_tramitacao": "ee121642788cf657",
+ "tentativa": 1
+}

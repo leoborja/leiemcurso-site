@@ -1,0 +1,28 @@
+{
+ "id": 2438687,
+ "titulo": "Cria regras para políticas públicas que garantam o direito de crianças e adolescentes à natureza",
+ "tldr": [
+  "Define o direito de crianças e adolescentes à natureza, como acesso a áreas verdes, brincar ao ar livre e educação ligada à natureza, e manda dar prioridade a eles em políticas ambientais, urbanas e climáticas.",
+  "Crianças e adolescentes, a União, os estados, os municípios e as empresas cujas atividades afetam o meio ambiente.",
+  "Virou a Lei 15.512/2026, publicada no Diário Oficial em 23/09/2026. A Câmara aprovou uma versão alterada em 15/10/2025, por 285 votos a 86."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2438687",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2433587",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "373c1a63dcd502b0",
+ "hash_tramitacao": "27a6333fc38dc5d4",
+ "tentativa": 1
+}

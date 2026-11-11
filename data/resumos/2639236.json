@@ -1,0 +1,28 @@
+{
+ "id": 2639236,
+ "titulo": "Proíbe empregador de usar imagem do empregado nas redes sociais da empresa fora da função contratada",
+ "tldr": [
+  "A CLT passa a proibir o uso da imagem do empregado nas mídias sociais do empregador quando isso for atividade incompatível com o cargo, o que passa a ser considerado desvio de função.",
+  "Empregados com carteira assinada e empregadores que usam redes sociais.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara desde 03/09/2026. A decisão cabe às comissões, sem passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639236",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161777",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3f11efccfcadf67e",
+ "hash_tramitacao": "70ab93d358437b68",
+ "tentativa": 1
+}

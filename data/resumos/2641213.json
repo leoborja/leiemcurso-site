@@ -1,0 +1,28 @@
+{
+ "id": 2641213,
+ "titulo": "Cria política no SUS para ampliar o acesso de pessoas com diabetes a bombas de insulina e sensores de glicose",
+ "tldr": [
+  "Reconhece bombas de insulina, sensores contínuos de glicose e sistemas parecidos como meios de autonomia. O SUS poderá priorizar esses aparelhos para certos pacientes e criar uma rede nacional e um cadastro de acompanhamento.",
+  "Pessoas com diabetes atendidas pelo SUS, com prioridade para crianças, adolescentes, pessoas de baixa renda, indígenas, moradores de áreas remotas e municípios da Amazônia Legal.",
+  "Em 03/11/2026, a Mesa Diretora da Câmara mandou o texto tramitar junto com o PL 4508/2026. A análise cabe às comissões, sem precisar passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641213",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165111",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0d128a12fa34c647",
+ "hash_tramitacao": "6af1856578933909",
+ "tentativa": 1
+}

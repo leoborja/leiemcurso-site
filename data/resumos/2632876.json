@@ -1,0 +1,28 @@
+{
+ "id": 2632876,
+ "titulo": "Cria estatuto que proíbe cobranças retroativas sobre quem gera a própria energia solar",
+ "tldr": [
+  "Proíbe novas taxas com efeito retroativo, exige lei federal para criar ou aumentar encargos, impede a Aneel de criá-los por norma própria e garante as regras da data de conexão por no mínimo 25 anos.",
+  "Consumidores, pequenos empreendedores, cooperativas e produtores rurais com micro e minigeração de energia, além da Aneel.",
+  "Aguarda parecer na Comissão de Minas e Energia da Câmara, que teve relator designado em 29/10/2026 e abriu prazo para emendas em 30/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632876",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148000",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0d90e8cb1a5d1cc2",
+ "hash_tramitacao": "162adc9b2197f178",
+ "tentativa": 1
+}

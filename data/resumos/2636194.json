@@ -1,0 +1,28 @@
+{
+ "id": 2636194,
+ "titulo": "Cria programa federal de apoio a ações sociais de organizações religiosas sem fins lucrativos",
+ "tldr": [
+  "Cria programa, certificação nacional, cadastro público e fundo para apoiar ações sociais gratuitas de entidades religiosas. Proíbe usar recurso público em culto e exigir adesão religiosa do atendido.",
+  "Organizações religiosas sem fins lucrativos com ações sociais, pessoas atendidas por elas e o Poder Executivo federal.",
+  "Aguarda escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família desde 29/10/2026. O PL 3592/2026 tramita junto com ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636194",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155004",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6897add70064e33c",
+ "hash_tramitacao": "367ecdc853e7f399",
+ "tentativa": 1
+}

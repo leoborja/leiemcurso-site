@@ -1,0 +1,28 @@
+{
+ "id": 2633153,
+ "titulo": "Cria protocolo obrigatório contra racismo em escolas e faculdades públicas e privadas",
+ "tldr": [
+  "Instituições de ensino passam a seguir procedimentos padronizados para prevenir, acolher vítimas, apurar e encaminhar casos de racismo, injúria racial e discriminação étnico-racial.",
+  "Instituições de educação básica e superior, públicas e privadas, e sua comunidade escolar: alunos, famílias, professores e funcionários.",
+  "Aguarda parecer da relatora na Comissão de Educação da Câmara. O prazo para emendas terminou em 13/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633153",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148502",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1fa1d9c549e35b6c",
+ "hash_tramitacao": "f60dc8dc4d1b4e24",
+ "tentativa": 1
+}

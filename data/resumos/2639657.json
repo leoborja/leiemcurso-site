@@ -1,0 +1,28 @@
+{
+ "id": 2639657,
+ "titulo": "Cria a Rota Turística da Fé Jardim da Imaculada em Cidade Ocidental, em Goiás",
+ "tldr": [
+  "A rota passa a reunir o Santuário Jardim da Imaculada, a Festa da Imaculada Conceição e o Festival Canta Jardim. A estrutura e a divulgação poderão receber apoio de programas oficiais de turismo e cultura.",
+  "O Município de Cidade Ocidental, o Estado de Goiás, o Santuário e os visitantes e negócios ligados ao turismo na região.",
+  "Foi aprovado pelo Plenário da Câmara em 01/09/2026, com tramitação prioritária, e enviado ao Senado em 13/10/2026, onde aguarda análise."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639657",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162697",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a064e65d8111cb46",
+ "hash_tramitacao": "f7fed5376105be58",
+ "tentativa": 1
+}

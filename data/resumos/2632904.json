@@ -1,0 +1,28 @@
+{
+ "id": 2632904,
+ "titulo": "Cria serviço de atendimento médico gratuito por telefone ou videochamada no SUS, 24 horas por dia",
+ "tldr": [
+  "O SUS passa a oferecer orientação médica, triagem, teleconsulta e renovação de receitas a distância, por número gratuito ou vídeo, todos os dias, como complemento ao atendimento presencial.",
+  "Usuários do SUS na atenção primária, profissionais de saúde, a União, estados, Distrito Federal e municípios.",
+  "Tramita junto com o PL 2782/2026 na Comissão de Saúde da Câmara, onde uma relatora foi designada em 17/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632904",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148041",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9a531d6112d5c69d",
+ "hash_tramitacao": "c648e0c22bb1600e",
+ "tentativa": 1
+}

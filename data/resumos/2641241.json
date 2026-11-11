@@ -1,0 +1,28 @@
+{
+ "id": 2641241,
+ "titulo": "Proíbe em sites e aplicativos o uso de desenhos de tela feitos para induzir o consumidor a decisões",
+ "tldr": [
+  "Proíbe cancelamentos escondidos, opções já marcadas para compartilhar dados e falsa urgência. Cancelar terá de ser tão fácil quanto contratar. Prevê multa de até 2% do faturamento.",
+  "Consumidores e plataformas digitais, com proteção reforçada para crianças, adolescentes e idosos.",
+  "Em 03/11/2026, a Mesa Diretora da Câmara mandou o texto tramitar junto com o PL 1470/2026. A análise cabe às comissões, sem precisar passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641241",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165139",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "58911b2f2a7c19e0",
+ "hash_tramitacao": "00e97f68df7007e3",
+ "tentativa": 1
+}

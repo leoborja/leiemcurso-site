@@ -1,0 +1,28 @@
+{
+ "id": 2601196,
+ "titulo": "Cria o Dia Nacional da Inclusão Digital, a ser celebrado em 27 de março",
+ "tldr": [
+  "O 27 de março passa a ser data oficial. O Poder Público fica encarregado de divulgar a data e de promover atividades sobre ela em ministérios e órgãos federais, com participação da sociedade civil.",
+  "Órgãos da administração pública federal e a sociedade em geral.",
+  "A Comissão de Cultura aprovou o parecer em 12/08/2026. Desde 13/08/2026, o projeto está na Comissão de Constituição e Justiça e de Cidadania, que ainda não escolheu um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601196",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3079243",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "764fcee6c6e72843",
+ "hash_tramitacao": "aed28638dbd73402",
+ "tentativa": 1
+}

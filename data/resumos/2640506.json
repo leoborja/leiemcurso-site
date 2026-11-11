@@ -1,0 +1,28 @@
+{
+ "id": 2640506,
+ "titulo": "Cria programa nacional para reduzir o tempo de diagnóstico de doenças neurodegenerativas e autoimunes no SUS",
+ "tldr": [
+  "O Ministério da Saúde coordena um programa que padroniza o encaminhamento a neurologistas e reumatologistas, capacita profissionais, cria bancos de dados e define metas de prazo para diagnósticos.",
+  "Pacientes do SUS com suspeita de doenças neurodegenerativas e autoimunes, profissionais da rede pública e o Ministério da Saúde.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 04/11/2026. Tramita junto com o PL 3833/2026, que foi apensado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640506",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164260",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7532d8bf7c6b6989",
+ "hash_tramitacao": "9365992adeb9e2fa",
+ "tentativa": 1
+}

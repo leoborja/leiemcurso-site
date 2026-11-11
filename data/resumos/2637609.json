@@ -1,0 +1,28 @@
+{
+ "id": 2637609,
+ "titulo": "Define regras para declarar emergência em barragens e amplia o controle do órgão fiscalizador",
+ "tldr": [
+  "O órgão fiscalizador terá de vistoriar e fazer relatório em até 30 dias após emergência declarada pela empresa, com audiência pública. Em mineração, declaração falsa anula licenças e removidos recebem valor de mercado.",
+  "Empresas donas de barragens, especialmente de mineração, órgãos fiscalizadores e moradores de áreas próximas a barragens.",
+  "Aguarda escolha de relator na Comissão de Minas e Energia da Câmara, que recebeu o projeto em 17/09/2026. Depois segue para outras duas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:54Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637609",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157931",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2a1052af768f0d53",
+ "hash_tramitacao": "6123b7ce1b562248",
+ "tentativa": 2
+}

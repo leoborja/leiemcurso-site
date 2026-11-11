@@ -1,0 +1,28 @@
+{
+ "id": 2640556,
+ "titulo": "Cria programa no SUS para tratar cicatrizes e queimaduras no rosto de vítimas de violência doméstica",
+ "tldr": [
+  "O SUS passa a oferecer de graça e com prioridade tratamento de pele para cicatrizes, queimaduras e manchas causadas pelas agressões, com remédios e acompanhamento, como tratamento reparador.",
+  "Mulheres vítimas de violência doméstica com sequelas permanentes na face, e os serviços do SUS.",
+  "Aguarda ser juntada a outro projeto (apensação), e outro projeto foi juntado a ela; está nas comissões da Câmara, com envio para publicação em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640556",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164310",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b2614dde1f67f31a",
+ "hash_tramitacao": "d351f6f7fccbd329",
+ "tentativa": 1
+}

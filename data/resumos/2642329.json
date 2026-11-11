@@ -1,0 +1,28 @@
+{
+ "id": 2642329,
+ "titulo": "Transforma os Cefets de Minas Gerais e do Rio de Janeiro em universidades federais de ciência e inovação",
+ "tldr": [
+  "Os dois Cefets viram universidades federais e mantêm unidades, cursos, alunos, servidores e bens. As novas universidades continuam oferecendo cursos técnicos de nível médio.",
+  "Alunos, professores e servidores do Cefet de Minas Gerais e do Cefet do Rio de Janeiro e o Ministério da Educação.",
+  "Virou a Lei 15.521/2026, publicada no Diário Oficial em 25/09/2026. A Câmara aprovou uma versão alterada em 02/09/2026, e o Senado também aprovou o texto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642329",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3169587",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5ef382066cd0635a",
+ "hash_tramitacao": "ea3953968193cfbb",
+ "tentativa": 1
+}

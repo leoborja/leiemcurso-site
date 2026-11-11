@@ -1,0 +1,28 @@
+{
+ "id": 2631787,
+ "titulo": "Cria regras extras para o uso de inteligência artificial por empresas e profissionais",
+ "tldr": [
+  "Empresas que usam inteligência artificial em decisões passam a precisar de estrutura de controle e revisão humana, a guardar registros no Brasil e a avaliar riscos de discriminação. Pequenas empresas teriam regras mais simples.",
+  "Empresas privadas e seus administradores, fornecedores de inteligência artificial, pequenas empresas e profissionais com conselho profissional, como advogados e médicos.",
+  "Tramita com prioridade, junto com o PL 2338/2023. O último andamento foi a publicação do texto, em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631787",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145229",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "620886ddf28454a5",
+ "hash_tramitacao": "c49f0c144bc5dc91",
+ "tentativa": 1
+}

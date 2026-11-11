@@ -1,0 +1,28 @@
+{
+ "id": 2640729,
+ "titulo": "Obriga transporte escolar adaptado e com monitor para alunos de comunidades quilombolas e tradicionais",
+ "tldr": [
+  "O poder público passa a ter de oferecer transporte escolar com veículos adaptados a estradas rurais e monitor treinado. Fica proibido levar esses alunos em horários sem luz do dia ou por trajetos de risco. A implantação é gradual.",
+  "Estudantes de comunidades quilombolas e tradicionais e União, estados, Distrito Federal e municípios.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara desde 06/11/2026. Depois passa por outras quatro comissões, entre elas a de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640729",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164483",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "27c4b5182b7d58a3",
+ "hash_tramitacao": "47394c8007c32c17",
+ "tentativa": 1
+}

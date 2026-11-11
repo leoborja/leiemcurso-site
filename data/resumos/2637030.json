@@ -1,0 +1,28 @@
+{
+ "id": 2637030,
+ "titulo": "Cria política nacional contra a violência de gênero na internet e define deveres para plataformas digitais",
+ "tldr": [
+  "Define formas de violência de gênero na internet, como divulgar conteúdo íntimo sem consentimento e criar imagens falsas com inteligência artificial, e obriga as plataformas a manter canal gratuito de denúncia.",
+  "Vítimas de violência de gênero na internet, provedores de aplicações de internet, autores dessas condutas e União, estados, Distrito Federal e municípios.",
+  "Aguarda a designação de relator na Comissão de Comunicação da Câmara, onde chegou em 08/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637030",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3156691",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "467bba4b74efcc34",
+ "hash_tramitacao": "fd88bad42241cf0a",
+ "tentativa": 1
+}

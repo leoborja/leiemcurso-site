@@ -1,0 +1,28 @@
+{
+ "id": 2625547,
+ "titulo": "Reduz de 35 para 33 anos o tempo de serviço para a aposentadoria de policiais e bombeiros militares",
+ "tldr": [
+  "Os militares estaduais passam a ter direito de ir para a inatividade remunerada após 33 anos de serviço, em vez de 35, mantidas as demais regras da legislação.",
+  "Policiais militares e bombeiros militares dos estados, do Distrito Federal e dos territórios.",
+  "Arquivada. Estava anexada ao PL 1269/2024 e foi considerada prejudicada em 01/09/2026, quando o Plenário da Câmara aprovou um texto alternativo ao PL 241/2023."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625547",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3131739",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "acd59b5a26a94234",
+ "hash_tramitacao": "3c00c9a76cba7119",
+ "tentativa": 1
+}

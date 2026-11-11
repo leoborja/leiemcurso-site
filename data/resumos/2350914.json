@@ -1,0 +1,28 @@
+{
+ "id": 2350914,
+ "titulo": "Define regras para a aposentadoria especial do INSS de quem trabalha exposto a riscos à saúde",
+ "tldr": [
+  "Define a aposentadoria especial com 15, 20 ou 25 anos de trabalho e incluí atividades perigosas, como eletricidade, inflamáveis, transporte de valores e vigilância, armada ou desarmada.",
+  "Segurados do INSS expostos a agentes nocivos ou atividades perigosas, como vigilantes, e as empresas que os empregam.",
+  "Tramita com prioridade (urgência aprovada no Plenário em 12/08/2026). Aguarda parecer na Comissão de Constituição e Justiça, que designou relator em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2350914",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2241517",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "403e09535f414245",
+ "hash_tramitacao": "e43f6200e9241cae",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2598491,
+ "titulo": "Define o vinagre colonial e estende a ele as regras do vinho colonial do agricultor familiar",
+ "tldr": [
+  "O vinagre feito de forma artesanal pelo agricultor familiar, a partir do vinho colonial, passa a seguir as mesmas regras desse vinho, com venda direta e fiscalização sanitária simplificada.",
+  "Agricultores familiares e empreendedores familiares rurais que produzem vinho e vinagre, e o Poder Executivo, que regulamentará o tema.",
+  "A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara aprovou o parecer favorável em 04/11/2026. O texto aguarda envio à Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598491",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3070561",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "14bc85a631c79f6e",
+ "hash_tramitacao": "f22dfe1ab22a62bf",
+ "tentativa": 1
+}

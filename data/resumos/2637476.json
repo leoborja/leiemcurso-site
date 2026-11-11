@@ -1,0 +1,28 @@
+{
+ "id": 2637476,
+ "titulo": "Impede juízes de julgar causas de clientes do escritório de advocacia de parentes",
+ "tldr": [
+  "O juiz não poderá julgar casos em que a parte seja ou tenha sido, nos últimos 5 anos, cliente do escritório de cônjuge ou parente. Também fica impedido se recebeu presentes ou aconselhou as partes.",
+  "Juízes, partes em processos civis e criminais e escritórios de advocacia de parentes de juízes.",
+  "Tramita junto com o PL 4264/2023 na Comissão de Constituição e Justiça e de Cidadania da Câmara desde 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637476",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157721",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "40c0eb5fe7e38522",
+ "hash_tramitacao": "1fc5b4dc07dd5a91",
+ "tentativa": 2
+}

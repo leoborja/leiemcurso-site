@@ -1,0 +1,28 @@
+{
+ "id": 2633961,
+ "titulo": "Cria política nacional de incentivo a pistas de pump track e espaços para esportes sobre rodas",
+ "tldr": [
+  "A União poderá dar apoio técnico, firmar parcerias e priorizar projetos de pistas para bicicleta, skate, patins e patinetes. A adesão de estados e municípios é voluntária e depende de orçamento.",
+  "Estados, Distrito Federal, municípios, entidades esportivas, instituições de ensino, organizações da sociedade civil e praticantes de esportes sobre rodas.",
+  "Aguarda a escolha de relator na Comissão de Esporte da Câmara, onde chegou em 19/08/2026. Depois passa pelas comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633961",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149628",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0e5cf9fdef07ab10",
+ "hash_tramitacao": "90027f738d921e65",
+ "tentativa": 1
+}

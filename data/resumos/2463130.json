@@ -1,0 +1,28 @@
+{
+ "id": 2463130,
+ "titulo": "Aumenta as penas de crimes ambientais e cria novos agravantes",
+ "tldr": [
+  "Aumenta as penas de crimes como desmatamento, incêndio, poluição e dano a unidades de conservação e terras indígenas. Manda incluir danos climáticos no valor mínimo de reparação fixado na sentença.",
+  "Quem comete crimes ambientais e os órgãos de fiscalização e da Justiça.",
+  "Aprovado com texto alternativo na Comissão da Amazônia e dos Povos Originários em 03/11/2026. Desde 04/11/2026 está na Comissão de Meio Ambiente e aguarda a escolha de relator. Tramita com prioridade."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2463130",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2486713",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "baee8d672e0a3d32",
+ "hash_tramitacao": "1424e6e16589527f",
+ "tentativa": 1
+}

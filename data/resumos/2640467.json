@@ -1,0 +1,28 @@
+{
+ "id": 2640467,
+ "titulo": "Proíbe bloquear o BPC de pessoas com transtorno mental grave sem antes procurá-las em casa",
+ "tldr": [
+  "O BPC não pode ser suspenso por falta à perícia ou ao CadÚnico se houver registro de esquizofrenia ou transtorno grave. O INSS aciona a rede de assistência e os CAPS, que devem procurar o beneficiário em casa.",
+  "Beneficiários do BPC com transtornos mentais graves e persistentes, o INSS e as redes municipais de assistência social e saúde.",
+  "Aguarda a designação de relator na Comissão de Saúde da Câmara desde 03/11/2026. Também passará por outras três comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640467",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164216",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fc49a11dbf3a5a01",
+ "hash_tramitacao": "dfe5f13b99cc5cae",
+ "tentativa": 1
+}

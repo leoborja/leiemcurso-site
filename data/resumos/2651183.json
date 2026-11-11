@@ -1,0 +1,28 @@
+{
+ "id": 2651183,
+ "titulo": "Define as alíquotas do Imposto Seletivo para 2027, com aplicação gradual",
+ "tldr": [
+  "Fixa o Imposto Seletivo de 2027 sobre veículos, aeronaves, barcos, cigarros, bebidas alcoólicas e açucaradas, minérios e apostas. Zera o imposto em casos como carros para pessoas com deficiência e taxistas.",
+  "Fabricantes, importadores e compradores dos produtos tributados, empresas de apostas, a Receita Federal e consumidores.",
+  "Medida provisória publicada em 04/11/2026, já vale como lei e aguarda análise do Congresso Nacional. O prazo para emendas foi de 04/11/2026 a 10/11/2026. Passa a trancar a pauta em 19/12/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651183",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190528",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7e803d680d0d9542",
+ "hash_tramitacao": "7f507a6d13126255",
+ "tentativa": 2
+}

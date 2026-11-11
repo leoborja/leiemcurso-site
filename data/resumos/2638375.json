@@ -1,0 +1,28 @@
+{
+ "id": 2638375,
+ "titulo": "Pune empresas que se beneficiem, mesmo de forma indireta, de atividades do crime organizado",
+ "tldr": [
+  "Empresas de setores de risco terão de manter programas de controle e prevenção. Quem lucrar com o crime organizado poderá levar multa, perder bens e ser proibido de contratar com o governo. Cria um sistema nacional de dados.",
+  "Empresas, em especial as de setores definidos como de risco em regulamento, e órgãos de controle e inteligência.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026 e abriu prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638375",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159432",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "834e723a4f090ebe",
+ "hash_tramitacao": "3196398a7f5512ee",
+ "tentativa": 1
+}

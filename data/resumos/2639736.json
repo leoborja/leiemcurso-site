@@ -1,0 +1,28 @@
+{
+ "id": 2639736,
+ "titulo": "Isenta do Imposto de Renda aposentadorias, pensões e outros benefícios previdenciários até um teto",
+ "tldr": [
+  "Aposentadorias, pensões e outros benefícios do INSS, dos regimes próprios e dos militares ficam livres de Imposto de Renda até R$ 8.475,55, valor reajustado todo ano. O efeito depende do cumprimento de regras fiscais.",
+  "Aposentados, pensionistas e beneficiários da previdência pública, inclusive militares.",
+  "Aguarda escolha de relator na Comissão de Finanças e Tributação da Câmara desde 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639736",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162834",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ea63d2112b416579",
+ "hash_tramitacao": "6fceff5c4a1f25d2",
+ "tentativa": 1
+}

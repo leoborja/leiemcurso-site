@@ -1,0 +1,28 @@
+{
+ "id": 2634537,
+ "titulo": "Cria política nacional de uso de drones para fiscalizar maus-tratos a animais",
+ "tldr": [
+  "Estados e municípios que aderirem podem receber da União apoio técnico e financeiro para usar drones e sensores contra maus-tratos a animais. O tratamento de dados segue a Lei Geral de Proteção de Dados.",
+  "Estados, Distrito Federal e municípios que aderirem, órgãos ambientais e de segurança e entidades de proteção animal.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara, onde um relator foi designado em 04/11/2026. O prazo para emendas foi aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634537",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151021",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f33cd384a801b4bb",
+ "hash_tramitacao": "ed9a8f4ccc397258",
+ "tentativa": 1
+}

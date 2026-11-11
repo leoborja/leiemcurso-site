@@ -1,0 +1,28 @@
+{
+ "id": 2631841,
+ "titulo": "Cria regras nacionais para reduzir a burocracia e digitalizar processos ligados a empresas",
+ "tldr": [
+  "Prevê aprovação automática quando o órgão público não responde no prazo e proíbe pedir documento que já está em base do governo. Exige análise de impacto antes de novas normas e cria ambiente de testes para inovação.",
+  "Empresas e empreendedores, sobretudo micro e pequenos, órgãos públicos da União, dos estados e dos municípios e agentes públicos.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631841",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145385",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4b37b54fe5808ecb",
+ "hash_tramitacao": "ec1b3f4bd14e059b",
+ "tentativa": 1
+}

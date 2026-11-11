@@ -1,0 +1,28 @@
+{
+ "id": 2631295,
+ "titulo": "Cria regras de proteção financeira para idosos e cadastro para bloquear ofertas de crédito",
+ "tldr": [
+  "Proíbe oferta de crédito a idosos por robôs e mensagens em massa, exige assinatura ou biometria presencial no consignado, dá 15 dias para desistir e cria cadastro gratuito para bloquear ofertas.",
+  "Pessoas com 60 anos ou mais, aposentados e pensionistas, bancos, fintechs, correspondentes bancários e demais instituições financeiras.",
+  "Aguarda parecer do relator na Comissão de Defesa dos Direitos da Pessoa Idosa da Câmara. O prazo de emendas terminou em 04/11/2026, com uma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631295",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144358",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ed2945617a829167",
+ "hash_tramitacao": "696de7e163ed2f2f",
+ "tentativa": 1
+}

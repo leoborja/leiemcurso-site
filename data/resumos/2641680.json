@@ -1,0 +1,28 @@
+{
+ "id": 2641680,
+ "titulo": "Proíbe vender como leite fluido o leite em pó importado reconstituído",
+ "tldr": [
+  "Empresas não poderão transformar leite em pó importado em leite líquido para venda, salvo autorização temporária em caso de desabastecimento, com aviso na embalagem. Prevê multa de até R$ 1.000.000,00.",
+  "Indústrias de laticínios, importadores, produtores de leite, consumidores e órgãos federais de fiscalização e comércio exterior.",
+  "Tramita junto com o PL 1321/2026 na Câmara, conforme despacho da Mesa Diretora de 26/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641680",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166948",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "922b5972e05add36",
+ "hash_tramitacao": "866db6314185deba",
+ "tentativa": 1
+}

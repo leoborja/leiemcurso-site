@@ -1,0 +1,28 @@
+{
+ "id": 2632219,
+ "titulo": "Reconhece a Romaria de Nossa Senhora da Abadia, em Minas Gerais, como manifestação da cultura nacional",
+ "tldr": [
+  "A peregrinação até o santuário no município de Romaria (MG) ganha o título de cultura nacional, e o poder público fica autorizado a apoiar segurança, infraestrutura e assistência aos romeiros.",
+  "Romeiros que vão ao Santuário Basílica de Nossa Senhora da Abadia de Água Suja, no município de Romaria (MG), e o poder público.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632219",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146315",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "aadf80d0f62b4ae8",
+ "hash_tramitacao": "041abc9a1c93c6ec",
+ "tentativa": 1
+}

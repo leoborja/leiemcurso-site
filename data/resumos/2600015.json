@@ -1,0 +1,28 @@
+{
+ "id": 2600015,
+ "titulo": "Cria regras para óculos com inteligência artificial, proíbe uso ao dirigir e cria crimes ligados ao uso",
+ "tldr": [
+  "Fabricantes terão de sinalizar gravações e bloquear reconhecimento facial por padrão. O uso será proibido em banheiros, provas e ao volante (infração gravíssima), e o uso para crimes ou vigilância de pessoas terá pena de prisão.",
+  "Fabricantes, vendedores e usuários de óculos inteligentes, motoristas e pessoas filmadas por esses dispositivos.",
+  "Aprovado com emenda na Comissão de Viação e Transportes em 13/05/2026. Aguarda parecer na Comissão de Ciência, Tecnologia e Inovação, que aprovou audiência pública. Em 14/09/2026 foi pedida mudança das comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600015",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3075824",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0f2fec57e9a12850",
+ "hash_tramitacao": "76cba385b7cd74f5",
+ "tentativa": 1
+}

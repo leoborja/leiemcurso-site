@@ -1,0 +1,28 @@
+{
+ "id": 2429996,
+ "titulo": "Cria programa de capacitação e incentivos fiscais para empresas que contratarem donas de casa",
+ "tldr": [
+  "Prevê cursos gratuitos para donas de casa e permite que empresas que as contratem deduzam despesas no Imposto de Renda e na CSLL. Empresas do programa devem oferecer horário flexível e mentoria, entre outras medidas.",
+  "Mulheres que nunca exerceram ou deixaram de exercer trabalho remunerado, empresas que aderirem ao programa e o poder público.",
+  "Aprovado nas comissões da Mulher (11/06/2025), de Trabalho (22/10/2025) e de Finanças e Tributação (12/08/2026). Desde 17/08/2026 aguarda relator na Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2429996",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2413762",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dfe8293c32129299",
+ "hash_tramitacao": "66bed02a4cfa92d4",
+ "tentativa": 1
+}

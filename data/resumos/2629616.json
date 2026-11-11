@@ -1,0 +1,28 @@
+{
+ "id": 2629616,
+ "titulo": "Inclui o adicional de risco de vida entre os direitos de policiais e bombeiros militares",
+ "tldr": [
+  "A lei nacional das polícias militares e dos bombeiros militares passa a prever o direito a um adicional de risco de vida. O valor e os critérios ficam a cargo de lei de cada estado, do Distrito Federal ou território.",
+  "Policiais militares e bombeiros militares dos estados, do Distrito Federal e dos territórios, e os governos que os pagam.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026 e abriu prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629616",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3140800",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9336cea076d50f79",
+ "hash_tramitacao": "225741488ecd4f7e",
+ "tentativa": 1
+}

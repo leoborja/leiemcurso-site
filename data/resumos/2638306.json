@@ -1,0 +1,28 @@
+{
+ "id": 2638306,
+ "titulo": "Obriga aplicativos de transporte e entrega a mostrar quanto do preço fica com a plataforma e com o prestador",
+ "tldr": [
+  "Antes de confirmar o pedido, o consumidor passa a ver o valor total, a parte retida pelo aplicativo, a parte do motorista ou entregador e a da loja. Fica proibido cobrar valor não informado.",
+  "Plataformas digitais de transporte individual de passageiros e de entrega, seus usuários, motoristas, entregadores e estabelecimentos comerciais.",
+  "Tramita junto com o PL 1868/2025 e foi recebido pela Comissão de Defesa do Consumidor da Câmara em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638306",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159321",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "389bf0de276d3e2a",
+ "hash_tramitacao": "79336c2d3162c3e2",
+ "tentativa": 1
+}

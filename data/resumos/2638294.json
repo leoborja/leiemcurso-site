@@ -1,0 +1,28 @@
+{
+ "id": 2638294,
+ "titulo": "Cria desconto no Imposto de Renda para empresas que contratarem mulheres com 40 anos ou mais",
+ "tldr": [
+  "Empresas poderão abater do Imposto de Renda até 10% dos gastos com novas vagas para mulheres de 40 anos ou mais, ou até 15% em casos de maior vulnerabilidade. A contratada deve ficar no emprego por pelo menos 12 meses.",
+  "Mulheres com 40 anos ou mais e empresas que pagam Imposto de Renda de Pessoa Jurídica e as contratarem com carteira assinada.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638294",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159296",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "354c18e02db3ffbc",
+ "hash_tramitacao": "652959abf0a45942",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2630647,
+ "titulo": "Inclui crimes sexuais contra crianças e adolescentes na lista de crimes hediondos",
+ "tldr": [
+  "Corrupção de menores, divulgação de cena de estupro ou pornografia e crimes do Estatuto da Criança e do Adolescente sobre material sexual infantil passam a ser hediondos, com regras penais mais rígidas.",
+  "Pessoas acusadas ou condenadas por esses crimes e crianças e adolescentes vítimas.",
+  "Tramita junto com o PL 29/2024 e será analisado pelo Plenário da Câmara. Último andamento: publicação em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630647",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143348",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "285af22256fe14da",
+ "hash_tramitacao": "95990670a33f87c1",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635585,
+ "titulo": "Inclui o Padre Léo no Livro dos Heróis e Heroínas da Pátria",
+ "tldr": [
+  "O nome de Léo Tarcísio Gonçalves Pereira, o Padre Léo, passa a constar do livro guardado no Panteão da Pátria e da Liberdade Tancredo Neves, em Brasília.",
+  "O texto não especifica quem é atingido.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635585",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154155",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8ab4012bce8c409b",
+ "hash_tramitacao": "b2240ad471cefb13",
+ "tentativa": 1
+}

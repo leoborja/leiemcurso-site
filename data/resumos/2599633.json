@@ -1,0 +1,28 @@
+{
+ "id": 2599633,
+ "titulo": "Cria lei nacional de direitos linguísticos dos povos indígenas, com direito a intérprete",
+ "tldr": [
+  "Reconhece línguas indígenas como patrimônio cultural e garante intérprete na Justiça, saúde, delegacias e assistência social. Prevê ensino escolar em língua indígena e permite que estados e municípios as tornem oficiais.",
+  "Povos indígenas, escolas indígenas, órgãos públicos de atendimento, estados e municípios.",
+  "Aprovado com texto alternativo na Comissão de Cultura em 28/10/2026. Tramita junto com outro projeto e, desde 04/11/2026, aguarda a escolha de relator na Comissão de Educação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599633",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072557",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f95093837f5d6d69",
+ "hash_tramitacao": "ca6b2bc2931e42c7",
+ "tentativa": 2
+}

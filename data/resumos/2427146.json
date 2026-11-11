@@ -1,0 +1,28 @@
+{
+ "id": 2427146,
+ "titulo": "Garante a gratuidade da justiça a quem está inscrito no CadÚnico",
+ "tldr": [
+  "Quem está inscrito no CadÚnico passa a ter direito garantido de entrar na Justiça sem pagar custas, conforme regra acrescentada ao Código de Processo Civil.",
+  "Pessoas inscritas no Cadastro Único para Programas Sociais e o Poder Judiciário.",
+  "A redação final foi aprovada na Comissão de Constituição e Justiça e de Cidadania da Câmara em 04/11/2026. O parecer da comissão foi aprovado em 06/05/2026, depois que um pedido para retirá-lo da pauta foi rejeitado por 26 votos a 20."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2427146",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2408118",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2625e925eaf01a90",
+ "hash_tramitacao": "b95a422c91f68632",
+ "tentativa": 1
+}

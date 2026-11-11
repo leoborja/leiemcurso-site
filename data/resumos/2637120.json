@@ -1,0 +1,28 @@
+{
+ "id": 2637120,
+ "titulo": "Regulamenta a profissão de mediador cultural e define quem pode exercê-la",
+ "tldr": [
+  "Lista as atribuições do mediador cultural em museus, bibliotecas, teatros e outros espaços. Pode exercer quem tem diploma superior ou técnico em áreas listadas, curso de qualificação ou três anos de atuação comprovada.",
+  "Mediadores culturais e instituições culturais públicas e privadas.",
+  "Aguarda designação de relator na Comissão de Trabalho da Câmara, onde foi recebido em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:47Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637120",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157103",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "10da2de11f3a3c0f",
+ "hash_tramitacao": "9ba83bf5ddd403b9",
+ "tentativa": 2
+}

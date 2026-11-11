@@ -1,0 +1,28 @@
+{
+ "id": 2635442,
+ "titulo": "Proíbe o uso de cartão de crédito, Pix parcelado, empréstimos e outras formas de crédito em apostas",
+ "tldr": [
+  "Apostas só poderão ser pagas com dinheiro próprio já disponível na conta do apostador. Bancos e empresas de pagamento terão de bloquear transações a crédito e fica proibida a publicidade que associe aposta a crédito.",
+  "Apostadores, empresas de apostas, bancos, instituições de pagamento, bandeiras de cartão, afiliados e influenciadores.",
+  "Tramita junto com o PL 3924/2024 e foi recebido pela Comissão de Defesa do Consumidor da Câmara em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635442",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153870",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a8f0d1b4c02897ea",
+ "hash_tramitacao": "76eb862f9f93565d",
+ "tentativa": 1
+}

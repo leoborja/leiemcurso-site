@@ -1,0 +1,28 @@
+{
+ "id": 2647154,
+ "titulo": "Cria o Desenrola Brasil 3.0 para renegociar com desconto dívidas atrasadas de pessoas físicas",
+ "tldr": [
+  "A União pode comprar de credores, com desconto mínimo de 90%, dívidas antigas de pessoas físicas abaixo de R$ 10.000,00 e oferecê-las ao devedor à vista ou parceladas com o mesmo desconto. O programa vale até 30 de junho de 2028.",
+  "Pessoas físicas com dívidas atrasadas, bancos, comércio e prestadores de serviço credores, Ministério da Fazenda, Banco do Brasil e Caixa.",
+  "Em vigor como medida provisória desde 25/09/2026, tramita com prioridade. Em 01/10/2026 foi comunicada a criação da comissão mista. O prazo no Congresso vai até 23/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647154",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3182103",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "93aa8602558d7763",
+ "hash_tramitacao": "e4067fca09a6eacb",
+ "tentativa": 2
+}

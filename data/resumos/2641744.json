@@ -1,0 +1,28 @@
+{
+ "id": 2641744,
+ "titulo": "Torna nulas as provas produzidas com desrespeito aos direitos da vítima em processos penais",
+ "tldr": [
+  "Provas obtidas sem cumprir as regras de proteção da vítima em audiências e julgamentos passam a ser anuladas. Com a concordância da vítima, audiências de crimes sexuais devem ser gravadas em áudio e vídeo.",
+  "Vítimas de crimes, juízes, Ministério Público e partes de processos penais, inclusive nos juizados especiais criminais.",
+  "Houve pedido de tramitação com prioridade em 20/08/2026. Desde 26/10/2026 tramita junto com o PL 4045/2026 na Câmara, que será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641744",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167477",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "13e966a2f4c5dae2",
+ "hash_tramitacao": "3768eb8be968b288",
+ "tentativa": 1
+}

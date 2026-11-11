@@ -1,0 +1,28 @@
+{
+ "id": 2632238,
+ "titulo": "Cria carteira para responsáveis por pessoas com deficiência e permite renegociar financiamento da casa",
+ "tldr": [
+  "Define em lei o responsável legal atípico, que cuida de forma permanente de pessoa com deficiência, e cria carteira para ele. Dá mais prazo para pagar contas de consumo e permite renegociar financiamento da casa.",
+  "Pais, tutores, curadores e parentes que cuidam de pessoas com deficiência, agentes financeiros de habitação e prestadoras de serviços.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632238",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146373",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "184649bbacefdf06",
+ "hash_tramitacao": "b9f37fe23e1723ae",
+ "tentativa": 2
+}

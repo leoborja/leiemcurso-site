@@ -1,0 +1,28 @@
+{
+ "id": 2599822,
+ "titulo": "Cria selo para empresas e instituições que comprovem redução de desperdício de alimentos, água e energia",
+ "tldr": [
+  "Empresas e instituições que comprovarem ações de controle, reaproveitamento e economia de recursos poderão receber um selo válido por um ano, que pode ser renovado. A concessão caberá a um órgão definido pelo Poder Executivo.",
+  "Empresas e instituições que quiserem obter o selo e o órgão do Poder Executivo encarregado de concedê-lo.",
+  "A Comissão de Meio Ambiente e Desenvolvimento Sustentável aprovou o parecer, com texto alternativo, em 04/11/2026. Desde 05/11/2026, o texto está na Comissão de Constituição e Justiça e de Cidadania, que ainda não indicou relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599822",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072763",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ecfdf61221c4363a",
+ "hash_tramitacao": "f0eae278983d12e5",
+ "tentativa": 1
+}

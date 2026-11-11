@@ -1,0 +1,28 @@
+{
+ "id": 2565636,
+ "titulo": "Cria a disciplina obrigatória Felicidade e Fraternidade nas escolas e faculdades",
+ "tldr": [
+  "Escolas públicas e privadas passam a oferecer a disciplina no ensino fundamental e médio, e faculdades, como disciplina introdutória. O conteúdo trata de empatia, cooperação e bem-estar emocional.",
+  "Estudantes e professores do ensino fundamental, médio e superior, instituições de ensino públicas e privadas e o Ministério da Educação.",
+  "A Comissão de Educação aprovou, em 28/10/2026, o parecer que rejeita o projeto. Ele pode ser arquivado, e o prazo para recurso é de 5 sessões a partir de 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2565636",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3009814",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d997a70c560a10e0",
+ "hash_tramitacao": "05056a7699ac4479",
+ "tentativa": 1
+}

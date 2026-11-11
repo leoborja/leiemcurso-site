@@ -1,0 +1,28 @@
+{
+ "id": 2634921,
+ "titulo": "Obriga planos de saúde a liberar na hora ultrassons semanais de gestantes de alto risco a partir do 6º mês",
+ "tldr": [
+  "Os planos não poderão exigir auditoria ou análise que atrase o exame por mais de 15 minutos. Quem descumprir estará sujeito a penalidades e a multa diária definida pela ANS.",
+  "Gestantes de alto risco com plano de saúde e as operadoras de planos de saúde.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 19/08/2026. Depois passa pelas comissões de Defesa do Consumidor, da Mulher e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634921",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151775",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bb62677f32de0623",
+ "hash_tramitacao": "1ecf947a751ce142",
+ "tentativa": 1
+}

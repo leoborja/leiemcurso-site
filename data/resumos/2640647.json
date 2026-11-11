@@ -1,0 +1,28 @@
+{
+ "id": 2640647,
+ "titulo": "Torna obrigatória a aprovação no Revalida para médicos formados no exterior atuarem no Brasil",
+ "tldr": [
+  "Médicos com diploma estrangeiro só podem atuar no Brasil, inclusive em programas de provimento de médicos, depois de aprovados em todas as etapas do exame Revalida.",
+  "Médicos formados no exterior, brasileiros ou estrangeiros, e programas públicos de provimento de médicos.",
+  "Desde 06/11/2026, aguarda a escolha de relator na Comissão de Saúde da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640647",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164401",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0509b2278a1a1044",
+ "hash_tramitacao": "1167b224f4e6cd87",
+ "tentativa": 1
+}

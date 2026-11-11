@@ -1,0 +1,28 @@
+{
+ "id": 2633967,
+ "titulo": "Limita a trinta horas semanais a jornada de trabalho de pedagogos, sem redução de salário",
+ "tldr": [
+  "Pedagogos com diploma de curso superior em Pedagogia reconhecido pelo MEC passam a trabalhar no máximo trinta horas por semana, sem redução de salário. A regra vale 90 dias após a publicação.",
+  "Profissionais formados em Pedagogia e seus empregadores públicos e privados.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 19/08/2026. Depois passa pelas comissões de Trabalho e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633967",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149637",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "16362dd664ca3b0e",
+ "hash_tramitacao": "2a69d5fd80f4d1db",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2642095,
+ "titulo": "Permite extinguir o vínculo de filiação com pai ou mãe que abandonou, agrediu ou abusou do filho",
+ "tldr": [
+  "O filho adulto, ou o Ministério Público no caso de menor, pode pedir na Justiça o fim do vínculo com o pai ou a mãe agressor. Assim, deixa de existir o dever de pensão entre eles e o sobrenome pode ser retirado do registro.",
+  "Filhos vítimas de abandono afetivo grave, violência doméstica ou abuso, e os pais ou mães que praticaram essas condutas.",
+  "Tramita com prioridade (urgência aprovada por unanimidade em 13/08/2026). Está pronta para votação no Plenário da Câmara e foi distribuída às comissões em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642095",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3168933",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "df63b02f924f7679",
+ "hash_tramitacao": "f76ec6376bbc671f",
+ "tentativa": 1
+}

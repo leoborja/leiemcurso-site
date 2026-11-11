@@ -1,0 +1,28 @@
+{
+ "id": 2618313,
+ "titulo": "Dá o nome de Viaduto Padre Aleixo Susin ao viaduto da BR-020 no acesso a Planaltina (DF)",
+ "tldr": [
+  "O viaduto no km 22,6 da BR-020, no entroncamento com a DF-128, passa a se chamar oficialmente \"Viaduto Padre Aleixo Susin\".",
+  "O viaduto de acesso à Região Administrativa de Planaltina, no Distrito Federal.",
+  "Aprovado na Comissão de Viação e Transportes em 12/08/2026. Desde 17/08/2026 está na CCULT, à espera da escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618313",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3117919",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f9f9c688398d1d36",
+ "hash_tramitacao": "5cc4e8910c84ef8e",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2615005,
+ "titulo": "Muda as regras de análise para incluir novos remédios e tratamentos no SUS",
+ "tldr": [
+  "A análise científica e a análise de custos passam a ser feitas em fases, a econômica depois da clínica. Prevê negociação de preço com o fabricante durante a análise e reuniões prévias sobre os pedidos.",
+  "Ministério da Saúde, a comissão federal que decide o que entra no SUS, fabricantes de remédios e produtos de saúde e pacientes do SUS.",
+  "Aguarda parecer da relatoria na Comissão de Saúde. O prazo para emendas terminou em 28/10/2026 sem nenhuma emenda."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615005",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3111366",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ab27b816873ee8ab",
+ "hash_tramitacao": "5fe602fe325b7b09",
+ "tentativa": 1
+}

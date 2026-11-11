@@ -1,0 +1,28 @@
+{
+ "id": 2638296,
+ "titulo": "Muda o nome do aeroporto de Viracopos, em Campinas, para incluir homenagem a Rolim Amaro",
+ "tldr": [
+  "O aeroporto passa a se chamar Aeroporto Internacional de Campinas/Viracopos - Comandante Rolim Amaro, e a lei de 1987 sobre o nome atual é revogada.",
+  "O Aeroporto de Viracopos, em Campinas (SP).",
+  "Aguarda a escolha de relator na Comissão de Viação e Transportes da Câmara, onde chegou em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638296",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159303",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9d03f4db21ebba93",
+ "hash_tramitacao": "4f4faf493a8903b9",
+ "tentativa": 1
+}

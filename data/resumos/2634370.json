@@ -1,0 +1,28 @@
+{
+ "id": 2634370,
+ "titulo": "Suspende tributos na importação de urânio para combustível nuclear até a venda do produto final",
+ "tldr": [
+  "PIS/Pasep e Cofins sobre a importação de urânio e componentes de combustível nuclear deixam de ser pagos na entrada e passam a ser cobrados quando o combustível é vendido.",
+  "Empresas que importam urânio para produzir combustível destinado a usinas nucleares no Brasil.",
+  "Aguarda parecer na Comissão de Minas e Energia da Câmara, que teve relator designado em 29/10/2026 e abriu prazo para emendas em 30/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634370",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3150450",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c0409d36676990af",
+ "hash_tramitacao": "ef0540f3e580c563",
+ "tentativa": 1
+}

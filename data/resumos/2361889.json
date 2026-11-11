@@ -1,0 +1,28 @@
+{
+ "id": 2361889,
+ "titulo": "Prorroga até 2028 o desconto no Imposto de Renda para doações ao programa de apoio ao tratamento de câncer",
+ "tldr": [
+  "Pessoas e empresas podem descontar do Imposto de Renda as doações e patrocínios ao Pronon e a outros programas da mesma lei até o ano-calendário de 2028.",
+  "Pessoas físicas e empresas que doam e instituições que recebem recursos do Pronon e de programas da mesma lei.",
+  "Arquivado. Tramitava junto com outro projeto, que o Plenário da Câmara aprovou em 31/08/2026 em versão alternativa. Com isso, este texto foi dado como prejudicado (perdeu o objeto) na mesma data."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2361889",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2271491",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c5652dc372677c70",
+ "hash_tramitacao": "423d83d3d610d02b",
+ "tentativa": 1
+}

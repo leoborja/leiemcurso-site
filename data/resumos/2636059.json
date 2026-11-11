@@ -1,0 +1,28 @@
+{
+ "id": 2636059,
+ "titulo": "Proíbe visitas em casa não solicitadas para oferecer crédito consignado a aposentados e pensionistas do INSS",
+ "tldr": [
+  "Ofertas de consignado só com pedido prévio do consumidor, informação clara de custos e direito de desistir; contratos feitos em casa sem essas regras passam a ser presumidos abusivos e podem ser anulados.",
+  "Aposentados, pensionistas e beneficiários do BPC do INSS, bancos, correspondentes bancários e seus vendedores.",
+  "Aguarda designação de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636059",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154793",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7424c6b964640bfe",
+ "hash_tramitacao": "d07d9bb34ca8f604",
+ "tentativa": 1
+}

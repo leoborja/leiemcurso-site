@@ -1,0 +1,28 @@
+{
+ "id": 2635476,
+ "titulo": "Aumenta o limite de faturamento do MEI e permite contratar até dois empregados",
+ "tldr": [
+  "O limite anual de faturamento do MEI vai para R$ 110.000,00 em 2027 e para R$ 140.000,00 a partir de 2028. O MEI pode ter até dois empregados e contratar substitutos para quem estiver afastado.",
+  "Microempreendedores individuais e seus empregados.",
+  "Aprovado no Plenário da Câmara em 14/10/2026, por 461 votos a 4, e depois pelo Senado. Virou a Lei Complementar 238/2026, publicada em 21/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635476",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153934",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f37f783017fdd4ce",
+ "hash_tramitacao": "d01b0599d1beeb26",
+ "tentativa": 1
+}

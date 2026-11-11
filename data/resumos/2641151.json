@@ -1,0 +1,28 @@
+{
+ "id": 2641151,
+ "titulo": "Cria política nacional de manutenção preventiva de bens públicos, como escolas e ambulâncias",
+ "tldr": [
+  "Os governos podem fazer planos com inventário, cronograma de manutenção e previsão de troca de bens públicos. A União pode dar apoio técnico e criar um índice sem uso para punições.",
+  "União, estados, Distrito Federal e municípios e os órgãos que administram escolas, unidades de saúde, veículos e equipamentos públicos.",
+  "Tramita junto com o PL 4461/2026 e aguarda análise das comissões da Câmara. O último andamento foi na Mesa Diretora, em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641151",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165042",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9282586ad1eb7715",
+ "hash_tramitacao": "e454e3e717dc71e6",
+ "tentativa": 1
+}

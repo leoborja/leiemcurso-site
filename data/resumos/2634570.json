@@ -1,0 +1,28 @@
+{
+ "id": 2634570,
+ "titulo": "Cria o Dia Nacional da Cirurgia Segura, a ser celebrado todo ano em 17 de junho",
+ "tldr": [
+  "Cria uma data no calendário nacional. Nesse dia, órgãos públicos, serviços de saúde, escolas e entidades poderão fazer ações educativas sobre segurança do paciente em cirurgias, sem uso de verba extra.",
+  "Órgãos públicos, instituições de saúde e de ensino, entidades de classe, organizações da sociedade civil e pacientes de cirurgias.",
+  "Está na Comissão de Saúde da Câmara desde 21/08/2026, à espera da escolha de um relator. Depois, passa pela Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634570",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151226",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "472c7897bd1c881f",
+ "hash_tramitacao": "ce9a7c82d72c45b9",
+ "tentativa": 1
+}

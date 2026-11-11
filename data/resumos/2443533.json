@@ -1,0 +1,28 @@
+{
+ "id": 2443533,
+ "titulo": "Destina ao Ministério da Defesa o dinheiro da venda de bens das Forças Armadas",
+ "tldr": [
+  "O valor obtido com a venda de bens das Forças Armadas vai integralmente para investimentos da Defesa, sem ser descontado do orçamento da Força que vendeu; o ministério publica relatório anual.",
+  "Ministério da Defesa, Exército, Marinha e Aeronáutica.",
+  "Aprovado com mudanças na Comissão de Relações Exteriores e de Defesa Nacional em 04/11/2026. Tramita com prioridade e depende de votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2443533",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2442974",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f09c7e6ad5f64162",
+ "hash_tramitacao": "cbcde0116ed54b28",
+ "tentativa": 1
+}

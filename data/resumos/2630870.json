@@ -1,0 +1,28 @@
+{
+ "id": 2630870,
+ "titulo": "Cria política nacional e cadastro voluntário para trabalhadores autônomos de carga e descarga, os chapas",
+ "tldr": [
+  "Cria um cadastro nacional gratuito e opcional para os chapas, com identificação ocupacional e acesso a cursos e programas sociais. Quem não se cadastrar continua podendo trabalhar.",
+  "Trabalhadores autônomos de carga e descarga (chapas), empresas que contratam esses serviços e o Poder Executivo federal.",
+  "Aguarda escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara, onde chegou em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630870",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143854",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d96e19263a8b5234",
+ "hash_tramitacao": "a4ac3be57958fa88",
+ "tentativa": 1
+}

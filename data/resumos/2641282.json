@@ -1,0 +1,28 @@
+{
+ "id": 2641282,
+ "titulo": "Cria política e cadastro nacional gratuito para trabalhadores informais urbanos, como ambulantes e feirantes",
+ "tldr": [
+  "Cria um cadastro voluntário e sem cobrança imediata de tributos, com formalização em etapas até o MEI, e diretrizes para o uso do espaço público e a fiscalização.",
+  "Ambulantes, feirantes, vendedores de rua e outros trabalhadores informais urbanos, além de estados, Distrito Federal e municípios.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4565/2026 (apensado). Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641282",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165190",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0264c938ce7d239a",
+ "hash_tramitacao": "e3bfd3fda697c574",
+ "tentativa": 1
+}

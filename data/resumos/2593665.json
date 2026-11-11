@@ -1,0 +1,28 @@
+{
+ "id": 2593665,
+ "titulo": "Inclui pessoas com deficiência em programas federais de crédito e de apoio ao empreendedorismo",
+ "tldr": [
+  "Inclui na Lei Brasileira de Inclusão ações para pessoas com deficiência no Pronampe e no microcrédito e cria política de apoio ao trabalho. Empresas com 100 ou mais empregados só terão parte dos incentivos se cumprirem a cota.",
+  "Pessoas com deficiência, empresas com 100 ou mais empregados, negócios voltados à inclusão e o Sistema Nacional de Emprego.",
+  "Aprovado com mudanças na Comissão de Indústria, Comércio e Serviços da Câmara em 13/10/2026. Aguarda a escolha de relator na comissão CTRAB, que recebeu o texto em 19/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:57Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593665",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3062467",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9966f801b9b4e7a4",
+ "hash_tramitacao": "dbddb14f762d627d",
+ "tentativa": 2
+}

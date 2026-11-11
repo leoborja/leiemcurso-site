@@ -1,0 +1,28 @@
+{
+ "id": 2447121,
+ "titulo": "Inclui Paulo Emílio Vanzolini no Livro dos Heróis e Heroínas da Pátria",
+ "tldr": [
+  "O nome do zoólogo e compositor Paulo Emílio Vanzolini passa a constar do livro guardado no Panteão da Pátria, em Brasília.",
+  "O texto não especifica quem é atingido.",
+  "Aprovado na Comissão de Cultura em 28/10/2026. Desde 05/11/2026, aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2447121",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2450263",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4b85cdbb8fee0dc0",
+ "hash_tramitacao": "b5934d11d7a9ef45",
+ "tentativa": 1
+}

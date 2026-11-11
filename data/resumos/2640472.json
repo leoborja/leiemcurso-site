@@ -1,0 +1,28 @@
+{
+ "id": 2640472,
+ "titulo": "Permite dar pontos extras em licitações a empresas com selo de prevenção ao assédio no trabalho",
+ "tldr": [
+  "Editais de licitação que avaliam técnica poderão dar pontuação extra a empresas com selo contra assédio moral e sexual. Em caso de empate, essas empresas poderão ter preferência.",
+  "Empresas que participam de licitações públicas e os órgãos públicos que fazem as contratações.",
+  "Aguarda a designação de relator na Comissão de Finanças e Tributação da Câmara desde 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640472",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164221",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6c3e057061145c69",
+ "hash_tramitacao": "8aa0f9b447c1d4d6",
+ "tentativa": 1
+}

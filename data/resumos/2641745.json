@@ -1,0 +1,28 @@
+{
+ "id": 2641745,
+ "titulo": "Cria em lei programa de tornozeleira para agressores e rastreador para vítimas de violência doméstica",
+ "tldr": [
+  "Combina monitoramento eletrônico do agressor com um aparelho gratuito e opcional para a vítima, ligado aos números 190 e 180. Estados que aderirem ao modelo nacional terão prioridade em repasses federais.",
+  "Mulheres vítimas de violência doméstica, agressores, estados, Distrito Federal, União e órgãos de segurança e de justiça.",
+  "Recebido pela Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara em 04/11/2026, aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641745",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167481",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a02e18e2bebcf3af",
+ "hash_tramitacao": "efe8bf18d0c183a1",
+ "tentativa": 2
+}

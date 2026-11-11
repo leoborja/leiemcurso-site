@@ -1,0 +1,28 @@
+{
+ "id": 2641822,
+ "titulo": "Inclui o rastreamento digital sem consentimento como violência contra a mulher e aumenta pena por perseguição",
+ "tldr": [
+  "A Lei Maria da Penha passa a incluir o monitoramento por rastreadores ou aplicativos espiões. Fabricantes devem alertar o usuário sobre rastreadores desconhecidos. A perseguição feita com esses meios passa a ter pena de 2 a 5 anos.",
+  "Mulheres vítimas de monitoramento, autores de perseguição, fabricantes de rastreadores e empresas de sistemas operacionais.",
+  "Tramita junto com o PL 4831/2026 desde 26/10/2026. A juntada foi registrada em 04/11/2026. Precisa ser votado no Plenário da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641822",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167986",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4a6e674c59e94e16",
+ "hash_tramitacao": "4238e56f9b88dc34",
+ "tentativa": 1
+}

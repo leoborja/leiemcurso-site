@@ -1,0 +1,28 @@
+{
+ "id": 2640661,
+ "titulo": "Permite ao Poder Executivo criar no SUS programas de apoio psicológico para pessoas com infertilidade",
+ "tldr": [
+  "O SUS poderia oferecer atendimento psicológico individual ou em grupo, escuta e orientação sobre alternativas reprodutivas, diretamente ou por parcerias. O Executivo teria prazo para regulamentar.",
+  "Pessoas com infertilidade permanente ou temporária atendidas pelo SUS; a ementa cita mulheres.",
+  "Recebida pela Comissão de Saúde da Câmara em 06/11/2026, onde foi juntada ao PL 7158/2025 e tramita em conjunto com ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640661",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164415",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3372e2433467f008",
+ "hash_tramitacao": "9b1249724271d01d",
+ "tentativa": 2
+}

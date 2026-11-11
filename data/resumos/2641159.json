@@ -1,0 +1,28 @@
+{
+ "id": 2641159,
+ "titulo": "Cria programa nacional de proteção de cães e outros animais domésticos contra fogos de artifício",
+ "tldr": [
+  "O governo federal deve fazer campanhas em datas como Réveillon e jogos da Seleção. Eventos apoiados pela União são incentivados a usar fogos de baixo estampido ou efeitos visuais alternativos.",
+  "Tutores de cães e de outros animais domésticos e organizadores de eventos apoiados pela União.",
+  "Tramita junto com o PL 2990/2026 e aguarda análise das comissões da Câmara. O último andamento foi na Mesa Diretora, em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641159",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165050",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "645cb38b866b8c1b",
+ "hash_tramitacao": "691dd12b90d25e87",
+ "tentativa": 1
+}

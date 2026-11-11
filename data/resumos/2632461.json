@@ -1,0 +1,28 @@
+{
+ "id": 2632461,
+ "titulo": "Simplifica a emissão de títulos de crédito rural e cria cadastro nacional de crédito privado para produtores",
+ "tldr": [
+  "Pequenos e médios produtores e agricultores familiares poderão emitir Cédulas de Produto Rural por meio eletrônico, sem reconhecimento de firma. Órgãos públicos ficam proibidos de exigir documentos além dos previstos.",
+  "Agricultores familiares e pequenos e médios produtores rurais, instituições financeiras, cooperativas de crédito e plataformas de investimento.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632461",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146822",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "640fd7f98185544e",
+ "hash_tramitacao": "2a6a636bcd6af76d",
+ "tentativa": 1
+}

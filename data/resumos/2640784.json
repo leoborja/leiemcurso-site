@@ -1,0 +1,28 @@
+{
+ "id": 2640784,
+ "titulo": "Cria política de atendimento a gestantes de alto risco em áreas ribeirinhas e de difícil acesso",
+ "tldr": [
+  "O SUS passa a ter política com diagnóstico precoce, equipes itinerantes, telemedicina e transporte, inclusive por barco, para gestantes de alto risco dessas áreas, em ação conjunta de União, estados e municípios.",
+  "Gestantes de alto risco em áreas ribeirinhas e de difícil acesso, o SUS, a União, os estados, o Distrito Federal e os municípios.",
+  "Em 29/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 3314/2026. A análise será nas comissões, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640784",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164539",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e4bc4d88e08524e2",
+ "hash_tramitacao": "d14464489184e04f",
+ "tentativa": 1
+}

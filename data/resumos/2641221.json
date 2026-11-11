@@ -1,0 +1,28 @@
+{
+ "id": 2641221,
+ "titulo": "Proíbe publicidade personalizada e técnicas para prender a atenção de crianças e adolescentes na internet",
+ "tldr": [
+  "Proíbe usar dados de menores de idade para direcionar anúncios e veda recompensas compulsivas e publicidade disfarçada em conteúdos infantis. Plataformas terão de oferecer controle parental. Prevê multa de até 2% do faturamento.",
+  "Crianças, adolescentes, seus responsáveis e plataformas digitais com conteúdo voltado a esse público.",
+  "Em 03/11/2026, a Mesa Diretora da Câmara mandou o texto tramitar junto com o PL 4219/2026. No mesmo dia, o PL 4559/2026 foi anexado a este para tramitar junto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641221",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165119",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "79c6084720cb15d2",
+ "hash_tramitacao": "cda9d93dd20de9ff",
+ "tentativa": 1
+}

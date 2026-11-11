@@ -1,0 +1,28 @@
+{
+ "id": 2610843,
+ "titulo": "Obriga estados a manter delegacia virtual 24 horas para mulheres em cidades sem delegacia da mulher",
+ "tldr": [
+  "Em municípios sem delegacia da mulher, a Polícia Civil terá de manter plataforma virtual 24 horas para registrar boletim de ocorrência, pedir medidas protetivas e orientar sobre direitos.",
+  "Mulheres em situação de violência em municípios sem delegacia da mulher, Polícias Civis dos estados e do Distrito Federal e a União.",
+  "Parecer pela aprovação aprovado na Comissão de Defesa dos Direitos da Mulher da Câmara em 04/11/2026. Ainda passa pelas comissões de Segurança Pública e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610843",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3101465",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b1d01bb7780567f0",
+ "hash_tramitacao": "41e30288f7944164",
+ "tentativa": 2
+}

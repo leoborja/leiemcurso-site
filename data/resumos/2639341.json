@@ -1,0 +1,28 @@
+{
+ "id": 2639341,
+ "titulo": "Cria modalidade do Fies em que o estudante paga com parte da renda futura",
+ "tldr": [
+  "O estudante financiado passa a poder pagar com um percentual da renda que tiver depois do curso, com limite de 20% da renda mensal, piso de renda, prazo máximo e teto total. No primeiro ano, funcionaria em escala piloto.",
+  "Estudantes que usam o Fies e o Comitê Gestor do Fies.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara desde 03/09/2026. A decisão cabe às comissões, sem passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639341",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162111",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "496c663ef443d533",
+ "hash_tramitacao": "ac7211959ab00e31",
+ "tentativa": 1
+}

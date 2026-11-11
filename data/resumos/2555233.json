@@ -1,0 +1,28 @@
+{
+ "id": 2555233,
+ "titulo": "Muda regras de recuperação judicial e falência para ampliar a proteção dos créditos de trabalhadores",
+ "tldr": [
+  "Sindicatos podem representar trabalhadores ausentes da assembleia de credores. O limite de salários atrasados pagos em até 30 dias passa para 10 salários mínimos, e muda a regra de aprovação do plano.",
+  "Trabalhadores com créditos de empresas em recuperação judicial ou falência, sindicatos, empresas devedoras e credores.",
+  "O parecer do relator, pela aprovação, foi aprovado na Comissão de Indústria, Comércio e Serviços em 03/11/2026. Aguarda envio à próxima etapa."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2555233",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2989613",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "433b065f6530958e",
+ "hash_tramitacao": "640794d7308d8926",
+ "tentativa": 1
+}

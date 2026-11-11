@@ -1,0 +1,28 @@
+{
+ "id": 2599723,
+ "titulo": "Cria programa de apoio jurídico, psicológico e de segurança a profissionais da educação vítimas de violência",
+ "tldr": [
+  "As redes de ensino passam a oferecer ajuda jurídica e psicológica gratuita, canais sigilosos de denúncia e afastamento sem perda de salário a profissionais da educação que sofram violência, perseguição ou censura por causa do trabalho.",
+  "Profissionais da educação e as redes de ensino da União, dos estados, do Distrito Federal e dos municípios.",
+  "A Comissão de Cultura aprovou o parecer favorável em 04/11/2026. O texto está na Comissão de Educação, que ainda não indicou relator (último andamento em 05/11/2026)."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599723",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072651",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c002950878852577",
+ "hash_tramitacao": "a9b26e2faa7c572b",
+ "tentativa": 1
+}

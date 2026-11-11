@@ -1,0 +1,28 @@
+{
+ "id": 2639835,
+ "titulo": "Define regras para visitas de crianças e adolescentes a familiares presos",
+ "tldr": [
+  "Visitas passam a ocorrer em local adequado e reservado, sem revista vexatória, e podem ser restringidas por decisão fundamentada se houver risco à criança. O poder público deve oferecer videochamada, telefone e cartas como complemento.",
+  "Crianças e adolescentes com pais ou familiares presos, pessoas privadas de liberdade, unidades prisionais, a União, os estados e o Distrito Federal.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, onde foi aberto prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639835",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162954",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8ad6bbfed1bfdc3a",
+ "hash_tramitacao": "352740145157066b",
+ "tentativa": 1
+}

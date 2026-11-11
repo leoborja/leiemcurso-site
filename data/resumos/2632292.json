@@ -1,0 +1,28 @@
+{
+ "id": 2632292,
+ "titulo": "Cria programa de parcelamento e perdão de dívidas federais para entidades sem fins lucrativos",
+ "tldr": [
+  "Entidades sem fins lucrativos podem parcelar dívidas federais em até 240 vezes, com desconto em juros e multas, e obter perdão total ou parcial em certos casos. Cria o selo \"Entidade Social Regularizada\".",
+  "Associações, fundações, entidades filantrópicas, organizações religiosas e outras entidades sem fins lucrativos com dívidas com a União.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara, onde foi recebida em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632292",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146535",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3237447012591f18",
+ "hash_tramitacao": "8dcdfc0be14cc8f7",
+ "tentativa": 1
+}

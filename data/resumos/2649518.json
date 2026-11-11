@@ -1,0 +1,28 @@
+{
+ "id": 2649518,
+ "titulo": "Cria fundo federal para financiar armazenagem e venda da produção de cacau",
+ "tldr": [
+  "Cria um fundo da União para dar crédito, garantias e estrutura de armazéns a produtores, que poderão guardar o cacau e vendê-lo mais tarde, sem garantia de preço.",
+  "Agricultores familiares, pequenos e médios produtores de cacau, cooperativas, armazéns credenciados e agentes financeiros.",
+  "Tramita junto com o PL 940/2026 (apensado). Está na Comissão de Saúde da Câmara, que designou relatora em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649518",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187467",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e057d7c041dad1db",
+ "hash_tramitacao": "d497ab9c94a1dc69",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2620930,
+ "titulo": "Libera R$ 305 milhões extras para ações de defesa civil em desastres",
+ "tldr": [
+  "Abre crédito extraordinário de R$ 305.000.000,00 para o Ministério da Integração e do Desenvolvimento Regional gastar em ações de proteção e defesa civil, como socorro a vítimas e restabelecimento de serviços.",
+  "Ministério da Integração e do Desenvolvimento Regional e populações atingidas por desastres no país.",
+  "Virou a Lei 15.488/2026, publicada em 17/08/2026. Antes, foi aprovada pelo Plenário da Câmara em 12/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620930",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3124367",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e7da045253ab81b1",
+ "hash_tramitacao": "e73be9c73360f0e8",
+ "tentativa": 1
+}

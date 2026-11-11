@@ -1,0 +1,28 @@
+{
+ "id": 2607523,
+ "titulo": "Proíbe exportar e importar animais vivos para fins comerciais em navios ou transportes de risco",
+ "tldr": [
+  "Fica proibido o comércio exterior de animais vivos em navios de carga viva ou em transportes que causem risco aos animais. Quem descumprir pode receber multa, ter as atividades suspensas, perder licenças e ter os animais apreendidos.",
+  "Exportadores e importadores de animais vivos para abate, engorda, reprodução ou outros fins comerciais, e transportadores.",
+  "Em 04/11/2026, a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural aprovou o parecer do relator, que recomenda rejeitar o projeto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607523",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3094152",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "63d11a10450b5bf1",
+ "hash_tramitacao": "a0d607de9e6db4ba",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635413,
+ "titulo": "Cria selo para serviços de saúde que adotem protocolos de diagnóstico precoce do diabetes tipo 1",
+ "tldr": [
+  "Hospitais e unidades do SUS que tiverem protocolo para sinais da doença e capacitarem suas equipes podem receber um selo válido por 2 anos. O Ministério da Saúde passa a oferecer capacitação gratuita.",
+  "Hospitais, unidades de saúde e profissionais do SUS, públicos ou privados, e o Ministério da Saúde.",
+  "Aguarda parecer da relatoria na Comissão de Saúde da Câmara. O prazo para emendas terminou em 13/10/2026 sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635413",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153674",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "216e5fde04ba1ca9",
+ "hash_tramitacao": "9845df914241912d",
+ "tentativa": 1
+}

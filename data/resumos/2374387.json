@@ -1,0 +1,28 @@
+{
+ "id": 2374387,
+ "titulo": "Cria o Dia Nacional de Incentivo à Leitura - Carolina Maria de Jesus, em 19 de agosto",
+ "tldr": [
+  "Passa a existir no calendário oficial uma data anual, em 19 de agosto, dedicada ao incentivo à leitura e com o nome da escritora Carolina Maria de Jesus.",
+  "O efeito é geral: a data entra no calendário nacional.",
+  "A Comissão de Cultura aprovou parecer favorável, com texto alternativo, em 04/11/2026. Agora aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania (último andamento em 06/11/2026)."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2374387",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2302328",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "29d80801803d32e1",
+ "hash_tramitacao": "b531c1f85931bc61",
+ "tentativa": 1
+}

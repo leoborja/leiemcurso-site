@@ -1,0 +1,28 @@
+{
+ "id": 2640599,
+ "titulo": "Define regras para integrar a educação de jovens e adultos ao ensino profissional",
+ "tldr": [
+  "Muda a Lei de Diretrizes e Bases da Educação para permitir cursos de educação de jovens e adultos em módulos, com certificados parciais e reconhecimento de saberes da vida e do trabalho.",
+  "Estudantes da educação de jovens e adultos, incluindo idosos, e as redes de ensino da União, estados, Distrito Federal e municípios.",
+  "Tramita junto com o PL 3921/2026, ao qual foi anexada em 06/11/2026. Será analisada pelas comissões da Câmara, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640599",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164353",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0a4f834e8ef509a7",
+ "hash_tramitacao": "eeb533af173a6ca1",
+ "tentativa": 2
+}

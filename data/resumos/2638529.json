@@ -1,0 +1,28 @@
+{
+ "id": 2638529,
+ "titulo": "Reconhece o Clube da Esquina como patrimônio cultural imaterial brasileiro",
+ "tldr": [
+  "O movimento musical mineiro passa a ser reconhecido por lei, e o poder público fica encarregado de difundir, preservar e apoiar pesquisa e circulação de seu legado.",
+  "Poder público e o público em geral; o reconhecimento envolve a obra e os artistas do Clube da Esquina.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638529",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3160023",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6a1838453741684e",
+ "hash_tramitacao": "b2031e50312dc1b7",
+ "tentativa": 1
+}

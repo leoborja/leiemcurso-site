@@ -1,0 +1,28 @@
+{
+ "id": 2635076,
+ "titulo": "Inclui exames médicos admissionais na isenção de custos para candidatos de baixa renda em concursos",
+ "tldr": [
+  "Leva a isenção da taxa de inscrição para a Lei Geral dos Concursos e estende a gratuidade a exames e laudos para posse. Candidatos não podem ser barrados por falta de exame que o governo não ofereceu de graça.",
+  "Candidatos inscritos no CadÚnico com renda por pessoa de até meio salário mínimo, doadores de medula óssea e órgãos públicos que fazem concursos.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara. Em 02/09/2026, o PL 3285/2026 passou a tramitar junto com ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635076",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152087",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5af35d5aafa00149",
+ "hash_tramitacao": "4a028ab9f6a90956",
+ "tentativa": 1
+}

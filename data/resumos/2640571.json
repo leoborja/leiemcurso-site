@@ -1,0 +1,28 @@
+{
+ "id": 2640571,
+ "titulo": "Garante apoio psicológico no SUS a mulheres vítimas de violência em cirurgia plástica reparadora",
+ "tldr": [
+  "Mulheres atendidas pela lei de cirurgia reparadora passam a ter direito a apoio psicológico em todas as etapas, do encaminhamento ao pós-operatório, com encaminhamento a psiquiatria quando necessário.",
+  "Mulheres vítimas de violência submetidas a cirurgia plástica reparadora no SUS e as equipes de saúde que as atendem.",
+  "Em análise na Comissão de Saúde da Câmara, tramita junto com o PL 3885/2026. Foi enviado para publicação em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640571",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164325",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8f97b4482eb413b3",
+ "hash_tramitacao": "1b31ca76ce2cff56",
+ "tentativa": 2
+}

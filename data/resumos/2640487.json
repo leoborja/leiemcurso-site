@@ -1,0 +1,28 @@
+{
+ "id": 2640487,
+ "titulo": "Permite rastrear e bloquear com prioridade bens ligados a golpes bancários digitais",
+ "tldr": [
+  "Em investigações de golpes digitais feitos por organização criminosa, contas, criptoativos e carteiras virtuais poderão ser bloqueados com prioridade. Os investigadores poderão pedir cooperação a bancos e plataformas.",
+  "Investigados por fraudes financeiras eletrônicas, órgãos de investigação, bancos, fintechs e plataformas de pagamento e de ativos virtuais.",
+  "Aguarda a designação de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara desde 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640487",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164241",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f2450d4313953c27",
+ "hash_tramitacao": "677b694baea6ef00",
+ "tentativa": 1
+}

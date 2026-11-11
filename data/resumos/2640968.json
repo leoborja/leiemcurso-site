@@ -1,0 +1,28 @@
+{
+ "id": 2640968,
+ "titulo": "Muda regras da pensão alimentícia para dificultar o não pagamento e permitir investigar bens do devedor",
+ "tldr": [
+  "Desemprego, trabalho informal ou prisão deixam de livrar sozinhos o devedor da pensão. O juiz poderá considerar o padrão de vida dele e acessar seus dados bancários e fiscais. Pagar só parte da dívida não impede a prisão civil.",
+  "Quem deve pensão alimentícia, filhos menores de idade ou incapazes que recebem pensão, e o Poder Judiciário.",
+  "Tramita junto com outro projeto (PL 6304/2025), por decisão da Mesa da Câmara de 29/10/2026. Será analisado nas comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640968",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164735",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ffd0f9983a829a01",
+ "hash_tramitacao": "5ab162c28f7311b7",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2630787,
+ "titulo": "Cria programa federal de apoio à produção de leite, com crédito, assistência técnica e incentivo ao consumo",
+ "tldr": [
+  "Cria um programa com crédito rural subsidiado, subvenção, apoio a cooperativas e pequenas agroindústrias, compras públicas de laticínios nacionais e incentivo ao leite na merenda escolar. O Poder Executivo teria 180 dias para regulamentar.",
+  "Produtores de leite, sobretudo pequenos e médios, cooperativas, agroindústrias de laticínios e programas de alimentação escolar.",
+  "Aguarda escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara. Em 28/10/2026, outro projeto (PL 3593/2026) passou a tramitar junto com este."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630787",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143700",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "10073e309b01f244",
+ "hash_tramitacao": "635a9177b0d82cc1",
+ "tentativa": 1
+}

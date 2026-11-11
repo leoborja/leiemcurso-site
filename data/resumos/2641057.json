@@ -1,0 +1,28 @@
+{
+ "id": 2641057,
+ "titulo": "Cria diretrizes federais de apoio a microempreendedores, pequenas empresas e agricultores familiares",
+ "tldr": [
+  "Garante aos pequenos empreendedores informação clara, procedimentos simplificados e reaproveitamento de documentos nos programas federais. Também prevê capacitação opcional e avaliação periódica das políticas.",
+  "Microempreendedores individuais, microempresas, empresas de pequeno porte, agricultores familiares e pequenas cooperativas.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026 passou a tramitar junto com o PL 4372/2026, e o PL 4446/2026 foi juntado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641057",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164863",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7113e9684dda57e3",
+ "hash_tramitacao": "a8f6f71e0b061669",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2553944,
+ "titulo": "Garante no SUS exames periódicos de glicose, colesterol e função dos rins para pessoas com diabetes",
+ "tldr": [
+  "O SUS passa a ter de oferecer os exames de hemoglobina glicada, perfil lipídico e função renal pelo menos uma vez ao ano, ou a cada 180 dias para quem está fora da meta do tratamento. Atrasos têm de ser justificados no prontuário.",
+  "Usuários do SUS com diabetes, colesterol alterado ou doença renal crônica, além da União, estados, Distrito Federal e municípios.",
+  "A Comissão de Saúde aprovou o parecer, com texto alternativo (substitutivo), em 28/10/2026. O projeto está na Comissão de Finanças e Tributação, que ainda não escolheu o relator; o último andamento é de 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2553944",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2987134",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1197d05b882ba386",
+ "hash_tramitacao": "6a7861302e2bcfbe",
+ "tentativa": 1
+}

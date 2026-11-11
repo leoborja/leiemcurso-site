@@ -1,0 +1,28 @@
+{
+ "id": 2640525,
+ "titulo": "Cria política de proteção e manejo de cães e gatos comunitários em universidades e faculdades",
+ "tldr": [
+  "Instituições de ensino superior passam a ter de criar programas para cães e gatos sem tutor nos campi, com castração, vacinação e adoção. Fica proibido o extermínio desses animais.",
+  "Instituições públicas e privadas de ensino superior, sua comunidade acadêmica e os cães e gatos que vivem nos campi.",
+  "Tramita junto com o PL 3847/2026 nas comissões da Câmara. Foi encaminhado para publicação em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640525",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164279",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "77c639712a74a789",
+ "hash_tramitacao": "33b0a537f9ed2bb5",
+ "tentativa": 1
+}

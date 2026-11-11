@@ -1,0 +1,28 @@
+{
+ "id": 2633078,
+ "titulo": "Revoga a lei que regula o Programa Nacional de Desestatização",
+ "tldr": [
+  "Deixa de valer a Lei 9.491/1997, que define as regras do Programa Nacional de Desestatização, usado para privatizar empresas e ativos da União.",
+  "A União, empresas estatais federais e os processos de privatização conduzidos pelo governo federal.",
+  "Aguarda parecer da relatora na Comissão de Desenvolvimento Econômico da Câmara. O prazo para emendas terminou em 05/11/2026 sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633078",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148366",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5e15c4ae607afc15",
+ "hash_tramitacao": "bc6012c8b33f4c70",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640662,
+ "titulo": "Garante reembolso da passagem e indenização a médicos que socorrem passageiros em ônibus, trens e barcas",
+ "tldr": [
+  "Empresas de transporte coletivo devem reembolsar a passagem do médico que socorrer alguém a bordo e indenizá-lo se ele desembarcar antes ou perder compromissos. Médicos ganham assento prioritário e gratuito em viagens longas.",
+  "Médicos com registro ativo no CRM que viajam como passageiros e empresas concessionárias ou permissionárias de transporte público.",
+  "Aguarda designação de relator na Comissão de Saúde da Câmara, onde chegou em 06/11/2026. Tramita junto com outro projeto apensado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640662",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164416",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9e74377083cbde98",
+ "hash_tramitacao": "80f4a96e52e378cf",
+ "tentativa": 2
+}

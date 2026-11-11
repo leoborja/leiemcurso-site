@@ -1,0 +1,28 @@
+{
+ "id": 2641261,
+ "titulo": "Cria programa de apoio a mães solo em municípios com poucos serviços públicos",
+ "tldr": [
+  "Cria, dentro da assistência social, ações de apoio à renda, prioridade em vagas de creche e orientação jurídica sobre pensão alimentícia e guarda, com atendimento presencial ou remoto.",
+  "Mães solo, com prioridade para inscritas no Cadastro Único, mães de crianças pequenas e vítimas de violência doméstica, além de municípios e da União.",
+  "Em 03/11/2026, a Mesa da Câmara determinou que tramite junto com o PL 2232/2026. Será analisada nas comissões, sem precisar ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641261",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165162",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4f3517565c82b710",
+ "hash_tramitacao": "95eef34ab77ee381",
+ "tentativa": 1
+}

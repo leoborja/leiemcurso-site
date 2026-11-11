@@ -1,0 +1,28 @@
+{
+ "id": 2632710,
+ "titulo": "Torna crime hediondo e terrorismo a sabotagem de lavouras, máquinas e estruturas da produção rural",
+ "tldr": [
+  "Cria o crime de sabotagem da estrutura agropecuária, com pena de 8 a 20 anos, e o de terrorismo rural, com pena de 12 a 30 anos. A sabotagem passa a ser crime hediondo, com regras penais mais duras.",
+  "Pessoas que destruírem ou sabotarem lavouras, máquinas, silos, rebanhos ou estruturas rurais, e os produtores rurais.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara desde 18/08/2026. Depois, vai à votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632710",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147420",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ff910ba7bf48d02d",
+ "hash_tramitacao": "3db248878864c505",
+ "tentativa": 1
+}

@@ -1,5 +1,5 @@
 {
- "_leia": "Casas que o site mostra. 'base' é relativo a site/. 'recursos' diz o que a coleta daquela casa já publica (o site só busca o que está listado): proposicoes, semanas, estatisticas, parlamentares, titulos (titulos.json: frase simples tirada da ementa), resumos (resumos.json em lote) ou resumos_individuais (resumos/{id}.json). Ao começar a publicar algo, a coleta acrescenta aqui. Ver docs/design.md.",
+ "_leia": "Casas que o site mostra. 'base' é relativo a site/. 'recursos' diz o que a coleta daquela casa já publica (o site só busca o que está listado): proposicoes, semanas, estatisticas, parlamentares, titulos (titulos.json: frase simples tirada da ementa), resumos (resumos.json em lote) ou resumos_individuais (resumos/{id}.json) ou semana_casa (semana_casa.json: votações e reuniões da Casa por semana, contexto da página do parlamentar). Ao começar a publicar algo, a coleta acrescenta aqui. Ver docs/design.md.",
  "casas": [
   {
    "id": "camara",
@@ -17,7 +17,8 @@
     "estatisticas",
     "parlamentares",
     "resumos_individuais",
-    "titulos"
+    "titulos",
+    "semana_casa"
    ]
   },
   {
@@ -35,7 +36,8 @@
     "semanas",
     "estatisticas",
     "parlamentares",
-    "titulos"
+    "titulos",
+    "semana_casa"
    ]
   },
   {
@@ -53,7 +55,8 @@
     "semanas",
     "estatisticas",
     "parlamentares",
-    "titulos"
+    "titulos",
+    "semana_casa"
    ]
   }
  ]

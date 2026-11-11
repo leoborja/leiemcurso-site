@@ -1,0 +1,28 @@
+{
+ "id": 2641432,
+ "titulo": "Garante revisão por servidor de decisões automatizadas do governo federal que afetem pessoas vulneráveis",
+ "tldr": [
+  "Decisões tomadas por sistemas ou inteligência artificial que neguem ou cortem benefícios poderão ser revistas por um servidor. O órgão terá de explicar a decisão em linguagem simples e não poderá discriminar.",
+  "Idosos, pessoas com deficiência ou autismo, crianças, adolescentes, beneficiários de programas sociais, pessoas de baixa renda e órgãos federais.",
+  "Tramita junto com o PL 4701/2026, ao qual foi apensado em 26/10/2026. Está na Mesa Diretora da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641432",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165358",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6c5357f63346b027",
+ "hash_tramitacao": "0ce6d8f52e7aa09e",
+ "tentativa": 1
+}

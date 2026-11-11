@@ -1,0 +1,28 @@
+{
+ "id": 2641122,
+ "titulo": "Cria programa nacional de filtros comunitários de água para localidades sem abastecimento adequado",
+ "tldr": [
+  "Prevê apoio à instalação de filtros e sistemas simples de tratamento de água em comunidades sem abastecimento convencional, com educação sanitária, conforme o orçamento disponível.",
+  "Comunidades rurais, ribeirinhas, indígenas, quilombolas, assentamentos, localidades isoladas e áreas com seca ou emergências, com atenção à Amazônia Legal.",
+  "Desde 26/10/2026 tramita junto com o PL 3900/2026 nas comissões da Câmara. O texto foi encaminhado para publicação em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641122",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165007",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f4f43b1a41df4a7d",
+ "hash_tramitacao": "68ebb052cb9cef3d",
+ "tentativa": 1
+}

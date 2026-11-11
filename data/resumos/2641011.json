@@ -1,0 +1,28 @@
+{
+ "id": 2641011,
+ "titulo": "Cassa a carteira de motorista de quem for condenado em definitivo por participar de racha",
+ "tldr": [
+  "Quando não couber mais recurso, a condenação por participar de corrida ilegal em via pública levará à cassação da carteira de motorista e ao impedimento de obter nova habilitação. O órgão de trânsito deverá registrar a medida.",
+  "Motoristas condenados pelo crime de participar de corrida, disputa ou competição não autorizada em via pública, além de juízes e órgãos de trânsito.",
+  "Em 26/10/2026, a Mesa da Câmara determinou que tramite junto com o PL 1937/2026. Precisará ser votada no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641011",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164779",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2ca1051bfff5a61a",
+ "hash_tramitacao": "d05afc97a08609c0",
+ "tentativa": 1
+}

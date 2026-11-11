@@ -1,0 +1,28 @@
+{
+ "id": 2635859,
+ "titulo": "Cria fundo federal para compensar municípios com bom tratamento de esgoto afetados por poluição vizinha",
+ "tldr": [
+  "Cria fundo para repassar recursos a municípios que tratam ao menos 90% do esgoto coletado e sofrem poluição de outros municípios da mesma bacia. Cria também um ranking anual de saneamento.",
+  "Municípios, empresas de saneamento que descumprem metas, Ministério das Cidades e Agência Nacional de Águas e Saneamento Básico.",
+  "Tramita junto com o PL 2515/2024 na Comissão de Desenvolvimento Urbano da Câmara desde 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635859",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154483",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a2e64f64d8757a4f",
+ "hash_tramitacao": "2854aa1b4b881533",
+ "tentativa": 1
+}

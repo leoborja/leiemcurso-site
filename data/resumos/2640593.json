@@ -1,0 +1,28 @@
+{
+ "id": 2640593,
+ "titulo": "Define diretrizes para conservar plantas nativas da Amazônia de uso alimentar, medicinal e cultural",
+ "tldr": [
+  "Permite que o poder público apoie viveiros comunitários, bancos de plantas, jardins medicinais e herbários, e proíbe divulgar ou comercializar sem autorização dados sensíveis sobre o conhecimento tradicional dessas plantas.",
+  "Povos indígenas, comunidades quilombolas e demais comunidades tradicionais da Amazônia Legal, instituições de pesquisa e órgãos públicos.",
+  "Aguarda escolha de relator na Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara, que a recebeu em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640593",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164347",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5dd4c23fe366d765",
+ "hash_tramitacao": "cb2123f8588594c0",
+ "tentativa": 2
+}

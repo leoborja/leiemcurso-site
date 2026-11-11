@@ -1,0 +1,28 @@
+{
+ "id": 2477360,
+ "titulo": "Reconhece a cultura cristã como manifestação da cultura nacional e a inclui na Lei Rouanet",
+ "tldr": [
+  "A cultura cristã e seus eventos passam a ser reconhecidos como manifestação cultural e podem receber apoio da Lei Rouanet. Templos passam a ser considerados pontos de cultura, e o poder público deve criar formas de apoio.",
+  "Grupos, eventos e templos ligados à cultura cristã e os órgãos públicos de cultura.",
+  "Veio do Senado. Em 28/10/2026, a Comissão de Cultura da Câmara aprovou parecer pela rejeição. Desde 05/11/2026, pode ser arquivado se não houver recurso no prazo de 5 sessões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477360",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2837206",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a5ce022ca8830916",
+ "hash_tramitacao": "bdaf3cce59ca3a62",
+ "tentativa": 1
+}

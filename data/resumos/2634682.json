@@ -1,0 +1,28 @@
+{
+ "id": 2634682,
+ "titulo": "Proíbe desconto em aposentadorias, pensões e BPC para pagar dívidas de cartão de crédito consignado",
+ "tldr": [
+  "O INSS e os bancos deixam de poder descontar do benefício valores de cartão de crédito consignado ou cartão consignado de benefício, inclusive saques. Os limites de desconto ficam em 40% (aposentados) e 35% (BPC) só para empréstimos.",
+  "Aposentados e pensionistas do INSS, beneficiários do BPC, o INSS e instituições financeiras.",
+  "Tramita junto com o PL 6005/2025 (apensada) na comissão da Câmara onde foi recebida em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634682",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151442",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0803e5699f3c7964",
+ "hash_tramitacao": "aa80e077300df565",
+ "tentativa": 1
+}

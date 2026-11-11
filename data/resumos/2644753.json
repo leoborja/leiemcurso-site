@@ -1,0 +1,28 @@
+{
+ "id": 2644753,
+ "titulo": "Define regras para órgãos públicos enviarem dados eletrônicos a juízes para proteger vítimas de crimes",
+ "tldr": [
+  "Laudos, registros médicos, medidas protetivas e ocorrências anteriores passariam a chegar ao juiz por troca eletrônica entre os sistemas que já existem. Os casos com audiência de custódia teriam prioridade.",
+  "Polícias, órgãos de perícia, serviços de saúde, Poder Judiciário e vítimas de crimes.",
+  "Foi retirado pelo autor em 28/10/2026, a pedido feito em 03/09/2026, e não tramita mais."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644753",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3175446",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "88267fdb1d7b2207",
+ "hash_tramitacao": "abea387fdd932e04",
+ "tentativa": 2
+}

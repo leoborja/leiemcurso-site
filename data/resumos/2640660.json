@@ -1,0 +1,28 @@
+{
+ "id": 2640660,
+ "titulo": "Inclui na Lei Maria da Penha a violência que impede a mulher de circular livremente",
+ "tldr": [
+  "Ameaçar ou intimidar a mulher para impedir que ela circule passa a ser uma forma de violência doméstica. Em caso de perseguição, o juiz poderá mandar o agressor usar tornozeleira, e a vítima recebe aviso no celular quando ele se aproximar.",
+  "Mulheres em situação de violência doméstica e familiar, agressores e a Justiça.",
+  "Aguarda a escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que recebeu o texto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640660",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164414",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f22609e4871af940",
+ "hash_tramitacao": "ec4cd97e5f26ceee",
+ "tentativa": 1
+}

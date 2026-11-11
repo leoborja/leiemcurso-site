@@ -1,0 +1,28 @@
+{
+ "id": 2640024,
+ "titulo": "Fixa prazos máximos de atendimento no SUS e cria voucher para a rede privada quando o prazo vencer",
+ "tldr": [
+  "O Ministério da Saúde fixa prazos para consultas, exames e cirurgias. Vencido o prazo, o paciente recebe voucher para a rede privada ou é reembolsado. O SUS passa a aceitar exames de clínicas particulares.",
+  "Usuários do SUS, gestores federais, estaduais e municipais de saúde e estabelecimentos privados de saúde.",
+  "Recebido pela Comissão de Saúde da Câmara em 03/11/2026, aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:19Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640024",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163227",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "63e53ec9439a2e60",
+ "hash_tramitacao": "91d37f93cdeaf236",
+ "tentativa": 2
+}

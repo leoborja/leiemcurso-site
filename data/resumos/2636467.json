@@ -1,0 +1,28 @@
+{
+ "id": 2636467,
+ "titulo": "Proíbe ciclistas em treino esportivo acima de 25 km/h de usar ciclovias e ciclofaixas",
+ "tldr": [
+  "Ciclistas em treino acima de 25 km/h passam a circular pela beira da pista dos carros. Eles terão de usar capacete, roupa esportiva fácil de identificar e luz vermelha traseira acesa o tempo todo.",
+  "Ciclistas que fazem treinamento esportivo em vias públicas.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara. O relator foi designado em 04/11/2026, e o prazo para emendas foi aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636467",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155403",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "39a0ac43f01873ea",
+ "hash_tramitacao": "35192e3cd4eebd8a",
+ "tentativa": 1
+}

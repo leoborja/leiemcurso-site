@@ -1,0 +1,28 @@
+{
+ "id": 2631153,
+ "titulo": "Cria programa nacional de proteção a animais domésticos em datas com fogos e grandes eventos",
+ "tldr": [
+  "Cria sistema de alertas a tutores, rede de apoio emergencial, protocolo contra fugas, incentivo à microchipagem e plataforma de animais perdidos, com campanhas antes do Réveillon, festas juninas e jogos.",
+  "Tutores de cães, gatos e outros animais domésticos, entidades de proteção animal, clínicas veterinárias e o Poder Executivo.",
+  "Aguarda escolha de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara. Em 03/11/2026, outros projetos passaram a tramitar junto com ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631153",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144151",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e81ed15f02004dc6",
+ "hash_tramitacao": "9474274dbe32bfaf",
+ "tentativa": 1
+}

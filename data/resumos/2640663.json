@@ -1,0 +1,28 @@
+{
+ "id": 2640663,
+ "titulo": "Inclui no crime de tráfico de pessoas a exploração das vítimas para crimes digitais e fraudes eletrônicas",
+ "tldr": [
+  "O Código Penal passa a prever como tráfico de pessoas o recrutamento ou transporte de pessoas para explorá-las na prática de crimes digitais, fraudes eletrônicas ou operação de sistemas de desinformação em massa.",
+  "Pessoas que aliciam, transportam ou exploram vítimas para crimes digitais, e as vítimas desse tipo de exploração.",
+  "Aguarda escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, onde chegou em 05/11/2026. Depois segue para a Comissão de Constituição e Justiça e para o Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640663",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164417",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6503ce8024af478b",
+ "hash_tramitacao": "d4045a18d08eff47",
+ "tentativa": 2
+}

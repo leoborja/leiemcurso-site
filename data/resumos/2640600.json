@@ -1,0 +1,28 @@
+{
+ "id": 2640600,
+ "titulo": "Proíbe anunciar aluguel residencial com valor em moeda estrangeira ou ligado à variação do câmbio",
+ "tldr": [
+  "A Lei do Inquilinato passa a vetar aluguel vinculado ao câmbio ou a índices não oficiais e estende a proibição a anúncios e ofertas em plataformas digitais com preço em moeda estrangeira.",
+  "Proprietários, imobiliárias, plataformas digitais de intermediação e inquilinos de imóveis residenciais urbanos.",
+  "Aguarda escolha de relator na Comissão de Defesa do Consumidor da Câmara, que a recebeu em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640600",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164354",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e4b19567a5dbb8fe",
+ "hash_tramitacao": "c12d2a8adf3a5147",
+ "tentativa": 1
+}

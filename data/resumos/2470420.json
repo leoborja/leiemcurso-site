@@ -1,0 +1,28 @@
+{
+ "id": 2470420,
+ "titulo": "Cria política nacional de capacitação para MEIs, microempresas e pequenas empresas do Simples Nacional",
+ "tldr": [
+  "Prevê um plano nacional de quatro anos, feito pelo Poder Executivo com o Sebrae, com metas de capacitação e valores mínimos de recursos, avaliado todo ano pelo Congresso.",
+  "Microempreendedores individuais, microempresas e empresas de pequeno porte do Simples Nacional, o Poder Executivo federal e o Sebrae.",
+  "Foi aprovado nas comissões de Indústria, Comércio e Serviços (27/05/2025) e de Finanças e Tributação (14/10/2026). Aguarda relator na Comissão de Constituição e Justiça desde 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2470420",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2823528",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "968b943b09acbef1",
+ "hash_tramitacao": "0fba0d2f78504bfb",
+ "tentativa": 1
+}

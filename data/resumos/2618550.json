@@ -1,0 +1,28 @@
+{
+ "id": 2618550,
+ "titulo": "Permite que professores aposentados tirem a Carteira Nacional de Docente",
+ "tldr": [
+  "A Carteira Nacional de Docente passa a valer também para professores aposentados das redes pública e privada, com a indicação 'Aposentado(a)'. A falta de vínculo ativo não impede a emissão, se comprovada a docência anterior.",
+  "Professores aposentados da educação pública e privada.",
+  "Aprovado com emenda na Comissão de Educação em 28/10/2026, aguarda escolha de relator na Comissão de Constituição e Justiça desde 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618550",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3118422",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d8fd5fa5cf6c11b8",
+ "hash_tramitacao": "871f8a06b9778ab1",
+ "tentativa": 2
+}

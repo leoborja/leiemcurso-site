@@ -1,0 +1,28 @@
+{
+ "id": 2636461,
+ "titulo": "Cria um cadastro nacional obrigatório e exige identificação individual para bicicletas elétricas",
+ "tldr": [
+  "Bicicletas elétricas passam a precisar de selo ou dispositivo de identificação e de inscrição em um registro nacional. Circular sem eles vira infração média, punida com multa. Não há emplacamento nem licenciamento anual.",
+  "Donos de bicicletas elétricas, fabricantes, importadores, montadores e lojistas, além do órgão federal de trânsito.",
+  "Aguarda designação de relator na Comissão de Viação e Transportes da Câmara, onde foi recebido em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636461",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155398",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f64119b3045e47b6",
+ "hash_tramitacao": "ff20d81d1f7ab863",
+ "tentativa": 1
+}

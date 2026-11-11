@@ -1,0 +1,28 @@
+{
+ "id": 2640881,
+ "titulo": "Cria programa nacional no SUS para prevenção, diagnóstico e tratamento da lobomicose",
+ "tldr": [
+  "Cria um programa no SUS com capacitação de profissionais, campanhas, acesso a exames e cirurgias, apoio a pesquisa e notificação de casos da doença de Jorge Lobo, dentro do orçamento do Ministério da Saúde.",
+  "Pessoas com lobomicose, populações rurais, ribeirinhas, extrativistas e comunidades tradicionais, profissionais de saúde e o Ministério da Saúde.",
+  "Tramita junto com o PL 4200/2026 (apensado) por decisão da Mesa da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640881",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164647",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2fb9af5680a53e1a",
+ "hash_tramitacao": "8ce26589b3aa9b15",
+ "tentativa": 1
+}

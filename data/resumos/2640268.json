@@ -1,0 +1,28 @@
+{
+ "id": 2640268,
+ "titulo": "Acaba com a cobrança de Imposto de Renda de pessoa física sobre lucros e dividendos",
+ "tldr": [
+  "Lucros e dividendos pagos por empresas a pessoas físicas voltam a ficar isentos de Imposto de Renda, e são revogados os trechos da Lei nº 15.270, de 2025, que criaram essa cobrança.",
+  "Pessoas físicas que recebem lucros e dividendos de empresas, além de estados, Distrito Federal e municípios, por causa da regra de compensação de receitas.",
+  "Aguarda a designação de relator na Comissão de Finanças e Tributação da Câmara, que recebeu o projeto em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640268",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163718",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "78a9c6aa7de68ec4",
+ "hash_tramitacao": "707692d7398e99d9",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640579,
+ "titulo": "Cria sistema nacional que transmite ao vivo e de graça imagens das principais vias urbanas",
+ "tldr": [
+  "A União, com estados e municípios, passa a disponibilizar em plataforma oficial imagens em tempo real do trânsito, usando câmeras existentes e sem identificar pessoas ou placas, conforme o orçamento.",
+  "Motoristas e população em geral, além dos órgãos de trânsito da União, estados, Distrito Federal e municípios.",
+  "Em análise nas comissões da Câmara, tramita junto com o PL 3902/2026. Último andamento: publicação em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640579",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164333",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "34e0f299f0fcfbf6",
+ "hash_tramitacao": "a275ec9933859136",
+ "tentativa": 1
+}

@@ -1,0 +1,27 @@
+{
+ "id": 2646385,
+ "titulo": "Permite pagar subsídio a produtores e importadores de diesel enquanto houver instabilidade na oferta",
+ "tldr": [
+  "O Poder Executivo pode pagar subsídio a quem produz ou importa diesel enquanto houver instabilidade na oferta causada por conflitos internacionais. Também muda a tributação de certos depósitos a prazo.",
+  "Produtores e importadores de óleo diesel e quem mantém depósitos a prazo sem emissão de certificado.",
+  "Está em vigor como medida provisória e aguarda votação no Congresso. Em 06/11/2026, o prazo para votação foi prorrogado por 60 dias, até 18/2/2027."
+ ],
+ "fontes": [
+  "ementa",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:47Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646385",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3180015",
+ "inteiro_teor": "indisponivel",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "02fed97a5d449f5d",
+ "hash_tramitacao": "b68c482d9e05e745",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2608770,
+ "titulo": "Reduz para até seis meses o prazo de benefício tributário na importação de cacau para exportação",
+ "tldr": [
+  "Empresas que importam cacau sem pagar tributos, com a condição de exportar o produto final, passariam a ter no máximo seis meses para isso. O prazo podia ser alterado pelo Ministério do Desenvolvimento.",
+  "Indústrias que importam cacau por meio do drawback, regime que dispensa tributos na importação de insumos para exportação.",
+  "A Câmara aprovou o texto com mudanças em 30/06/2026 e o enviou ao Senado. A medida provisória perdeu a validade em 09/07/2026 sem ter virado lei."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608770",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3097147",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "97d1e79c825006f1",
+ "hash_tramitacao": "4522c5cb75493934",
+ "tentativa": 1
+}

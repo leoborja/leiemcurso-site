@@ -1,0 +1,28 @@
+{
+ "id": 2608573,
+ "titulo": "Cria o Dia Nacional do Técnico Judiciário do Poder Judiciário da União, em 21 de fevereiro",
+ "tldr": [
+  "O calendário nacional passa a ter uma data comemorativa em homenagem aos técnicos judiciários do Poder Judiciário da União, celebrada todo ano em 21 de fevereiro.",
+  "Técnicos judiciários do Poder Judiciário da União.",
+  "Aprovado nas comissões da Câmara, sem recurso para votação no Plenário. A redação final foi aprovada na Comissão de Constituição e Justiça em 04/11/2026 e aguarda envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608573",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3096532",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b590fee3651dca50",
+ "hash_tramitacao": "a47dde6218c90cde",
+ "tentativa": 1
+}

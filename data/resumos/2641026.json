@@ -1,0 +1,28 @@
+{
+ "id": 2641026,
+ "titulo": "Cria regras de segurança, rótulo e propaganda para suplementos de animais de companhia",
+ "tldr": [
+  "Suplementos só poderão ser vendidos se a segurança e a qualidade forem comprovadas. Ficam proibidas propagandas sem base científica e as empresas terão de comunicar efeitos adversos.",
+  "Fabricantes, importadores e vendedores de suplementos para animais de companhia e os tutores, como consumidores.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026, passou a tramitar junto com o PL 4340/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641026",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164794",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "13fe4c12f0f1935a",
+ "hash_tramitacao": "4ba0847eb7f06c41",
+ "tentativa": 1
+}

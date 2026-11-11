@@ -1,0 +1,28 @@
+{
+ "id": 2640519,
+ "titulo": "Permite abonar faltas escolares por cólicas e dores menstruais intensas com autodeclaração",
+ "tldr": [
+  "A estudante que faltar por sintomas menstruais pode justificar a falta com declaração própria ou dos responsáveis e repor provas. Professores passam a ter formação sobre saúde menstrual e doenças como a endometriose.",
+  "Estudantes da educação básica que menstruam, seus responsáveis, professores e redes de ensino.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 04/11/2026. Depois, passa pelas comissões de Educação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640519",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164273",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "87e9fbb52aeef62c",
+ "hash_tramitacao": "1852ce819ffb2292",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641168,
+ "titulo": "Cria política nacional e exige plano de proteção animal em eventos com 5.000 pessoas ou mais por dia",
+ "tldr": [
+  "Eventos de grande porte em área pública ou que dependam de autorização passam a ter de apresentar plano de proteção animal e avisar a população com 72 horas de antecedência sobre fogos ou ruídos intensos.",
+  "Organizadores de eventos de grande porte, poder público que autoriza eventos, tutores de animais e municípios.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 2990/2026 na Câmara, por decisão da Mesa Diretora. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641168",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165062",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "19f9a63e3926fed0",
+ "hash_tramitacao": "da7dbf46b813ff0b",
+ "tentativa": 2
+}

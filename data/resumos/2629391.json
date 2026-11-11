@@ -1,0 +1,28 @@
+{
+ "id": 2629391,
+ "titulo": "Paga desconto de R$ 1,12 por litro do diesel rodoviário a produtores e importadores",
+ "tldr": [
+  "Até 31/12/2026, a União pagaria R$ 1,12 por litro a produtores e importadores que descontassem esse valor do preço de venda. A medida também adia para 4 de dezembro taxas de navegação aérea que vencem de setembro a novembro de 2026.",
+  "Produtores e importadores de diesel autorizados pela ANP, companhias aéreas nacionais de voos regulares e a própria ANP.",
+  "Perdeu a validade em 26/09/2026 sem ser votada, segundo ato do Congresso publicado em 08/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:10Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629391",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3140616",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "eba8d671cec32f86",
+ "hash_tramitacao": "d340b870269f5c1c",
+ "tentativa": 1
+}

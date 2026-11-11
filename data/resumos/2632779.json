@@ -1,0 +1,28 @@
+{
+ "id": 2632779,
+ "titulo": "Cria regras de proteção e recompensa para quem denuncia ilícitos nos setores público e privado",
+ "tldr": [
+  "O denunciante de boa-fé passa a ter sua identidade mantida em sigilo e proteção contra retaliações, como demissão. Ele recebe em dobro os danos materiais sofridos e pode ganhar até 5% do valor recuperado. A Lei nº 13.608/2018 é revogada.",
+  "Pessoas que denunciam ilícitos, empregadores públicos e privados, ouvidorias e empresas de transporte terrestre com concessão pública.",
+  "Tramita junto com o PL 1422/2023. Foi recebida pela comissão da Câmara de sigla CASP em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632779",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147555",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "98ef1203d04fdc7c",
+ "hash_tramitacao": "1b3b0f259497b676",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2638546,
+ "titulo": "Obriga empresas a adotar medidas contra golpes e assédio comercial a idosos e amplia o atendimento prioritário",
+ "tldr": [
+  "Bancos, operadoras e outras empresas terão de oferecer canal prioritário para denúncias de fraude e confirmação extra de contratos feitos a distância. O atendimento prioritário a idosos passa a valer também por telefone e internet.",
+  "Pessoas idosas e instituições financeiras, operadoras de telefonia, concessionárias, fornecedores e plataformas digitais.",
+  "Aguarda parecer da relatoria na Comissão de Defesa dos Direitos da Pessoa Idosa da Câmara. O prazo para emendas terminou em 04/11/2026, com uma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638546",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3160066",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f39d051f81cbcb30",
+ "hash_tramitacao": "53a037d95b63ea7b",
+ "tentativa": 1
+}

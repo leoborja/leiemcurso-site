@@ -1,0 +1,28 @@
+{
+ "id": 2615326,
+ "titulo": "Permite videoconferência e representação de profissionais réus em audiências dos Juizados Especiais Cíveis",
+ "tldr": [
+  "Profissionais processados por atos do seu trabalho podem mandar um representante às audiências. O réu que mora em outra cidade pode pedir para participar por vídeo, e o juiz só pode negar por motivo relevante.",
+  "Pessoas processadas nos Juizados Especiais Cíveis, sobretudo profissionais processados por atos da profissão e réus que moram em outra cidade.",
+  "Aprovado na Comissão de Constituição e Justiça em 01/09/2026. Sem recursos ao Plenário, aguarda a redação final desde 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615326",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3111883",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b605108e9516384a",
+ "hash_tramitacao": "435b418a8c710fba",
+ "tentativa": 1
+}

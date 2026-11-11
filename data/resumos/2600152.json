@@ -1,0 +1,28 @@
+{
+ "id": 2600152,
+ "titulo": "Dá ao município de Toledo, no Paraná, o título de Capital Nacional do Porco no Rolete",
+ "tldr": [
+  "Toledo passa a ter, por lei, o título de Capital Nacional do Porco no Rolete.",
+  "Município de Toledo, no Paraná.",
+  "Aprovado na Comissão de Cultura em 12/08/2026. Desde 13/08/2026 aguarda relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600152",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3076044",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1195dc9817d692dd",
+ "hash_tramitacao": "6cdec05500880b9a",
+ "tentativa": 1
+}

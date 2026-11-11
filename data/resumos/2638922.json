@@ -1,0 +1,28 @@
+{
+ "id": 2638922,
+ "titulo": "Cria política nacional de proteção e cuidado para travestis e mulheres trans pioneiras, as Traviarcas",
+ "tldr": [
+  "Prevê centros de convivência, casas de acolhimento, apoio psicológico, jurídico e de renda, ações do SUS para o envelhecimento e um cadastro nacional, além de programas de registro da história dessas pessoas.",
+  "Travestis e mulheres trans com trajetória de liderança ou defesa de direitos, especialmente as que têm 50 anos ou mais, além de União, estados e municípios.",
+  "Aguarda escolha de relator na Comissão de Saúde da Câmara desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638922",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161129",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b9f1adce253b8d1e",
+ "hash_tramitacao": "6b9f02c095a2898f",
+ "tentativa": 1
+}

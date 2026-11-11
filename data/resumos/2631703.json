@@ -1,0 +1,28 @@
+{
+ "id": 2631703,
+ "titulo": "Concede a Vargem Grande do Sul (SP) o título de Capital Nacional da Batata",
+ "tldr": [
+  "O município passa a ter, por lei, o título honorífico de Capital Nacional da Batata.",
+  "Município de Vargem Grande do Sul, no Estado de São Paulo.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631703",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144999",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "79748166250d1d63",
+ "hash_tramitacao": "2a2b96509bdf05b9",
+ "tentativa": 1
+}

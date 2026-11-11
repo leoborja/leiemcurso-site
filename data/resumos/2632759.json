@@ -1,0 +1,28 @@
+{
+ "id": 2632759,
+ "titulo": "Inclui o cuidado integral de doenças crônicas não transmissíveis entre os objetivos do SUS",
+ "tldr": [
+  "O SUS passa a ter como objetivo prevenir e tratar doenças como diabetes, câncer, doenças cardiovasculares e respiratórias crônicas, com um subsistema próprio e ações que considerem também fatores ambientais e climáticos.",
+  "Pessoas com doenças crônicas não transmissíveis, o SUS e o gestor federal de saúde.",
+  "Aguarda parecer da relatora na Comissão de Saúde da Câmara; o prazo de emendas terminou em 28/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632759",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147527",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "17f1a1cd8236f2bc",
+ "hash_tramitacao": "3bbd7004ff2ca943",
+ "tentativa": 1
+}

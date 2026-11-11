@@ -1,0 +1,28 @@
+{
+ "id": 2636564,
+ "titulo": "Reconhece o Lions Club do Brasil como Patrimônio Cívico-Social Nacional",
+ "tldr": [
+  "Dá título honorífico às atividades dos Lions Clubes no país, sem repasse de dinheiro público. O poder público poderá apoiar ações de divulgação do voluntariado promovidas pelos clubes.",
+  "Lions Clubes do Brasil e entidades ligadas ao Lions Clubs International.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636564",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155705",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b7575a81560858b5",
+ "hash_tramitacao": "168961121847a832",
+ "tentativa": 1
+}

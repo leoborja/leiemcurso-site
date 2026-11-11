@@ -1,0 +1,28 @@
+{
+ "id": 2640700,
+ "titulo": "Aumenta a pena de crimes sexuais cometidos por cônjuge, companheiro ou parceiro íntimo da vítima",
+ "tldr": [
+  "A pena aumenta de um terço até a metade quando o crime contra a liberdade sexual for cometido por cônjuge, companheiro ou pessoa com relação íntima de afeto com a vítima, mesmo sem morar junto.",
+  "Pessoas que respondem por crimes sexuais contra parceiros ou ex-parceiros, e as vítimas desses crimes.",
+  "Tramita junto com outro projeto (PL 256/2025) e foi recebido pela Comissão de Constituição e Justiça da Câmara em 06/11/2026. Depois, segue para o Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640700",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164454",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "833cf6b3f9388267",
+ "hash_tramitacao": "49b0f900755bae8a",
+ "tentativa": 1
+}

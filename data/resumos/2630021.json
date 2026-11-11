@@ -1,0 +1,28 @@
+{
+ "id": 2630021,
+ "titulo": "Isenta de custas judiciais os pedidos de medidas protetivas da Lei Maria da Penha",
+ "tldr": [
+  "Pedir, revisar ou obter medida protetiva deixa de ter custas judiciais, sem que a mulher precise provar falta de dinheiro.",
+  "Mulheres em situação de violência doméstica e familiar e o Poder Judiciário.",
+  "Parecer pela aprovação foi aprovado na Comissão de Defesa dos Direitos da Mulher da Câmara em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630021",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3141982",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "248c03c8565b2e2c",
+ "hash_tramitacao": "7f7846f1bac80b9c",
+ "tentativa": 1
+}

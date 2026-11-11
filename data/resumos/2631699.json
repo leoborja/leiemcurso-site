@@ -1,0 +1,28 @@
+{
+ "id": 2631699,
+ "titulo": "Define prazos máximos para exames no SUS e obriga o uso de exames feitos na rede privada",
+ "tldr": [
+  "O Ministério da Saúde fixa prazos por nível de risco. Se o prazo vencer, o paciente pode pagar o exame na rede privada sem perder a vaga na fila, e o SUS tem de aceitar o resultado, sem reembolsar o custo.",
+  "Pacientes do SUS, profissionais da rede pública, gestores de saúde e o Ministério da Saúde.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631699",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144995",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6029528bce6efc99",
+ "hash_tramitacao": "72ddbf37d6a479ac",
+ "tentativa": 1
+}

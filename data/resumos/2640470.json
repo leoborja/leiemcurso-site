@@ -1,0 +1,28 @@
+{
+ "id": 2640470,
+ "titulo": "Cria política federal de rastreamento, controle e recuperação de veículos oficiais",
+ "tldr": [
+  "Órgãos do Executivo federal passam a adotar aos poucos rastreamento e telemetria nos veículos oficiais, com regras de proteção de dados. Estados, municípios e outros Poderes podem aderir se quiserem.",
+  "Órgãos e entidades do Poder Executivo federal. Outros Poderes, empresas estatais, estados e municípios podem aderir de forma voluntária.",
+  "Tramita junto com o PL 3795/2026, e os PLs 3804/2026 e 3805/2026 foram anexados a ela. Está na Comissão de Administração e Serviço Público, com publicação encaminhada em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640470",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164219",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c9e7a94934b5bf5e",
+ "hash_tramitacao": "3a8f712d68977d47",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640930,
+ "titulo": "Define regras para herdeiros acessarem contas, arquivos e bens digitais de pessoa falecida",
+ "tldr": [
+  "Bens digitais com valor entram na herança, a vontade do falecido sobre suas contas passa a valer e as plataformas terão 30 dias para cumprir ordem judicial. Mensagens privadas só poderão ser acessadas em casos específicos.",
+  "Herdeiros e inventariantes, usuários de serviços digitais e plataformas que atendem usuários no Brasil.",
+  "Tramita junto com o PL 5700/2025, com prioridade, por decisão da Mesa Diretora da Câmara em 29/10/2026. Depende de votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640930",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164697",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9f58beba92f25bdf",
+ "hash_tramitacao": "3bee166c252f35fe",
+ "tentativa": 1
+}

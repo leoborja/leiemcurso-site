@@ -1,0 +1,28 @@
+{
+ "id": 2641081,
+ "titulo": "Cria estatuto e política nacional para classificar e proteger dados estratégicos do país",
+ "tldr": [
+  "Define dados estratégicos de interesse nacional, cria um sistema de coordenação entre órgãos públicos para sua gestão, sem nova estrutura ou cargos, e prevê classificação desses dados. Não altera regras de dados pessoais nem de sigilo.",
+  "Órgãos federais, estados, Distrito Federal, municípios, agências reguladoras, universidades públicas e empresas públicas que operam infraestruturas estratégicas.",
+  "Tramita junto (apensado) ao PL 4387/2026, por despacho da Mesa da Câmara de 26/10/2026. Em 03/11/2026, o PL 4476/2026 foi juntado a este; ainda sem parecer de comissão."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641081",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164966",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "06d34b46544126e0",
+ "hash_tramitacao": "d2fd6027cbff9d18",
+ "tentativa": 1
+}

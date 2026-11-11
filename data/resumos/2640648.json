@@ -1,0 +1,28 @@
+{
+ "id": 2640648,
+ "titulo": "Define diretrizes nacionais para integrar a regulação das filas de serviços especializados do SUS",
+ "tldr": [
+  "Prevê integração entre os sistemas de regulação, critérios clínicos de prioridade, transparência das filas e monitoramento dos tempos de espera, sem criar órgãos novos. Entra em vigor 180 dias após a publicação.",
+  "Usuários do SUS que esperam por procedimentos de média e alta complexidade, além da União, dos estados e dos municípios.",
+  "Desde 06/11/2026, aguarda a escolha de relator na Comissão de Saúde da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640648",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164402",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "893ce42be3067386",
+ "hash_tramitacao": "42d0d1fe8ea97a05",
+ "tentativa": 1
+}

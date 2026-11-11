@@ -1,0 +1,28 @@
+{
+ "id": 2640654,
+ "titulo": "Inclui o monitoramento da qualidade do ar na vigilância em saúde do SUS",
+ "tldr": [
+  "O SUS passa a monitorar a qualidade do ar por região e a cruzar esses dados com internações por doenças respiratórias e cardiovasculares. Também passa a emitir alertas sanitários e a seguir padrões da OMS.",
+  "Ministério da Saúde, autoridades de saúde locais e órgãos ambientais do Sistema Nacional do Meio Ambiente.",
+  "Desde 06/11/2026, aguarda a escolha de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640654",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164408",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "eaf071d60843c29d",
+ "hash_tramitacao": "2815e3f793cd59b3",
+ "tentativa": 1
+}

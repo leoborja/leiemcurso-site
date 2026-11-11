@@ -1,0 +1,28 @@
+{
+ "id": 2640588,
+ "titulo": "Muda o Código do Consumidor para regular assinaturas, renovação automática e cancelamento",
+ "tldr": [
+  "Empresas terão de informar preço e renovação antes da contratação, pedir consentimento para cobrar após teste grátis, avisar 7 dias antes da cobrança e facilitar o cancelamento, sem telas que confundam o consumidor.",
+  "Consumidores e empresas que vendem assinaturas, serviços contínuos ou cobranças recorrentes, sobretudo em meios digitais.",
+  "Em análise na Comissão de Defesa do Consumidor da Câmara, tramita junto com o PL 5453/2025. Último andamento em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640588",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164342",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0e27040ff4a5271d",
+ "hash_tramitacao": "b2b3f9eed7a22f51",
+ "tentativa": 2
+}

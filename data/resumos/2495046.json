@@ -1,0 +1,28 @@
+{
+ "id": 2495046,
+ "titulo": "Inclui indígenas, quilombolas, ribeirinhos, extrativistas e pescadores artesanais no Garantia-Safra",
+ "tldr": [
+  "O benefício passa a valer em todo o país, também para perdas causadas por excesso de chuva e para perdas na pesca e no extrativismo. O valor passa a ser de até duas vezes o salário mínimo por ano, pago em até 6 parcelas.",
+  "Agricultores familiares, indígenas, quilombolas, ribeirinhos, extrativistas e pescadores artesanais, além dos estados e municípios que aderirem ao fundo.",
+  "Aprovado na Comissão da Amazônia e dos Povos Originários em 11/08/2026. Desde 24/08/2026 aguarda relator na Comissão de Direitos Humanos, Minorias e Igualdade Racial."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2495046",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2881863",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e78a432c72d1f73f",
+ "hash_tramitacao": "bca28a54e2c14001",
+ "tentativa": 1
+}

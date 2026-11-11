@@ -1,0 +1,28 @@
+{
+ "id": 2567807,
+ "titulo": "Cria o Dia Nacional do Varejista, em 8 de outubro",
+ "tldr": [
+  "A data entra no calendário oficial. Se 8 de outubro cair em fim de semana ou feriado, a comemoração passa para o primeiro dia útil seguinte.",
+  "Empresários e trabalhadores do comércio varejista.",
+  "Aprovado com emendas na Comissão de Cultura em 04/11/2026. Desde 05/11/2026 está na Comissão de Constituição e Justiça e de Cidadania, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2567807",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3014319",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ddd0e35ddb5c9499",
+ "hash_tramitacao": "9a7b9286cdeea51b",
+ "tentativa": 1
+}

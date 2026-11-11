@@ -1,0 +1,28 @@
+{
+ "id": 2640672,
+ "titulo": "Cria procedimento com prioridade para corrigir dados de quem é confundido com investigado por ter o mesmo nome",
+ "tldr": [
+  "Quem tiver prejuízo por ter nome igual ao de um investigado ou condenado pode pedir correção a órgãos federais. O órgão analisa em até 5 dias úteis, corrige em até 10 dias úteis e avisa os outros órgãos.",
+  "Cidadãos confundidos com investigados, processados ou condenados por terem o mesmo nome, e órgãos da administração pública federal.",
+  "Aguarda escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara desde 05/11/2026. A comissão pode decidir sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640672",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164426",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c78389d490b08528",
+ "hash_tramitacao": "675185e7cfc60286",
+ "tentativa": 1
+}

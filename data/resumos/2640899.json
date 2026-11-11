@@ -1,0 +1,28 @@
+{
+ "id": 2640899,
+ "titulo": "Proíbe que aplicativos e plataformas usem recursos de design que induzam crianças e adolescentes",
+ "tldr": [
+  "Plataformas deverão ativar proteções por padrão, avaliar riscos e oferecer pausa na rolagem infinita, sem notificações excessivas ou interfaces manipuladoras. Caixas de recompensa pagas exigirão transparência e controle parental.",
+  "Provedores de aplicativos e serviços de internet acessíveis a crianças e adolescentes, e esses usuários e seus responsáveis.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 1113/2026. Em 03/11/2026 outros projetos foram juntados ao conjunto. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640899",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164665",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "724357ecac8021b1",
+ "hash_tramitacao": "0e451f25f4e4e9e9",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635729,
+ "titulo": "Retira o limite de valor da dedução de gastos com educação no imposto de renda da pessoa física",
+ "tldr": [
+  "Despesas com instrução do contribuinte e dependentes, da creche à pós-graduação e ensino técnico, passam a ser deduzidas sem teto. Vale a partir de 1º de janeiro do ano seguinte à publicação.",
+  "Contribuintes do imposto de renda da pessoa física que pagam estabelecimentos de ensino para si ou dependentes.",
+  "Aguarda designação de relator na Comissão de Finanças e Tributação da Câmara, onde foi recebido em 24/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635729",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154345",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f49b47c442ce1e89",
+ "hash_tramitacao": "bab09f3d228c52f1",
+ "tentativa": 1
+}

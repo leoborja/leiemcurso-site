@@ -1,0 +1,28 @@
+{
+ "id": 2637084,
+ "titulo": "Proíbe doações para campanhas eleitorais de pessoas condenadas por crimes da Lei da Ficha Limpa",
+ "tldr": [
+  "Pessoas condenadas em definitivo ou por um colegiado de juízes pelos crimes que tornam alguém inelegível ficam proibidas de doar para campanhas enquanto durar a inelegibilidade.",
+  "Pessoas condenadas pelos crimes listados na Lei da Ficha Limpa, além de candidatos e partidos que recebem doações.",
+  "Tramita com prioridade e depende de votação no Plenário. Aguarda a escolha de relator na Comissão de Constituição e Justiça desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637084",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3156909",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f2b7112763da0e88",
+ "hash_tramitacao": "ce0402e409f621de",
+ "tentativa": 1
+}

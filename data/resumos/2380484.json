@@ -1,0 +1,28 @@
+{
+ "id": 2380484,
+ "titulo": "Reconhece a ciranda como manifestação da cultura nacional",
+ "tldr": [
+  "A ciranda, dança e música popular, passa a ser reconhecida por lei como manifestação da cultura nacional, com base no artigo 215 da Constituição.",
+  "Grupos, mestres e praticantes da ciranda.",
+  "Aprovado nas Comissões de Cultura e de Constituição e Justiça, que aprovou a redação final em 04/11/2026. Aguarda a preparação do texto oficial na Câmara para envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2380484",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2314273",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8199cf709f4b389d",
+ "hash_tramitacao": "389ad55a84d7abb9",
+ "tentativa": 1
+}

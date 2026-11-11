@@ -1,0 +1,28 @@
+{
+ "id": 2640868,
+ "titulo": "Obriga planos de saúde a cobrir tratamentos prescritos para pessoas com autismo, sem limite de sessões",
+ "tldr": [
+  "Planos passam a ter de cobrir terapias e tratamentos de autismo prescritos pelo profissional que acompanha o paciente. Fica proibido limitar o número de sessões quando isso contrariar o plano terapêutico.",
+  "Pessoas com Transtorno do Espectro Autista que têm plano de saúde, operadoras de planos e a Agência Nacional de Saúde Suplementar.",
+  "Tramita junto com o PL 7232/2025 (apensado) por decisão da Mesa da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640868",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164633",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bf0a0f652187027b",
+ "hash_tramitacao": "78af49770d4fe6b3",
+ "tentativa": 1
+}

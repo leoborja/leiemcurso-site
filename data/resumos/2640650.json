@@ -1,0 +1,28 @@
+{
+ "id": 2640650,
+ "titulo": "Muda a Lei Maria da Penha para priorizar mulheres negras e reforçar a rede de proteção em cidades pequenas",
+ "tldr": [
+  "Prevê coleta de dados de violência por raça e cor, integração e treinamento de postos de saúde, delegacias e centros de assistência social em municípios de até 100.000 habitantes e prioridade a mulheres negras na habitação social.",
+  "Mulheres vítimas de violência doméstica, em especial mulheres negras, municípios de até 100.000 habitantes e a União.",
+  "Tramita junto com o PL 6654/2025 na Comissão de Defesa dos Direitos da Mulher da Câmara, que pode decidir sem passar pelo Plenário. Recebido em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640650",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164404",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c32e497f118f7388",
+ "hash_tramitacao": "3a9ef1e3bb8e59bc",
+ "tentativa": 1
+}

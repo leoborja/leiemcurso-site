@@ -1,0 +1,28 @@
+{
+ "id": 2635489,
+ "titulo": "Exige aviso prévio antes de negativar consumidor por dívida de água, luz, esgoto ou gás",
+ "tldr": [
+  "Antes de incluir o nome do consumidor em cadastro de inadimplentes, a empresa deve avisá-lo e informar os canais para renegociar. Se descumprir, sofre sanções do Código de Defesa do Consumidor e tem de retirar a restrição.",
+  "Consumidores e empresas que fornecem água, esgoto, energia elétrica, gás canalizado e outros serviços essenciais, além dos cadastros de crédito.",
+  "Aguarda parecer da relatoria na Comissão de Defesa do Consumidor da Câmara. O prazo para emendas terminou em 13/10/2026 sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635489",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153953",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4a63f70fe534166b",
+ "hash_tramitacao": "7b038dec17ef242c",
+ "tentativa": 1
+}

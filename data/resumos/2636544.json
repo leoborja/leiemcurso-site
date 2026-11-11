@@ -1,0 +1,28 @@
+{
+ "id": 2636544,
+ "titulo": "Inclui na Lei Maria da Penha a violência contra animais de estimação usada para atingir a mulher",
+ "tldr": [
+  "Maltratar o animal da vítima para intimidá-la passaria a ser violência doméstica. O juiz poderia afastar o agressor do animal e impedir que ele peça a guarda. Condenados entrariam em um cadastro público.",
+  "Mulheres em situação de violência doméstica, agressores e o Cadastro Nacional de Animais Domésticos.",
+  "Tramita em conjunto com o PL 2404/2026. Está na comissão da Câmara indicada pela sigla CMULHER, que registrou a apensação em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636544",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155566",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "35498d6c82ef5efc",
+ "hash_tramitacao": "8ad79fd864b1bde1",
+ "tentativa": 1
+}

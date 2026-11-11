@@ -1,0 +1,28 @@
+{
+ "id": 2636817,
+ "titulo": "Permite usar o FGTS para comprar imóvel mesmo tendo outro na cidade e libera uso pelos dois cônjuges",
+ "tldr": [
+  "Acaba com a proibição de usar o FGTS na compra da casa própria para quem já tem imóvel no município onde mora. O uso do FGTS por um cônjuge ou companheiro deixa de impedir o uso pelo outro.",
+  "Trabalhadores com conta no FGTS que querem comprar ou financiar imóvel, incluindo casais casados ou em união estável.",
+  "Aguarda a escolha de relator na Comissão de Desenvolvimento Urbano da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636817",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3156117",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8aedafa38e92d357",
+ "hash_tramitacao": "264afcd3f4e2c85f",
+ "tentativa": 1
+}

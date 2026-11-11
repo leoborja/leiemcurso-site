@@ -1,0 +1,28 @@
+{
+ "id": 2641052,
+ "titulo": "Obriga órgãos reguladores a registrar e considerar com critérios técnicos as contribuições recebidas",
+ "tldr": [
+  "Os órgãos reguladores terão de documentar as contribuições recebidas em consultas, avaliá-las por critérios técnicos e explicar na decisão por que as relevantes foram aceitas ou rejeitadas.",
+  "Órgãos e entidades públicas com função regulatória, como as agências reguladoras, e quem envia contribuições a eles.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026 passou a tramitar junto com o PL 4367/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641052",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164822",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "54d9884ca84676bf",
+ "hash_tramitacao": "05a3c017ef781538",
+ "tentativa": 1
+}

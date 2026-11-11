@@ -1,0 +1,28 @@
+{
+ "id": 2630828,
+ "titulo": "Cria um programa de acordos para encerrar ações da União contra mineração feita fora das regras",
+ "tldr": [
+  "Quem minerou sem autorização ou fora da área permitida poderá encerrar o processo na Justiça pagando um valor calculado sobre a compensação financeira da mineração (CFEM), mais 10% de compensação ambiental.",
+  "Mineradoras e pessoas físicas processadas pela União por mineração irregular ajuizada até a publicação da lei, a União e a Agência Nacional de Mineração.",
+  "Aguarda parecer da relatora na Comissão de Minas e Energia da Câmara. Em 30/10/2026 foi aberto prazo para emendas, de 5 sessões a partir de 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630828",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143742",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c7271d10886f14db",
+ "hash_tramitacao": "cbfcec623befae3a",
+ "tentativa": 1
+}

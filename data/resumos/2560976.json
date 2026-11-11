@@ -1,0 +1,28 @@
+{
+ "id": 2560976,
+ "titulo": "Define diretrizes para o desenvolvimento do futebol feminino no país",
+ "tldr": [
+  "Garante aos clubes formadores de futebol feminino os mesmos direitos dos clubes do masculino, limita atletas não profissionais nas competições e exige protocolos contra discriminação e violência contra mulheres.",
+  "Atletas e profissionais do futebol feminino, clubes formadores, federações, a Confederação Brasileira de Futebol e o Ministério do Esporte.",
+  "Virou a Lei 15.522/2026, publicada em 29/09/2026. A Câmara aprovou a versão da relatoria em 13/08/2026, com prioridade na tramitação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2560976",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3000322",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "467e8e37560c1017",
+ "hash_tramitacao": "b3793f9acbdf5d14",
+ "tentativa": 2
+}

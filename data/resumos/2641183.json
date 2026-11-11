@@ -1,0 +1,28 @@
+{
+ "id": 2641183,
+ "titulo": "Cria programa para reduzir o tempo de falta de água, luz e serviços de saúde em situações críticas",
+ "tldr": [
+  "Permite apoio federal a geradores, reservatórios de água e protocolos de resposta rápida, com prioridade de atendimento a hospitais, centros de hemodiálise e abastecimento de água.",
+  "Municípios, concessionárias de água e energia, unidades de saúde e moradores de áreas isoladas, periferias e regiões sujeitas a desastres.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4454/2026 na Câmara, por decisão da Mesa Diretora. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641183",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165077",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cf7b6f4118b0959d",
+ "hash_tramitacao": "46ed66f62e7ee188",
+ "tentativa": 1
+}

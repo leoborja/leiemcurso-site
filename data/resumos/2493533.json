@@ -1,0 +1,28 @@
+{
+ "id": 2493533,
+ "titulo": "Cria programa nacional de acesso à psicoterapia para pessoas em situação de vulnerabilidade social",
+ "tldr": [
+  "Prevê atendimento psicológico presencial e por plataforma digital nacional, triagem por critérios sociais, grupos terapêuticos e integração de clínicas-escola de psicologia à rede pública de saúde mental.",
+  "Pessoas em situação de vulnerabilidade social, União, estados e municípios, universidades e profissionais de saúde.",
+  "Aprovado na Comissão de Saúde em 28/10/2026, com texto alternativo. Chegou à Comissão de Constituição e Justiça em 05/11/2026 e aguarda relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2493533",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2878762",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "87c8348b69c1c5d4",
+ "hash_tramitacao": "9d1c3db3e042761d",
+ "tentativa": 1
+}

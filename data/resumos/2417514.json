@@ -1,0 +1,28 @@
+{
+ "id": 2417514,
+ "titulo": "Torna nulo o casamento de quem ainda não atingiu a idade mínima para casar",
+ "tldr": [
+  "O casamento de quem está abaixo da idade mínima deixa de ser apenas anulável e passa a ser nulo. Deixam de valer as regras que o mantinham em caso de gravidez ou de confirmação posterior.",
+  "Pessoas abaixo da idade mínima para casar, seus pais, representantes legais e ascendentes.",
+  "A redação final foi aprovada na Comissão de Constituição e Justiça e de Cidadania da Câmara em 04/11/2026. Deixou de tramitar junto a outro projeto, arquivado em 01/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2417514",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2385980",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1b1b67a799468046",
+ "hash_tramitacao": "e53cb813f1321333",
+ "tentativa": 2
+}

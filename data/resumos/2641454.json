@@ -1,0 +1,28 @@
+{
+ "id": 2641454,
+ "titulo": "Cria plataforma nacional pública com dados sobre vagas e filas de espera em creches e pré-escolas",
+ "tldr": [
+  "O Ministério da Educação mantém um painel gratuito com vagas, filas de espera e falta de vagas por município, abastecido por estados e municípios. As famílias podem consultar a plataforma.",
+  "Famílias com crianças em idade de creche e pré-escola, o Ministério da Educação, estados, municípios e creches conveniadas.",
+  "Em 26/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 1146/2024, com prioridade. Precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641454",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165384",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0785659a2f2de920",
+ "hash_tramitacao": "a4d61fbac995d367",
+ "tentativa": 1
+}

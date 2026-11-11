@@ -1,0 +1,28 @@
+{
+ "id": 2634542,
+ "titulo": "Cria exame nacional obrigatório para estudantes de Medicina avaliar sua formação e os cursos",
+ "tldr": [
+  "Estudantes fazem a prova no 4º e no 6º ano do curso. Para quem ingressar após 19/06/2026, ser aprovado na segunda etapa passa a ser condição para obter o registro de médico. Cursos com resultado ruim passam por supervisão.",
+  "Estudantes e cursos de Medicina, médicos formados no exterior que fazem o Revalida, programas de residência médica e conselhos de Medicina.",
+  "Foi aprovada pelo Plenário da Câmara em 15/10/2026, com texto modificado, e enviada ao Senado. Em 16/10/2026, um ofício do Congresso encaminhou o texto para sanção presidencial."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634542",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157736",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "724c7fda25e2aaa4",
+ "hash_tramitacao": "4a8b17bc95e2121d",
+ "tentativa": 1
+}

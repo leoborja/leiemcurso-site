@@ -1,0 +1,28 @@
+{
+ "id": 2640501,
+ "titulo": "Cria programa de apoio emocional a crianças e adolescentes com Transtorno Opositor Desafiador e suas famílias",
+ "tldr": [
+  "Cria um programa com campanhas, palestras, grupos de apoio e orientação às famílias, integrando família, escola e profissionais, conforme o orçamento disponível.",
+  "Crianças e adolescentes com Transtorno Opositor Desafiador, suas famílias, escolas e os governos federal, estaduais e municipais.",
+  "Tramita junto com o PL 3823/2026 na Comissão de Educação da Câmara, que designou relatora para o projeto principal em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640501",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164255",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "25822318e8bfa5b7",
+ "hash_tramitacao": "41c3a7b0c1187158",
+ "tentativa": 1
+}

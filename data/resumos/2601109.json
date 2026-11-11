@@ -1,0 +1,28 @@
+{
+ "id": 2601109,
+ "titulo": "Cria o cordão de fita roxa como símbolo de identificação de pessoas com Alzheimer",
+ "tldr": [
+  "O cordão de fita roxa vira símbolo nacional para identificar pessoas com Alzheimer. O uso é opcional e não substitui documento que comprove o diagnóstico quando ele for exigido.",
+  "Pessoas com doença de Alzheimer e seus familiares e cuidadores.",
+  "Aprovado nas comissões da Câmara, sem recurso para votação no Plenário. A redação final foi aprovada na Comissão de Constituição e Justiça em 04/11/2026 e aguarda envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601109",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3079054",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "703f8de38dcfd928",
+ "hash_tramitacao": "1eab7bb2cf347237",
+ "tentativa": 1
+}

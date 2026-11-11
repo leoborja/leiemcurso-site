@@ -1,0 +1,28 @@
+{
+ "id": 2640586,
+ "titulo": "Define regras para a União apoiar o frete de itens essenciais a municípios isolados, inclusive com subsídio",
+ "tldr": [
+  "A União poderá custear parte do transporte de alimentos, água, remédios, gás de cozinha e combustíveis para locais sem ligação por estrada, com comprovação das operações e conforme o orçamento.",
+  "Municípios isolados, comunidades ribeirinhas, indígenas, quilombolas e remotas, além de transportadores, fornecedores e distribuidores.",
+  "Aguarda escolha de relator na Comissão de Viação e Transportes da Câmara desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640586",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164340",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "975eb344a70bfad3",
+ "hash_tramitacao": "0a7d6e0b5f6499ac",
+ "tentativa": 1
+}

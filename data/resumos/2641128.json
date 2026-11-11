@@ -1,0 +1,28 @@
+{
+ "id": 2641128,
+ "titulo": "Cria programa nacional de apoio ao transporte comunitário de pessoas por barcos em rios e lagos",
+ "tldr": [
+  "A União, os estados e os municípios podem apoiar a manutenção de embarcações, a compra de equipamentos de segurança, os pontos de embarque e a capacitação, com prioridade para rotas até escolas e unidades de saúde.",
+  "Comunidades que dependem da navegação em rios, como ribeirinhos, indígenas, quilombolas e extrativistas, e municípios de pequeno porte.",
+  "Tramita junto com o PL 4439/2026 e aguarda análise das comissões da Câmara. O último andamento foi na Mesa Diretora, em 03/11/2026, quando outros projetos foram juntados a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641128",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165013",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "765c11cc5ccb307c",
+ "hash_tramitacao": "29e6206f90510001",
+ "tentativa": 1
+}

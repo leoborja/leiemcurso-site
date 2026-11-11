@@ -1,0 +1,28 @@
+{
+ "id": 2640740,
+ "titulo": "Proíbe fumar, inclusive cigarro eletrônico, em pontos de ônibus, estações, terminais e filas",
+ "tldr": [
+  "Fica proibido fumar em pontos de parada, estações e terminais de transporte coletivo, mesmo parcialmente abertos, e em filas com espera estimada acima de 5 minutos, inclusive em áreas externas.",
+  "Fumantes e usuários de cigarros eletrônicos, usuários de transporte coletivo e pessoas em filas, além dos órgãos de fiscalização.",
+  "Em análise nas comissões da Câmara, com prioridade. Desde 29/10/2026 tramita junto com o PL 689/2023."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640740",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164494",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f7c325ac0723d03d",
+ "hash_tramitacao": "156b24a0ce62be44",
+ "tentativa": 1
+}

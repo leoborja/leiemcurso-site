@@ -1,0 +1,28 @@
+{
+ "id": 2640597,
+ "titulo": "Cria diretrizes para mulheres, mães e cuidadoras voltarem a estudar e concluírem a educação básica",
+ "tldr": [
+  "A educação de jovens e adultos passa a seguir regras de acolhimento, busca ativa e horários compatíveis com o cuidado de filhos e familiares, com prioridade para mulheres em situação de vulnerabilidade, sem matrícula obrigatória.",
+  "Mulheres, mães, cuidadoras e vítimas de violência doméstica fora da escola, além das redes de ensino da União, estados, Distrito Federal e municípios.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 04/11/2026. Depois passa pelas comissões de Defesa dos Direitos da Mulher e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640597",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164351",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b07e41e427bc6d1c",
+ "hash_tramitacao": "9739a03da5186a9a",
+ "tentativa": 1
+}

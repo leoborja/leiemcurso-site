@@ -1,0 +1,28 @@
+{
+ "id": 2640550,
+ "titulo": "Cria a Semana Nacional de Proteção dos Animais nas Vias Públicas, na semana de 4 de outubro",
+ "tldr": [
+  "Passa a existir uma semana anual de campanhas para motoristas reduzirem a velocidade e prestarem atenção a animais nas vias, com divulgação de dados sobre pontos de atropelamento.",
+  "Motoristas, órgãos de trânsito, concessionárias de rodovias e entidades de proteção animal que queiram colaborar.",
+  "Aguarda ser juntada a outro projeto (apensação) e está em análise nas comissões da Câmara; o último andamento foi o envio para publicação, em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640550",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164304",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5b90962e4e07d85d",
+ "hash_tramitacao": "bb6a445c17d73dfa",
+ "tentativa": 1
+}

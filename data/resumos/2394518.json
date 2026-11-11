@@ -1,0 +1,28 @@
+{
+ "id": 2394518,
+ "titulo": "Cria protocolo para escolas acolherem e atenderem vítimas de discriminação racial",
+ "tldr": [
+  "Escolas devem registrar o caso, acionar polícia e Ministério Público, oferecer apoio psicológico e garantir vaga em outra escola à vítima se necessário. O Estatuto da Criança e do Adolescente também é alterado.",
+  "Escolas públicas e privadas, alunos, profissionais da educação, famílias e secretarias estaduais e municipais de educação.",
+  "Tramita com prioridade desde aprovação de urgência no Plenário em 16/06/2026. Em 28/10/2026, uma relatora deu parecer pela aprovação com texto alternativo; aguarda relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2394518",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2341913",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5774147c783b55f0",
+ "hash_tramitacao": "cd0e72494a1c6bd7",
+ "tentativa": 1
+}

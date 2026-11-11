@@ -1,0 +1,28 @@
+{
+ "id": 2427672,
+ "titulo": "Obriga a ter ao menos um ponto de distribuição de absorventes em cada município",
+ "tldr": [
+  "O programa de saúde menstrual passa a exigir ao menos um local de distribuição de absorventes e outros itens por município.",
+  "Pessoas atendidas pelo programa de saúde menstrual, municípios e os demais entes federados.",
+  "Parecer aprovado na Comissão de Constituição e Justiça e de Cidadania da Câmara em 04/11/2026. Antes, foi aprovado nas comissões da Mulher e de Previdência e Assistência Social."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2427672",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2409013",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fbe56ce5709c3850",
+ "hash_tramitacao": "0c129d9ac1e88164",
+ "tentativa": 2
+}

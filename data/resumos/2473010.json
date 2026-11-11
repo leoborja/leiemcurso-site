@@ -1,0 +1,28 @@
+{
+ "id": 2473010,
+ "titulo": "Dá o nome de Contorno Viário Luiz Henrique da Silveira ao Contorno da BR-101 na Grande Florianópolis",
+ "tldr": [
+  "O Contorno da BR-101 entre Biguaçu, São José e Palhoça, em Santa Catarina, passa a se chamar oficialmente Contorno Viário Luiz Henrique da Silveira.",
+  "O efeito é geral; a mudança vale só para o nome do trecho da rodovia.",
+  "Veio do Senado. Aprovado nas comissões de Viação e Transportes, de Cultura e de Constituição e Justiça. O prazo para recurso terminou em 28/10/2026 sem recursos; aguarda a redação final."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473010",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2828669",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f94b8e18c87c3ee7",
+ "hash_tramitacao": "58d689c0a5adfd5b",
+ "tentativa": 2
+}

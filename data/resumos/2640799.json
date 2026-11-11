@@ -1,0 +1,28 @@
+{
+ "id": 2640799,
+ "titulo": "Obriga Casas Legislativas a divulgar em plataforma pública presenças, votos e gastos de cada parlamentar",
+ "tldr": [
+  "Presenças, votos, agenda, gastos de gabinete com favorecido e comprovante e servidores com salário passam a ser publicados em prazos fixos, como até o dia útil seguinte para presenças e votações.",
+  "Parlamentares e Casas Legislativas da União, dos estados, do Distrito Federal e dos municípios.",
+  "Em 29/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 3301/2021, com prioridade. Precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640799",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164554",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8197c1c75d7f98aa",
+ "hash_tramitacao": "d0e968d3f3d01b4b",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2473975,
+ "titulo": "Cria o Dia Nacional de Doar, na terça-feira seguinte ao Dia Nacional de Ação de Graças",
+ "tldr": [
+  "A data entra no calendário oficial para incentivar doações a entidades sem fins lucrativos. O poder público pode fazer campanhas com a sociedade civil e com empresas.",
+  "Organizações da sociedade civil sem fins lucrativos, doadores, empresas e órgãos públicos.",
+  "Foi aprovado pela Comissão de Previdência e Assistência Social em 27/05/2026 e pela Comissão de Constituição e Justiça e de Cidadania em 04/11/2026. Aguarda encaminhamento."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473975",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2830491",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "54c9b712efa94b05",
+ "hash_tramitacao": "a7ce4e73077750e7",
+ "tentativa": 1
+}

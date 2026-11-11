@@ -1,0 +1,28 @@
+{
+ "id": 2640721,
+ "titulo": "Permite registrar no Brasil a certidão de nascimento estrangeira de pessoa adotada por brasileiro",
+ "tldr": [
+  "Cartórios poderão registrar certidões de nascimento emitidas no exterior de adotados por brasileiros, sem exigências diferentes das aplicadas a filhos biológicos. As regras da Constituição sobre nacionalidade seguem valendo.",
+  "Pessoas nascidas no exterior e adotadas por brasileiros, suas famílias e os cartórios de registro civil.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 06/11/2026. Depois vai à Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640721",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164475",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3b1b894538a50dcd",
+ "hash_tramitacao": "d826ce66e9b728e0",
+ "tentativa": 2
+}

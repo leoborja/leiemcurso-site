@@ -1,0 +1,28 @@
+{
+ "id": 2641209,
+ "titulo": "Define padrões mínimos de segurança e estrutura para pequenos portos municipais",
+ "tldr": [
+  "Pequenos portos passam a ter de ter iluminação, área coberta, acessibilidade e proteção contra quedas. Cria um índice público anual de condição dos portos e proíbe o uso contínuo de estruturas com risco grave.",
+  "Municípios que mantêm pequenos portos e trapiches públicos, passageiros e comunidades que dependem do transporte por rios.",
+  "Aguarda análise nas comissões da Câmara. Em 03/11/2026 passou a tramitar junto com o PL 4443/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641209",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165107",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8771a505a7e4d672",
+ "hash_tramitacao": "455bcad29f3942d1",
+ "tentativa": 1
+}

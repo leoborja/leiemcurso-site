@@ -1,0 +1,28 @@
+{
+ "id": 2635193,
+ "titulo": "Permite a empresas abater parte do IRPJ e da CSLL ao comprar recicláveis de cooperativas de catadores",
+ "tldr": [
+  "Empresas no lucro real podem deduzir até 1% do IRPJ e até 0,5% da CSLL devidos, com base nas compras de recicláveis feitas direto de cooperativas ou associações de catadores cadastradas.",
+  "Empresas tributadas pelo lucro real e cooperativas e associações de catadores de materiais recicláveis.",
+  "Aguarda designação de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara, onde foi recebido em 24/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635193",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152784",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f41543413f163388",
+ "hash_tramitacao": "72f42fc8f1b14368",
+ "tentativa": 1
+}

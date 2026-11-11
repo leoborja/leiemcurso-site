@@ -1,0 +1,28 @@
+{
+ "id": 2543104,
+ "titulo": "Cria incentivos fiscais a empresas em fronteiras e terras indígenas que contratem jovens e indígenas",
+ "tldr": [
+  "Empresas instaladas nessas áreas com ao menos 20% de empregados indígenas ou jovens de 18 a 29 anos ganham crédito no IRPJ, redução de 50% na contribuição patronal ao INSS e isenção de algumas taxas federais.",
+  "Empresas instaladas em municípios da faixa de fronteira ou em territórios indígenas, jovens de 18 a 29 anos e trabalhadores indígenas.",
+  "Aprovado com texto alternativo na Comissão de Indústria, Comércio e Serviços em 11/08/2026. Aguarda relator na Comissão da Amazônia e dos Povos Originários e Tradicionais desde 12/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543104",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971577",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "931781337f056bde",
+ "hash_tramitacao": "9c2b28b9f3eef573",
+ "tentativa": 2
+}

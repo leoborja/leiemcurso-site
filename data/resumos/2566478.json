@@ -1,0 +1,28 @@
+{
+ "id": 2566478,
+ "titulo": "Cria sistema nacional de dados sobre autismo, TDAH e outros transtornos e ajuda municípios",
+ "tldr": [
+  "O Ministério da Saúde passa a reunir dados e a publicar um relatório anual e um painel público sobre esses transtornos. A União passa a apoiar municípios, com dinheiro e orientação técnica, a criar planos de atendimento.",
+  "Pessoas com autismo, TDAH, TOC, dislexia, síndrome de Tourette e outros transtornos do neurodesenvolvimento, além de municípios e dos ministérios da Saúde, Educação e Desenvolvimento Social.",
+  "Aprovado com texto alternativo (substitutivo) na Comissão de Saúde em 04/11/2026. Desde essa data está na Comissão de Defesa dos Direitos das Pessoas com Deficiência, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2566478",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3011143",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1d9d05304624bb94",
+ "hash_tramitacao": "15b86e9f110d227e",
+ "tentativa": 1
+}

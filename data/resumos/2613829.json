@@ -1,0 +1,28 @@
+{
+ "id": 2613829,
+ "titulo": "Garante ao cidadão o direito de escolher receber comunicações e documentos públicos em formato digital",
+ "tldr": [
+  "Órgãos públicos passam a ter de oferecer, sempre que possível, o envio digital de notificações e documentos, inclusive digitalizando papéis, sem impedir o pedido da versão em papel.",
+  "Cidadãos e órgãos e entidades públicos da União, dos estados, do Distrito Federal e dos municípios.",
+  "Aprovado na Comissão de Ciência, Tecnologia e Inovação em 12/08/2026. Desde 13/10/2026 está na CASP, à espera da escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613829",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3109267",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "31ee4372dacdd21f",
+ "hash_tramitacao": "b65c7ca841d6c8f3",
+ "tentativa": 1
+}

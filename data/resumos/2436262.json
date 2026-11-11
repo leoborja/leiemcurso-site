@@ -1,0 +1,28 @@
+{
+ "id": 2436262,
+ "titulo": "Cria a Política Nacional de Infraestrutura Urbana com regras para redes subterrâneas e uso do subsolo",
+ "tldr": [
+  "Define diretrizes para obras urbanas, como fazer a drenagem antes de pavimentar e trocar fiação aérea por subterrânea. Municípios podem cobrar empresas pelo uso de vias e subsolo para instalar redes.",
+  "Municípios, concessionárias e empresas que instalam redes de água, energia, gás e telefone em vias públicas.",
+  "Aprovado nas comissões de Desenvolvimento Urbano (01/10/2025) e de Finanças e Tributação (12/08/2026), com texto alternativo. Desde 17/08/2026 aguarda relator na Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2436262",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2428666",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8bc682e84992adff",
+ "hash_tramitacao": "73498920504b1f7b",
+ "tentativa": 1
+}

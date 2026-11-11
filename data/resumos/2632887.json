@@ -1,0 +1,28 @@
+{
+ "id": 2632887,
+ "titulo": "Cria regras contra o superendividamento e o assédio financeiro de trabalhadores no crédito consignado",
+ "tldr": [
+  "Proíbe consignado e renovações sem autorização expressa do trabalhador e veda ofertas insistentes de crédito no ambiente de trabalho. Os descontos em folha passam a ter de preservar um mínimo para o sustento.",
+  "Trabalhadores, aposentados e pensionistas com descontos na renda, além de bancos, correspondentes bancários e empregadores.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara desde 18/08/2026. Também será analisado pelas comissões de Defesa do Consumidor, Finanças e Tributação e Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632887",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148018",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e3d03877d8ff2455",
+ "hash_tramitacao": "e28dcfe94b311c77",
+ "tentativa": 1
+}

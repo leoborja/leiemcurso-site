@@ -1,0 +1,28 @@
+{
+ "id": 2631521,
+ "titulo": "Reconhece a coxinha como patrimônio cultural imaterial do Brasil",
+ "tldr": [
+  "A coxinha passa a ser reconhecida em lei como patrimônio cultural imaterial. O poder público poderá promover ações para valorizá-la e divulgá-la.",
+  "O efeito é geral. O texto não atinge diretamente um grupo específico.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631521",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144783",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7122285bc36ce9c7",
+ "hash_tramitacao": "d3338dd7f8237171",
+ "tentativa": 1
+}

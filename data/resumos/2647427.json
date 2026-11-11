@@ -1,0 +1,28 @@
+{
+ "id": 2647427,
+ "titulo": "Define regras para a tornozeleira de agressores na Lei Maria da Penha, com alertas e travamento remoto",
+ "tldr": [
+  "O aparelho do agressor avisará com som e luz quando ele se aproximar da vítima, que também será alertada, assim como a polícia. A área proibida terá 100 metros como referência. O juiz poderá autorizar contenção física à distância.",
+  "Mulheres vítimas de violência doméstica, agressores monitorados e órgãos estaduais de monitoramento e de segurança pública.",
+  "Tramita com prioridade após aprovação unânime de pedido de urgência no Plenário em 28/10/2026. Foi recebido na Comissão de Defesa dos Direitos da Mulher e em outras três comissões em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647427",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183470",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8fbdd7f82822f0d2",
+ "hash_tramitacao": "e8c9238d404b5293",
+ "tentativa": 2
+}

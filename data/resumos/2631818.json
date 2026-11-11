@@ -1,0 +1,28 @@
+{
+ "id": 2631818,
+ "titulo": "Proíbe implantes hormonais para fins estéticos ou de ganho muscular e exige rastreamento",
+ "tldr": [
+  "A receita passa a exigir diagnóstico, código da doença e termo de consentimento. Farmácias e clínicas registram cada operação por 5 anos e ficam proibidas de manter estoque pronto ou de fabricar em série.",
+  "Médicos e outros profissionais que prescrevem, farmácias de manipulação, estabelecimentos que aplicam implantes hormonais e pacientes.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631818",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145345",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b3ba954f41ac012f",
+ "hash_tramitacao": "212a6b274e6153d6",
+ "tentativa": 1
+}

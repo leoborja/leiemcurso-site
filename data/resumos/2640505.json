@@ -1,0 +1,28 @@
+{
+ "id": 2640505,
+ "titulo": "Aumenta as punições para abrigos e instituições de idosos que cometerem infrações ou permitirem violência",
+ "tldr": [
+  "Inclui novas punições: proibição de contratar com o poder público por até 5 anos, afastamento definitivo de dirigentes e proibição de novos alvarás aos mesmos sócios. Havendo violência, os dirigentes suspeitos são afastados de imediato.",
+  "Entidades de atendimento a pessoas idosas, como instituições de longa permanência, seus sócios e dirigentes, e os idosos atendidos.",
+  "Na Comissão de Defesa dos Direitos da Pessoa Idosa da Câmara, com relator designado em 04/11/2026; prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640505",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164259",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "420e636b827529c5",
+ "hash_tramitacao": "2a3e0e14c3754ac4",
+ "tentativa": 1
+}

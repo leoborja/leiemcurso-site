@@ -1,0 +1,28 @@
+{
+ "id": 2641102,
+ "titulo": "Obriga plataformas digitais a informar quando conteúdos ganham destaque por pagamento",
+ "tldr": [
+  "Plataformas terão de identificar conteúdos, produtos e perfis impulsionados e informar se usam critérios comerciais nas recomendações, sem precisar revelar algoritmos ou segredos comerciais.",
+  "Redes sociais, buscadores, marketplaces e outras plataformas digitais, e os usuários brasileiros desses serviços.",
+  "Desde 26/10/2026 tramita junto com o PL 4397/2026 nas comissões da Câmara. Em 03/11/2026 outra proposta foi anexada à tramitação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641102",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164987",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4f3dc60d31ed018a",
+ "hash_tramitacao": "f8a97c9e1241a818",
+ "tentativa": 1
+}

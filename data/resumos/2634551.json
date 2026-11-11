@@ -1,0 +1,28 @@
+{
+ "id": 2634551,
+ "titulo": "Proíbe órgãos federais de comprar produtos com celulose branqueada com cloro ou certos químicos",
+ "tldr": [
+  "Órgãos federais não poderão comprar nem receber papéis, embalagens e produtos de higiene com celulose branqueada desses modos, salvo reciclados sem novo branqueamento e emergências. Fornecedores terão de declarar a conformidade.",
+  "Órgãos e entidades da União, empresas que fornecem papel e produtos de celulose ao governo federal e fabricantes de celulose.",
+  "Aguarda designação de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara desde 24/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634551",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151194",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3488b7a1aa604861",
+ "hash_tramitacao": "cea417a5f8be12e4",
+ "tentativa": 1
+}

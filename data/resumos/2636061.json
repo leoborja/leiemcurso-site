@@ -1,0 +1,28 @@
+{
+ "id": 2636061,
+ "titulo": "Prioriza atos presenciais em processos e cartórios quando há indício de violência doméstica",
+ "tldr": [
+  "Com indício de violência doméstica, familiar ou patrimonial, audiências e atos de cartório serão presenciais, salvo verificação reservada da livre vontade. Cria sinal discreto para acionar a rede de proteção.",
+  "Partes em processos e atos de cartório, juízes, promotores, defensores, advogados, notários, registradores, servidores e tribunais.",
+  "Aguarda a escolha de relator na Comissão de Defesa dos Direitos da Mulher da Câmara, onde chegou em 10/09/2026. Depois segue para a Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:47Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636061",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154795",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "676d3391a9348ee7",
+ "hash_tramitacao": "769147e9a492f8a2",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2476987,
+ "titulo": "Cria programa e fundo de incentivo ao empreendedorismo rural com desconto no Imposto de Renda",
+ "tldr": [
+  "Quem financiar projetos rurais aprovados pelo Ministério da Agricultura pode descontar do Imposto de Renda: até 6% do imposto devido para pessoas físicas e até 4% para empresas do lucro real.",
+  "Empreendedores rurais, cooperativas e associações, contribuintes que financiam projetos e o Ministério da Agricultura e Pecuária.",
+  "Arquivado. Tramitava junto com outro projeto, que o Plenário da Câmara aprovou em 02/09/2026 em versão alternativa. Com isso, este texto foi dado como prejudicado (perdeu o objeto) na mesma data."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2476987",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2836326",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d737eee969128e4a",
+ "hash_tramitacao": "0069773e60217d5a",
+ "tentativa": 1
+}

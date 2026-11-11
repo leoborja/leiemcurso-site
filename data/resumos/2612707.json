@@ -1,0 +1,28 @@
+{
+ "id": 2612707,
+ "titulo": "Define prazos e prioridade na investigação e no julgamento de crimes sexuais contra crianças e adolescentes",
+ "tldr": [
+  "A vítima deve ser ouvida em até 5 dias, uma única vez, e a investigação deve terminar em 30 dias, prorrogáveis uma vez. Os processos passam a ter prioridade. Atrasos sem justificativa geram apuração do responsável.",
+  "Crianças e adolescentes vítimas, polícias, peritos, Ministério Público, Judiciário e serviços de saúde e assistência social.",
+  "Aprovado com texto alternativo na Comissão de Segurança Pública e Combate ao Crime Organizado em 11/08/2026. Aguarda parecer na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612707",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106658",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ebc0ae5da92732b3",
+ "hash_tramitacao": "656aa13101ab3772",
+ "tentativa": 2
+}

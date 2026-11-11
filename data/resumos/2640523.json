@@ -1,0 +1,28 @@
+{
+ "id": 2640523,
+ "titulo": "Simplifica a concessão de benefícios previdenciários e assistenciais a pessoas com deficiência",
+ "tldr": [
+  "O governo federal deverá usar laudos e dados que já estão em seus sistemas e evitar pedir documentos repetidos. Os requisitos e as perícias continuam valendo.",
+  "Pessoas com deficiência que pedem benefícios e os órgãos federais que analisam esses pedidos.",
+  "Recebido em 05/11/2026 pela Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, onde aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640523",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164277",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fb62bb2d74fc245f",
+ "hash_tramitacao": "1651e8062fa56d38",
+ "tentativa": 1
+}

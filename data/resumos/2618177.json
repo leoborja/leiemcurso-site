@@ -1,0 +1,28 @@
+{
+ "id": 2618177,
+ "titulo": "Permite compensar cortes de tributos sobre combustíveis em 2026 com receitas extras do petróleo",
+ "tldr": [
+  "Em 2026, a União pode reduzir tributos federais sobre diesel, biodiesel, gasolina e etanol e cobrir a perda com receitas extras de royalties, impostos e dividendos do setor de petróleo, sem as exigências usuais de compensação.",
+  "Poder Executivo federal, contas da União e o mercado de diesel, biodiesel, gasolina e etanol.",
+  "Aprovado pela Câmara em 12/08/2026, por 318 votos a 113, na forma de um texto alternativo da relatoria. Seguiu para o Senado e virou a Lei Complementar 235/2026, publicada em 28/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618177",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3117630",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f3b119d0d21d6ca1",
+ "hash_tramitacao": "23657d3a183826af",
+ "tentativa": 1
+}

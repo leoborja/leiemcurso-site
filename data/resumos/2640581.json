@@ -1,0 +1,28 @@
+{
+ "id": 2640581,
+ "titulo": "Inclui na Política Nacional de Saúde Bucal ações contra doenças da boca ligadas ao cigarro",
+ "tldr": [
+  "O SUS passa a prever exames periódicos da boca em fumantes e ex-fumantes, identificação precoce de lesões, orientação e encaminhamento, conforme o orçamento disponível.",
+  "Fumantes e ex-fumantes atendidos pelo SUS e equipes de saúde bucal.",
+  "Aguarda escolha de relator na Comissão de Saúde da Câmara desde 04/11/2026. Tramita junto com outra proposta apensada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640581",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164335",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "522f04b36431df09",
+ "hash_tramitacao": "a426ff8ffb4b9094",
+ "tentativa": 1
+}

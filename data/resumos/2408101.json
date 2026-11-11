@@ -1,0 +1,28 @@
+{
+ "id": 2408101,
+ "titulo": "Torna de consulta pública as notas fiscais eletrônicas emitidas para órgãos públicos",
+ "tldr": [
+  "Muda a Lei de Licitações para que as notas fiscais eletrônicas destinadas à administração pública possam ser consultadas livremente na base nacional, sem que isso viole o sigilo fiscal.",
+  "Órgãos e entidades públicas de todas as esferas, as empresas que vendem para eles e os cidadãos que consultam esses dados.",
+  "Aprovado na Comissão de Finanças e Tributação em 28/10/2026. Desde 05/11/2026, aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2408101",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2366788",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "026c06c1eddda55e",
+ "hash_tramitacao": "e90d4a8b69ce1422",
+ "tentativa": 1
+}

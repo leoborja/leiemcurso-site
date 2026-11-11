@@ -1,0 +1,28 @@
+{
+ "id": 2640918,
+ "titulo": "Cria o selo Empresa Amiga dos Animais para empresas que cuidam de animais abandonados",
+ "tldr": [
+  "Empresas que alimentam, acolhem, apoiam a adoção ou a castração de animais abandonados poderão receber um selo só de reconhecimento, sem benefício fiscal. O uso indevido pode gerar advertência, multa ou cassação.",
+  "Empresas que atuam na proteção de animais abandonados e o Poder Executivo, que vai regulamentar o selo.",
+  "Tramita junto com o PL 5553/2025, por decisão da Mesa Diretora da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640918",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164685",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2d41b34f96de964c",
+ "hash_tramitacao": "82b73fe7183b5816",
+ "tentativa": 1
+}

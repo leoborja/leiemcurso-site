@@ -1,0 +1,28 @@
+{
+ "id": 2640494,
+ "titulo": "Cria protocolo para identificar e acompanhar alunos com dificuldade persistente de alfabetização",
+ "tldr": [
+  "As redes públicas de ensino passam a contar com um protocolo de observação, avaliação, registro e encaminhamento de alunos com dificuldade persistente para se alfabetizar, conforme o orçamento disponível.",
+  "Estudantes da rede pública com dificuldade de alfabetização, suas famílias e os sistemas públicos de ensino.",
+  "Aguarda parecer da relatora na Comissão de Educação da Câmara. O prazo para emendas foi aberto em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640494",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164248",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5cdb41ae592c2855",
+ "hash_tramitacao": "055c5eeb8fcce948",
+ "tentativa": 1
+}

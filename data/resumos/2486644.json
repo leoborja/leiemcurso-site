@@ -1,0 +1,28 @@
+{
+ "id": 2486644,
+ "titulo": "Proíbe a discriminação de pessoas com autismo por causa da deficiência ou por qualquer outro motivo",
+ "tldr": [
+  "A lei sobre os direitos das pessoas com autismo passa a proibir a discriminação por qualquer motivo, e não só por causa da deficiência.",
+  "Pessoas com transtorno do espectro autista e suas famílias.",
+  "Aprovado nas Comissões de Pessoas com Deficiência e de Constituição e Justiça, que aprovou a redação final em 04/11/2026. Aguarda a preparação do texto final para envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2486644",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2865489",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7fa7811901bc301b",
+ "hash_tramitacao": "e27efd6d346f8b67",
+ "tentativa": 1
+}

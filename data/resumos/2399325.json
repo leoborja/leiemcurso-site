@@ -1,0 +1,28 @@
+{
+ "id": 2399325,
+ "titulo": "Muda a CLT e a lei do trabalho temporário e revoga dispositivos da reforma trabalhista de 2017",
+ "tldr": [
+  "Reescreve vários artigos da CLT, como os de jornada, horas extras e trabalho em domingos e feriados, e revoga trechos incluídos em 2017. Também cria deveres para empresas em relação a direitos humanos na cadeia de produção.",
+  "Trabalhadores com carteira assinada, trabalhadores temporários, empregadores, empresas de trabalho temporário e a Justiça do Trabalho.",
+  "O parecer do relator, pela aprovação, foi aprovado na Comissão de Indústria, Comércio e Serviços da Câmara em 03/11/2026. Aguarda envio à próxima etapa. O texto depois vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2399325",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2350640",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6556fcb26dfd56a6",
+ "hash_tramitacao": "c2324b4c0ea5070f",
+ "tentativa": 1
+}

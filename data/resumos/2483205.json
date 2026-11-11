@@ -1,0 +1,28 @@
+{
+ "id": 2483205,
+ "titulo": "Exclui os novos tributos IBS e CBS do cálculo do ICMS, do ISS e do IPI",
+ "tldr": [
+  "O valor do IBS e da CBS, criados pela reforma tributária, deixa de entrar na base usada para calcular o ICMS, o ISS e o IPI.",
+  "Empresas que pagam esses tributos, a União, os estados, o Distrito Federal e os municípios.",
+  "Aguarda parecer na Comissão de Finanças e Tributação, que aprovou em 04/11/2026 um pedido de audiência pública sobre o tema. Depois vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483205",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2852506",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b5dbed0a07e2b85b",
+ "hash_tramitacao": "6e6ab64a69385adc",
+ "tentativa": 1
+}

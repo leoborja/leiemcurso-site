@@ -1,0 +1,28 @@
+{
+ "id": 2473157,
+ "titulo": "Obriga cartórios a informar todo mês os registros de nascimento sem nome do pai",
+ "tldr": [
+  "Cartórios passam a enviar todo mês à Defensoria Pública, ao Ministério Público e ao Conselho Tutelar a lista desses registros, com dados da mãe e do suposto pai, se indicado. Também devem informar a mãe sobre o direito de indicar o pai.",
+  "Cartórios de registro civil, mães e crianças registradas sem o nome do pai, Defensoria Pública, Ministério Público e Conselhos Tutelares.",
+  "A Comissão de Previdência, Assistência Social, Infância, Adolescência e Família aprovou o texto com substitutivo em 04/11/2026. O projeto aguarda relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473157",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2828999",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "eafd0f4086dba744",
+ "hash_tramitacao": "ea0c8236b0352ab8",
+ "tentativa": 1
+}

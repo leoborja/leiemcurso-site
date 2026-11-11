@@ -1,0 +1,28 @@
+{
+ "id": 2640582,
+ "titulo": "Cria política nacional para diagnóstico precoce do câncer de boca em fumantes e ex-fumantes no SUS",
+ "tldr": [
+  "O SUS passa a ter diretrizes para exames periódicos da boca em fumantes e ex-fumantes, encaminhamento rápido de casos suspeitos, campanhas e capacitação de profissionais, conforme o orçamento.",
+  "Fumantes e ex-fumantes atendidos pelo SUS, profissionais da rede pública de saúde e União, estados e municípios.",
+  "Em análise nas comissões da Câmara, tramita junto com o PL 3906/2026. Último andamento: publicação em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640582",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164336",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "26ff2608a69eca19",
+ "hash_tramitacao": "d0471df066fc1608",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634568,
+ "titulo": "Proíbe o poder público de comprar produtos de áreas rurais que a Justiça considerou ocupadas ilegalmente",
+ "tldr": [
+  "Quem foi condenado de forma definitiva por invadir imóvel rural não poderá vender ao governo produtos dessa área enquanto durar a ocupação. Nas compras de produtos agropecuários, o fornecedor terá de declarar a origem.",
+  "Pessoas e empresas condenadas por invasão de imóvel rural, fornecedores de produtos agropecuários e órgãos públicos de todas as esferas.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634568",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151223",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "995841490ef8b8b5",
+ "hash_tramitacao": "791058f0933fe0d5",
+ "tentativa": 1
+}

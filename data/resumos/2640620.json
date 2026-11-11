@@ -1,0 +1,28 @@
+{
+ "id": 2640620,
+ "titulo": "Inclui na declaração de nascido vivo de prematuros um alerta sobre fisioterapia motora precoce",
+ "tldr": [
+  "Bebês prematuros ou que passaram por UTI neonatal terão alerta na declaração de nascido vivo. A caderneta da criança ganha seção para a fisioterapia, e serviços devem priorizar o atendimento sem encaminhamento formal.",
+  "Bebês prematuros ou que passaram pela UTI neonatal, suas famílias, o SUS e instituições filantrópicas e de ensino que oferecem fisioterapia.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 04/11/2026. Depois passa pela Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640620",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164374",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5ecc600a2c3d21eb",
+ "hash_tramitacao": "b3592470eb5c83b9",
+ "tentativa": 2
+}

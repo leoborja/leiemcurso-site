@@ -1,0 +1,28 @@
+{
+ "id": 2641149,
+ "titulo": "Cria programa para municípios compartilharem máquinas como retroescavadeiras e tratores",
+ "tldr": [
+  "Os municípios podem formar pátios regionais de máquinas de uso compartilhado, por meio de consórcios e convênios. Em emergências e desastres, as máquinas atendem primeiro essas situações.",
+  "Municípios, com prioridade para os de pequeno porte, rurais, de fronteira, isolados e os da Amazônia Legal.",
+  "Tramita junto com o PL 4461/2026 e aguarda análise das comissões da Câmara. O último andamento foi na Mesa Diretora, em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641149",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165040",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "43fb9ddccc79a80e",
+ "hash_tramitacao": "ea8683400ff51238",
+ "tentativa": 1
+}

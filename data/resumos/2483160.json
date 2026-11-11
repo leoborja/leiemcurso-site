@@ -1,0 +1,28 @@
+{
+ "id": 2483160,
+ "titulo": "Reconhece a axé music como manifestação da cultura nacional",
+ "tldr": [
+  "A axé music passa a ser reconhecida por lei como manifestação da cultura nacional.",
+  "Artistas, produtores e o público ligados à axé music.",
+  "Aprovado nas Comissões de Cultura e de Constituição e Justiça, que aprovou a redação final em 04/11/2026. Aguarda a preparação do texto final para envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483160",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2852265",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "eaa98b237dcd5cc0",
+ "hash_tramitacao": "89d3b0e4b19b091b",
+ "tentativa": 1
+}

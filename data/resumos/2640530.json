@@ -1,0 +1,28 @@
+{
+ "id": 2640530,
+ "titulo": "Obriga a União a vistoriar, isolar e demolir estruturas federais desativadas que ofereçam risco",
+ "tldr": [
+  "Órgãos federais terão de vistoriar a cada seis meses pontes, prédios e outras obras desativadas, publicar uma lista na internet e isolar as de risco em até 30 dias. Sem recuperação ou transferência em 180 dias, a estrutura será demolida.",
+  "Órgãos e entidades da administração pública federal responsáveis por estruturas desativadas e a população vizinha a elas.",
+  "Tramita junto com o PL 3839/2026 nas comissões da Câmara. Foi encaminhado para publicação em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640530",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164284",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "523f6ad9e310a33a",
+ "hash_tramitacao": "3875868404a0d751",
+ "tentativa": 1
+}

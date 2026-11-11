@@ -1,0 +1,28 @@
+{
+ "id": 2638374,
+ "titulo": "Obriga desconto automático na conta quando há interrupção de serviços essenciais",
+ "tldr": [
+  "Concessionárias terão de abater na fatura, sem pedido do usuário, valor proporcional ao tempo sem serviço. O desconto não impede indenização por danos comprovados.",
+  "Consumidores e empresas concessionárias de serviços públicos essenciais, além das agências reguladoras.",
+  "Tramita junto com o PL 6421/2025 em comissão da Câmara, onde foi recebida em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638374",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159431",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4a489f3e2e3a558c",
+ "hash_tramitacao": "751d3d39219f4c37",
+ "tentativa": 1
+}

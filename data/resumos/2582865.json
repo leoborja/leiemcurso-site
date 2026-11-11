@@ -1,0 +1,28 @@
+{
+ "id": 2582865,
+ "titulo": "Torna vitalício o BPC de pessoas com deficiência permanente e cria benefício de transição para dependentes",
+ "tldr": [
+  "Quem tem deficiência permanente comprovada pelo INSS deixa de passar por revisão. Dependentes de baixa renda recebem até 6 meses de um salário mínimo após a morte do beneficiário. Nos demais casos, a revisão passa de 2 para 4 anos.",
+  "Pessoas com deficiência que recebem o BPC, seus dependentes inscritos no CadÚnico que moram com elas e o INSS.",
+  "Aprovada na Comissão de Defesa dos Direitos das Pessoas com Deficiência em 03/03/2026. Tramita com prioridade (urgência aprovada em 26/05/2026). Relator designado no Plenário em 11/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2582865",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3042045",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7c8158cb55fc2111",
+ "hash_tramitacao": "ac7c77d4dacc5b9c",
+ "tentativa": 2
+}

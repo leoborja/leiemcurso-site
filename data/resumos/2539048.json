@@ -1,0 +1,28 @@
+{
+ "id": 2539048,
+ "titulo": "Inclui teste vocacional opcional nas provas do Enem e do Saeb do 3º ano do ensino médio",
+ "tldr": [
+  "O Inep inclui nas provas um teste vocacional opcional, com tempo próprio e sem efeito na nota. Só o estudante vê o resultado, que aponta interesses, aptidões e opções de carreira.",
+  "Estudantes do 3º ano do ensino médio e participantes do Enem, além do Inep e do Ministério da Educação.",
+  "Em 01/09/2026, o Plenário da Câmara aprovou uma versão alterada pela Comissão de Educação, com prioridade na tramitação. O texto foi enviado ao Senado, com documento oficial expedido em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539048",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2964116",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b990dad75976a8b0",
+ "hash_tramitacao": "e47b5e4bc0e64024",
+ "tentativa": 1
+}

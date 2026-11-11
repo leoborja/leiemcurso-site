@@ -1,0 +1,28 @@
+{
+ "id": 2635400,
+ "titulo": "Inclui critérios territoriais no Pé-de-Meia para estudantes de áreas rurais e ribeirinhas da Amazônia Legal",
+ "tldr": [
+  "O governo passa a considerar barreiras como tempo de deslocamento, transporte fluvial e falta de internet na execução do programa. O texto permite uma parcela extra de incentivo e prevê um relatório público por ano.",
+  "Estudantes de áreas rurais, ribeirinhas, fluviais e de difícil acesso da Amazônia Legal e o Poder Executivo federal.",
+  "Aguarda parecer da relatoria na Comissão de Educação da Câmara. O prazo para emendas terminou em 05/11/2026 sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635400",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153596",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "14873664c4f31823",
+ "hash_tramitacao": "c20a8d4b90a5b41a",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635883,
+ "titulo": "Cria regras próprias para o governo comprar bens e serviços artesanais",
+ "tldr": [
+  "A Lei de Licitações passa a definir o que são bens e serviços artesanais. As compras do governo podem considerar a técnica ou o conteúdo artístico e usar credenciamento, um cadastro aberto de fornecedores.",
+  "Artesãos, trabalhadores da economia criativa e órgãos públicos que fazem compras.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara, onde foi recebido em 18/08/2026. Depois segue para as comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635883",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154530",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6415eff83877a230",
+ "hash_tramitacao": "900ee6ca4b2b14b4",
+ "tentativa": 1
+}

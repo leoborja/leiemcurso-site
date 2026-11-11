@@ -1,0 +1,28 @@
+{
+ "id": 2640929,
+ "titulo": "Obriga casas de repouso para idosos a ter câmeras nas áreas comuns e registro de incidentes",
+ "tldr": [
+  "As instituições terão de gravar as áreas comuns, sem quartos e banheiros, guardar as imagens de 90 a 180 dias e registrar quedas, agressões e erros de medicação. Prevê multa de R$ 1.000,00 a R$ 50.000,00.",
+  "Instituições de longa permanência para idosos públicas, privadas e filantrópicas, seus residentes e funcionários.",
+  "Tramita junto com o PL 5152/2025, por decisão da Mesa Diretora da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640929",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164696",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "df199410ee4dec52",
+ "hash_tramitacao": "7a1f22d61b6605b0",
+ "tentativa": 1
+}

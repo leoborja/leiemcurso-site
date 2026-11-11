@@ -1,0 +1,28 @@
+{
+ "id": 2635475,
+ "titulo": "Obriga escolas a instalar câmeras nos acessos aos banheiros, sem filmar o lado de dentro",
+ "tldr": [
+  "Escolas públicas e privadas passam a ter de manter câmeras nas áreas externas de banheiros e vestiários, com aviso visível e acesso restrito às imagens. Cada estado ou município define prazos e penalidades.",
+  "Escolas públicas e privadas, alunos, profissionais da educação e redes de ensino.",
+  "Está na Comissão de Segurança Pública e Combate ao Crime Organizado, que designou relator em 28/10/2026. O prazo para emendas foi aberto em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635475",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153924",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a2d3ac1a46d065a7",
+ "hash_tramitacao": "7b51460cb0cdbcca",
+ "tentativa": 1
+}

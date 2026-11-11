@@ -1,0 +1,28 @@
+{
+ "id": 2565094,
+ "titulo": "Obriga nota fiscal de combustíveis e gás de cozinha a detalhar a composição do preço",
+ "tldr": [
+  "A nota fiscal ao consumidor deve mostrar valor e percentual do custo do produtor, do biocombustível, dos tributos federais e estaduais e da margem de distribuição e revenda.",
+  "Consumidores, postos, revendas de gás, distribuidoras, produtores e importadores de combustíveis e GLP.",
+  "Tramita com prioridade desde 15/04/2026 e aguarda relator na Comissão de Constituição e Justiça e de Cidadania. Em 31/08/2026 foi pedida revisão das comissões que vão analisá-lo."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2565094",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3008616",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "95fbcff17664cfa1",
+ "hash_tramitacao": "2a752df47c3083f4",
+ "tentativa": 1
+}

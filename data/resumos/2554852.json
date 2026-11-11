@@ -1,0 +1,28 @@
+{
+ "id": 2554852,
+ "titulo": "Obriga profissionais e serviços de saúde a notificar acidentes com crianças e adolescentes",
+ "tldr": [
+  "Quem atender criança ou adolescente acidentado terá de comunicar o caso à autoridade de saúde; não comunicar vira infração sanitária, com advertência e/ou multa.",
+  "Médicos, demais profissionais de saúde e responsáveis por estabelecimentos de saúde públicos e privados.",
+  "Aprovado nas comissões da Câmara sem recurso para o Plenário; a redação final foi aprovada em 04/11/2026 e aguarda envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554852",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2988867",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "34a700486010b3f3",
+ "hash_tramitacao": "7e09931286f04f9b",
+ "tentativa": 1
+}

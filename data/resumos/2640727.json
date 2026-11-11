@@ -1,0 +1,28 @@
+{
+ "id": 2640727,
+ "titulo": "Cria crime de exploração de benefícios sociais e previdenciários com pena de 2 a 6 anos de prisão",
+ "tldr": [
+  "Passa a ser crime reter, descontar, desviar ou cobrar comissão sobre benefícios sociais ou do INSS abusando da vulnerabilidade de quem os recebe. A pena aumenta se a vítima for idosa ou o autor for servidor.",
+  "Quem recebe benefícios assistenciais, previdenciários ou de programas de transferência de renda, e quem lida com esses pagamentos, como servidores e correspondentes bancários.",
+  "Tramita junto com o PL 3312/2026 e aguarda encaminhamento na Câmara após publicação em 06/11/2026. Será votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640727",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164481",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7b19402f17063098",
+ "hash_tramitacao": "af15f1945a322e6b",
+ "tentativa": 2
+}

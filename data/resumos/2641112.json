@@ -1,0 +1,28 @@
+{
+ "id": 2641112,
+ "titulo": "Cria política nacional de proteção de trabalhadores expostos ao calor excessivo em ambientes externos",
+ "tldr": [
+  "Define diretrizes como acesso a água potável, áreas de sombra, pausas para recuperação e protocolos para ondas de calor, com atenção a idosos, gestantes, pessoas com deficiência e doentes crônicos.",
+  "Trabalhadores ao ar livre, como os da construção civil, limpeza urbana, coleta de lixo, transporte, comércio ambulante e feiras, além de empregadores e órgãos públicos.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 6223/2025 (apensado). Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641112",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164997",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bc62c7fe1dab08e0",
+ "hash_tramitacao": "28369a408060ba27",
+ "tentativa": 1
+}

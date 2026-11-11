@@ -1,0 +1,28 @@
+{
+ "id": 2638359,
+ "titulo": "Define critérios para a União repassar recursos aos municípios para políticas voltadas a pessoas idosas",
+ "tldr": [
+  "O repasse passa a considerar número de idosos, vulnerabilidade social, grau de dependência e estrutura de atendimento. O dinheiro só pode ir para serviços como atendimento domiciliar e capacitação de cuidadores.",
+  "Municípios, pessoas com 60 anos ou mais atendidas por políticas públicas e a União, com recursos do Fundo Nacional de Assistência Social.",
+  "Aguarda escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638359",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159410",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cca65726a6c8d87d",
+ "hash_tramitacao": "460a06fe9762806d",
+ "tentativa": 2
+}

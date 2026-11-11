@@ -1,0 +1,28 @@
+{
+ "id": 2641113,
+ "titulo": "Cria política nacional de arborização emergencial em bairros com mais calor e menos vegetação",
+ "tldr": [
+  "Permite apoiar o plantio de árvores, corredores verdes e mais sombra em bairros com temperatura alta e pouca vegetação, com prioridade para escolas, unidades de saúde, praças e espécies nativas.",
+  "Moradores de periferias e de áreas urbanas com pouca vegetação, municípios de pequeno porte, União, estados e municípios.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 6819/2025 (apensado). Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641113",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164998",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "24cd23e58c900a6e",
+ "hash_tramitacao": "c6770eab5d5f51d5",
+ "tentativa": 1
+}

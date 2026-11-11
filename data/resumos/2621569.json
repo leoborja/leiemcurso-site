@@ -1,0 +1,28 @@
+{
+ "id": 2621569,
+ "titulo": "Cria aplicativo que avisa a vítima quando agressor com tornozeleira se aproxima",
+ "tldr": [
+  "O sistema alerta a vítima e aciona a polícia com a localização do agressor que descumprir medida protetiva. O juiz pode determinar seu uso, e o Poder Executivo pode implantá-lo.",
+  "Vítimas com medidas protetivas da Lei Maria da Penha, agressores monitorados por tornozeleira e forças de segurança.",
+  "Aguarda parecer do relator na Comissão de Segurança Pública e Combate ao Crime Organizado; prazo para emendas aberto em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621569",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3123428",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7fae041097e92967",
+ "hash_tramitacao": "5c38fa0bbf39e8bc",
+ "tentativa": 1
+}

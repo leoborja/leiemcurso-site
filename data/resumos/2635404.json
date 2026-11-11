@@ -1,0 +1,28 @@
+{
+ "id": 2635404,
+ "titulo": "Isenta do imposto de renda aposentados com sequelas neurológicas limitantes permanentes",
+ "tldr": [
+  "Aposentados e reformados com sequelas neurológicas limitantes permanentes, atestadas pela medicina especializada, deixam de pagar imposto de renda sobre esses proventos.",
+  "Aposentados e militares reformados com sequelas neurológicas limitantes permanentes.",
+  "Aguarda designação de relator na Comissão de Finanças e Tributação da Câmara, onde foi recebido em 24/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:44Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635404",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153611",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b25fb78c894911b0",
+ "hash_tramitacao": "6012e1c82fb2712b",
+ "tentativa": 2
+}

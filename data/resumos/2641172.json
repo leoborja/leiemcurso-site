@@ -1,0 +1,28 @@
+{
+ "id": 2641172,
+ "titulo": "Cria programa para implantar banheiros familiares em prédios e equipamentos públicos",
+ "tldr": [
+  "Órgãos federais passam a ter de considerar banheiros familiares, com fraldário e acessibilidade, em novos equipamentos públicos e obras com recursos da União.",
+  "Órgãos federais, usuários de aeroportos, hospitais, parques e outros espaços públicos, como pais, cuidadores, idosos e pessoas com deficiência.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 607/2024 na Câmara, com prioridade, e depende de votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641172",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165066",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4e1159a7835b5d16",
+ "hash_tramitacao": "1bf767d768d4701b",
+ "tentativa": 1
+}

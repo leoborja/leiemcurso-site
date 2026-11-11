@@ -1,0 +1,28 @@
+{
+ "id": 2639343,
+ "titulo": "Exige autorização individual e por escrito do empregado para desconto de contribuição sindical no salário",
+ "tldr": [
+  "Desconto em folha para sindicato passa a depender de autorização prévia e escrita do trabalhador, revogável a qualquer momento. Desconto indevido é devolvido em dobro, com multa de R$ 500,00 por empregado.",
+  "Empregados com carteira assinada, empregadores, sindicatos e centrais sindicais.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara desde 03/09/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639343",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162119",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "37d9e525f5763e3c",
+ "hash_tramitacao": "944d44cfb862631f",
+ "tentativa": 2
+}

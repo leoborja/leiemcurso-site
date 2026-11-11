@@ -1,0 +1,28 @@
+{
+ "id": 2637095,
+ "titulo": "Proíbe impor a empresas cotas por sexo, raça ou idade e exige prova concreta para punir discriminação",
+ "tldr": [
+  "Juízes e órgãos públicos ficam impedidos de impor cotas de cargos a empresas privadas. Só a proporção de homens e mulheres no quadro deixa de bastar para caracterizar discriminação por sexo, e a prova cabe a quem acusa.",
+  "Empresas privadas, seus trabalhadores, a Justiça do Trabalho e órgãos de fiscalização.",
+  "Chegou à Comissão de Trabalho da Câmara em 03/11/2026 e aguarda ser anexada ao PL 3296/2026, com o qual vai tramitar em conjunto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637095",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157067",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "434e370c437ebfb4",
+ "hash_tramitacao": "35db68e8c9b5cdc3",
+ "tentativa": 1
+}

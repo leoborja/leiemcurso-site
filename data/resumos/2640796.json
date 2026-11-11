@@ -1,0 +1,28 @@
+{
+ "id": 2640796,
+ "titulo": "Inclui indicadores de resultado nos programas de reabilitação do SUS para pessoas com doenças neurológicas",
+ "tldr": [
+  "As ações de reabilitação do SUS passam a seguir evidências científicas, medir resultados funcionais e de qualidade de vida, garantir a continuidade do cuidado e incentivar a capacitação dos profissionais.",
+  "Pessoas com doenças neurológicas atendidas pelo SUS, profissionais e gestores do SUS.",
+  "Em 29/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 713/2026. A análise será nas comissões, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640796",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164551",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "669ff83b27822028",
+ "hash_tramitacao": "da9d906601f22c4b",
+ "tentativa": 1
+}

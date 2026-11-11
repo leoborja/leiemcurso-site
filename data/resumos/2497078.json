@@ -1,0 +1,28 @@
+{
+ "id": 2497078,
+ "titulo": "Cria o Dia Nacional da Parceria, a ser comemorado todo 25 de junho",
+ "tldr": [
+  "Passa a constar no calendário oficial o Dia Nacional da Parceria, em 25 de junho de cada ano.",
+  "O efeito é geral; o texto não aponta um grupo específico.",
+  "Aprovado com texto substitutivo na Comissão de Cultura em 12/08/2026. Desde 13/08/2026 está na Comissão de Constituição e Justiça, à espera de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497078",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2885304",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1e6c85c7484873b5",
+ "hash_tramitacao": "d57e255419537004",
+ "tentativa": 1
+}

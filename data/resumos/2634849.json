@@ -1,0 +1,28 @@
+{
+ "id": 2634849,
+ "titulo": "Cria lei específica que define organização miliciana e fixa penas de 8 a 20 anos de prisão",
+ "tldr": [
+  "Torna crime integrar ou financiar milícia, com pena maior se houver agente público, armas de uso restrito ou controle territorial. Agente público condenado perde o cargo e fica 15 anos impedido de exercer função pública.",
+  "Integrantes e financiadores de milícias, agentes públicos envolvidos, vítimas e testemunhas, polícias, Ministério Público e Judiciário.",
+  "Tramita junto com o PL 4293/2024 na Comissão de Constituição e Justiça da Câmara. Último andamento em 06/11/2026. Depende de votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634849",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151681",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "47b0c0471642d6bf",
+ "hash_tramitacao": "a147341e35783d49",
+ "tentativa": 1
+}

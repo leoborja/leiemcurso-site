@@ -1,0 +1,28 @@
+{
+ "id": 2634028,
+ "titulo": "Dá prioridade a alunos com deficiência na vaga em escola pública de tempo integral mais próxima",
+ "tldr": [
+  "A Lei de Diretrizes e Bases da Educação passa a garantir ao aluno com deficiência prioridade de matrícula na escola pública de tempo integral mais próxima de casa ou do trabalho dos responsáveis.",
+  "Alunos com deficiência, suas famílias e as redes públicas de ensino.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 19/08/2026. Depois passa pelas comissões de Pessoas com Deficiência e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634028",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149799",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "02b4a061ec9717ab",
+ "hash_tramitacao": "1a9f38a25acc4605",
+ "tentativa": 1
+}

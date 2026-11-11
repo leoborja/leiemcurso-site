@@ -1,0 +1,28 @@
+{
+ "id": 2641012,
+ "titulo": "Cria programa de fiscalização eletrônica nas faixas de pedestres e dobra a multa em alguns casos",
+ "tldr": [
+  "Prevê câmeras nas faixas de pedestres, começando perto de escolas e hospitais. Avançar na faixa ou intimidar quem atravessa vira infração, com multa em dobro se a vítima for criança, idoso, gestante ou pessoa com deficiência.",
+  "Motoristas, pedestres, órgãos de trânsito e municípios.",
+  "Em 26/10/2026, a Mesa da Câmara determinou que tramite junto com o PL 7039/2025. Será analisada pelas comissões, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641012",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164780",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ba4f074ddaae69bd",
+ "hash_tramitacao": "17b6bfaf21735bab",
+ "tentativa": 2
+}

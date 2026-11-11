@@ -1,0 +1,28 @@
+{
+ "id": 2635549,
+ "titulo": "Estende às organizações estaduais de pesquisa agropecuária a isenção de taxas que a Embrapa já tem",
+ "tldr": [
+  "As instituições estaduais de pesquisa agropecuária deixam de pagar taxas em pedidos de registro e proteção de pesquisas e tecnologias no INPI, no Ibama, na Anvisa e no serviço de proteção de cultivares.",
+  "Organizações estaduais de pesquisa agropecuária mantidas por estados e os órgãos federais que cobram essas taxas.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635549",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154091",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2357f81318e807cf",
+ "hash_tramitacao": "c331a2509576290d",
+ "tentativa": 1
+}

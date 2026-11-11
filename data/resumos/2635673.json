@@ -1,0 +1,28 @@
+{
+ "id": 2635673,
+ "titulo": "Dispensa o depósito prévio da multa por agravo interno quando o recurso contestar a própria multa",
+ "tldr": [
+  "Quem for multado por um recurso chamado agravo interno não precisará depositar o valor antes de recorrer, se o novo recurso discutir a aplicação, a legalidade ou o valor dessa multa.",
+  "Partes em processos civis multadas por agravo interno.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, onde chegou em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635673",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154274",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5a0d5e8343c0e433",
+ "hash_tramitacao": "d49398bd8eb2648e",
+ "tentativa": 1
+}

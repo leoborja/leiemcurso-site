@@ -1,0 +1,28 @@
+{
+ "id": 2630220,
+ "titulo": "Cria regras nacionais para fintechs, com foco em supervisão e prevenção à lavagem de dinheiro",
+ "tldr": [
+  "Fintechs passam a ter regras proporcionais ao porte, sistemas de rastreio de operações suspeitas e registros guardados por 10 anos. Contas anônimas ficam proibidas e as multas podem chegar a 20% do faturamento.",
+  "Empresas de tecnologia que prestam serviços financeiros, o Banco Central, o COAF, a Receita Federal, a Polícia Federal, o CADE e a ANPD.",
+  "Aguarda parecer do relator na Comissão de Desenvolvimento Econômico da Câmara. O prazo para emendas terminou em 05/11/2026, com 3 emendas apresentadas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630220",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3142527",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bb8eff5ab2b5524d",
+ "hash_tramitacao": "8e692635f7052df3",
+ "tentativa": 1
+}

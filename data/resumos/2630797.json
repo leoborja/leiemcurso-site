@@ -1,0 +1,28 @@
+{
+ "id": 2630797,
+ "titulo": "Cria validação rápida e automática do Cadastro Ambiental Rural para pequenos e médios imóveis rurais",
+ "tldr": [
+  "O cadastro passa a ser analisado por satélite e inteligência artificial, sem vistoria presencial. Se o órgão não responder em 180 dias (pequenos) ou 240 dias (médios), o cadastro fica validado automaticamente.",
+  "Donos de imóveis rurais de até 15 módulos fiscais sem desmatamento ilegal após 22/07/2008 nem embargo ambiental, e órgãos ambientais e fundiários.",
+  "Aguarda escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara desde 18/08/2026. Depois segue para as comissões de Meio Ambiente e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630797",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143710",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "81952edbd2c73905",
+ "hash_tramitacao": "cf10e30f1f3dfaec",
+ "tentativa": 1
+}

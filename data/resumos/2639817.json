@@ -1,0 +1,28 @@
+{
+ "id": 2639817,
+ "titulo": "Cria conciliação especializada na Justiça para disputas com planos de saúde e com o SUS",
+ "tldr": [
+  "Os tribunais passam a oferecer conciliação com mediadores especializados em casos de saúde, sem impedir a ida direta à Justiça. O reajuste dos planos pode ser reduzido quando a operadora tem desempenho baixo nessas conciliações.",
+  "Usuários de planos de saúde e do SUS, operadoras de planos, ANS, Tribunais de Justiça e Tribunais Regionais Federais.",
+  "Recebido pela Comissão de Saúde da Câmara em 03/11/2026, aguarda a escolha de relator. Depois, segue para a Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639817",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162922",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c780645b2da4f672",
+ "hash_tramitacao": "be5509901aec5b60",
+ "tentativa": 1
+}

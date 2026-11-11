@@ -1,0 +1,28 @@
+{
+ "id": 2632434,
+ "titulo": "Cria programa nacional para ampliar a participação de pessoas com deficiência no Poder Legislativo",
+ "tldr": [
+  "Cria banco de talentos, cursos de capacitação, selo, prêmio, observatório e relatório nacional sobre inclusão de pessoas com deficiência, além de medidas de acessibilidade, com adesão voluntária.",
+  "Pessoas com deficiência e órgãos legislativos da União, dos estados, do Distrito Federal e dos municípios.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, que recebeu o texto em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632434",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146741",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e8ca1db98c465093",
+ "hash_tramitacao": "9f91387f88cfee28",
+ "tentativa": 1
+}

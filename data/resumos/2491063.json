@@ -1,0 +1,28 @@
+{
+ "id": 2491063,
+ "titulo": "Cria o Estatuto da Pessoa Intersexo, com regras sobre registro civil, saúde, privacidade e crimes",
+ "tldr": [
+  "Restringe cirurgias que alteram características sexuais sem consentimento, cria campo intersexo na declaração de nascido vivo, facilita mudar nome e sexo em cartório e define crimes de discriminação, entre outras regras.",
+  "Pessoas intersexo e suas famílias, serviços de saúde e planos, cartórios, escolas, empregadores, presídios e plataformas digitais.",
+  "Aprovado na Comissão de Direitos Humanos, Minorias e Igualdade Racial em 28/10/2026, com texto alternativo. Ainda passará por outras comissões e pelo Plenário da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491063",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2875300",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "820ad24c1b1b1be7",
+ "hash_tramitacao": "b34dbf10aa386460",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2631188,
+ "titulo": "Cria estatuto de proteção financeira da pessoa idosa contra fraudes e golpes",
+ "tldr": [
+  "Bancos passam a ter de adotar regras específicas de proteção para clientes idosos, com atendimento humano, bloqueio emergencial de transações suspeitas e canais funcionando sem interrupção. Também cria programa de educação financeira.",
+  "Pessoas idosas, bancos e instituições de pagamento, e órgãos públicos de defesa do consumidor e da pessoa idosa.",
+  "Aguarda parecer da relatora na Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara. O prazo de emendas terminou em 13/10/2026 sem nenhuma emenda."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631188",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144198",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3ec1ee3822ae1180",
+ "hash_tramitacao": "9bd8a3d77ac71b3b",
+ "tentativa": 1
+}

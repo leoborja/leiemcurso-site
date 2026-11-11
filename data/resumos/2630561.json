@@ -1,0 +1,28 @@
+{
+ "id": 2630561,
+ "titulo": "Limita os juros do crédito a pessoas físicas e MEI a duas vezes a taxa Selic",
+ "tldr": [
+  "Juros de empréstimos, cartão, cheque especial e financiamentos não poderão passar de duas vezes a Selic; juros de atraso ficam em até 1% ao mês. A cobrança acima do limite gera devolução em dobro e multa.",
+  "Pessoas físicas e microempreendedores individuais que tomam crédito e bancos e operadoras de crédito autorizados pelo Banco Central.",
+  "Tramita junto com o PL 4111/2025, com prioridade e votação prevista no Plenário da Câmara. Último andamento: publicação em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630561",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143165",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "025c003900cec1fc",
+ "hash_tramitacao": "99ec0688696cddf8",
+ "tentativa": 1
+}

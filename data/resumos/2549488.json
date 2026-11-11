@@ -1,0 +1,28 @@
+{
+ "id": 2549488,
+ "titulo": "Garante remarcação gratuita de exames e aulas da habilitação para quem faltar por motivo de saúde",
+ "tldr": [
+  "Quem estiver tirando a carteira de motorista e faltar a aula ou exame por doença, com atestado médico, poderá remarcar sem pagar, segundo regras do Conselho Nacional de Trânsito.",
+  "Candidatos à carteira de motorista, os Detrans e o Conselho Nacional de Trânsito.",
+  "A Comissão de Viação e Transportes aprovou um texto alternativo em 12/08/2026. Aguarda relator na Comissão de Constituição e Justiça e tramita junto com outro projeto. Último andamento em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549488",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979789",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e82eacf9b5126150",
+ "hash_tramitacao": "665306d3022e1b05",
+ "tentativa": 1
+}

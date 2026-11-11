@@ -1,0 +1,28 @@
+{
+ "id": 2640670,
+ "titulo": "Permite que consumidores com transtorno de compra compulsiva peçam o bloqueio de crédito em seu nome",
+ "tldr": [
+  "A pessoa diagnosticada poderá pedir o bloqueio de cartões, cheque especial e empréstimos por no mínimo 6 meses. Fornecedores terão de oferecer alertas e limites de gastos e não poderão insistir na oferta de crédito a esses consumidores.",
+  "Consumidores diagnosticados com transtorno de compra compulsiva, bancos, instituições de crédito e lojas.",
+  "Aguarda designação de relator na Comissão de Saúde da Câmara, onde chegou em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640670",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164424",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "34be6533caffed92",
+ "hash_tramitacao": "ac9ed3d998a8d5b0",
+ "tentativa": 1
+}

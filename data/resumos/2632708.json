@@ -1,0 +1,28 @@
+{
+ "id": 2632708,
+ "titulo": "Obriga órgãos federais a justificar todas as despesas do zero a cada quatro anos",
+ "tldr": [
+  "Gastos correntes deixam de ser renovados automaticamente. Despesas sem justificativa ou eficiência comprovada sofrem corte mínimo de 20% e podem ser extintas no ciclo seguinte, exceto as obrigatórias pela Constituição.",
+  "Ministérios, órgãos da Presidência, autarquias e fundações federais, além do Tribunal de Contas da União e da Controladoria-Geral da União.",
+  "Aguarda designação de relator na Comissão de Administração e Serviço Público da Câmara, onde chegou em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632708",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147416",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "852202f0399aad1f",
+ "hash_tramitacao": "345736c6660bc23b",
+ "tentativa": 1
+}

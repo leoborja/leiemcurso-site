@@ -1,0 +1,28 @@
+{
+ "id": 2639319,
+ "titulo": "Cria política nacional de segurança e proteção contra violência para profissionais de enfermagem",
+ "tldr": [
+  "Serviços de saúde passam a ter de adotar planos de segurança, protocolos contra acidentes e violência e medidas de saúde mental. O texto cria um certificado de competências e um selo para unidades.",
+  "Enfermeiros, técnicos e auxiliares de enfermagem e os serviços de saúde públicos e privados onde trabalham.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 03/09/2026. A decisão cabe às comissões, sem passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639319",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162049",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b129861f37218a1e",
+ "hash_tramitacao": "06bc045a041665b1",
+ "tentativa": 1
+}

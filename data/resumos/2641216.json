@@ -1,0 +1,28 @@
+{
+ "id": 2641216,
+ "titulo": "Garante no SUS a continuidade do tratamento com bombas de insulina e sensores para quem tem diabetes tipo 1",
+ "tldr": [
+  "Quem já usa essas tecnologias pelo SUS mantém o tratamento. O fornecimento só pode ser interrompido com avaliação médica fundamentada, e não por mudanças em contratos, no orçamento ou na logística.",
+  "Pacientes com diabetes tipo 1 que usam tecnologias de controle da glicose pelo SUS, com prioridade para crianças, adolescentes, gestantes e moradores de áreas remotas.",
+  "Em 03/11/2026, a Mesa Diretora da Câmara mandou o texto tramitar junto com o PL 4503/2026. A análise cabe às comissões, sem precisar passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641216",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165114",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "156f2eca129db1d8",
+ "hash_tramitacao": "b7b0103c10a12571",
+ "tentativa": 1
+}

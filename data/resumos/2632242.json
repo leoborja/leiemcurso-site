@@ -1,0 +1,28 @@
+{
+ "id": 2632242,
+ "titulo": "Cria política nacional de incentivo a ciclovias e ciclofaixas nas rodovias federais",
+ "tldr": [
+  "Estudos e projetos de obras em rodovias federais passam a ter de considerar a inclusão de ciclovias, sobretudo em travessias urbanas. A União pode dar apoio técnico a estados e municípios que queiram participar.",
+  "Ciclistas, órgãos federais de infraestrutura de transportes e estados, Distrito Federal e municípios que aderirem de forma voluntária.",
+  "Aguarda a escolha de relator na Comissão de Desenvolvimento Urbano da Câmara, onde foi recebida em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632242",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146382",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7d7d4470e9b00e93",
+ "hash_tramitacao": "96f303d4f2f191c8",
+ "tentativa": 1
+}

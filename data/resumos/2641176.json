@@ -1,0 +1,28 @@
+{
+ "id": 2641176,
+ "titulo": "Cria programa nacional de fábricas de gelo e câmaras frias comunitárias em áreas remotas",
+ "tldr": [
+  "Permite apoio federal à instalação de fábricas de gelo e estruturas de refrigeração compartilhadas, inclusive com energia solar, e cria cadastro nacional dessas estruturas.",
+  "Pescadores artesanais, agricultores familiares, extrativistas, cooperativas e comunidades ribeirinhas, indígenas e quilombolas.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4488/2026 na Câmara, por decisão da Mesa Diretora. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641176",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165070",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7360f1303a66c5ae",
+ "hash_tramitacao": "2ff1deacdbdc9eab",
+ "tentativa": 1
+}

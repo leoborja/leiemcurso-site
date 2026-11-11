@@ -1,0 +1,28 @@
+{
+ "id": 2639540,
+ "titulo": "Proíbe cobrança pelo simples acesso a praias, rios, cachoeiras, ilhas e outros bens naturais públicos",
+ "tldr": [
+  "Fica proibido cobrar taxa ou ingresso e instalar barreiras para entrar nesses locais. A cobrança por serviços opcionais continua permitida, assim como os ingressos em unidades de conservação autorizados por lei.",
+  "Frequentadores desses locais, União, estados, municípios, concessionárias e condomínios que dão acesso a esses bens.",
+  "Aguarda a escolha de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara, que recebeu o texto em 05/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:37:36Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639540",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162463",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2a48e1b64545550f",
+ "hash_tramitacao": "a9960d87b034605f",
+ "tentativa": 1
+}

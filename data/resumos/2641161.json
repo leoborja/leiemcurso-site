@@ -1,0 +1,28 @@
+{
+ "id": 2641161,
+ "titulo": "Cria política nacional de prevenção e combate a fraudes digitais e de recuperação de valores das vítimas",
+ "tldr": [
+  "Bancos devem manter canal 24 horas para relatar fraude; cria sistema de resposta imediata com bloqueio preventivo, observatório nacional e programa de educação digital.",
+  "Vítimas de golpes digitais, instituições financeiras, plataformas digitais e a União, com prioridade para idosos e pessoas com deficiência.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4470/2026 na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641161",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165052",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3227aed1b5d78d8f",
+ "hash_tramitacao": "a8558ecd5decf409",
+ "tentativa": 1
+}

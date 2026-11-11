@@ -1,0 +1,28 @@
+{
+ "id": 2641478,
+ "titulo": "Cria carteira nacional gratuita para identificar mães que cuidam de pessoa com deficiência",
+ "tldr": [
+  "Mães que cuidam de forma contínua de pessoa com deficiência podem pedir uma carteira gratuita, física ou digital, válida em todo o país e aceita por órgãos públicos.",
+  "Mães responsáveis pelo cuidado permanente de pessoas com deficiência e os órgãos públicos que emitirão a carteira.",
+  "Em 26/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 3340/2026. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641478",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165543",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "97c6971a8d16fc7e",
+ "hash_tramitacao": "0bcbb0abbe3ed77b",
+ "tentativa": 1
+}

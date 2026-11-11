@@ -1,0 +1,28 @@
+{
+ "id": 2617803,
+ "titulo": "Garante direito a posse e porte de arma a maiores de 25 anos que cumpram requisitos legais",
+ "tldr": [
+  "Quem cumprir requisitos como idade mínima de 25 anos, ausência de antecedentes e aptidão técnica e psicológica terá direito a posse e porte. O porte depende de referendo, e o texto cria um sistema único de registro de armas.",
+  "Pessoas que querem ter ou portar arma de fogo, Polícia Federal e Exército, que mantêm os registros de armas.",
+  "Aprovado com mudanças na Comissão de Segurança Pública em 27/10/2026. Está na Comissão de Constituição e Justiça desde 05/11/2026, aguardando relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617803",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3116701",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "28ac30241828d9a8",
+ "hash_tramitacao": "493dbc96a941c710",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635670,
+ "titulo": "Define que erro no endereço do mandado de busca não anula a diligência se o local for identificável",
+ "tldr": [
+  "Um erro de digitação no endereço da ordem de busca e apreensão não invalidará a diligência nem as provas obtidas, desde que os demais dados da ordem permitam identificar o local sem dúvida.",
+  "Investigados e moradores de imóveis alvo de busca e apreensão, polícia, Ministério Público e juízes criminais.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, onde chegou em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635670",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154271",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ffea62187062d419",
+ "hash_tramitacao": "18b3623af191f91c",
+ "tentativa": 2
+}

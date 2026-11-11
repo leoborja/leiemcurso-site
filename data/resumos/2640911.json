@@ -1,0 +1,28 @@
+{
+ "id": 2640911,
+ "titulo": "Define regras de acessibilidade, segurança contra incêndio e plano de cuidados em casas de repouso para idosos",
+ "tldr": [
+  "Casas de repouso deverão ter acessibilidade, prevenção de incêndio, treinamento de equipe e um plano individual de cuidados para cada idoso, atualizado ao menos a cada seis meses. Prevê multa e interdição.",
+  "Instituições de longa permanência para idosos públicas, privadas ou filantrópicas, seus residentes e familiares.",
+  "Desde 29/10/2026 tramita junto com o PL 3727/2026. Foi encaminhado à publicação em 03/11/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640911",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164678",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9c7864101eada48a",
+ "hash_tramitacao": "0c1443f1fe9b8a8c",
+ "tentativa": 1
+}

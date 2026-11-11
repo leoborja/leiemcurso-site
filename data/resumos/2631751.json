@@ -1,0 +1,28 @@
+{
+ "id": 2631751,
+ "titulo": "Inclui 11 medicamentos na lista do SUS para distribuição gratuita",
+ "tldr": [
+  "Remédios como Zolgensma, adalimumabe, abiraterona e o implante contraceptivo de etonogestrel passam a ser fornecidos de graça pelo SUS. O Ministério da Saúde tem 90 dias para atualizar a lista e os protocolos.",
+  "Pacientes do SUS com as doenças tratadas por esses medicamentos e o Ministério da Saúde.",
+  "Aguarda designação de relator na Comissão de Saúde da Câmara, onde chegou em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631751",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145153",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9298ebaefbea66ac",
+ "hash_tramitacao": "074ba821005015c9",
+ "tentativa": 1
+}

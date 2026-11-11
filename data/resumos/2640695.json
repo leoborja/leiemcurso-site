@@ -1,0 +1,28 @@
+{
+ "id": 2640695,
+ "titulo": "Obriga agressor na Lei Maria da Penha a frequentar centro de reabilitação e ter acompanhamento psicossocial",
+ "tldr": [
+  "O juiz pode impor ao agressor, como medida protetiva, frequência em centros de educação e acompanhamento psicossocial. Descumprir qualquer medida fixada pelo juiz passa a ser crime, e a prisão preventiva continua possível.",
+  "Autores de violência doméstica contra a mulher, vítimas e juízes que aplicam medidas protetivas.",
+  "Tramita junto com outro projeto (PL 7125/2025) e aguarda encaminhamento nas comissões da Câmara. Foi encaminhado para publicação em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640695",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164449",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b987aba46aeae2fe",
+ "hash_tramitacao": "ed428e3ec9d066a3",
+ "tentativa": 1
+}

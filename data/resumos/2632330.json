@@ -1,0 +1,28 @@
+{
+ "id": 2632330,
+ "titulo": "Cria política nacional de segurança e cadastro nacional de operadores de turismo de aventura de alto risco",
+ "tldr": [
+  "Operadores de bungee jump, tirolesa, rapel e similares passam a ter de manter plano de riscos, seguro, conferência por dois responsáveis antes da atividade, registros por 5 anos e cadastro nacional.",
+  "Pessoas e empresas que exploram comercialmente atividades de aventura de alto risco, seus clientes e o Poder Executivo federal.",
+  "Tramita junto com o PL 3096/2026 em comissão da Câmara, onde foi recebido em 03/09/2026. O relator foi designado em 27/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632330",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146592",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "85408a78ce94b384",
+ "hash_tramitacao": "5d809123ad921764",
+ "tentativa": 1
+}

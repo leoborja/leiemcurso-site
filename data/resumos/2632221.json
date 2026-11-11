@@ -1,0 +1,28 @@
+{
+ "id": 2632221,
+ "titulo": "Permite sacar o FGTS para pagar tratamentos de reprodução assistida",
+ "tldr": [
+  "O trabalhador pode usar o saldo do FGTS para pagar técnicas de reprodução assistida se apresentar laudo médico. Casais podem usar o saldo de um ou dos dois, e o texto proíbe discriminação no acesso.",
+  "Trabalhadores com conta no FGTS que precisam de técnicas de reprodução assistida para ter filhos.",
+  "Tramita junto com o PL 5505/2025 na Comissão de Trabalho da Câmara, onde a tramitação conjunta foi registrada em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632221",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146317",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "db2d1cad9c653544",
+ "hash_tramitacao": "009ba038c43eed9a",
+ "tentativa": 1
+}

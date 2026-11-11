@@ -1,0 +1,28 @@
+{
+ "id": 2639473,
+ "titulo": "Reconhece como categoria própria os trabalhadores de serviços de solo nos aeroportos",
+ "tldr": [
+  "Empregados de empresas de serviços auxiliares ao transporte aéreo passam a formar a categoria \"Auxiliares do Transporte Aéreo\", separada dos demais trabalhadores da aviação civil. Os serviços de controle do espaço aéreo ficam de fora.",
+  "Trabalhadores e empresas de serviços auxiliares ao transporte aéreo, como atendimento, bagagens e cargas.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara desde 03/09/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639473",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162336",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d8def273626a36dc",
+ "hash_tramitacao": "5e484647d182492c",
+ "tentativa": 1
+}

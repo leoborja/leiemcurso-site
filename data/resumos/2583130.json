@@ -1,0 +1,28 @@
+{
+ "id": 2583130,
+ "titulo": "Obriga cartórios a enviar às secretarias de saúde os dados das certidões de óbito",
+ "tldr": [
+  "Os cartórios passam a enviar os dados de óbito às secretarias de saúde até o último dia útil do mês seguinte ao registro. O CPF passa a ser obrigatório na declaração de óbito, e um sistema informatizado vai compartilhar esses dados.",
+  "Cartórios de registro civil, o Ministério da Saúde, as secretarias estaduais e municipais de saúde e o Conselho Nacional de Justiça.",
+  "A Comissão de Saúde aprovou o parecer, com texto alternativo (substitutivo), em 28/10/2026. Desde 05/11/2026 está na Comissão de Constituição e Justiça e de Cidadania, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2583130",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3042867",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3873796b9afc918d",
+ "hash_tramitacao": "4079380aa16c89a4",
+ "tentativa": 1
+}

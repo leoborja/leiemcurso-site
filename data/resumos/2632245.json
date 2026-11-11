@@ -1,0 +1,28 @@
+{
+ "id": 2632245,
+ "titulo": "Cria regras para programas de pontos e milhas, incluindo venda e transferência",
+ "tldr": [
+  "Programas só poderiam proibir venda de pontos e limitar beneficiários se oferecerem conversão real em dinheiro por empresa independente; sem isso, valem outras regras. Entra em vigor 12 meses após publicada.",
+  "Empresas com programas de fidelidade, clientes participantes, empresas que intermediam venda de pontos e milhas e companhias aéreas.",
+  "Aprovada pelo Plenário da Câmara em 13/08/2026, com tramitação prioritária. Enviada ao Senado em 31/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632245",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146386",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ec5c57ec6b24b126",
+ "hash_tramitacao": "90b217d6ce8bc1d5",
+ "tentativa": 1
+}

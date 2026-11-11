@@ -1,0 +1,28 @@
+{
+ "id": 2633257,
+ "titulo": "Responsabiliza fabricantes e vendedores por defeitos em veículos elétricos e fixa indenização mínima",
+ "tldr": [
+  "Toda a cadeia de venda responde por danos de defeitos em veículos elétricos e baterias. Fixa indenização mínima de R$ 500.000,00 por morte e exige certificação de segurança e sistema antifogo nas baterias.",
+  "Fabricantes, importadores, montadoras, distribuidores, lojistas e oficinas de veículos elétricos, além de consumidores e vítimas de acidentes.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara, onde um relator foi designado em 04/11/2026. O prazo para emendas foi aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633257",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148643",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "320a8395e7b78ef3",
+ "hash_tramitacao": "fdba0d1ec1e0de8f",
+ "tentativa": 2
+}

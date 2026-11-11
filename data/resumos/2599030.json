@@ -1,0 +1,28 @@
+{
+ "id": 2599030,
+ "titulo": "Obriga o SUS a divulgar todo ano dados de saúde separados por raça/cor, gênero e faixa etária",
+ "tldr": [
+  "O SUS passa a ter de monitorar e divulgar a cada ano dados como mortalidade materna e infantil, pré-natal e espera por procedimentos. Esses dados servirão de base a planos com metas para a população negra.",
+  "O SUS e demais órgãos de saúde pública, além da população negra, em especial mulheres e crianças.",
+  "A Comissão de Saúde aprovou o parecer, com texto alternativo, em 04/11/2026. Desde 05/11/2026, o texto está na Comissão de Direitos Humanos, que ainda não indicou relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599030",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071678",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "02ac2b84b10238bb",
+ "hash_tramitacao": "857357bb9f1f3657",
+ "tentativa": 1
+}

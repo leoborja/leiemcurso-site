@@ -1,0 +1,28 @@
+{
+ "id": 2641580,
+ "titulo": "Proíbe interromper tratamento de saúde contínuo só por limite de sessões ou por motivo financeiro",
+ "tldr": [
+  "Tratamentos indicados por profissional só podem ser reduzidos ou interrompidos após reavaliação clínica registrada. Fica proibido cortá-los apenas por limite de sessões, cota ou motivo contratual ou financeiro.",
+  "Pacientes em tratamento contínuo, o SUS, os planos de saúde e os serviços privados de saúde.",
+  "Em 26/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 6636/2025. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641580",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166081",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "639cd0cfa70a5857",
+ "hash_tramitacao": "94496f3a25ebceeb",
+ "tentativa": 1
+}

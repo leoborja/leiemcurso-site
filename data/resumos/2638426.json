@@ -1,0 +1,28 @@
+{
+ "id": 2638426,
+ "titulo": "Revoga artigo de lei de 2026 e proíbe impor calendário escolar único por causa de eventos específicos",
+ "tldr": [
+  "Revoga o art. 67 da Lei nº 15.421/2026. Cada rede de ensino e cada escola passa a definir férias e recessos, e a lei fica proibida de impor pausa obrigatória das aulas por evento esportivo, cultural ou econômico, salvo em emergências.",
+  "Redes de ensino públicas e privadas, escolas, profissionais da educação, estudantes e famílias.",
+  "Arquivada. Em 31/08/2026, o Plenário da Câmara aprovou um texto alternativo ao PL 3481/2026, ao qual esta proposta estava anexada, e ela foi considerada prejudicada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638426",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159721",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "978b11680c559dc8",
+ "hash_tramitacao": "1086362262af3187",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640583,
+ "titulo": "Inclui conselhos comunitários de segurança em favelas entre as diretrizes da política de segurança pública",
+ "tldr": [
+  "A lei do Sistema Único de Segurança Pública passa a prever conselhos com lideranças e moradores de favelas para planejar ações preventivas e avaliar as ações de segurança no território.",
+  "Moradores e lideranças de favelas e órgãos de segurança pública.",
+  "Aguarda escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640583",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164337",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1a60e45f1b321edc",
+ "hash_tramitacao": "2ccc0c13b659b937",
+ "tentativa": 1
+}

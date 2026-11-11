@@ -1,0 +1,28 @@
+{
+ "id": 2632546,
+ "titulo": "Permite proibir uso de redes sociais por condenados por crime hediondo cometido por meios digitais",
+ "tldr": [
+  "O juiz pode proibir o condenado de ter contas em redes sociais durante a pena e por até 20 anos depois, inclusive de ganhar dinheiro com conteúdo. As plataformas terão de bloquear os perfis dele.",
+  "Condenados de forma definitiva por crimes hediondos ou equiparados cometidos por meio de redes sociais ou relacionados a elas, e as plataformas digitais.",
+  "Tramita junto com o PL 36/2024, com prioridade (regime de urgência), e aguarda votação no Plenário da Câmara. O último andamento foi em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632546",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147067",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "db5bc06ee756f9f0",
+ "hash_tramitacao": "dfea8f5e9d8ccdac",
+ "tentativa": 1
+}

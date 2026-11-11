@@ -1,0 +1,28 @@
+{
+ "id": 2496264,
+ "titulo": "Permite deduzir do Imposto de Renda doações ao fundo nacional para calamidades públicas",
+ "tldr": [
+  "Pessoas físicas poderiam abater do Imposto de Renda doações ao fundo de defesa civil para ajudar vítimas de desastres naturais reconhecidos pelo Congresso, limitado a um por cento do imposto devido.",
+  "Contribuintes pessoas físicas do Imposto de Renda e pessoas atingidas por calamidades decorrentes de desastres naturais.",
+  "Retirado de tramitação a pedido do autor em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2496264",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2883729",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9813ff9b2d7d0aa4",
+ "hash_tramitacao": "39c7a1b992c2fb86",
+ "tentativa": 1
+}

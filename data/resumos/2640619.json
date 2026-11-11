@@ -1,0 +1,28 @@
+{
+ "id": 2640619,
+ "titulo": "Cria um sistema nacional de alerta sobre ameaças à natureza, às línguas e aos saberes de povos tradicionais",
+ "tldr": [
+  "O sistema reúne dados de desmatamento, fogo, garimpo e clima com dados sobre línguas indígenas e conhecimentos tradicionais. Com isso, emite alertas e mapas de risco, aproveitando estruturas que já existem, sem criar órgão novo.",
+  "Povos indígenas, comunidades quilombolas e demais comunidades tradicionais, além dos órgãos ambientais, culturais e de clima.",
+  "Aguarda a escolha de relator na Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara, onde chegou em 04/11/2026. Depois passa por mais quatro comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640619",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164373",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cad1ddae145b9195",
+ "hash_tramitacao": "8db7669d422c5205",
+ "tentativa": 1
+}

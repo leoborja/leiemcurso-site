@@ -1,0 +1,28 @@
+{
+ "id": 2641757,
+ "titulo": "Cria regras de transparência e restringe bolsas em convênios de estatais federais com universidades",
+ "tldr": [
+  "Convênios de estatais federais com faculdades para bolsas terão de divulgar antes critérios, valores e cronograma. Filiados políticos, candidatos e cabos eleitorais dos 5 anos anteriores ficam fora, salvo edital público.",
+  "Empresas públicas e sociedades de economia mista federais, instituições de ensino superior e candidatos a bolsas.",
+  "Recebido pela Comissão de Educação em 04/11/2026, aguarda a escolha de relator. Também passará pelas comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641757",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167669",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "911c220cf4104708",
+ "hash_tramitacao": "91e3acfc61581bb6",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2571546,
+ "titulo": "Cria política nacional de estímulo à geração de emprego e renda",
+ "tldr": [
+  "A União poderá oferecer crédito especial e benefícios fiscais a empresas que criarem vagas, ampliar a qualificação profissional e incentivar a contratação de jovens de 18 a 24 anos e de pessoas acima de 50 anos.",
+  "Trabalhadores, micro, pequenas e médias empresas, cooperativas, startups e instituições de qualificação profissional.",
+  "Aprovado com mudanças na Comissão de Indústria, Comércio e Serviços da Câmara em 13/10/2026. Aguarda a escolha de relator na comissão de trabalho (CTRAB), que recebeu o texto em 19/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2571546",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3021687",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7c6a2f043a4bb335",
+ "hash_tramitacao": "e81bf06ca03a8429",
+ "tentativa": 1
+}

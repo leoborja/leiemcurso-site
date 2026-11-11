@@ -1,0 +1,28 @@
+{
+ "id": 2641166,
+ "titulo": "Cria política nacional de autonomia tecnológica com programas de nuvem, dados e inteligência artificial",
+ "tldr": [
+  "Cria inventário de dependências tecnológicas, índice de autonomia, estratégia de nuvem, programas de computação e inteligência artificial e autoriza um fundo nacional para o setor.",
+  "Poder Executivo federal, órgãos que contratam computação em nuvem para serviços críticos e setor de tecnologia.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4399/2026 na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641166",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165060",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9a3e196a3cbf91cc",
+ "hash_tramitacao": "d6e10cf8aed1cf89",
+ "tentativa": 1
+}

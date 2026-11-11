@@ -1,0 +1,28 @@
+{
+ "id": 2641053,
+ "titulo": "Cria regras nacionais de qualidade regulatória e obriga órgãos reguladores a revisar suas normas",
+ "tldr": [
+  "Os órgãos reguladores terão de criar um sistema permanente para revisar, simplificar e avaliar suas normas com base em evidências, com o fim de evitar regras desatualizadas.",
+  "Órgãos e entidades públicas que exercem função regulatória.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026 passou a tramitar junto com o PL 4367/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641053",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164840",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1cc098f38e0c0cac",
+ "hash_tramitacao": "9f188141d4ebd725",
+ "tentativa": 1
+}

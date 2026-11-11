@@ -1,0 +1,28 @@
+{
+ "id": 2632104,
+ "titulo": "Cria recuperação judicial simplificada para empresas com até 40 credores e dívida até 1.000 salários mínimos",
+ "tldr": [
+  "Empresas pequenas em crise passam a ter um processo de recuperação com menos documentos, plano padronizado, custas pagas no fim e mediação obrigatória antes da falência quando houver sinais de viabilidade.",
+  "Sociedades empresárias e micro e pequenas empresas com até 40 credores e dívidas de até 1.000 salários mínimos, seus credores e a Justiça.",
+  "Aguarda a escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632104",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145855",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d9610db33413f4e9",
+ "hash_tramitacao": "3d86edfa189ab139",
+ "tentativa": 2
+}

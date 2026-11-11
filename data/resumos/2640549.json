@@ -1,0 +1,28 @@
+{
+ "id": 2640549,
+ "titulo": "Cria protocolo nas escolas para acompanhar alunos afetados emocionalmente pela separação dos pais",
+ "tldr": [
+  "Escolas de educação básica passam a seguir diretrizes de acolhimento, acompanhamento pedagógico e psicossocial e encaminhamento à rede de proteção de alunos afetados por separação ou conflito dos responsáveis.",
+  "Alunos da educação básica, suas famílias e escolas públicas e privadas.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 04/11/2026. Tramita junto com outro projeto, apensado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640549",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164303",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "35fe41f705997d58",
+ "hash_tramitacao": "2ccfbbdcb7ccf5c0",
+ "tentativa": 1
+}

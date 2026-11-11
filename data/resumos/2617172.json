@@ -1,0 +1,28 @@
+{
+ "id": 2617172,
+ "titulo": "Inclui na política para pessoas autistas diretrizes de atendimento em situações de crise",
+ "tldr": [
+  "A lei sobre os direitos da pessoa autista passa a prever abordagem sem coerção em crises, atuação conjunta de segurança, saúde e assistência social e treinamento de agentes públicos, conforme o orçamento.",
+  "Pessoas com Transtorno do Espectro Autista e suas famílias, agentes de segurança pública, equipes de emergência e de saúde.",
+  "Aprovado na Comissão de Defesa dos Direitos das Pessoas com Deficiência em 11/08/2026. Aguarda relator na Comissão de Constituição e Justiça desde 13/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617172",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3115231",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0f5e835fdadb212c",
+ "hash_tramitacao": "6f1b5b9c37ebbcb4",
+ "tentativa": 1
+}

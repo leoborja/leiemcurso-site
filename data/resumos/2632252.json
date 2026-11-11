@@ -1,0 +1,28 @@
+{
+ "id": 2632252,
+ "titulo": "Obriga concursos públicos federais a mostrar provas, critérios de correção e desempenho do candidato",
+ "tldr": [
+  "O candidato passa a ter acesso à cópia da prova, ao cartão-resposta, ao espelho de correção, às respostas dos recursos e a um relatório gratuito com seu desempenho. Os contratos com as bancas devem ser publicados.",
+  "Candidatos a concursos federais, órgãos federais e as empresas que organizam os concursos.",
+  "Tramita junto com o PL 4307/2025 e foi recebido pela comissão de administração e serviço público (CASP) em 13/10/2026. Em 29/10/2026, o PL 4144/2026 passou a tramitar junto com ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632252",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146458",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ca52c7773ae7af39",
+ "hash_tramitacao": "145eb4562da7d44e",
+ "tentativa": 1
+}

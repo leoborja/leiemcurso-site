@@ -1,0 +1,28 @@
+{
+ "id": 2633623,
+ "titulo": "Torna crime a negativa sem justificativa técnica de cobertura por planos de saúde",
+ "tldr": [
+  "Negar, atrasar ou interromper tratamento essencial sem justa causa técnica passa a dar prisão de 2 a 6 anos, e até 12 anos se o paciente morrer. A ANS passa a fiscalizar e a publicar dados sobre negativas.",
+  "Operadoras de planos de saúde e seus dirigentes, beneficiários de planos de saúde e a Agência Nacional de Saúde Suplementar.",
+  "Tramita junto com o PL 2789/2026 (apensada) na Comissão de Defesa do Consumidor desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633623",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149095",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3cf178d5ea7c7e04",
+ "hash_tramitacao": "a83a461ca46e39ff",
+ "tentativa": 1
+}

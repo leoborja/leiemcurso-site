@@ -1,0 +1,28 @@
+{
+ "id": 2360367,
+ "titulo": "Inclui escolas comunitárias no repasse direto de verbas da merenda e do Dinheiro Direto na Escola",
+ "tldr": [
+  "Escolas comunitárias, religiosas ou filantrópicas sem fins lucrativos e conveniadas com o poder público passam a receber os recursos do PNAE e do PDDE diretamente do governo federal, sem passar pelos municípios.",
+  "Escolas comunitárias, confessionais e filantrópicas sem fins lucrativos conveniadas com o poder público, e estados e municípios.",
+  "Tramita com prioridade (urgência aprovada em 21/12/2023). Foi aprovado nas comissões de Educação e de Finanças e está pronto para o Plenário, mas não foi votado em 03, 04 e 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2360367",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2268837",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e4b197741ddc5299",
+ "hash_tramitacao": "52ac720434627199",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634566,
+ "titulo": "Cria cadastro nacional de pessoas acusadas ou condenadas por crimes contra agentes de segurança pública",
+ "tldr": [
+  "O Ministério da Justiça passa a coordenar um sistema que reúne dados de indiciados, processados ou condenados por crimes violentos contra esses agentes. Os dados são compartilhados entre União, estados e municípios.",
+  "Agentes de segurança, juízes e promotores da área criminal e seus familiares, além de pessoas investigadas ou condenadas por esses crimes.",
+  "Está na Comissão de Segurança Pública e Combate ao Crime Organizado, que escolheu o relator em 28/10/2026. O prazo para emendas foi aberto em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634566",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151221",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cde830e15a659cf5",
+ "hash_tramitacao": "be0447434dc772b6",
+ "tentativa": 1
+}

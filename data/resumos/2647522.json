@@ -1,0 +1,28 @@
+{
+ "id": 2647522,
+ "titulo": "Perdoa dívidas de microempreendedores individuais inscritas na Dívida Ativa da União",
+ "tldr": [
+  "Seriam perdoadas as dívidas da contribuição mensal do MEI inscritas até 13/10/2026, com juros e multas, desde que o MEI pague em dia as contribuições dos seis meses seguintes e desista de ações na Justiça sobre essas dívidas.",
+  "Microempreendedores individuais com dívidas na Dívida Ativa da União e a Procuradoria-Geral da Fazenda Nacional.",
+  "Foi arquivada em 14/10/2026. O texto perdeu o objeto porque o Plenário da Câmara aprovou nesse dia outro projeto de lei complementar, ao qual esta proposta estava anexada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647522",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183630",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9ea06a15fe02612a",
+ "hash_tramitacao": "0a98eadeead54e57",
+ "tentativa": 1
+}

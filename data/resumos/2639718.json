@@ -1,0 +1,28 @@
+{
+ "id": 2639718,
+ "titulo": "Obriga hospitais a exibir QR Code para consulta do registro profissional dos médicos",
+ "tldr": [
+  "Os hospitais terão de colocar QR Codes em recepções, enfermarias e consultórios para o paciente conferir nome, foto e situação do registro do médico. Quem descumprir pode receber advertência, multa ou perder o alvará.",
+  "Hospitais públicos e privados, médicos, pacientes e acompanhantes.",
+  "Aguarda escolha de relator na Comissão de Saúde da Câmara desde 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639718",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162805",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e3002360524bac2c",
+ "hash_tramitacao": "009b8f48b5932b0b",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2631323,
+ "titulo": "Extingue o fator previdenciário no cálculo das aposentadorias do INSS",
+ "tldr": [
+  "As aposentadorias passam a ser calculadas pela média dos salários de contribuição, sem redutor ligado a idade, expectativa de vida ou tempo de contribuição. O segurado pode optar pela regra mais favorável.",
+  "Segurados do Regime Geral de Previdência Social que se aposentam pelo INSS e o próprio INSS.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631323",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144415",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d42997ce6e031114",
+ "hash_tramitacao": "dc6025b3e53aa7e3",
+ "tentativa": 1
+}

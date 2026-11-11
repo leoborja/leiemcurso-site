@@ -1,0 +1,28 @@
+{
+ "id": 2633067,
+ "titulo": "Cria o Dia Nacional das Gestoras e dos Gestores Públicos, em 6 de março",
+ "tldr": [
+  "A data entra no calendário oficial, e podem ser feitos debates, seminários e campanhas sobre a gestão pública.",
+  "Gestores públicos e estudantes e profissionais da área de administração e políticas públicas.",
+  "O relator na Comissão de Cultura da Câmara deu parecer pela aprovação em 03/11/2026; aguarda votação na comissão."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633067",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148352",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dcc61a86e2fed780",
+ "hash_tramitacao": "89d480d485130de5",
+ "tentativa": 1
+}

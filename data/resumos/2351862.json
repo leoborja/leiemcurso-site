@@ -1,0 +1,28 @@
+{
+ "id": 2351862,
+ "titulo": "Obriga distribuidoras a comprar créditos de energia solar de agricultores familiares e MEIs com financiamento",
+ "tldr": [
+  "O BNDES destinaria pelo menos 10% de certos recursos para financiar micro e minigeração de energia. As distribuidoras comprariam os créditos de energia desses produtores até a quitação do financiamento.",
+  "Agricultores familiares, microempreendedores individuais, distribuidoras de energia elétrica e o BNDES.",
+  "A Comissão de Minas e Energia aprovou em 04/11/2026 parecer favorável, com texto alternativo, que inclui o projeto apensado. Antes, o texto já tinha sido aprovado em outras duas comissões, em 2024."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2351862",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2245753",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f3e70387a7426a18",
+ "hash_tramitacao": "70d6e249ff27fa4b",
+ "tentativa": 1
+}

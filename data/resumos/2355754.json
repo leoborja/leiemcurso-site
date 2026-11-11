@@ -1,0 +1,28 @@
+{
+ "id": 2355754,
+ "titulo": "Autoriza o Poder Executivo a criar a Universidade Federal do Nordeste da Bahia",
+ "tldr": [
+  "O Poder Executivo fica autorizado, mas não obrigado, a criar a universidade. Ela seria mantida pela União, teria autonomia e atuaria em ensino, pesquisa e extensão.",
+  "Estudantes e municípios do nordeste da Bahia, a União e o Ministério da Educação.",
+  "Tramita com prioridade (urgência aprovada no Plenário em 13/08/2026). A Comissão de Educação aprovou parecer favorável em 04/11/2026. Desde 04/11/2026, aguarda a escolha de relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2355754",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2257555",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b143c300eae738f5",
+ "hash_tramitacao": "04ff6261fd865a22",
+ "tentativa": 1
+}

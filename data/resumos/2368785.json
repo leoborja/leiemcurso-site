@@ -1,0 +1,28 @@
+{
+ "id": 2368785,
+ "titulo": "Cria programa nacional contra a evasão escolar com diretrizes para manter os alunos na escola",
+ "tldr": [
+  "Redes estaduais e municipais terão de aplicar diretrizes como identificar cedo os alunos em risco, oferecer apoio psicológico e formar redes de profissionais. Também cria um grupo nacional de acompanhamento e um estudo a cada quatro anos.",
+  "Estudantes e famílias, redes estaduais e municipais de ensino e o Ministério da Educação.",
+  "Aprovado pela Comissão de Educação e, em 04/11/2026, pela Comissão de Finanças e Tributação. Desde 05/11/2026 está na Comissão de Constituição e Justiça, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2368785",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2286939",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "448e5b6b0dbc62db",
+ "hash_tramitacao": "1c4e11653c0271ad",
+ "tentativa": 1
+}

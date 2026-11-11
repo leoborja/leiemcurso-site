@@ -1,0 +1,28 @@
+{
+ "id": 2538801,
+ "titulo": "Aumenta a pena do tráfico de drogas cometido com uso de aviões e helicópteros",
+ "tldr": [
+  "O uso de aeronave no tráfico passa a ser motivo de aumento de pena na Lei de Drogas. Se a aeronave for pública, a pena aumenta de dois quintos a três quintos.",
+  "Pessoas processadas por tráfico e crimes ligados previstos na Lei de Drogas cometidos com aeronaves.",
+  "Aprovado nas comissões de Segurança Pública (25/11/2025) e de Constituição e Justiça (28/04/2026). Está pronto para votação no Plenário; houve pedido de inclusão na pauta em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538801",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2962483",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fd05791b46521770",
+ "hash_tramitacao": "fd7d6ed34e82010e",
+ "tentativa": 1
+}

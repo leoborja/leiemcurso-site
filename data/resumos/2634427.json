@@ -1,0 +1,28 @@
+{
+ "id": 2634427,
+ "titulo": "Muda o Enem para avaliar também os itinerários do ensino médio, incluindo o técnico",
+ "tldr": [
+  "O Enem passa a avaliar a formação geral e o itinerário cursado pelo aluno; os resultados da parte técnica serão usados na avaliação nacional de cursos técnicos e tecnológicos.",
+  "Estudantes do ensino médio, cursos e escolas de educação profissional e o Ministério da Educação.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 21/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634427",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3150620",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9709ca2529dfbfe0",
+ "hash_tramitacao": "eb814771d6ea3284",
+ "tentativa": 1
+}

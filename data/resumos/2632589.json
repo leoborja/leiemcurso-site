@@ -1,0 +1,28 @@
+{
+ "id": 2632589,
+ "titulo": "Torna crime fabricar, vender ou usar linha cortante com cerol ou material semelhante",
+ "tldr": [
+  "Prevê pena de 1 a 3 anos de detenção, maior se houver lesão ou morte, e de 2 a 4 anos para quem fornecer a linha a criança ou adolescente. Pais podem ter de pagar pelos danos causados pelos filhos.",
+  "Fabricantes, vendedores e usuários de linhas cortantes, adultos que as fornecem a menores e pais ou responsáveis.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, onde foi recebida em 19/08/2026. Depois, vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632589",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147153",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8a2db848bdc83f4f",
+ "hash_tramitacao": "ca0ac8abee6f6f7a",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634854,
+ "titulo": "Cria política nacional e programa para melhorar a acessibilidade e a estrutura para famílias nas praias",
+ "tldr": [
+  "Cria o Programa, o Padrão e o Selo Praia Acolhedora, que incentivam fraldários, banheiros familiares e acessibilidade. A União poderá dar apoio técnico, com prioridade para praias de rio e lago da Amazônia Legal.",
+  "Pessoas com deficiência, idosos, famílias com crianças pequenas, frequentadores de praias e os municípios e estados que administram essas áreas.",
+  "Aguarda a escolha de relator na Comissão de Turismo da Câmara. Em 26/10/2026 recebeu o PL 4830/2026, que passou a tramitar junto com ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634854",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151686",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "69811d8a45b1e1c0",
+ "hash_tramitacao": "8940b0304a76af37",
+ "tentativa": 2
+}

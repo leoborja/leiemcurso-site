@@ -1,0 +1,28 @@
+{
+ "id": 2641689,
+ "titulo": "Obriga quem apresentou um contrato no processo a provar que ele é autêntico quando contestado",
+ "tldr": [
+  "O Código de Processo Civil passa a dizer de forma expressa que, se a autenticidade de um contrato for contestada, cabe a quem apresentou o documento provar que ele é verdadeiro.",
+  "Partes de processos civis, como consumidores, bancos e fornecedores que apresentam contratos na Justiça.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, que recebeu o projeto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641689",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166972",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "665ab5e4b1d4378d",
+ "hash_tramitacao": "9e66a38d48402bb1",
+ "tentativa": 1
+}

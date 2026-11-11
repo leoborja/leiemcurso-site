@@ -1,0 +1,28 @@
+{
+ "id": 2639858,
+ "titulo": "Proíbe políticos eleitos de lucrar com conteúdo na internet sobre o mandato ou feito com verba pública",
+ "tldr": [
+  "Ocupantes de mandato não poderão ganhar dinheiro com vídeos, podcasts ou posts sobre suas atividades nem com conteúdo feito com verba de gabinete ou servidores. As punições vão de advertência a processo por improbidade.",
+  "Presidente, governadores, prefeitos, seus vices, senadores, deputados federais, estaduais e distritais e vereadores.",
+  "Tramita junto com o PL 915/2025. Foi enviado para publicação em 27/10/2026 e aguarda encaminhamento na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639858",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163048",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5986baba1cf85d7b",
+ "hash_tramitacao": "47f0be372eb713e6",
+ "tentativa": 2
+}

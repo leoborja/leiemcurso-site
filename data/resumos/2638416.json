@@ -1,0 +1,28 @@
+{
+ "id": 2638416,
+ "titulo": "Cria pensão de um salário mínimo para órfãos de baixa renda, seja qual for a causa da morte dos pais",
+ "tldr": [
+  "Menores de 18 anos que perderam pai, mãe ou ambos, com renda familiar por pessoa de até 1/4 do salário mínimo, recebem pensão mensal de 1 salário mínimo. Substitui a lei atual, que vale só para órfãos de feminicídio.",
+  "Crianças e adolescentes órfãos de famílias de baixa renda inscritas no CadÚnico, incluindo os que estão sob tutela do Estado.",
+  "Aguarda parecer da relatoria na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara. O prazo para emendas terminou em 28/10/2026 sem nenhuma emenda."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638416",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159611",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b6394b30343905ce",
+ "hash_tramitacao": "02a05f4181b7394b",
+ "tentativa": 1
+}

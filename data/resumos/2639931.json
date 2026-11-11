@@ -1,0 +1,28 @@
+{
+ "id": 2639931,
+ "titulo": "Transforma o Fundo Social do petróleo em fundo permanente com regras para guardar a receita",
+ "tldr": [
+  "O fundo passa a ter o patrimônio preservado, e só os rendimentos podem ser usados, até três por cento ao ano, em áreas definidas. A gestão fica com uma autoridade independente de sete membros.",
+  "A União, a gestão das receitas de petróleo, gás e outros recursos minerais, o Congresso Nacional e o Tribunal de Contas da União.",
+  "Aguarda a escolha de relator na Comissão de Minas e Energia da Câmara, que recebeu o texto em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639931",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163128",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "848c0e3855f50d9d",
+ "hash_tramitacao": "9644f38285c4c9b8",
+ "tentativa": 1
+}

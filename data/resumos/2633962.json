@@ -1,0 +1,28 @@
+{
+ "id": 2633962,
+ "titulo": "Obriga órgãos públicos a divulgar presentes, viagens e outros benefícios recebidos por agentes públicos",
+ "tldr": [
+  "Agentes públicos terão de comunicar presentes, hospedagens, viagens e outros benefícios pagos por quem tem relação com o poder público acima de 1% do teto salarial constitucional. Os órgãos publicam essas informações em seus sites.",
+  "Agentes públicos e órgãos e entidades sujeitos à Lei de Acesso à Informação, além de quem oferece esses benefícios.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633962",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149629",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5d6722c8434abc40",
+ "hash_tramitacao": "063a99f988b8b99a",
+ "tentativa": 1
+}

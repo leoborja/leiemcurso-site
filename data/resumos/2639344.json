@@ -1,0 +1,28 @@
+{
+ "id": 2639344,
+ "titulo": "Permite suspender descontos de consignado em folha ou benefício quando houver indícios de irregularidade",
+ "tldr": [
+  "Autoridade poderá suspender os descontos em casos de intervenção no banco, investigação de fraude ou ordem judicial, sem multa ou juros. O banco terá 15 dias para entregar cópia do contrato e da dívida.",
+  "Servidores, aposentados, pensionistas e outros beneficiários com consignado, além de bancos, correspondentes bancários e empresas que oferecem esse crédito.",
+  "Recebido pela Comissão de Defesa do Consumidor da Câmara em 09/09/2026; aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639344",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162120",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "20e02cc11eb0d2ad",
+ "hash_tramitacao": "faef9b8425f63ae2",
+ "tentativa": 1
+}

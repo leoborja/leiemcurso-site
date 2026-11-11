@@ -1,0 +1,28 @@
+{
+ "id": 2637107,
+ "titulo": "Cria o Dia Nacional da Herança Pentecostal Brasileira, em 18 de junho",
+ "tldr": [
+  "Inclui no calendário oficial uma data comemorativa, em 18 de junho, para o movimento pentecostal. Não cria feriado.",
+  "O efeito é geral, por ser uma data comemorativa nacional.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637107",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157089",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4a4cd9aadb74f859",
+ "hash_tramitacao": "154b2b7a32aca566",
+ "tentativa": 1
+}

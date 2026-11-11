@@ -1,0 +1,28 @@
+{
+ "id": 2632794,
+ "titulo": "Proíbe liberdade provisória em audiência de custódia para quem já a recebeu 3 vezes em 5 anos",
+ "tldr": [
+  "O juiz não poderia soltar nem aplicar medidas alternativas à prisão para quem recebeu esse benefício 3 ou mais vezes nos últimos 5 anos.",
+  "Pessoas presas que já receberam esse benefício 3 ou mais vezes em 5 anos e juízes que fazem audiências de custódia.",
+  "Tramita junto com o PL 4862/2025 na Comissão de Constituição e Justiça e de Cidadania da Câmara desde 06/11/2026. Depois, vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632794",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147575",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c0be9ffb933fb048",
+ "hash_tramitacao": "e577f968ab5a4b3c",
+ "tentativa": 2
+}

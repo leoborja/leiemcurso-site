@@ -1,0 +1,28 @@
+{
+ "id": 2593317,
+ "titulo": "Cria serviço nacional de proteção ao idoso em risco e canal nacional de denúncias de violência",
+ "tldr": [
+  "Cria um canal gratuito, com funcionamento ininterrupto, para receber denúncias de violência contra idosos, com sigilo do denunciante. Estados e municípios poderão criar equipes de resposta rápida, com possível apoio da União.",
+  "Pessoas idosas, órgãos de segurança pública e de assistência social, conselhos da pessoa idosa, estados, Distrito Federal e municípios.",
+  "Aprovado com texto alternativo na Comissão de Defesa dos Direitos da Pessoa Idosa em 12/08/2026. Tramita junto com o PL 6346/2025 e aguarda relator na Comissão de Finanças e Tributação desde 24/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593317",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3061941",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "952622e6b77e3dc0",
+ "hash_tramitacao": "6b0c7c8ca423ba98",
+ "tentativa": 1
+}

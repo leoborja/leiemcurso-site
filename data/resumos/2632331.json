@@ -1,0 +1,28 @@
+{
+ "id": 2632331,
+ "titulo": "Cria o Dia Nacional do Queijo Artesanal",
+ "tldr": [
+  "Cria uma data anual para o queijo artesanal. O resumo oficial indica 18 de junho, mas o texto do projeto fixa 14 de junho.",
+  "O efeito é geral: a data é comemorativa.",
+  "Aguarda escolha de relator na Comissão de Cultura da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632331",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146593",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "50bf4c3d8a27fb4d",
+ "hash_tramitacao": "a02a98bc3f71fb23",
+ "tentativa": 1
+}

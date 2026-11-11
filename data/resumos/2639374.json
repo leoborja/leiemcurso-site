@@ -1,0 +1,28 @@
+{
+ "id": 2639374,
+ "titulo": "Define diretrizes para prevenir intoxicação por plantas ornamentais tóxicas em espaços coletivos",
+ "tldr": [
+  "O Poder Executivo poderá fazer listas e campanhas sobre plantas tóxicas e incentivar sua substituição em áreas públicas. Lojas que vendem plantas, sementes ou mudas terão de informar se a espécie é tóxica.",
+  "Gestores de praças, parques, escolas e unidades de saúde, lojas de plantas, estados e municípios.",
+  "Tramita junto com o PL 2638/2025 e foi recebido pela Comissão de Desenvolvimento Urbano da Câmara em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639374",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162163",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "af0f9bc940217ce6",
+ "hash_tramitacao": "b629d70fbf63b12a",
+ "tentativa": 1
+}

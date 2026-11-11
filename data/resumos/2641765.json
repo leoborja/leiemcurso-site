@@ -1,0 +1,28 @@
+{
+ "id": 2641765,
+ "titulo": "Torna automático o processo por dano em violência doméstica e manda o agressor indenizar com seus bens",
+ "tldr": [
+  "O crime de dano em violência doméstica contra a mulher passa a ser processado mesmo sem queixa da vítima. A indenização sai dos bens e rendimentos do agressor, e as ações de ressarcimento ganham prioridade.",
+  "Mulheres vítimas de violência doméstica e familiar, os agressores e a Justiça.",
+  "Recebido pela Comissão de Defesa dos Direitos da Mulher em 04/11/2026, aguarda a escolha de relator. Há pedido de urgência apresentado em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641765",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167742",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "82dddcf50a3fb34a",
+ "hash_tramitacao": "53b95a9973aee92e",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2633130,
+ "titulo": "Cria piso salarial nacional para conselheiros tutelares",
+ "tldr": [
+  "Estados, Distrito Federal e municípios não poderão pagar aos conselheiros tutelares menos que o piso nacional, com reajuste anual pelo INPC. Os conselheiros passam a ter inscrição no PASEP.",
+  "Conselheiros tutelares e União, estados, Distrito Federal e municípios, que pagam a remuneração.",
+  "Aguarda designação de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara, onde chegou em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633130",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148440",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "411a28130dc6fb5d",
+ "hash_tramitacao": "715c895700621a09",
+ "tentativa": 2
+}

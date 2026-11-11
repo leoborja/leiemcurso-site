@@ -1,0 +1,28 @@
+{
+ "id": 2630724,
+ "titulo": "Isenta do Imposto de Renda o salário de policiais e bombeiros militares e guardas municipais militares",
+ "tldr": [
+  "Salários, gratificações, aposentadorias e reformas ligados à corporação deixam de pagar Imposto de Renda; outras rendas continuam tributadas e a declaração anual segue obrigatória.",
+  "Policiais e bombeiros militares dos estados e do DF, na ativa, reserva ou reforma, e guardas municipais com estatuto militar.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado; relator designado em 28/10/2026 e prazo para emendas aberto em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630724",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143592",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "38aa8e8dbf73b90a",
+ "hash_tramitacao": "a87220c503e2890a",
+ "tentativa": 2
+}

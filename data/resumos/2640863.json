@@ -1,0 +1,28 @@
+{
+ "id": 2640863,
+ "titulo": "Define regras para condenação criminal impedir posse em cargo público federal",
+ "tldr": [
+  "Condenação definitiva só pode barrar candidato se tiver ligação com o cargo, previsão em lei e análise individual justificada. Fica proibido eliminar candidato só por inquérito ou processo em andamento.",
+  "Candidatos a cargos efetivos da administração federal direta, autarquias e fundações, e os órgãos que fazem concursos.",
+  "Tramita junto com o PL 1442/2025 (apensado em 29/10/2026). Em 04/11/2026 foi designado relator para esse projeto principal em comissão da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640863",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164624",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2889750442bea497",
+ "hash_tramitacao": "39d19c434cf0d911",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2638355,
+ "titulo": "Obriga planos de saúde a garantir atendimento em todas as especialidades médicas",
+ "tldr": [
+  "Planos terão de ter ao menos um médico por especialidade em cada região atendida. Se não houver, devem pagar o atendimento fora da rede, com reembolso em até 10 dias, e ficam sujeitos a multas e suspensão de vendas.",
+  "Operadoras de planos de saúde, seus clientes e a Agência Nacional de Saúde Suplementar.",
+  "Aguarda a escolha de relator na Comissão de Defesa do Consumidor da Câmara. Em 28/10/2026, outro projeto (PL 3584/2026) passou a tramitar junto com este."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638355",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159405",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9c6b88a6b575894a",
+ "hash_tramitacao": "7cec28f476291255",
+ "tentativa": 1
+}

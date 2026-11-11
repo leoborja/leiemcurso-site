@@ -1,0 +1,28 @@
+{
+ "id": 2636520,
+ "titulo": "Define quando a retratação da vítima pode levar à revisão de uma condenação criminal",
+ "tldr": [
+  "Quando a vítima volta atrás no que disse, isso só permite anular a condenação se outras provas confirmarem a nova versão e mostrarem a inocência do condenado.",
+  "Pessoas condenadas que pedem revisão criminal, vítimas e o Judiciário.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça da Câmara desde 08/09/2026. Há pedido de tramitação com prioridade apresentado em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636520",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155484",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2dac57667a853b23",
+ "hash_tramitacao": "20d839df395659fd",
+ "tentativa": 1
+}

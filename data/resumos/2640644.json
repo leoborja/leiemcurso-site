@@ -1,0 +1,28 @@
+{
+ "id": 2640644,
+ "titulo": "Define que pacientes de urgência no SUS sejam levados a unidades com vaga, mesmo em outro município ou estado",
+ "tldr": [
+  "Os gestores do SUS terão de encaminhar o paciente conforme a gravidade e as vagas disponíveis, mesmo fora do município ou estado de origem. Os sistemas terão de mostrar em tempo real os leitos livres.",
+  "Pacientes de urgência e emergência do SUS, gestores de saúde da União, dos estados, do Distrito Federal e dos municípios, e unidades públicas ou conveniadas.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, que recebeu o texto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640644",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164398",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3f4df6f1e86228a1",
+ "hash_tramitacao": "29fa044a7f8e4b57",
+ "tentativa": 1
+}

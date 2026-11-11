@@ -1,0 +1,28 @@
+{
+ "id": 2599710,
+ "titulo": "Cria programa nacional de oficinas de escrita e livros de autores de periferias, aldeias e fronteiras",
+ "tldr": [
+  "Prevê oficinas gratuitas de escrita em escolas, bibliotecas e comunidades, e apoio da União para publicar coletâneas regionais, distribuídas a escolas e bibliotecas públicas. Não exige escolaridade mínima.",
+  "Moradores de periferias, aldeias indígenas, comunidades tradicionais e regiões de fronteira, além de escolas e bibliotecas públicas.",
+  "Aprovado com texto alternativo na Comissão de Cultura em 12/08/2026. Desde 17/08/2026 aguarda relator na comissão da Câmara que trata de povos originários e tradicionais."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599710",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072637",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1c657dfb5b6e6221",
+ "hash_tramitacao": "0c9f4c4f641fe448",
+ "tentativa": 2
+}

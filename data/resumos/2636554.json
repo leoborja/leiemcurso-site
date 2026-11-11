@@ -1,0 +1,28 @@
+{
+ "id": 2636554,
+ "titulo": "Garante emprego e renda à mulher afastada do trabalho por ordem judicial em casos de violência doméstica",
+ "tldr": [
+  "O empregador paga os primeiros 15 dias de afastamento e o INSS paga o restante, até 6 meses, sem carência. A trabalhadora teria estabilidade de 18 meses. Quem não for segurada do INSS receberia um benefício do município.",
+  "Mulheres afastadas do trabalho por medida protetiva, empregadores, INSS e municípios.",
+  "Foi recebida pela Comissão de Trabalho da Câmara em 03/11/2026 e aguarda ser juntada ao PL 5605/2025, com o qual vai tramitar."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636554",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155603",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a50b5e51ffb2c766",
+ "hash_tramitacao": "ec5bae4f05487cb8",
+ "tentativa": 1
+}

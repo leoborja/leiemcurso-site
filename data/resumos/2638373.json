@@ -1,0 +1,28 @@
+{
+ "id": 2638373,
+ "titulo": "Cria punições administrativas para quem presta informação falsa de propósito no CadÚnico",
+ "tldr": [
+  "Quem mentir ou omitir dados de propósito para entrar ou ficar em programa federal terá a inscrição cancelada, devolverá os valores e poderá pagar multa de até 100% do que recebeu. Não cabe multa para erros sem intenção.",
+  "Responsáveis familiares inscritos no CadÚnico e beneficiários de programas federais que usam o cadastro, como o Bolsa Família.",
+  "Aguarda escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638373",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159429",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9390fbfb16be27b4",
+ "hash_tramitacao": "a3a4acf6dd10830e",
+ "tentativa": 1
+}

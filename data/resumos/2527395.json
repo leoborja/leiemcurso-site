@@ -1,0 +1,28 @@
+{
+ "id": 2527395,
+ "titulo": "Cria a Semana Nacional de Conscientização sobre Doenças Mitocondriais, de 18 a 24 de setembro",
+ "tldr": [
+  "Todo ano, de 18 a 24 de setembro, o Ministério da Saúde e associações de pacientes farão eventos sobre essas doenças. A cor verde passa a ser o símbolo da campanha.",
+  "Pessoas com doenças mitocondriais, suas associações e o Ministério da Saúde.",
+  "A Comissão de Saúde aprovou o projeto com mudança em 12/08/2026. Desde 14/08/2026 aguarda relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2527395",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2939536",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c82ae3793d7d8dff",
+ "hash_tramitacao": "4e96472c935abae1",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635206,
+ "titulo": "Inclui veículos oficiais de saúde entre os que têm prioridade e livre parada no trânsito em urgências",
+ "tldr": [
+  "Veículos oficiais de saúde em serviço de urgência, emergência ou atendimento sanitário passam a ter as mesmas regras das ambulâncias e não são multados por circulação, parada ou estacionamento, mesmo sem identificação visível.",
+  "Órgãos públicos de saúde e seus motoristas, e condutores em geral, que terão de dar passagem a esses veículos.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde foi recebido em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635206",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152800",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2749ccd9edc17bc7",
+ "hash_tramitacao": "9e52b63adb2070b1",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640705,
+ "titulo": "Obriga creches e pré-escolas a controlar a entrada de visitantes e seguir protocolo para a saída de crianças",
+ "tldr": [
+  "Creches e pré-escolas terão de identificar e registrar visitantes e manter cadastro de quem pode buscar cada criança. Fica proibido entregar a criança a quem não está autorizado, salvo exceção confirmada pelo responsável.",
+  "Creches e pré-escolas públicas e privadas, seus profissionais, as crianças matriculadas, pais e responsáveis, e os sistemas de ensino.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 06/11/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640705",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164459",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d99262033f68ade7",
+ "hash_tramitacao": "5cdae7cb623d5b4a",
+ "tentativa": 2
+}

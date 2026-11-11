@@ -1,0 +1,28 @@
+{
+ "id": 2420615,
+ "titulo": "Cria a Visão Zero como diretriz para políticas de trânsito, transporte e mobilidade urbana",
+ "tldr": [
+  "Define princípios e ações para eliminar mortes e lesões graves no trânsito, como campanhas, capacitação e investigação de cada morte, e cria o Dia Nacional em Memória das Vítimas de Trânsito no terceiro domingo de novembro.",
+  "Órgãos de trânsito e transporte da União, estados e municípios, gestores públicos, condutores do transporte público e usuários das vias.",
+  "Aprovado nas Comissões de Desenvolvimento Urbano, de Viação e Transportes e de Finanças e Tributação. Desde 08/09/2026 aguarda relator na Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2420615",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2394139",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c68f9ced6b5013d6",
+ "hash_tramitacao": "40498d38bb4e4bd8",
+ "tentativa": 1
+}

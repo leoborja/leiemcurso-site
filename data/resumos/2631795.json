@@ -1,0 +1,28 @@
+{
+ "id": 2631795,
+ "titulo": "Cria programa nacional de apoio à produção e à exportação de amendoim",
+ "tldr": [
+  "Permite ao Poder Executivo criar linhas de crédito, apoiar armazenagem, pesquisa, capacitação, certificação e promoção comercial do amendoim, conforme o orçamento disponível.",
+  "Produtores, cooperativas, indústrias e exportadores de amendoim, além de órgãos federais e instituições de pesquisa.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631795",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145264",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5678353a8bde2864",
+ "hash_tramitacao": "c5fa621c509dfcff",
+ "tentativa": 1
+}

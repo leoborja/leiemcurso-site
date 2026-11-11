@@ -1,0 +1,28 @@
+{
+ "id": 2639828,
+ "titulo": "Cria política nacional no SUS para prevenção, diagnóstico precoce e tratamento da infertilidade",
+ "tldr": [
+  "O SUS passa a ter diretrizes para acolher pessoas com infertilidade, capacitar profissionais, fazer campanhas educativas e ampliar o acesso à preservação da fertilidade de quem faz quimioterapia, radioterapia ou cirurgias.",
+  "Pessoas com infertilidade ou com fatores de risco, profissionais de saúde, Ministério da Saúde, estados e municípios.",
+  "Tramita junto com o PL 7158/2025 na Comissão de Saúde da Câmara, onde foi recebido em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639828",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162946",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b495288ee0de86e2",
+ "hash_tramitacao": "3d94d133928413f8",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2632534,
+ "titulo": "Cria piso salarial nacional de R$ 3.000,00 para porteiros, vigias e controladores de acesso",
+ "tldr": [
+  "Cria piso salarial de R$ 3.000,00 por mês, corrigido todo ano pelo INPC e implantado aos poucos em até 24 meses. O texto também prevê treinamento obrigatório, condições mínimas no posto de trabalho e proteção contra desvio de função.",
+  "Porteiros, vigias e controladores de acesso, além de condomínios, empresas terceirizadas e outros empregadores.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632534",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147052",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9ef283eb96f40322",
+ "hash_tramitacao": "fe866d06cfd3bdaa",
+ "tentativa": 1
+}

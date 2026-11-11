@@ -1,0 +1,28 @@
+{
+ "id": 2612634,
+ "titulo": "Libera R$ 285.000.000,00 para ações de defesa civil em municípios atingidos por desastres climáticos",
+ "tldr": [
+  "Libera dinheiro fora do orçamento previsto para o Ministério da Integração gastar com socorro, resposta e recuperação de áreas atingidas por desastres.",
+  "O Ministério da Integração e do Desenvolvimento Regional e os municípios e moradores atingidos por desastres climáticos.",
+  "A Câmara aprovou a medida em 15/07/2026, mas ela perdeu a validade em 24/07/2026, conforme ato do Congresso publicado em 11/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:10Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612634",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106416",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "78d4a4fc01feb209",
+ "hash_tramitacao": "ce0a6557bb730b2a",
+ "tentativa": 1
+}

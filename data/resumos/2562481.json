@@ -1,0 +1,28 @@
+{
+ "id": 2562481,
+ "titulo": "Cria regras especiais de concorrência para grandes empresas de mercados digitais",
+ "tldr": [
+  "Cria no Cade uma Superintendência de Mercados Digitais, que poderá apontar empresas digitais de relevância sistêmica, impor obrigações especiais a elas e aplicar sanções a quem descumprir.",
+  "Empresas que atuam em mercados digitais, em especial as consideradas de relevância sistêmica, e o Conselho Administrativo de Defesa Econômica (Cade).",
+  "Tramita com prioridade desde 18/03/2026, quando o Plenário aprovou a urgência por 276 a 186. Está pronta para votação no Plenário; último andamento em 12/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562481",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3003060",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c9d842e4026c291b",
+ "hash_tramitacao": "7ac6a4cad1d470c0",
+ "tentativa": 1
+}

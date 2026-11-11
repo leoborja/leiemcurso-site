@@ -1,0 +1,28 @@
+{
+ "id": 2640922,
+ "titulo": "Define regras de manutenção, monitoramento e acessibilidade para elevadores e escadas rolantes de shoppings",
+ "tldr": [
+  "Exige inspeção mensal, câmeras, sensores, botão de emergência e certificado anual de segurança com selo visível. Equipamentos que ofereçam risco devem ser interditados na hora.",
+  "Shoppings e centros comerciais com mais de 200 m² e pelo menos 4 lojas, e os usuários desses equipamentos.",
+  "Tramita junto com o PL 2249/2026, por decisão da Mesa Diretora da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640922",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164689",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "67163afae83dbd2c",
+ "hash_tramitacao": "b4de3d00c4da9215",
+ "tentativa": 1
+}

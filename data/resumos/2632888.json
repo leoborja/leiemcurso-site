@@ -1,0 +1,28 @@
+{
+ "id": 2632888,
+ "titulo": "Cria indenização por atraso de salário e proíbe retaliação contra trabalhador que denuncia irregularidades",
+ "tldr": [
+  "Muda a CLT: o salário atrasado sem justificativa gera indenização de 2% mais 1% por dia útil, até 20%. Três atrasos em 12 meses, ou assédio tolerado pela empresa, permitem ao empregado encerrar o contrato por falta do empregador.",
+  "Trabalhadores com carteira assinada e empregadores.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara. O PL 3189/2026 passou a tramitar junto com ele em 02/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632888",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148020",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1bf849deee40044b",
+ "hash_tramitacao": "89b5e0af1f76fc86",
+ "tentativa": 1
+}

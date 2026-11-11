@@ -1,0 +1,28 @@
+{
+ "id": 2632705,
+ "titulo": "Define a profissão de biólogo como profissão da área da saúde",
+ "tldr": [
+  "Biólogos passam a ser reconhecidos como profissionais da saúde em concursos, residências, regulação e programas públicos, sem perder a atuação em outras áreas.",
+  "Biólogos e órgãos e entidades públicas e privadas que lidam com a profissão.",
+  "Aguarda parecer da relatora na Comissão de Saúde da Câmara. O prazo de emendas terminou em 28/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632705",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147410",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "20b27ea4ac3e0de0",
+ "hash_tramitacao": "0c6e2513bf6b975a",
+ "tentativa": 1
+}

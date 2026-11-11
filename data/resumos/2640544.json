@@ -1,0 +1,28 @@
+{
+ "id": 2640544,
+ "titulo": "Reduz a contribuição ao INSS paga pela empresa que contratar jovem de 18 a 29 anos no primeiro emprego",
+ "tldr": [
+  "A contribuição patronal de 20% cai para 10% por até doze meses sobre o salário do jovem, até o limite de dois salários mínimos, se a empresa aumentar o número de empregados e contratar por prazo indeterminado.",
+  "Jovens de 18 a 29 anos sem emprego formal anterior por prazo indeterminado e empresas que os contratarem.",
+  "Aguarda escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara, que a recebeu em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640544",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164298",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "858f7533775db577",
+ "hash_tramitacao": "d1c215598b1cdd26",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2636925,
+ "titulo": "Declara monumento nacional a Igreja Velha e o Sítio Histórico do Porto de São Mateus, no Espírito Santo",
+ "tldr": [
+  "A Igreja Velha e o Sítio Histórico do Porto de São Mateus passam a ser reconhecidos por lei como monumento nacional.",
+  "Município de São Mateus, no Espírito Santo.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636925",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3156254",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1a26b8192a59ecdc",
+ "hash_tramitacao": "925446bab0b96d54",
+ "tentativa": 1
+}

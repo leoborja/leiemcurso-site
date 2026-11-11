@@ -1,0 +1,28 @@
+{
+ "id": 2634567,
+ "titulo": "Obriga locais onde se fazem partos a ensinar pais a desengasgar bebês e crianças",
+ "tldr": [
+  "Hospitais e serviços de parto devem orientar pais ou responsáveis, de preferência antes da alta, sobre prevenção de engasgo e manobras de desengasgo. Quem descumprir paga multa de R$ 1.000,00 a R$ 3.000,00.",
+  "Pais e responsáveis de recém-nascidos e estabelecimentos de saúde, públicos e privados, que realizam partos.",
+  "Aguarda designação de relator na Comissão de Saúde da Câmara, onde chegou em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634567",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151222",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6e9702cd1f8261da",
+ "hash_tramitacao": "a44360395f3e5a53",
+ "tentativa": 1
+}

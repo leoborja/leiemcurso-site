@@ -1,0 +1,28 @@
+{
+ "id": 2640578,
+ "titulo": "Obriga planos diretores municipais a mapear vulnerabilidade climática com dados socioeconômicos",
+ "tldr": [
+  "Planos diretores passam a incluir análise de risco climático por renda, idade, deficiência e moradia, e diretrizes para um plano municipal de adaptação com realocação de moradias de alto risco.",
+  "Municípios que elaboram ou revisam plano diretor e moradores de áreas de risco.",
+  "Recebido pela Comissão de Meio Ambiente e Desenvolvimento Sustentável em 03/11/2026, aguarda designação de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640578",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164332",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "276290051610e3de",
+ "hash_tramitacao": "28bcd248d39b8f09",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2583128,
+ "titulo": "Cria programa no SUS para incluir profissionais de educação física nas unidades de saúde",
+ "tldr": [
+  "Estados e municípios que aderirem recebem do Ministério da Saúde apoio técnico, capacitação e dinheiro para ter profissionais de educação física que avaliam pacientes e orientam exercícios.",
+  "Profissionais de educação física, unidades de saúde do SUS, estados e municípios que aderirem, e os pacientes atendidos.",
+  "Aprovado com texto alternativo (substitutivo) na Comissão de Saúde em 04/11/2026. Está na Comissão de Finanças e Tributação, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2583128",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3042863",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "750cb3ef7066dd7d",
+ "hash_tramitacao": "956138b1cc147245",
+ "tentativa": 1
+}

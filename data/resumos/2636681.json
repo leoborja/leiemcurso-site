@@ -1,0 +1,28 @@
+{
+ "id": 2636681,
+ "titulo": "Corrige a redação do Código Civil sobre a venda de bens de pais para filhos",
+ "tldr": [
+  "Retira a expressão \"em ambos os casos\" da regra que dispensa a autorização do cônjuge quando o casamento é no regime de separação obrigatória de bens. Segundo o autor, a regra continua a mesma.",
+  "Pais e avós que vendem bens a filhos ou netos e os cônjuges deles.",
+  "Está na Comissão de Constituição e Justiça, que escolheu relator em 04/11/2026. O prazo para emendas foi aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636681",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155921",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5bbdf74fcef73cbe",
+ "hash_tramitacao": "e7f200721c6c6e8d",
+ "tentativa": 1
+}

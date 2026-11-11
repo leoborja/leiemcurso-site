@@ -1,0 +1,28 @@
+{
+ "id": 2639373,
+ "titulo": "Muda o valor da bolsa de residência médica, prevê correção anual e fixa jornada de 40 horas semanais",
+ "tldr": [
+  "A bolsa do médico-residente passa a ter o mesmo valor da bolsa-formação prevista na Lei 12.871, com correção anual pelo IPCA, e a jornada de treinamento passa a ser de 40 horas semanais.",
+  "Médicos-residentes e as instituições que mantêm programas de residência médica.",
+  "Tramita junto com o PL 5465/2025 na Comissão de Saúde da Câmara, onde foi designado relator para o projeto principal em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639373",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162162",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bfaa2d0ecf1e69cf",
+ "hash_tramitacao": "0f2e43c11ebbc462",
+ "tentativa": 1
+}

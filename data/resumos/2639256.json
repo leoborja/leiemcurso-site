@@ -1,0 +1,28 @@
+{
+ "id": 2639256,
+ "titulo": "Cria acordo para o SUS comprar remédios de alto custo para doenças raras com pagamento ligado a resultados",
+ "tldr": [
+  "A União, por meio do Ministério da Saúde, pode fechar acordos com fabricantes em que o pagamento depende dos resultados do tratamento. Os acordos exigem avaliação prévia e divulgação periódica dos resultados.",
+  "Pacientes com doenças raras e ultrarraras atendidos pelo SUS, o Ministério da Saúde e os fabricantes desses medicamentos.",
+  "Aguarda parecer da relatora na Comissão de Saúde. O prazo para propor mudanças terminou em 28/10/2026 sem nenhuma emenda. Depois, segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639256",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161890",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6c2611ad914b6611",
+ "hash_tramitacao": "3b5671a299d201f5",
+ "tentativa": 1
+}

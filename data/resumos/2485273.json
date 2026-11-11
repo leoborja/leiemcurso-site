@@ -1,0 +1,28 @@
+{
+ "id": 2485273,
+ "titulo": "Dispensa laudo médico para o acesso de alunos à educação especial",
+ "tldr": [
+  "Na lei de diretrizes da educação, as escolas passam a ter de adaptar currículos, métodos e recursos às necessidades do aluno mesmo sem diagnóstico clínico ou laudo médico.",
+  "Alunos da educação especial, suas famílias e as escolas e redes de ensino.",
+  "Aprovado na Comissão de Pessoas com Deficiência. Aguarda parecer na Comissão de Educação, que em 10/06/2026 criou uma subcomissão para debater o tema e em 01/09/2026 aprovou a realização de audiência pública."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485273",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2860488",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c9bd5a0d33fa7728",
+ "hash_tramitacao": "f5fcd8b88a942824",
+ "tentativa": 1
+}

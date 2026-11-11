@@ -247,3 +247,16 @@ export function nomeParl(casa, n = 2) {
   const m = { Deputado: ['deputado', 'deputados'], 'Deputado Estadual': ['deputado estadual', 'deputados estaduais'], Vereador: ['vereador', 'vereadores'], Senador: ['senador', 'senadores'] }[casa?.parlamentar] || ['parlamentar', 'parlamentares'];
   return n === 1 ? m[0] : m[1];
 }
+
+// ---------- proposições de homenagem, nome de lugar ou data comemorativa ----------
+// Para não somar tudo como se pesasse igual na página do parlamentar: a ementa diz o tipo, sem juízo de valor.
+const RX_SIMB = [
+  ['utilidade pública', /^\W*declara de utilidade p[uú]blica/i],
+  ['homenagem', /t[íi]tulo d[eo] cidad[ãa]|cidadania honor[áa]ria|livro dos her[óo]is|^\W*(concede|confere|outorga|institui) (a |o )?(medalha|comenda|pr[êe]mio|t[íi]tulo|diploma)|^\W*(presta|rende) homenagem|^\W*homenageia|^\W*declara .{0,120}\bpatron[oa]|capital (nacional|estadual|mineira) d/i],
+  ['nome de lugar', /^\W*(d[áa]|confere|atribui) (a |o )?(denomina[çc][ãa]o|nome)\b|^\W*denomina\b|^\W*altera a denomina/i],
+  ['data comemorativa', /^\W*institui (o |a )?(dia|semana|m[eê]s|ano|jornada|data)\b|^\W*inclui .{0,80}calend[áa]rio|datas comemorativas|^\W*declara .{0,40}\bdia (nacional|estadual|municipal)/i],
+];
+export function simbolica(ementa) {
+  for (const [rot, rx] of RX_SIMB) if (rx.test(ementa || '')) return rot;
+  return null;
+}

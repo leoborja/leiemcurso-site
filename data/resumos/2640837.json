@@ -1,0 +1,28 @@
+{
+ "id": 2640837,
+ "titulo": "Cria sistema nacional que classifica áreas urbanas de risco em quatro níveis",
+ "tldr": [
+  "Áreas urbanas de risco passam a ser classificadas de R1 a R4. Municípios com áreas em R3 ou R4 terão de fazer um plano de redução de riscos. A classificação passa a contar na escolha de investimentos federais em prevenção.",
+  "Municípios com áreas de risco, estados, União, órgãos de defesa civil e moradores dessas áreas.",
+  "Em análise na Câmara. Em 29/10/2026, a Mesa Diretora determinou que tramite junto com o PL 2628/2024."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640837",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164593",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a45d0ef7990440b9",
+ "hash_tramitacao": "950652276c2192ad",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640495,
+ "titulo": "Obriga empresas do setor de ouro e minerais preciosos a adotar programas de controle de origem",
+ "tldr": [
+  "Empresas terão de auditar fornecedores todo ano, comprovar que não compram de terras indígenas ou áreas protegidas e bloquear transações suspeitas. A Agência Nacional de Mineração pode aplicar multa de 0,1% a 20% do faturamento.",
+  "Empresas que extraem, refinam, transportam, fundem, intermedeiam ou vendem ouro, pedras preciosas, diamantes e minerais metálicos estratégicos.",
+  "Aguarda designação de relator na Comissão de Minas e Energia da Câmara, que recebeu o projeto em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640495",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164249",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0feed1b1deec82ed",
+ "hash_tramitacao": "296960ea0f8a2de5",
+ "tentativa": 2
+}

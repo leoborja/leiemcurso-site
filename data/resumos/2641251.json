@@ -1,0 +1,28 @@
+{
+ "id": 2641251,
+ "titulo": "Cria regime simplificado de exportação em pequena escala para pequenos produtores em áreas de fronteira",
+ "tldr": [
+  "Cria exportação com menos papelada e registro digital, com limites de valor e lista de produtos autorizados. Prevê apoio à formalização e ao beneficiamento local, começando pela Região Norte e pela fronteira com a Guiana.",
+  "Microempreendedores individuais, microempresas, cooperativas, associações e trabalhadores informais de áreas de fronteira, sobretudo na Região Norte.",
+  "Em 03/11/2026, a Mesa da Câmara determinou que tramite junto com o PL 1705/2026. Será analisada nas comissões, sem precisar ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641251",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165149",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dbeb77ced413ba2d",
+ "hash_tramitacao": "b2e475bf7a661e7c",
+ "tentativa": 1
+}

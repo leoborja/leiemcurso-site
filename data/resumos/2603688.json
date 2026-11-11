@@ -1,0 +1,28 @@
+{
+ "id": 2603688,
+ "titulo": "Cria protocolo nacional obrigatório para investigar o desaparecimento de crianças e adolescentes",
+ "tldr": [
+  "Polícias passam a seguir etapas fixas nas primeiras 24 horas, de 24 a 72 horas e depois disso. Estados devem criar delegacias ou núcleos especializados, e as forças de segurança terão de trocar informações em tempo real.",
+  "Crianças e adolescentes desaparecidos e suas famílias, polícias civis e militares, Polícia Federal, Polícia Rodoviária Federal, guardas municipais e estados.",
+  "Aprovado com texto alternativo na Comissão de Segurança Pública em 01/09/2026. Desde 03/09/2026 aguarda relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, junto com outros 3 projetos anexados."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603688",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3085787",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "52fc8a9abf020f07",
+ "hash_tramitacao": "aa66c1a1a90e70cf",
+ "tentativa": 1
+}

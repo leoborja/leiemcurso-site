@@ -1,0 +1,28 @@
+{
+ "id": 2641685,
+ "titulo": "Aumenta a pena de agressão e crimes sexuais contra mulheres em transporte público e locais públicos",
+ "tldr": [
+  "A pena sobe de 1/3 até a metade quando esses crimes ocorrem no transporte público, em locais públicos ou abertos ao público, como lojas e bares. O plano nacional contra a violência à mulher passa a prever prevenção nesses espaços.",
+  "Mulheres vítimas, autores desses crimes, responsáveis por transportes e estabelecimentos abertos ao público e órgãos de segurança pública.",
+  "Aguarda a escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, onde chegou em 04/11/2026. Precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641685",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166953",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "03b9cff42bdee5f5",
+ "hash_tramitacao": "b345b621f86a8fe2",
+ "tentativa": 2
+}

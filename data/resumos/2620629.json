@@ -1,0 +1,28 @@
+{
+ "id": 2620629,
+ "titulo": "Libera R$ 17 bilhões extras para fundos garantidores e financiamento de caminhões e ônibus",
+ "tldr": [
+  "Liberava, fora do orçamento previsto, R$ 2.000.000.000 para o fundo garantidor FGI, R$ 500.000.000 para o fundo garantidor de exportações e R$ 14.500.000.000 para financiar a renovação de frotas.",
+  "Ministério da Fazenda, fundos garantidores de crédito, micro, pequenas e médias empresas e compradores de caminhões, ônibus e implementos.",
+  "Perdeu a validade sem ser votada. O prazo terminou em 27/08/2026, o que foi comunicado em 08/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620629",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3122676",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fbd6ef82132c19af",
+ "hash_tramitacao": "d0f1ceb3dd383edc",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2488594,
+ "titulo": "Permite quebrar sigilo bancário e fiscal de quem deve pensão alimentícia a filho menor",
+ "tldr": [
+  "O juiz poderá determinar a quebra dos sigilos bancário e fiscal do responsável pela pensão, em qualquer fase do processo, para verificar sua real capacidade de pagar a filho menor.",
+  "Pessoas obrigadas a pagar pensão alimentícia a filhos menores e os filhos que recebem a pensão.",
+  "Foi aprovado nas comissões de Previdência e Assistência Social (18/03/2026) e de Finanças e Tributação (14/10/2026). Aguarda relator na Comissão de Constituição e Justiça desde 03/11/2026. Depois vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488594",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2871148",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3d0c1aa69b78d2ef",
+ "hash_tramitacao": "725090df62ae41f1",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2637116,
+ "titulo": "Cria programa de apoio a cineastas de 18 a 35 anos",
+ "tldr": [
+  "Cria um programa federal que pode dar bolsas, prêmios, apoio financeiro e cursos para a produção e a divulgação de filmes de jovens cineastas.",
+  "Cineastas brasileiros com idade entre 18 e 35 anos e o órgão do Poder Executivo responsável pelo programa.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637116",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157098",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a35e56bbf790a5da",
+ "hash_tramitacao": "332de2b8b86fc8fb",
+ "tentativa": 1
+}

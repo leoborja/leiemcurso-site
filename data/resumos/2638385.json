@@ -1,0 +1,28 @@
+{
+ "id": 2638385,
+ "titulo": "Cria política nacional para desenvolver a produção de leite e derivados",
+ "tldr": [
+  "Cria um programa permanente com comitê de produtores, indústria, governo e pesquisa, com ações de tecnologia, assistência técnica, capacitação e estímulo ao consumo, e metas e relatórios anuais.",
+  "Produtores de leite, cooperativas, indústria de laticínios, Ministério da Agricultura e instituições de pesquisa.",
+  "Tramita junto com o PL 2978/2026 na Comissão de Agricultura da Câmara, onde foi recebida em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638385",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159459",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7499270ef8265d93",
+ "hash_tramitacao": "72eb9c79d7317246",
+ "tentativa": 1
+}

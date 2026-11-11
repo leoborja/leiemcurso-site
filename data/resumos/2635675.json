@@ -1,0 +1,28 @@
+{
+ "id": 2635675,
+ "titulo": "Presume que quem é isento do Imposto de Renda não pode pagar custas e tem direito à justiça gratuita",
+ "tldr": [
+  "O Código de Processo Civil passa a presumir a falta de recursos de quem é isento do Imposto de Renda. Com isso, essa pessoa tem acesso à gratuidade da justiça, sem pagar custas, despesas do processo e honorários de advogado.",
+  "Pessoas físicas isentas do Imposto de Renda que entram ou são parte em processos na Justiça.",
+  "Aguarda a escolha de relator na Comissão de Finanças e Tributação da Câmara, onde foi recebido em 18/08/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635675",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154276",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f0e595e8be61ba50",
+ "hash_tramitacao": "adc0c7328d0b39f2",
+ "tentativa": 1
+}

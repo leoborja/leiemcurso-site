@@ -1,0 +1,28 @@
+{
+ "id": 2634838,
+ "titulo": "Cria política nacional e fundo para apoiar crianças e adolescentes neurodivergentes",
+ "tldr": [
+  "Cria um fundo para financiar diagnóstico, terapias, centros de atendimento e apoio às famílias. Ao menos 60% dos recursos por ano vão para famílias do CadÚnico com renda por pessoa de até meio salário mínimo.",
+  "Crianças e adolescentes neurodivergentes, como autistas e pessoas com TDAH ou dislexia, suas famílias, estados, municípios e entidades sem fins lucrativos.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 19/08/2026. Ainda passará por outras quatro comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634838",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151662",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75ab43b30d3bac72",
+ "hash_tramitacao": "09f2f72d1deb1de2",
+ "tentativa": 1
+}

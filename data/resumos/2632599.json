@@ -1,0 +1,28 @@
+{
+ "id": 2632599,
+ "titulo": "Permite que advogados públicos federais aposentados votem e sejam votados para conselho de honorários",
+ "tldr": [
+  "Aposentados das carreiras da Advocacia Pública Federal passam a poder votar e se candidatar para conselheiro e suplente do Conselho Curador dos Honorários Advocatícios.",
+  "Advogados públicos federais aposentados e da ativa e o Conselho Curador dos Honorários Advocatícios.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, que recebeu o texto em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632599",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147172",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bc0aee59fb072caf",
+ "hash_tramitacao": "d819348a23d528b9",
+ "tentativa": 1
+}

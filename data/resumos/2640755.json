@@ -1,0 +1,28 @@
+{
+ "id": 2640755,
+ "titulo": "Define diretrizes para incentivar o estudo das Constituições Estaduais e da Lei Orgânica do DF",
+ "tldr": [
+  "União, estados e Distrito Federal poderão promover materiais, palestras, oficinas e parcerias sobre as constituições estaduais, sem impor conteúdo obrigatório às escolas.",
+  "Estudantes, instituições de ensino e órgãos públicos da União, dos estados e do Distrito Federal.",
+  "Em análise nas comissões da Câmara. Desde 29/10/2026 tramita junto com o PL 2727/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640755",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164509",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "77be499ce771fe42",
+ "hash_tramitacao": "bcf3a71dca1e518a",
+ "tentativa": 1
+}

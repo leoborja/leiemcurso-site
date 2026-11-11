@@ -1,0 +1,28 @@
+{
+ "id": 2562604,
+ "titulo": "Obriga contratos públicos de mão de obra terceirizada a reservar ao menos 20% das vagas para mulheres",
+ "tldr": [
+  "Editais de serviços contínuos com mão de obra exclusiva passam a exigir no mínimo 20% de mulheres, com preferência para vítimas de violência doméstica e para mulheres pretas e pardas, e com sigilo de seus dados.",
+  "Órgãos públicos de todos os níveis, empresas terceirizadas contratadas por eles e mulheres trabalhadoras, incluindo mulheres trans e travestis.",
+  "Aprovada na Comissão de Direitos Humanos em 12/08/2026. Recebida pela Comissão de Defesa dos Direitos da Mulher em 05/11/2026, onde aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562604",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3003339",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0a30a84b670f252c",
+ "hash_tramitacao": "459ebd18590c6d2f",
+ "tentativa": 1
+}

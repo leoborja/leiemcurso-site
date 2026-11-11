@@ -1,0 +1,28 @@
+{
+ "id": 2639860,
+ "titulo": "Cria regras para uso de inteligência artificial pela Receita na fiscalização de contribuintes",
+ "tldr": [
+  "O contribuinte deve ser avisado quando um sistema automatizado influir na sua seleção para fiscalização e pode pedir revisão por servidor. O fisco tem de documentar, auditar e cadastrar esses sistemas.",
+  "Administração tributária da União, contribuintes fiscalizados; estados, Distrito Federal e municípios podem adotar as regras.",
+  "Aguarda designação de relator na Comissão de Ciência, Tecnologia e Inovação da Câmara, onde chegou em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639860",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163050",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5fab95b196752f01",
+ "hash_tramitacao": "43a6fdbd5f754b28",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640728,
+ "titulo": "Aumenta o repasse federal de transporte escolar para alunos de quilombos e áreas de difícil acesso",
+ "tldr": [
+  "O valor por aluno repassado pelo programa federal de apoio ao transporte escolar passa a ter acréscimo de, no mínimo, 50% para estudantes de comunidades quilombolas certificadas e de áreas de difícil acesso.",
+  "Estados, Distrito Federal e municípios que fazem transporte escolar e os estudantes de comunidades quilombolas e de áreas de difícil acesso.",
+  "Aguarda a escolha de relator na Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara desde 06/11/2026. Depois passa por Educação, Finanças e Tributação e Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640728",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164482",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "741ed7703a02dccd",
+ "hash_tramitacao": "5b7b3b105091b3bc",
+ "tentativa": 1
+}

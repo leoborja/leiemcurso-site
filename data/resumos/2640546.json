@@ -1,0 +1,28 @@
+{
+ "id": 2640546,
+ "titulo": "Proíbe o cumprimento de internação por medida de segurança em estabelecimentos penais e a transfere para o SUS",
+ "tldr": [
+  "A internação de pessoas consideradas inimputáveis passa a ocorrer só em unidades do SUS. Os hospitais de custódia ficam restritos a atender crises temporárias de presos com transtorno mental.",
+  "Pessoas cumprindo medida de segurança de internação, presos com transtorno mental, hospitais de custódia e a rede de saúde mental do SUS.",
+  "Aguarda escolha de relator na Comissão de Saúde da Câmara, que a recebeu em 05/11/2026. O texto precisa passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640546",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164300",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "952713f943b66ba0",
+ "hash_tramitacao": "2edbde0b4c6fa080",
+ "tentativa": 1
+}

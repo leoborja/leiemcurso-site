@@ -1,0 +1,28 @@
+{
+ "id": 2602071,
+ "titulo": "Cria o Dia Nacional de Conscientização sobre Experiências Adversas na Infância, em 20 de maio",
+ "tldr": [
+  "Cria uma data anual em 20 de maio, na qual podem ser feitas campanhas, ações educativas e eventos sobre a prevenção de experiências adversas na infância.",
+  "Crianças e adolescentes e a sociedade em geral.",
+  "A Comissão de Previdência, Assistência Social, Infância, Adolescência e Família aprovou o parecer em 12/08/2026. Desde 13/08/2026, o projeto aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602071",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3080998",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cce47fafcee98a0f",
+ "hash_tramitacao": "458441bfd8bff57e",
+ "tentativa": 1
+}

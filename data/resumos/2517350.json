@@ -1,0 +1,28 @@
+{
+ "id": 2517350,
+ "titulo": "Transfere ao Comitê Brasileiro de Clubes a parcela da arrecadação das loterias que ia à Fenaclubes",
+ "tldr": [
+  "O 0,01% da arrecadação das loterias de números que ia para a Federação Nacional dos Clubes passa ao Comitê Brasileiro de Clubes. O dinheiro deve ser usado para capacitar e treinar gestores de clubes esportivos.",
+  "Comitê Brasileiro de Clubes, Federação Nacional dos Clubes Esportivos (Fenaclubes) e gestores de clubes esportivos.",
+  "Virou a Lei 15.523/2026, publicada no Diário Oficial em 29/09/2026, depois de aprovada na Câmara e no Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:10Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2517350",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2919552",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c10ed123c7355bfc",
+ "hash_tramitacao": "f09346869902e703",
+ "tentativa": 1
+}

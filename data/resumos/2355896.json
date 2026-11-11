@@ -1,0 +1,28 @@
+{
+ "id": 2355896,
+ "titulo": "Aumenta a pena de crimes de drogas cometidos com fraude para culpar uma pessoa inocente",
+ "tldr": [
+  "Torna motivo de aumento de pena no tráfico usar fraude para jogar a culpa em um inocente e manda aplicar juntos os aumentos de pena quando houver mais de um.",
+  "Pessoas acusadas de crimes previstos na Lei de Drogas.",
+  "Aprovado nas comissões de Segurança Pública (08/08/2023) e de Constituição e Justiça (03/11/2026). Está pronto para votação no Plenário da Câmara desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2355896",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2257938",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "232a2c151ec0b734",
+ "hash_tramitacao": "93872a61afa6f4a4",
+ "tentativa": 1
+}

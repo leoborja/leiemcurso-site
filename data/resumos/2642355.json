@@ -1,0 +1,28 @@
+{
+ "id": 2642355,
+ "titulo": "Cria programa nacional para financiar aeródromos regionais com doações e patrocínios",
+ "tldr": [
+  "O Poder Executivo poderia criar um programa para captar recursos privados e aprovar projetos de reforma e ampliação de aeródromos regionais, com possíveis incentivos fiscais dentro dos limites legais.",
+  "Aeródromos públicos regionais, entes públicos proponentes, doadores e patrocinadores pessoas físicas e jurídicas.",
+  "Retirado de tramitação a pedido do autor em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642355",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3169635",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "50420d2a892dd1cc",
+ "hash_tramitacao": "18d3579d267305f4",
+ "tentativa": 1
+}

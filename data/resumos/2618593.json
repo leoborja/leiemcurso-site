@@ -1,0 +1,28 @@
+{
+ "id": 2618593,
+ "titulo": "Cria plataforma digital para denúncias, inclusive anônimas, de violência sexual em escolas",
+ "tldr": [
+  "O serviço federal de monitoramento de violência escolar deve ter plataforma digital para comunicar casos de violência sexual, com opção de anonimato e inteligência artificial para triagem. Vale 180 dias após publicada.",
+  "Estudantes e comunidade escolar das instituições de ensino e o Poder Executivo, responsável pelo serviço.",
+  "Aprovado com emenda na Comissão de Educação em 28/10/2026, aguarda escolha de relator na Comissão de Finanças e Tributação desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618593",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3118473",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "eecd903ad8bcf9b2",
+ "hash_tramitacao": "523d82ca0a842177",
+ "tentativa": 2
+}

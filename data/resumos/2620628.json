@@ -1,0 +1,28 @@
+{
+ "id": 2620628,
+ "titulo": "Amplia fundo garantidor de crédito e cria financiamento para compra de caminhões e ônibus",
+ "tldr": [
+  "Autorizava a União a pôr até R$ 2.000.000.000,00 a mais no fundo garantidor do Peac-FGI e a destinar até R$ 14.500.000.000,00 a financiamentos do BNDES para renovar frotas de caminhões, ônibus e implementos.",
+  "Caminhoneiros autônomos, cooperados, empresas de transporte de cargas e passageiros, pequenas e médias empresas, BNDES e ministérios.",
+  "Perdeu a validade sem ser votada. O prazo terminou em 27/08/2026, o que foi comunicado em 08/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620628",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3122675",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "862461dbbbf80a17",
+ "hash_tramitacao": "978a10d22cc069ea",
+ "tentativa": 1
+}

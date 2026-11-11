@@ -1,0 +1,28 @@
+{
+ "id": 2506391,
+ "titulo": "Cria no SUS um programa de acompanhantes e atendimento em casa para idosos vulneráveis",
+ "tldr": [
+  "Equipes do SUS passam a ajudar em casa idosos de 60 anos ou mais com dependência ou pouco apoio familiar, em tarefas como higiene, alimentação, locomoção e idas a consultas.",
+  "Pessoas de 60 anos ou mais em situação de vulnerabilidade, suas famílias e cuidadores, e as unidades de atenção primária do SUS.",
+  "Aprovado com texto alternativo nas Comissões de Saúde (29/04/2026) e de Defesa dos Direitos da Pessoa Idosa (12/08/2026). Desde 24/08/2026 aguarda relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2506391",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2901327",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bd583ab772ab40b0",
+ "hash_tramitacao": "31b7a1218464808f",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2631333,
+ "titulo": "Aumenta a pena de furto e roubo cometidos por quem se passa falsamente por prestador de serviço",
+ "tldr": [
+  "O furto praticado com falsa identidade profissional passa a ter pena de 4 a 10 anos de reclusão. O roubo, de 8 a 14 anos, além de multa nos dois casos.",
+  "Pessoas que cometem furto ou roubo fingindo ser entregador, técnico ou outro profissional.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara desde 19/08/2026. Depois precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631333",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144425",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "956b7653a89d6eb4",
+ "hash_tramitacao": "b2b43c2bbc039343",
+ "tentativa": 1
+}

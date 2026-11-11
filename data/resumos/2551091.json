@@ -1,0 +1,28 @@
+{
+ "id": 2551091,
+ "titulo": "Inclui o nome do Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria",
+ "tldr": [
+  "O nome do padre e educador paraibano passa a constar do livro guardado no Panteão da Pátria e da Liberdade Tancredo Neves, em Brasília.",
+  "O efeito é simbólico e não atinge diretamente grupos de pessoas.",
+  "Tramita com prioridade (urgência aprovada em 12/08/2026) e aguarda votação no Plenário da Câmara; não foi analisado por fim da sessão em 03, 04 e 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2551091",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2982390",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "427e3e15efa3e1b2",
+ "hash_tramitacao": "44733df140a875ca",
+ "tentativa": 1
+}

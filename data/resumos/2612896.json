@@ -1,0 +1,28 @@
+{
+ "id": 2612896,
+ "titulo": "Define regras de responsabilidade por danos causados por sistemas de inteligência artificial",
+ "tldr": [
+  "Quem desenvolve, vende ou usa sistemas automatizados responde pelos danos mesmo sem culpa. Pessoas afetadas ganham direito a explicação e revisão humana. Sistemas de alto risco exigem auditoria e seguro.",
+  "Empresas e pessoas que desenvolvem, fornecem ou usam inteligência artificial, e as pessoas afetadas por decisões automatizadas.",
+  "Tramita junto com o PL 904/2026, com prioridade, e será votada no Plenário. O último andamento foi a publicação, em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612896",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3107141",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5597ac4963c73315",
+ "hash_tramitacao": "5da451eb80b4a1e7",
+ "tentativa": 2
+}

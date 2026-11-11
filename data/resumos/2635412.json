@@ -1,0 +1,28 @@
+{
+ "id": 2635412,
+ "titulo": "Cria no Código Penal os crimes de estupro virtual e de violação sexual por fraude digital",
+ "tldr": [
+  "Prevê pena de 6 a 10 anos para estupro cometido por meio digital, mesmo sem contato físico, e de 2 a 6 anos para fraude digital com fins sexuais, com aumento de pena em casos de chantagem com imagens íntimas.",
+  "Efeito geral: atinge quem cometer esses crimes e protege as vítimas de violência sexual por meios digitais.",
+  "Juntado ao PL 1891/2023, que tramita com prioridade e será votado no Plenário. Aguarda encaminhamento na Mesa da Câmara desde 02/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635412",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153673",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9a6a11b4bdac77d2",
+ "hash_tramitacao": "584dd35faf831bbb",
+ "tentativa": 1
+}

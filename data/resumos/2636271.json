@@ -1,0 +1,28 @@
+{
+ "id": 2636271,
+ "titulo": "Obriga creches e outras instituições a usar câmeras e comunicar casos de violência contra crianças",
+ "tldr": [
+  "Instituições terão de adotar protocolos, câmeras em áreas comuns e guardar imagens por 12 meses. Crianças e adolescentes: casos devem ser comunicados de imediato. Cria crimes e aumenta penas para omissão, destruição de provas e maus-tratos.",
+  "Creches, escolas, instituições de saúde, assistência, acolhimento, esporte, cultura e lazer, seus dirigentes e profissionais, e crianças e adolescentes atendidos.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara desde 08/09/2026. Depois das comissões, precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636271",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155147",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "36af76dec84a1612",
+ "hash_tramitacao": "7d323e66c4f388e0",
+ "tentativa": 1
+}

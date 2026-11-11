@@ -1,0 +1,28 @@
+{
+ "id": 2647400,
+ "titulo": "Inclui inclusão no trabalho e prevenção do suicídio entre as diretrizes da política para pessoas autistas",
+ "tldr": [
+  "A política nacional para autistas passa a prever ações de saúde mental para adolescentes e adultos: atendimento por texto ou chat nos serviços de apoio emocional, capacitação de equipes, campanhas e articulação com políticas de emprego.",
+  "Adolescentes e adultos com transtorno do espectro autista, equipes de saúde e assistência social e serviços públicos de apoio emocional.",
+  "Em 13/10/2026, o Plenário da Câmara aprovou por unanimidade a tramitação com prioridade. O texto está pronto para ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647400",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183407",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a94312901c008aa6",
+ "hash_tramitacao": "4834bc2dc655ae31",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2417899,
+ "titulo": "Proíbe limitar o número de aprovados na primeira fase de concursos públicos",
+ "tldr": [
+  "Quem atingir a nota mínima na primeira fase segue no concurso. Quem passar nas fases seguintes mas ficar fora das vagas entra em cadastro de reserva e pode ser chamado enquanto o concurso valer.",
+  "Candidatos a cargos efetivos e órgãos públicos da União, estados, Distrito Federal e municípios que fazem concursos.",
+  "Tramita com prioridade desde 13/10/2026, quando o Plenário aprovou pedido de urgência. Aguarda escolha de relator na Comissão de Constituição e Justiça e de Cidadania desde 20/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2417899",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2387060",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6893b8386191f808",
+ "hash_tramitacao": "a60f024d46dbdd98",
+ "tentativa": 1
+}

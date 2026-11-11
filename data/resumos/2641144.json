@@ -1,0 +1,28 @@
+{
+ "id": 2641144,
+ "titulo": "Cria política e programa nacional para evitar a falta de medicamentos sensíveis no país",
+ "tldr": [
+  "Cria uma rede de cooperação e um cadastro dos locais de armazenamento e permite um mapa das regiões com risco de falta de remédios como os de câncer, de doenças raras e os que precisam de refrigeração.",
+  "Pacientes que usam esses remédios, gestores do SUS e as regiões prioritárias, como a Amazônia Legal, as fronteiras e as comunidades indígenas e ribeirinhas.",
+  "Tramita junto com o PL 4452/2026 e aguarda análise das comissões da Câmara. O último andamento foi na Mesa Diretora, em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641144",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165032",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "32bce86e4f6b0b58",
+ "hash_tramitacao": "37dd265584ee3592",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2384628,
+ "titulo": "Proíbe empresas que não podem processar nos Juizados Especiais Cíveis de fazer pedidos contra o autor ali",
+ "tldr": [
+  "Nos Juizados Especiais Cíveis, só quem pode abrir ação ali (pessoas físicas, microempresas, pequenas empresas, entre outros) poderá, quando processado, pedir algo contra o autor no mesmo processo.",
+  "Empresas que não são micro ou pequenas e que são processadas nos Juizados Especiais Cíveis, além de quem as processa nesses juizados.",
+  "A Comissão de Constituição e Justiça aprovou o parecer em 05/05/2026 e a redação final em 04/11/2026. Aguarda a preparação do texto oficial na Câmara para envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2384628",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2321488",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "98aa53f32e37e3ba",
+ "hash_tramitacao": "a523cfaba38e8277",
+ "tentativa": 1
+}

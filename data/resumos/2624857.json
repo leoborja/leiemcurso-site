@@ -1,0 +1,28 @@
+{
+ "id": 2624857,
+ "titulo": "Dá o nome de Viaduto Engenheiro Anyro de Araujo Jorge a viaduto da BR 376 em Marilândia do Sul",
+ "tldr": [
+  "O viaduto no km 282 da BR 376, em Marilândia do Sul, no Paraná, passa a ter oficialmente esse nome.",
+  "O efeito é geral; a mudança vale só para o nome do viaduto.",
+  "Aprovado na Comissão de Viação e Transportes em 02/09/2026. Desde 04/09/2026 aguarda relator na Comissão de Cultura."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624857",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3130297",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "adb546db354546b3",
+ "hash_tramitacao": "f474866db3d62d8f",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641740,
+ "titulo": "Cria sistema nacional que reúne dados sobre violência contra mulheres e painel público de monitoramento",
+ "tldr": [
+  "Órgãos de segurança, saúde e assistência social dos três níveis de governo passam a enviar dados a um sistema único. Estados e municípios que não enviarem os dados podem ter suspensos repasses federais de segurança pública.",
+  "Órgãos públicos federais, estaduais e municipais de segurança, saúde e assistência social e mulheres vítimas de violência, cujos dados ficam protegidos.",
+  "Tramita junto com o PL 3459/2026 desde 26/10/2026. Em 28/10/2026 foi designada relatora na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641740",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167412",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f7ad608b583c6516",
+ "hash_tramitacao": "c7a7cb0f0ec47c44",
+ "tentativa": 1
+}

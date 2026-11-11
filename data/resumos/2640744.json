@@ -1,0 +1,28 @@
+{
+ "id": 2640744,
+ "titulo": "Permite atendimento itinerante da assistência social em locais de difícil acesso",
+ "tldr": [
+  "O SUAS poderá usar unidades móveis, inclusive barcos, e equipes volantes para cadastrar famílias no Cadastro Único e oferecer benefícios e serviços em áreas isoladas, sem criar gasto obrigatório.",
+  "Moradores de territórios de difícil acesso, como ribeirinhos, indígenas e quilombolas, e a União, estados, Distrito Federal e municípios.",
+  "Em análise nas comissões da Câmara. Desde 29/10/2026 tramita junto com o PL 4065/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640744",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164498",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d5bab3e066b84b59",
+ "hash_tramitacao": "fab15c2309d03662",
+ "tentativa": 1
+}

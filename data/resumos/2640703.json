@@ -1,0 +1,28 @@
+{
+ "id": 2640703,
+ "titulo": "Obriga creches e pré-escolas a adotar protocolo imediato quando uma criança desaparece",
+ "tldr": [
+  "Creches e pré-escolas terão de fazer busca interna, avisar os pais, registrar a ocorrência e acionar a polícia e o Conselho Tutelar logo que a criança sumir, sem esperar prazo. Também terão de controlar entradas e saídas.",
+  "Instituições públicas e privadas de educação infantil, crianças matriculadas e suas famílias.",
+  "Aguarda designação de relator na Comissão de Educação da Câmara, onde chegou em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640703",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164457",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fea3f04a36c1d7ba",
+ "hash_tramitacao": "49cf4a45e719ed06",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641021,
+ "titulo": "Cria política nacional de cuidado com o envelhecimento de cães e gatos de companhia",
+ "tldr": [
+  "Define diretrizes para prevenção, diagnóstico precoce, controle da dor e cuidados paliativos de cães e gatos idosos. Cria um sistema nacional de informações sobre o tema e prevê campanhas e apoio à pesquisa.",
+  "Tutores de cães e gatos, médicos veterinários, serviços veterinários públicos e privados, universidades e órgãos públicos de proteção animal.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026, passou a tramitar junto com o PL 4320/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641021",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164789",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bb7a473b7630b9bc",
+ "hash_tramitacao": "a234b8ab477008a2",
+ "tentativa": 1
+}

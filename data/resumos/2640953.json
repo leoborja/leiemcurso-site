@@ -1,0 +1,28 @@
+{
+ "id": 2640953,
+ "titulo": "Aumenta o limite de renda familiar para receber o Benefício de Prestação Continuada (BPC)",
+ "tldr": [
+  "Passa a ter direito ao BPC quem tem renda familiar por pessoa de até 1/2 salário-mínimo. O regulamento também poderá ampliar esse limite para até 1 salário-mínimo.",
+  "Pessoas idosas e pessoas com deficiência de baixa renda que pedem o BPC, e o INSS.",
+  "Tramita junto com outro projeto (PL 3542/2026), por decisão de 29/10/2026. O texto foi enviado para publicação em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640953",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164720",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3bd89af11fe1b621",
+ "hash_tramitacao": "7c53154f0e257d55",
+ "tentativa": 1
+}

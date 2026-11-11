@@ -1,0 +1,28 @@
+{
+ "id": 2636054,
+ "titulo": "Cria programa nacional para acelerar e descentralizar a adoção de novas tecnologias de saúde no SUS",
+ "tldr": [
+  "Cria comitê gestor, fundo próprio, rito mais rápido de análise para tecnologias prioritárias, centros regionais de diagnóstico e painel público, e exige avaliação de impacto em equidade antes de contratar.",
+  "Ministério da Saúde, Anvisa, comissão de incorporação de tecnologias do SUS, estados, municípios, empresas fornecedoras e usuários do SUS.",
+  "Aguarda designação de relator na Comissão de Saúde da Câmara, onde chegou em 04/09/2026. Pode ser aprovado nas comissões sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636054",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154785",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4190e5cce9b1877b",
+ "hash_tramitacao": "d92d85dff61b6c76",
+ "tentativa": 1
+}

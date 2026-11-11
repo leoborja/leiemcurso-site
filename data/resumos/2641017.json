@@ -1,0 +1,28 @@
+{
+ "id": 2641017,
+ "titulo": "Define regras para prevenir e corrigir o uso de cargos e recursos públicos fora de sua finalidade",
+ "tldr": [
+  "Define o que é e o que não é desvio de finalidade pública. Órgãos federais terão de justificar decisões de grande impacto, reforçar controles internos e encaminhar casos suspeitos aos órgãos responsáveis.",
+  "Órgãos e agentes públicos da administração pública federal, direta e indireta.",
+  "Tramita junto com o PL 4121/2024, ao qual foi anexada em 04/11/2026, quando foi recebida por comissão da Câmara. Será analisada pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641017",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164785",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "09316f0342a82027",
+ "hash_tramitacao": "7f10482799518b88",
+ "tentativa": 2
+}

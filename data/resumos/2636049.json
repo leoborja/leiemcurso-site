@@ -1,0 +1,28 @@
+{
+ "id": 2636049,
+ "titulo": "Cria regras de transparência e de renegociação no crédito para consumidores de baixa renda",
+ "tldr": [
+  "Muda o Código de Defesa do Consumidor: exige mostrar o custo total do crédito de forma padronizada, limita multas por atraso, obriga oferta de renegociação e proíbe bloquear celular financiado sem aviso de 30 dias.",
+  "Consumidores que contratam crédito, sobretudo os de baixa renda ou sem histórico, bancos e empresas de crédito, e órgãos de defesa do consumidor.",
+  "Aguarda a escolha de relator na Comissão de Defesa do Consumidor da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636049",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154778",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c76b1654582f186e",
+ "hash_tramitacao": "1eed109611bb2625",
+ "tentativa": 2
+}

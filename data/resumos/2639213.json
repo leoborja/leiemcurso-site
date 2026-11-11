@@ -1,0 +1,28 @@
+{
+ "id": 2639213,
+ "titulo": "Proíbe propaganda, patrocínio e publicidade de apostas de quota fixa (bets)",
+ "tldr": [
+  "Fica vedada qualquer propaganda ou patrocínio de bets em meio físico ou digital, exceto avisos de alerta e conscientização. Plataformas devem remover anúncios e bloquear sites após notificação do Ministério da Fazenda.",
+  "Empresas de apostas, influenciadores, veículos de comunicação, plataformas de internet e provedores.",
+  "Tramita junto com o PL 3518/2024 e aguarda encaminhamento na Câmara; publicado em 27/10/2026. O PL 3682/2026 foi anexado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639213",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161741",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ac705a9c1cc5eddb",
+ "hash_tramitacao": "5d14829b191171e3",
+ "tentativa": 1
+}

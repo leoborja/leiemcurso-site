@@ -1,0 +1,28 @@
+{
+ "id": 2640601,
+ "titulo": "Cria diretrizes para manter na escola alunos da educação de jovens e adultos em vulnerabilidade",
+ "tldr": [
+  "As redes de ensino passam a prever medidas como transporte e alimentação no turno da noite, material próprio, apoio no cuidado dos filhos e busca de quem abandonou, com prioridade para inscritos no Cadastro Único.",
+  "Estudantes da educação de jovens e adultos em situação de vulnerabilidade social e as redes de ensino da União, estados, Distrito Federal e municípios.",
+  "Tramita junto com o PL 3921/2026, ao qual foi anexada em 06/11/2026. Será analisada pelas comissões da Câmara, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640601",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164355",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "664a104fd70e03e7",
+ "hash_tramitacao": "2a6b35fc38d03642",
+ "tentativa": 2
+}

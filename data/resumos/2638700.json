@@ -1,0 +1,28 @@
+{
+ "id": 2638700,
+ "titulo": "Cria programa nacional de atenção à saúde mental no SUS",
+ "tldr": [
+  "Prevê ampliação de serviços de saúde mental, atendimento psicológico remoto, prevenção em escolas e no trabalho, campanhas e um Plano Nacional de Saúde Mental com metas a cada quatro anos.",
+  "População em geral, com atenção a crianças, adolescentes, idosos, trabalhadores e profissionais da saúde e da segurança, além do Ministério da Saúde.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638700",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3160242",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "09b94f2b1df17ee9",
+ "hash_tramitacao": "a8fd97b163a0b962",
+ "tentativa": 1
+}

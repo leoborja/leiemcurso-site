@@ -1,0 +1,28 @@
+{
+ "id": 2640633,
+ "titulo": "Permite retirar da certidão de nascimento o sobrenome do pai ou da mãe em caso de abandono",
+ "tldr": [
+  "O adulto poderá pedir na Justiça a retirada do sobrenome de um dos pais se provar abandono ou falta de convivência por no mínimo 5 anos seguidos. O pedido não pode ser feito direto no cartório, e a filiação, a herança e a pensão não mudam.",
+  "Adultos com plena capacidade civil que foram abandonados por um dos pais, além de cartórios e da Justiça.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara, que recebeu o texto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640633",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164387",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "10e3c134cd8f7325",
+ "hash_tramitacao": "8df0497650f560b7",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634910,
+ "titulo": "Dá a São João do Polêsine, no Rio Grande do Sul, o título de Capital Nacional do Risoto",
+ "tldr": [
+  "O município passa a ter, por lei federal, o título honorífico de Capital Nacional do Risoto.",
+  "Município de São João do Polêsine (RS).",
+  "Tramita junto com o PL 2957/2026 (apensada) na comissão da Câmara onde foi recebida em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634910",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151753",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "56ceabf56810eea4",
+ "hash_tramitacao": "33f2c20ba2e656cf",
+ "tentativa": 1
+}

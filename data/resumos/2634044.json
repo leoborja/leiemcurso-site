@@ -1,0 +1,28 @@
+{
+ "id": 2634044,
+ "titulo": "Permite que fisioterapeutas receitem medicamentos, insumos e produtos ligados à sua área",
+ "tldr": [
+  "Fisioterapeutas poderão receitar remédios que não exigem receita médica, substâncias usadas em seus procedimentos, órteses, próteses e outros itens de reabilitação. Remédios controlados dependem de regulamentação própria.",
+  "Fisioterapeutas, pacientes e estabelecimentos de saúde públicos e privados, que deverão aceitar essas receitas.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634044",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149817",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7b74f2e741c15731",
+ "hash_tramitacao": "89e65aae4c40a1f0",
+ "tentativa": 1
+}

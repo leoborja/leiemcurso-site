@@ -1,0 +1,28 @@
+{
+ "id": 2621088,
+ "titulo": "Cria modalidade do FIES para cursos de saúde mental com contrapartida de trabalho no SUS",
+ "tldr": [
+  "Estudantes de cursos como Psicologia e Enfermagem podem financiar o curso e quitar a dívida trabalhando no SUS em saúde mental pelo dobro do tempo de financiamento.",
+  "Estudantes de Psicologia, Medicina (Psiquiatria), Terapia Ocupacional, Serviço Social, Fonoaudiologia e Enfermagem com renda per capita de até 3 salários mínimos.",
+  "Urgência aprovada por unanimidade no Plenário em 04/11/2026; tramita com prioridade. Recebido em 05/11/2026 pelas comissões, aguarda relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621088",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3122830",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "74ecf1ea155518e8",
+ "hash_tramitacao": "ea3ab350624da819",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641238,
+ "titulo": "Define direitos da pessoa idosa no ambiente digital e cria políticas de inclusão e contra golpes",
+ "tldr": [
+  "A pessoa idosa passa a ter direito a atendimento humano, a uma opção não digital e a pedir que uma pessoa revise decisões tomadas por sistemas automáticos. Cria ainda políticas contra fraudes, um índice e um sistema de monitoramento.",
+  "Pessoas idosas e prestadores de serviços essenciais, como bancos, serviços de saúde, previdência, telecomunicações e energia.",
+  "Em 03/11/2026, a Mesa Diretora da Câmara mandou o texto tramitar junto com o PL 2922/2026. A análise cabe às comissões, sem precisar passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641238",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165136",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4651abacf4795298",
+ "hash_tramitacao": "0a029e80c9341f92",
+ "tentativa": 1
+}

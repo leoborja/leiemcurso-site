@@ -1,0 +1,28 @@
+{
+ "id": 2639106,
+ "titulo": "Muda o Estatuto da Pessoa Idosa e amplia regras de saúde, cuidado, inclusão digital e combate à violência",
+ "tldr": [
+  "Dá prioridade aos idosos mais velhos, prevê entrega de remédios, fraldas e insumos de graça (inclusive em casa), proíbe exigir só meios digitais no atendimento e prevê indenização por abandono afetivo, entre outras mudanças.",
+  "Pessoas com 60 anos ou mais, suas famílias, o SUS, os planos de saúde, bancos, comércio e prestadores de serviço, além dos governos.",
+  "Aguarda escolha de relator na Comissão de Saúde da Câmara desde 03/09/2026. Depois das comissões, precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639106",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161584",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a5d4218532442735",
+ "hash_tramitacao": "601697cabde41fa5",
+ "tentativa": 1
+}

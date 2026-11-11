@@ -1,0 +1,28 @@
+{
+ "id": 2583948,
+ "titulo": "Obriga a empresa dominante no mercado de gás natural a vender em leilão o gás que compra de terceiros",
+ "tldr": [
+  "De forma temporária, quem tiver mais de 50% do mercado deve leiloar o gás comprado de outros, com exceções. Cria comitê para fiscalizar os leilões e deixa a ANP usar verba de pesquisa para contratar estudos.",
+  "A empresa com mais de 50% do mercado de gás natural, compradores do mercado livre, a ANP e os órgãos que farão parte do comitê.",
+  "Está na Comissão de Desenvolvimento Econômico, à espera do parecer do relator. Em 28/10/2026, a comissão aprovou um pedido de audiência pública sobre o tema."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2583948",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3044451",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3174c60b7b0c7a57",
+ "hash_tramitacao": "0a7224373def7a7a",
+ "tentativa": 2
+}

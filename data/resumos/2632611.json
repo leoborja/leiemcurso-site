@@ -1,0 +1,28 @@
+{
+ "id": 2632611,
+ "titulo": "Cria política nacional para minerais usados em fertilizantes e fixa prazos para licenciamento ambiental",
+ "tldr": [
+  "Minerais como potássio e fósforo passam a ser estratégicos; órgãos ambientais terão prazos de 180 e 120 dias para licenças, e o Poder Executivo fará plano nacional de abastecimento de fertilizantes.",
+  "Empresas de mineração e de fertilizantes, órgãos de licenciamento ambiental e a União.",
+  "Aguarda parecer na Comissão de Minas e Energia da Câmara, que teve relator designado em 29/10/2026 e abriu prazo para emendas em 30/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632611",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147202",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b1f43151acb53b43",
+ "hash_tramitacao": "3979ec2d4bd41720",
+ "tentativa": 1
+}

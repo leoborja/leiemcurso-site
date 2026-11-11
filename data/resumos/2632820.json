@@ -1,0 +1,28 @@
+{
+ "id": 2632820,
+ "titulo": "Dá prioridade em programas federais a armazéns e estruturas pós-colheita para frutas e hortaliças",
+ "tldr": [
+  "Projetos de armazenagem, classificação e beneficiamento de frutas e hortaliças ganham prioridade nos programas federais de apoio à agroindústria e podem entrar em regime federal de incentivo fiscal à infraestrutura.",
+  "Produtores de frutas e hortaliças, cooperativas, associações e consórcios de produtores rurais.",
+  "Aguarda parecer na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara; relator designado em 28/10/2026 e prazo para emendas aberto em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632820",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147637",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f36baf4524153ae3",
+ "hash_tramitacao": "87267628a1cc5ce8",
+ "tentativa": 2
+}

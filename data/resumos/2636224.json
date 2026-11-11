@@ -1,0 +1,28 @@
+{
+ "id": 2636224,
+ "titulo": "Cria a Política Nacional Meninas Fortes de prevenção da violência contra meninas e adolescentes",
+ "tldr": [
+  "Cria política nacional com plano de quatro anos, rotas seguras, ações de segurança digital, centros de apoio, painel de indicadores, índice municipal e selos para escolas e cidades.",
+  "Meninas e adolescentes, com prioridade para indígenas, quilombolas, ribeirinhas, da Amazônia Legal e de fronteira; União, estados, municípios e escolas.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 08/09/2026. Também passará por outras cinco comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636224",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155056",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "050eae1e2df66217",
+ "hash_tramitacao": "f7f73e1cf980ee31",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640504,
+ "titulo": "Torna crime financiar ou dar suporte material ao garimpo ilegal em terras indígenas e áreas protegidas",
+ "tldr": [
+  "Financiar o garimpo ilegal ou fornecer aeronaves, combustível ou máquinas a ele passa a dar pena de 4 a 8 anos de reclusão e multa. Instituições financeiras que agirem sabendo da ilegalidade também poderão ser punidas.",
+  "Quem financia ou abastece garimpo ilegal, bancos, administradoras de fundos e corretoras, além de terras indígenas e unidades de conservação.",
+  "Aguarda designação de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara, que recebeu o projeto em 03/11/2026. Ainda será votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640504",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164258",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d3f2b712b53ca7a8",
+ "hash_tramitacao": "a729ec0a34eaeaef",
+ "tentativa": 1
+}

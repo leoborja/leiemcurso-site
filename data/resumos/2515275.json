@@ -1,0 +1,28 @@
+{
+ "id": 2515275,
+ "titulo": "Garante redução de jornada sem corte de salário a quem tem filho ou dependente com autismo ou síndrome de Down",
+ "tldr": [
+  "Trabalhadores com carteira assinada poderão reduzir a jornada sem compensar horas e sem perder salário. O percentual da redução será definido por avaliação biopsicossocial, revista pelo menos a cada 2 anos.",
+  "Empregados regidos pela CLT com filho, enteado, criança sob guarda ou dependente com autismo ou síndrome de Down, e seus empregadores.",
+  "Aprovado nas comissões da Câmara, sem recurso para votação no Plenário. A redação final foi aprovada na Comissão de Constituição e Justiça em 04/11/2026, e o texto aguarda envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515275",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2915934",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2ab645916b175da3",
+ "hash_tramitacao": "4448cbafe0008cad",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2598490,
+ "titulo": "Proíbe aos poucos a compra de alimentos ultraprocessados com dinheiro público",
+ "tldr": [
+  "Órgãos públicos deixam de comprar refrigerantes, salgadinhos, embutidos e adoçantes artificiais, entre outros. Pelo menos 70% das compras devem ser de alimentos naturais ou pouco processados. Há exceções para datas festivas.",
+  "Escolas, creches, hospitais do SUS, presídios, quartéis, restaurantes populares, cantinas em prédios públicos e governos federal, estaduais e municipais.",
+  "Aprovado com texto alternativo na Comissão de Educação em 28/10/2026. Desde 04/11/2026, aguarda a escolha de relator na Comissão de Saúde."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598490",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3070558",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5841566463eda515",
+ "hash_tramitacao": "18db7b4a3d2bd09f",
+ "tentativa": 1
+}

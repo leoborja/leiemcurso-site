@@ -1,0 +1,28 @@
+{
+ "id": 2483590,
+ "titulo": "Dá o nome de Vital Novaes ao trecho da transposição do São Francisco em Floresta (PE)",
+ "tldr": [
+  "O trecho do Eixo Leste do Projeto de Integração do Rio São Francisco dentro do município de Floresta, em Pernambuco, passa a se chamar oficialmente \"Vital Novaes\".",
+  "O município de Floresta (PE) e o trecho do Eixo Leste da transposição do Rio São Francisco.",
+  "Aprovado nas Comissões de Viação e Transportes (11/03/2026) e de Cultura (12/08/2026). Desde 13/08/2026 está na Comissão de Constituição e Justiça, à espera de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483590",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2853702",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6e73f6b04d4a162e",
+ "hash_tramitacao": "e0988e4e6d73b5ff",
+ "tentativa": 1
+}

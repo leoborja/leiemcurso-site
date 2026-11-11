@@ -1,0 +1,28 @@
+{
+ "id": 2640797,
+ "titulo": "Cria punições financeiras para legendas que fraudarem a cota de candidaturas femininas",
+ "tldr": [
+  "Legenda com chapa anulada por fraude à cota de gênero teria corte de repasses do fundo público por 1 a 2 anos e multa do dobro do valor devido a candidaturas femininas, repassada às demais legendas.",
+  "Agremiações políticas e seus diretórios municipais e regionais.",
+  "Em 29/10/2026, a Mesa Diretora da Câmara determinou que tramite com prioridade junto com outro projeto, de número 2153/2026. Será votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640797",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164552",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cca903bc5506d533",
+ "hash_tramitacao": "98278f5b4a926f7d",
+ "tentativa": 2
+}

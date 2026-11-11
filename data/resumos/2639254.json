@@ -1,0 +1,28 @@
+{
+ "id": 2639254,
+ "titulo": "Cria política nacional de segurança contra sequestro e troca de recém-nascidos em maternidades",
+ "tldr": [
+  "Estabelecimentos que realizam partos passam a ter de adotar protocolos mínimos de segurança, como identificação da mãe e do bebê, pulseiras eletrônicas, alarmes, controle de acesso e conferência na alta.",
+  "Maternidades e hospitais públicos e privados que realizam partos, o Ministério da Saúde, estados e municípios.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 03/09/2026. A decisão cabe às comissões, sem passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639254",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161886",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b575200505ed7f6c",
+ "hash_tramitacao": "3a77979285660773",
+ "tentativa": 1
+}

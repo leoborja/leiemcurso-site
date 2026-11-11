@@ -1,0 +1,28 @@
+{
+ "id": 2641045,
+ "titulo": "Cria política nacional para formar, atrair e manter profissionais qualificados na Região Norte",
+ "tldr": [
+  "Prevê bolsas, residência tecnológica, centros de excelência e programas de atração e fixação de mestres, doutores e pesquisadores na Região Norte, conforme o orçamento disponível.",
+  "Estudantes, pesquisadores, universidades, institutos federais, empresas e órgãos públicos federais que atuam nos estados da Região Norte.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026 passou a tramitar junto com o PL 4360/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641045",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164815",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ad9cd63094ab3811",
+ "hash_tramitacao": "1d59c75cd1837085",
+ "tentativa": 1
+}

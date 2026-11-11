@@ -1,0 +1,28 @@
+{
+ "id": 2641107,
+ "titulo": "Proíbe condenados por maus-tratos a animais de ter guarda, posse ou adotar animais por 2 a 20 anos",
+ "tldr": [
+  "Na condenação por maus-tratos, o juiz deverá impor proibição de adquirir, adotar ou manter animais por 2 a 20 anos, e poderá encaminhar os animais do condenado a outros tutores ou entidades.",
+  "Pessoas condenadas por maus-tratos a animais, juízes e entidades de proteção animal.",
+  "Desde 26/10/2026 tramita junto com o PL 683/2026 na Câmara. A decisão final caberá ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641107",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164992",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ce84f509d45cb523",
+ "hash_tramitacao": "379702d98524a8de",
+ "tentativa": 1
+}

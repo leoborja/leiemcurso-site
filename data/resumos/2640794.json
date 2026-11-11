@@ -1,0 +1,28 @@
+{
+ "id": 2640794,
+ "titulo": "Permite que bicicletas circulem em calçadas, de forma excepcional, quando a rua oferecer risco ao ciclista",
+ "tldr": [
+  "A autoridade de trânsito poderá autorizar bicicletas em trechos de calçada, com velocidade reduzida e prioridade ao pedestre. Planos de mobilidade urbana passam a prever medidas de segurança para ciclistas.",
+  "Ciclistas, pedestres, autoridades de trânsito e municípios responsáveis por planos de mobilidade urbana.",
+  "Em 29/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 831/2025. A análise será nas comissões, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640794",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164549",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fa391b972fe8f776",
+ "hash_tramitacao": "15fa08d8da61018e",
+ "tentativa": 1
+}

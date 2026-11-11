@@ -1,0 +1,28 @@
+{
+ "id": 2640592,
+ "titulo": "Cria diretrizes para proteger e transmitir saberes tradicionais da Amazônia e reconhecer seus guardiões",
+ "tldr": [
+  "Prevê apoio público a mestres e aprendizes de saberes tradicionais escolhidos pelas comunidades e proíbe divulgar ou usar esses conhecimentos sem autorização. Vale 180 dias após publicada.",
+  "Povos indígenas, quilombolas e demais comunidades tradicionais da Amazônia Legal e seus detentores de saberes.",
+  "Aguarda escolha de relator na Comissão de Educação da Câmara desde 04/11/2026. Tramita junto com outra proposta apensada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640592",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164346",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "818a510a388ca83c",
+ "hash_tramitacao": "94bf0de7f683faca",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2422907,
+ "titulo": "Cria programa com isenção e suspensão de tributos para empresas que investem na produção de fertilizantes",
+ "tldr": [
+  "Empresas com projeto aprovado deixam de pagar PIS/Cofins, IPI e Imposto de Importação sobre máquinas, obras e serviços dos projetos. Fabricantes ganham créditos tributários e ressarcimento em até 60 dias.",
+  "Empresas que produzem fertilizantes e seus insumos, exceto as optantes do Simples Nacional, e a Receita Federal.",
+  "Virou a Lei 15.496/2026, publicada em 04/09/2026, com vetos parciais. A Câmara aprovou o texto em 27/05/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2422907",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2398481",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e1935dad6565507f",
+ "hash_tramitacao": "1920d33dc7d24784",
+ "tentativa": 2
+}

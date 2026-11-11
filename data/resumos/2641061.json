@@ -1,0 +1,28 @@
+{
+ "id": 2641061,
+ "titulo": "Cria política nacional de apoio ao empreendedorismo de pessoas com deficiência",
+ "tldr": [
+  "Os órgãos públicos de apoio ao empreendedorismo terão de tornar acessíveis serviços, cursos e procedimentos e orientar as pessoas com deficiência sobre os efeitos da formalização em impostos e benefícios.",
+  "Pessoas com deficiência que empreendem ou querem empreender e os órgãos públicos de apoio ao empreendedorismo.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026 passou a tramitar junto com o PL 4375/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641061",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164867",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4d838326fd9d5167",
+ "hash_tramitacao": "117e50c9e3c2445b",
+ "tentativa": 1
+}

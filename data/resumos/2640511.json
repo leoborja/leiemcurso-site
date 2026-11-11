@@ -1,0 +1,28 @@
+{
+ "id": 2640511,
+ "titulo": "Inclui no SUS o acompanhamento obrigatório de mães por até 42 dias após o parto",
+ "tldr": [
+  "A lei do SUS passa a prever atendimento à mulher por até 42 dias após o parto, com equipe de várias áreas, para identificar complicações físicas e sinais de alerta e cuidar da saúde mental.",
+  "Mulheres no período pós-parto atendidas na rede pública e os serviços do SUS.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 04/11/2026. Depois, passa por outras três comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640511",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164265",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2d0c963367ed4882",
+ "hash_tramitacao": "a5243d3624174b10",
+ "tentativa": 1
+}

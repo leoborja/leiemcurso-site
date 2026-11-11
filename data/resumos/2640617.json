@@ -1,0 +1,28 @@
+{
+ "id": 2640617,
+ "titulo": "Proíbe ligações automáticas silenciosas, números mascarados e insistência no telemarketing",
+ "tldr": [
+  "Passa a ser prática abusiva ligar e desligar ao atender, mascarar o número, fazer mais de três ligações ao mesmo consumidor em vinte e quatro horas ou insistir após recusa. Multas variam com o número de ligações.",
+  "Consumidores e empresas que fazem telemarketing ou contato por telefone.",
+  "Tramita com prioridade junto com o PL 3149/2024, que será votado no Plenário da Câmara; apensação registrada em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640617",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164371",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "abc0042a12423521",
+ "hash_tramitacao": "86c16ea646374bb6",
+ "tentativa": 2
+}

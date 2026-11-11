@@ -1,0 +1,28 @@
+{
+ "id": 2411916,
+ "titulo": "Inclui mais municípios de Minas Gerais no trajeto da Rota do Café, que é monumento nacional",
+ "tldr": [
+  "A lei que tornou a Rota do Café monumento nacional passa a descrever um trajeto maior, com dezenas de municípios mineiros a mais, como Araguari, Monte Carmelo, Extrema e Ouro Fino.",
+  "Os municípios de Minas Gerais listados no texto.",
+  "Aprovado nas Comissões de Cultura e de Constituição e Justiça, que aprovou a redação final em 04/11/2026. Aguarda a preparação do texto oficial na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2411916",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2373519",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "523f264038d65b06",
+ "hash_tramitacao": "a92225c4945278a4",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634224,
+ "titulo": "Obriga seguradoras a fornecer carro reserva a quem teve o veículo atingido pelo segurado",
+ "tldr": [
+  "Quando o segurado for responsável pelo acidente, a seguradora terá de dar ao terceiro um carro da mesma categoria em até 5 dias úteis, até o conserto ou a troca do veículo danificado.",
+  "Seguradoras de automóveis com cobertura de responsabilidade civil, seus segurados e motoristas que têm o veículo danificado por eles.",
+  "Aguarda designação de relator na Comissão de Constituição e Justiça da Câmara desde 24/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634224",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3150069",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c64713b1d4d04ee7",
+ "hash_tramitacao": "0e1f5a7f8f93db38",
+ "tentativa": 1
+}

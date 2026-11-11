@@ -1,0 +1,28 @@
+{
+ "id": 2640611,
+ "titulo": "Proíbe que instituições de ensino divulguem listas que liguem o nome do aluno a diagnóstico ou laudo médico",
+ "tldr": [
+  "Publicar editais ou listas que liguem o nome do aluno a condição de saúde, laudo ou necessidade de acessibilidade passa a ser tratamento irregular de dados, sujeito a punição, salvo consentimento do aluno.",
+  "Estudantes com laudos médicos ou psicológicos ou com necessidade de acessibilidade, e instituições de ensino.",
+  "Tramita junto com o PL 3897/2026. Foi enviada para publicação em 04/11/2026 e será analisada pelas comissões da Câmara, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640611",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164365",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1fdfedfd1f43d2a6",
+ "hash_tramitacao": "6c7ab7babfeaf704",
+ "tentativa": 2
+}

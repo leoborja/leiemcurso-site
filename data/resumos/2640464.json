@@ -1,0 +1,28 @@
+{
+ "id": 2640464,
+ "titulo": "Suspende o início das férias quando o trabalhador adoece nos 15 dias anteriores ao descanso",
+ "tldr": [
+  "Afastamento por saúde iniciado até 15 dias antes das férias suspende o descanso até o fim da incapacidade. Depois, o empregador marca novo período, com férias integrais e sem devolução do valor já pago.",
+  "Trabalhadores regidos pela CLT e seus empregadores.",
+  "Aguarda a designação de relator na Comissão de Trabalho da Câmara, onde chegou em 03/11/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640464",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164213",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "37b7b153f2276bf1",
+ "hash_tramitacao": "9592b45d9281336e",
+ "tentativa": 1
+}

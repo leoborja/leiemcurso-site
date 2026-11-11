@@ -1,0 +1,28 @@
+{
+ "id": 2631297,
+ "titulo": "Obriga empresas com atendimento automatizado a transferir para atendente humano em 60 segundos",
+ "tldr": [
+  "O consumidor pode pedir atendente humano a qualquer momento em chatbots e sistemas de IA. Multas vão de R$ 5.000,00 a R$ 5.000.000,00, e é criado um selo para empresas que cumprirem as regras.",
+  "Consumidores, com prioridade para idosos e pessoas com deficiência, e empresas públicas, privadas e concessionárias que usam atendimento automatizado.",
+  "Tramita junto com o PL 4635/2025 na Comissão de Defesa do Consumidor da Câmara desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631297",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144363",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dce1eb825b1b2c05",
+ "hash_tramitacao": "a6fab6b90fa27085",
+ "tentativa": 1
+}

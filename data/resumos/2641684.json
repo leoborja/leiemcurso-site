@@ -1,0 +1,28 @@
+{
+ "id": 2641684,
+ "titulo": "Cria isenção de IPI e IOF para jovens recém-formados na compra do primeiro imóvel, veículo e bens duráveis",
+ "tldr": [
+  "Jovens de até 35 anos, formados há até 10 anos, deixam de pagar IPI e IOF na primeira compra de cada tipo de bem, até um valor máximo. Quem vender o bem antes do prazo de carência terá de devolver o imposto.",
+  "Pessoas de até 35 anos que concluíram ensino médio, técnico ou superior e não têm bem da mesma categoria, além da Receita Federal.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara, onde chegou em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641684",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166952",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7c0c3d62adc1b58e",
+ "hash_tramitacao": "1513fefc77f214f3",
+ "tentativa": 1
+}

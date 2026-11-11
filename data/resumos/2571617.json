@@ -1,0 +1,28 @@
+{
+ "id": 2571617,
+ "titulo": "Permite dispensar do uniforme escolar estudantes com autismo, mediante laudo",
+ "tldr": [
+  "Alunos com autismo podem deixar de usar uniforme com laudo de profissional de saúde ou educação especial. Escolas públicas e privadas devem evitar discriminação e orientar equipes.",
+  "Estudantes com Transtorno do Espectro Autista, escolas públicas e privadas e redes de ensino federal, estaduais e municipais.",
+  "Aprovado nas Comissões de Educação (13/05/2026) e de Defesa dos Direitos das Pessoas com Deficiência (11/08/2026). Tramita junto com 3 projetos e aguarda relator na Comissão de Constituição e Justiça desde 13/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2571617",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3021782",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4ace44af687fc4cb",
+ "hash_tramitacao": "9e36682ab29c39d6",
+ "tentativa": 1
+}

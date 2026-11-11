@@ -1,0 +1,28 @@
+{
+ "id": 2640462,
+ "titulo": "Obriga restaurantes a deixar o cliente conferir o peso cru de carnes e peixes cobrados por peso",
+ "tldr": [
+  "Restaurantes e churrascarias que cobram carnes, peixes e crustáceos pelo peso cru devem manter no salão uma balança calibrada e certificada, para o cliente ver a pesagem antes do preparo.",
+  "Clientes e estabelecimentos de alimentação que cobram carnes, peixes e crustáceos pelo peso antes do cozimento, com menção a consumidores com autismo ou outras neurodivergências.",
+  "Aguarda a designação de relator na Comissão de Defesa do Consumidor da Câmara. Em 03/11/2026, o PL 3807/2026 passou a tramitar junto com este projeto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640462",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164210",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3a190feb75f89570",
+ "hash_tramitacao": "18f99642626d84c1",
+ "tentativa": 1
+}

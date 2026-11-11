@@ -1,0 +1,28 @@
+{
+ "id": 2640827,
+ "titulo": "Cria linha do Fundo Clima para obras de adaptação em áreas urbanas sujeitas a enchentes e deslizamentos",
+ "tldr": [
+  "O Fundo Nacional sobre Mudança do Clima passa a ter uma linha para apoiar drenagem, contenção de encostas, sistemas de alerta e reassentamento em áreas de risco, sem reserva mínima de recursos.",
+  "Estados, Distrito Federal, municípios, consórcios públicos e moradores de áreas urbanas de risco.",
+  "Em análise na Câmara. Em 29/10/2026, a Mesa Diretora determinou que tramite junto com o PL 3130/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640827",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164582",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "51c092ea9337ce9f",
+ "hash_tramitacao": "39090297f999e6dd",
+ "tentativa": 1
+}

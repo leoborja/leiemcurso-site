@@ -1,0 +1,28 @@
+{
+ "id": 2632300,
+ "titulo": "Permite usar fundo de infraestrutura social para financiar troca de carros de aplicativo e táxi",
+ "tldr": [
+  "O Fundo de Investimento em Infraestrutura Social passa a oferecer crédito para renovar veículos e infraestrutura de transporte individual de passageiros e cargas, com garantia do fundo do Pronampe de até 100% por operação.",
+  "Motoristas de aplicativo, taxistas, transportadores de cargas, plataformas digitais, fabricantes de veículos, BNDES, Banco do Brasil, Caixa e outras instituições financeiras.",
+  "Aprovada na Câmara em 31/08/2026 e no Senado em 01/09/2026, na forma de projeto de lei de conversão. Virou a Lei 15.503/2026, publicada em 14/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:54Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632300",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157741",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3e863299f630cfcc",
+ "hash_tramitacao": "64316c84abdc6f7e",
+ "tentativa": 2
+}

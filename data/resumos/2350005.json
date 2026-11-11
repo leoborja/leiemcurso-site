@@ -1,0 +1,28 @@
+{
+ "id": 2350005,
+ "titulo": "Retira o prazo final do desconto no Imposto de Renda para doações a programas de câncer e deficiência",
+ "tldr": [
+  "Doações e patrocínios ao Pronon (câncer) e ao Pronas/PCD (pessoas com deficiência) voltam a poder ser descontados do Imposto de Renda, sem data para acabar, com limite de 3% do imposto devido para cada programa.",
+  "Pessoas físicas e empresas tributadas pelo lucro real que doam, e entidades sem fins lucrativos que atuam em câncer e atendimento a pessoas com deficiência.",
+  "Arquivado. Tramitava junto com outro projeto, aprovado pelo Plenário da Câmara em 31/08/2026 em versão alternativa; por isso este texto foi considerado prejudicado na mesma data."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2350005",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2239418",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "546f205a816759e5",
+ "hash_tramitacao": "d478d733a9c090a7",
+ "tentativa": 2
+}

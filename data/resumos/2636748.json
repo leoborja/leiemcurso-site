@@ -1,0 +1,28 @@
+{
+ "id": 2636748,
+ "titulo": "Permite criar programas e um selo para unir estudo e esporte nas categorias de base",
+ "tldr": [
+  "Autoriza o Poder Executivo a criar programas de apoio escolar a jovens atletas e o selo voluntário Educação + Esporte para entidades esportivas que acompanhem os estudos dos atletas.",
+  "Crianças e adolescentes atletas das categorias de base, clubes e entidades esportivas, escolas e organizações parceiras.",
+  "Aguarda a escolha de relator na Comissão de Esporte da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636748",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3156001",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d9298b1809f8e700",
+ "hash_tramitacao": "afbf9454bed08c76",
+ "tentativa": 1
+}

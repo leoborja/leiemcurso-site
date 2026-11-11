@@ -1,0 +1,28 @@
+{
+ "id": 2641447,
+ "titulo": "Acaba com a isenção de pena para furto contra pais, filhos, irmãos e cônjuge",
+ "tldr": [
+  "Crimes contra o patrimônio praticados contra cônjuge, pais, filhos ou irmãos deixam de ser isentos de pena. O processo passa a depender de autorização da vítima.",
+  "Pessoas que cometem crimes contra o patrimônio de parentes próximos ou do cônjuge e as vítimas desses crimes.",
+  "Em 26/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 5923/2025. Precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641447",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165373",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "170cbe659e9c37bb",
+ "hash_tramitacao": "e319a901e814c0df",
+ "tentativa": 1
+}

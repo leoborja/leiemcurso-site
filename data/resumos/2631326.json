@@ -1,0 +1,28 @@
+{
+ "id": 2631326,
+ "titulo": "Garante adicional de insalubridade de 40% a coveiros e catadores de lixo sem necessidade de laudo",
+ "tldr": [
+  "Esses trabalhadores passam a receber o adicional em grau máximo, de 40%, sem perícia individual. Empregadores têm 90 dias para ajustar as folhas de pagamento.",
+  "Coveiros, sepultadores, catadores e trabalhadores da coleta de lixo, além de governos e empresas que os empregam.",
+  "Aguarda escolha de relator na Comissão de Trabalho da Câmara desde 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631326",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144418",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0738d1902de0338d",
+ "hash_tramitacao": "aa2fb802b5084f39",
+ "tentativa": 1
+}

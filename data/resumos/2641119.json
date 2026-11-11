@@ -1,0 +1,28 @@
+{
+ "id": 2641119,
+ "titulo": "Cria política nacional de monitoramento comunitário da qualidade da água em pequenas comunidades",
+ "tldr": [
+  "Prevê análises simplificadas e acompanhamento de poços, cacimbas, nascentes e reservatórios onde não há monitoramento regular, além de educação sanitária, conforme o orçamento disponível.",
+  "Comunidades rurais, indígenas, ribeirinhas, quilombolas, assentamentos, localidades isoladas e municípios pequenos, com atenção à Amazônia Legal.",
+  "Desde 26/10/2026 tramita junto com o PL 3900/2026 nas comissões da Câmara. O texto foi encaminhado para publicação em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641119",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165004",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7cd315e3fc4d9e89",
+ "hash_tramitacao": "e19782b945e8f98b",
+ "tentativa": 1
+}

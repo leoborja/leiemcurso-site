@@ -1,0 +1,28 @@
+{
+ "id": 2641573,
+ "titulo": "Cria programa no SUS para identificar cedo e tratar câncer de tireoide em grupos de risco",
+ "tldr": [
+  "O SUS passa a organizar a busca de casos em grupos de risco definidos pelo Ministério da Saúde, com exames, encaminhamento e tratamento. Podem ser usados mutirões, unidades móveis e atendimento a distância.",
+  "Pessoas em grupos de risco para câncer de tireoide, o Ministério da Saúde, estados e municípios.",
+  "Em 26/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 4776/2026. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641573",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165918",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fda8604993130c90",
+ "hash_tramitacao": "ad7bb1039415bd46",
+ "tentativa": 1
+}

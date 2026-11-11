@@ -1,0 +1,28 @@
+{
+ "id": 2630752,
+ "titulo": "Cria recompensa em dinheiro para quem denunciar sonegação fiscal de valor a partir de R$ 10 milhões",
+ "tldr": [
+  "O informante recebe de 15% a 30% do valor recuperado pela União, tem identidade em sigilo e proteção contra retaliação no trabalho; denúncia falsa em fiscalização tributária passa a ser crime.",
+  "Pessoas que denunciam sonegação, contribuintes investigados, Receita Federal e Procuradoria-Geral da Fazenda Nacional.",
+  "Aguarda designação de relator na Comissão de Trabalho da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630752",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143646",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6def52525c28465b",
+ "hash_tramitacao": "f39b31d8f4e2e560",
+ "tentativa": 1
+}

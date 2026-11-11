@@ -1,0 +1,28 @@
+{
+ "id": 2634630,
+ "titulo": "Cria diretrizes no SUS para prevenção e atendimento de pessoas com vício em jogos e apostas",
+ "tldr": [
+  "Define regras para o SUS identificar cedo, acolher e acompanhar pessoas com transtorno do jogo e apoiar familiares; permite campanhas sobre apostas, sem criar despesa obrigatória.",
+  "Pessoas com transtorno do jogo e seus familiares, serviços de saúde mental do SUS e profissionais de saúde.",
+  "Tramita junto com o PL 2439/2025 na Comissão de Saúde da Câmara desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634630",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151285",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2d64ecd91593b440",
+ "hash_tramitacao": "14fcf41ec943da9b",
+ "tentativa": 1
+}

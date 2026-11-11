@@ -1,0 +1,28 @@
+{
+ "id": 2634381,
+ "titulo": "Garante a professores da rede pública parte do horário de planejamento em casa",
+ "tldr": [
+  "Professores com jornada de 40 horas semanais poderão fazer no mínimo 4 horas de atividades fora de sala, como preparar aulas e corrigir provas, em casa ou outro local, sem mudar jornada nem salário.",
+  "Professores da educação básica pública e redes de ensino estaduais, do Distrito Federal e municipais.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 21/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634381",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3150461",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "766c9b24b4bfa847",
+ "hash_tramitacao": "538ea54c99f18476",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2632605,
+ "titulo": "Dá prioridade de pagamento ao produtor rural na falência ou recuperação judicial de quem comprou sua produção",
+ "tldr": [
+  "Quando a empresa que comprou a produção entra em recuperação judicial ou falência, o produtor passa a receber com a mesma prioridade dos trabalhadores. O desconto que pode ser imposto à dívida fica limitado a 10%.",
+  "Produtores rurais e cooperativas de produtores, e as empresas que compram produtos do campo, como tradings, cerealistas e agroindústrias.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632605",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147196",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "da1d33635bfc6c3e",
+ "hash_tramitacao": "a3ceec010ab253e8",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2556750,
+ "titulo": "Obriga órgãos públicos que atendem indígenas a manter intérpretes de línguas indígenas",
+ "tldr": [
+  "Órgãos federais, estaduais e municipais de assistência social, saúde e segurança que protegem direitos indígenas devem ter intérpretes qualificados, de preferência membros das próprias comunidades.",
+  "Povos indígenas e órgãos públicos da União, estados, Distrito Federal e municípios que atuam na proteção de seus direitos.",
+  "Aprovado com texto alternativo na Comissão da Amazônia e dos Povos Originários e Tradicionais em 11/08/2026. Tramita junto com outro projeto e aguarda relator na Comissão de Constituição e Justiça desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2556750",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2992260",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "52c756bfdabf7060",
+ "hash_tramitacao": "84881aaf6607ba3d",
+ "tentativa": 1
+}

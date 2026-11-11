@@ -1,0 +1,28 @@
+{
+ "id": 2428597,
+ "titulo": "Cria site público com cadastros de procurados, pedófilos e condenados por crimes violentos contra mulheres",
+ "tldr": [
+  "Cria site com cadastro nacional de procurados e de condenados definitivamente por pedofilia e violência contra mulheres, com ao menos nome e foto, além de telefone gratuito para denúncias anônimas e comitê gestor.",
+  "Procurados pela Justiça, condenados definitivamente por esses crimes, órgãos federais e estaduais, o Conselho Nacional de Justiça e a população.",
+  "A redação final foi aprovada na Comissão de Constituição e Justiça e de Cidadania da Câmara em 04/11/2026. Antes, foi aprovado na Comissão de Segurança Pública em 13/08/2024."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2428597",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2411530",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3c4b1f6f67544ba4",
+ "hash_tramitacao": "7c8abd92a6a2c5a1",
+ "tentativa": 2
+}

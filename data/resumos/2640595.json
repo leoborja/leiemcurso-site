@@ -1,0 +1,28 @@
+{
+ "id": 2640595,
+ "titulo": "Define diretrizes para ensinar adultos a ler documentos, fazer contas do dia a dia e usar serviços digitais",
+ "tldr": [
+  "Prevê ações, ligadas à educação de jovens e adultos, para leitura de contratos, contas e receitas, uso seguro de celular e serviços digitais, e materiais públicos em linguagem simples. Altera cinco leis.",
+  "Jovens, adultos e pessoas idosas com dificuldade de leitura ou uso digital, redes de ensino e órgãos públicos.",
+  "Aguarda escolha de relator na Comissão de Administração e Serviço Público da Câmara desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640595",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164349",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "793ee081a53996fe",
+ "hash_tramitacao": "b6bed32baff0cf5c",
+ "tentativa": 1
+}

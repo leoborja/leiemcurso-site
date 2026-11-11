@@ -1,0 +1,28 @@
+{
+ "id": 2636460,
+ "titulo": "Cria gratuidade no transporte coletivo para estudantes de cursos profissionalizantes e técnicos",
+ "tldr": [
+  "Alunos matriculados e com a frequência mínima exigida passam a viajar de graça no transporte público entre casa e escola. Os custos ficam com União, estados e municípios.",
+  "Estudantes de cursos técnicos, de qualificação e de aprendizagem, incluindo os do Sistema S, além de governos e operadoras de transporte.",
+  "Aguarda parecer na Comissão de Educação da Câmara, que designou relator em 05/11/2026. O prazo para emendas foi aberto em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636460",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155397",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9b922d9f8750f71b",
+ "hash_tramitacao": "085161ded1217ae5",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2481373,
+ "titulo": "Cria programa de subsídios para adaptar moradias de pessoas com 60 anos ou mais",
+ "tldr": [
+  "Cria subsídio para reformas como barras de apoio, piso antiderrapante, rampas e iluminação em casas de idosos, com laudo técnico e prioridade para famílias com renda de até três salários mínimos.",
+  "Pessoas com 60 anos ou mais, proprietários e inquilinos de imóveis onde moram idosos e instituições de longa permanência para idosos.",
+  "Aprovado com texto substitutivo na Comissão de Defesa dos Direitos da Pessoa Idosa em 12/08/2026. Tramita junto com o PL 55/2025 e desde 24/08/2026 está na Comissão de Finanças e Tributação, à espera de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481373",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2845579",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9ca23ae0f8bcf401",
+ "hash_tramitacao": "6e8af30b51502583",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2571623,
+ "titulo": "Cria programa de bibliotecas e espaços de leitura em hospitais, postos de saúde e CAPS",
+ "tldr": [
+  "Cria o programa Leitura que Cura, com bibliotecas e atividades de leitura em unidades do SUS. Prevê ainda um cadastro nacional dessas bibliotecas, um coordenador de leitura em cada unidade e um selo de reconhecimento.",
+  "Pacientes, acompanhantes e profissionais de unidades do SUS, Centros de Atenção Psicossocial e hospitais públicos e filantrópicos conveniados, além do Ministério da Saúde.",
+  "A Comissão de Cultura aprovou o parecer, com texto alternativo (substitutivo), em 28/10/2026. Desde 04/11/2026 está na Comissão de Saúde, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2571623",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3021791",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a4de7c449ead1320",
+ "hash_tramitacao": "d48bbaac75971ad5",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2459138,
+ "titulo": "Garante prisão especial a vigilantes por atos ligados ao serviço",
+ "tldr": [
+  "A lei dos vigilantes passa a prever o direito à prisão especial para o vigilante e o vigilante supervisor quando forem presos por ato decorrente do serviço.",
+  "Vigilantes e vigilantes supervisores da segurança privada.",
+  "Aprovado com texto alternativo na Comissão de Segurança Pública em 11/08/2026. Desde 13/08/2026 aguarda relator na Comissão de Constituição e Justiça, junto com outro projeto. Depois vai a votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2459138",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2479346",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0d46aaac58bfe086",
+ "hash_tramitacao": "54db7b8acd2ac5b3",
+ "tentativa": 1
+}

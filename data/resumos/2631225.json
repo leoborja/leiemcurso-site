@@ -1,0 +1,28 @@
+{
+ "id": 2631225,
+ "titulo": "Cria política nacional contra desperdício de alimentos com metas de redução e incentivo à doação",
+ "tldr": [
+  "Fixa metas de redução do desperdício de 10% em 5 anos, 25% em 10 e 50% em 20 anos. Empresas com faturamento acima de R$ 10 milhões terão de apresentar plano de redução, e doadores ficam livres de responsabilidade, salvo dolo.",
+  "Supermercados, atacadistas, restaurantes, indústria alimentícia, feiras e órgãos públicos como escolas, hospitais e presídios.",
+  "Aguarda escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, onde chegou em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631225",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144251",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ba5a868dcea070a2",
+ "hash_tramitacao": "25d8430dd5f35250",
+ "tentativa": 1
+}

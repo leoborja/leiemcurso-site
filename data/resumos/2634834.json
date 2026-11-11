@@ -1,0 +1,28 @@
+{
+ "id": 2634834,
+ "titulo": "Proíbe narradores e comentaristas de falar de apostas durante transmissões esportivas",
+ "tldr": [
+  "Locutores ficam proibidos de citar cotações ou dar palpites. Só um consultor de apostas certificado poderá falar do tema, com aviso de publicidade na tela. Emissoras respondem junto pelas infrações e podem ser multadas.",
+  "Emissoras de rádio e TV, plataformas digitais e de streaming, narradores, comentaristas, convidados e consultores de apostas.",
+  "Aguarda a escolha de relator na Comissão de Comunicação da Câmara, que recebeu o projeto em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634834",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151657",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "598f8b0ebfb821cb",
+ "hash_tramitacao": "7dbecb1e768bce6b",
+ "tentativa": 1
+}

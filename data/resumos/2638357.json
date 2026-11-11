@@ -1,0 +1,28 @@
+{
+ "id": 2638357,
+ "titulo": "Obriga planos de saúde a ter ao menos um profissional credenciado por especialidade médica",
+ "tldr": [
+  "Planos precisam ter pelo menos um médico ou estabelecimento por especialidade na área coberta. Sem credenciado, devem pagar atendimento fora da rede, inclusive deslocamento, sem custo extra.",
+  "Operadoras de planos de saúde, seus beneficiários e a Agência Nacional de Saúde Suplementar.",
+  "Tramita junto com o PL 3583/2026 na Comissão de Defesa do Consumidor da Câmara, onde foi recebida em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638357",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159407",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cee4d36132f11efd",
+ "hash_tramitacao": "6184db96f0b85451",
+ "tentativa": 1
+}

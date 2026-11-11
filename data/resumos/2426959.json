@@ -1,0 +1,28 @@
+{
+ "id": 2426959,
+ "titulo": "Muda tempo de serviço para aposentadoria integral de policiais e bombeiros militares",
+ "tldr": [
+  "Aposentadoria integral após 30 anos de serviço para homens, 25 deles em atividade militar, e 27 para mulheres, 20 em atividade militar. Conta tempo em outras forças e polícias e abre todas as vagas de concurso aos dois sexos.",
+  "Policiais militares e bombeiros militares dos estados, do Distrito Federal e dos territórios, e candidatos a concursos dessas corporações.",
+  "Arquivado. Tramitava junto com outro projeto, aprovado pelo Plenário da Câmara em 01/09/2026 em versão alternativa; por isso este texto foi considerado prejudicado na mesma data."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2426959",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2407830",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1d7a0dd344611884",
+ "hash_tramitacao": "80c061e7d717f79e",
+ "tentativa": 2
+}

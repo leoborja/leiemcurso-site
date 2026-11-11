@@ -1,0 +1,28 @@
+{
+ "id": 2638264,
+ "titulo": "Permite deduzir do Imposto de Renda gastos com veterinário e plano de saúde de animais de estimação",
+ "tldr": [
+  "O contribuinte poderá abater até R$ 5.000,00 por ano com consultas, exames, cirurgias, vacinas, remédios e planos veterinários, com comprovação por nota fiscal.",
+  "Contribuintes do Imposto de Renda que têm animais domésticos de estimação, e a Receita Federal.",
+  "Tramita junto com o PL 5136/2023, ao qual foi anexado em 03/11/2026 na Comissão de Finanças e Tributação da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638264",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159241",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "06aa3ec733f4d98e",
+ "hash_tramitacao": "1e6df6d91f838b1e",
+ "tentativa": 1
+}

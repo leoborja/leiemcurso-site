@@ -1,0 +1,28 @@
+{
+ "id": 2631786,
+ "titulo": "Proíbe indulto, anistia e perdão judicial para quem comete crime contra criança",
+ "tldr": [
+  "Quem cometer crime contra criança, com intenção ou sem, não poderá receber indulto, graça, anistia, redução da pena por decreto, perdão judicial nem perdão da vítima. Vale para fatos posteriores à lei.",
+  "Pessoas processadas ou condenadas por crimes contra crianças, juízes e o Poder Executivo.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 19/08/2026. Depois precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631786",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3145226",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7bcf1e934dbbbf96",
+ "hash_tramitacao": "1daf0457d1e6abf4",
+ "tentativa": 2
+}

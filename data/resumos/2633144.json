@@ -1,0 +1,28 @@
+{
+ "id": 2633144,
+ "titulo": "Define que pelo menos 5% dos cargos públicos federais sejam ocupados por pessoas com deficiência",
+ "tldr": [
+  "Órgãos federais terão metas que sobem de 1% em até 2 anos a 5% em até 12 anos, editais deverão informar as vagas reservadas e relatórios semestrais serão publicados.",
+  "Pessoas com deficiência, candidatos a concursos e órgãos e entidades da administração pública federal.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633144",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148488",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dab2e7215d274448",
+ "hash_tramitacao": "d65e95fbc67e6a93",
+ "tentativa": 1
+}

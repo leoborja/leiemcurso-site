@@ -1,0 +1,28 @@
+{
+ "id": 2641734,
+ "titulo": "Cria benefício pago pelo poder público para mulher vítima de violência doméstica afastada do trabalho",
+ "tldr": [
+  "A mulher afastada para audiências, perícias ou mudança de casa recebe benefício de até 180 dias pago com recursos públicos, sem custo ao empregador, e tem estabilidade no emprego por até 90 dias após o fim.",
+  "Mulheres em situação de violência doméstica, com ou sem carteira assinada, seus empregadores e o INSS.",
+  "Tramita junto com o PL 4433/2025 na Câmara, conforme despacho da Mesa Diretora de 26/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641734",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167351",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "17d97e16a9d899bb",
+ "hash_tramitacao": "05279cab6856f801",
+ "tentativa": 1
+}

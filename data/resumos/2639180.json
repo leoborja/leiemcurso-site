@@ -1,0 +1,28 @@
+{
+ "id": 2639180,
+ "titulo": "Define diretrizes para ações de prevenção do herpes-zóster no SUS",
+ "tldr": [
+  "O SUS passa a ter diretrizes de educação, informação, capacitação de profissionais e prioridade a idosos na prevenção do herpes-zóster. O texto não obriga o fornecimento de vacinas.",
+  "Usuários do SUS, em especial pessoas idosas e grupos vulneráveis, profissionais de saúde e gestores do SUS.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 03/09/2026. A decisão cabe às comissões, sem passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639180",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161693",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5c43b7b0cd51f6e6",
+ "hash_tramitacao": "dfca3caa8ddc4125",
+ "tentativa": 1
+}

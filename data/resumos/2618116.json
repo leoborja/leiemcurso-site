@@ -1,0 +1,28 @@
+{
+ "id": 2618116,
+ "titulo": "Torna crime usar animais para transportar, esconder ou traficar drogas",
+ "tldr": [
+  "Cria crime com pena de 5 a 15 anos de reclusão para quem usa animal no tráfico, somada à pena do tráfico. Também cria crime ambiental, com pena de 2 a 5 anos.",
+  "Pessoas que usam animais na prática de crimes previstos na Lei de Drogas.",
+  "Aprovado na Comissão de Meio Ambiente e Desenvolvimento Sustentável em 12/08/2026. Aguarda parecer na CSPCCO, que designou relator em 28/10/2026. Depois, vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618116",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3117396",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a3b86c4724f29b96",
+ "hash_tramitacao": "e4364f94999ff521",
+ "tentativa": 1
+}

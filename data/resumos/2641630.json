@@ -1,0 +1,28 @@
+{
+ "id": 2641630,
+ "titulo": "Proíbe reter ou remover veículo sem licenciamento apenas por IPVA atrasado, por 90 dias",
+ "tldr": [
+  "Por 90 dias após o vencimento da cota única ou da última parcela do IPVA, o veículo não poderá ser retido nem removido só por essa dívida. O imposto continua devido e outras infrações seguem punidas.",
+  "Donos de veículos com IPVA em atraso e órgãos de fiscalização de trânsito.",
+  "Tramita junto com o PL 3398/2024 na Câmara, conforme despacho da Mesa Diretora de 26/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641630",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166480",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "04436f5110506ae2",
+ "hash_tramitacao": "dc00b3ba33de2bb1",
+ "tentativa": 1
+}

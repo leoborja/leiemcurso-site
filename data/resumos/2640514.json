@@ -1,0 +1,28 @@
+{
+ "id": 2640514,
+ "titulo": "Obriga a União a fiscalizar, isolar e demolir imóveis federais abandonados que ofereçam risco",
+ "tldr": [
+  "A Secretaria do Patrimônio da União tem até 30 dias para isolar imóveis federais em risco. Se em até 180 dias não houver recuperação, venda ou cessão, a estrutura deve ser demolida.",
+  "Secretaria do Patrimônio da União, estados e municípios onde ficam imóveis federais desativados e moradores dos arredores.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara desde 04/11/2026. Tramita junto com o PL 3855/2026, que foi apensado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640514",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164268",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3735c59a0e54c3fe",
+ "hash_tramitacao": "5ffbd518f6d1f1d6",
+ "tentativa": 1
+}

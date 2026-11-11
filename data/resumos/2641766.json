@@ -1,0 +1,28 @@
+{
+ "id": 2641766,
+ "titulo": "Torna crime criar ou divulgar imagem ou voz falsa de uma pessoa feita com inteligência artificial",
+ "tldr": [
+  "Cria crime com pena de 2 a 5 anos de prisão para quem criar ou divulgar, sem consentimento, conteúdo falso realista que cause dano. Sátira, humor e jornalismo ficam de fora. Golpes com esse recurso têm pena aumentada.",
+  "Efeito geral: atinge quem cria ou divulga esse tipo de conteúdo e protege pessoas retratadas e vítimas de golpes.",
+  "Em 26/10/2026 passou a tramitar junto com o PL 2687/2025 na Câmara. Precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641766",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167750",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1eb5177d9b8f0282",
+ "hash_tramitacao": "2f337d80f03fe02b",
+ "tentativa": 1
+}

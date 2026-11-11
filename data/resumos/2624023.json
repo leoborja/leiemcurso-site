@@ -1,0 +1,28 @@
+{
+ "id": 2624023,
+ "titulo": "Cria delegacia de polícia judiciária militar ligada às corregedorias das polícias militares e dos bombeiros",
+ "tldr": [
+  "Uma equipe própria passa a registrar prisões em flagrante e conduzir inquéritos sobre crimes de militares. O oficial da mesma unidade do militar preso fica proibido de registrar o flagrante.",
+  "Policiais militares e bombeiros militares dos estados, do Distrito Federal e dos territórios, e as corregedorias dessas corporações.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara. O relator foi escolhido em 28/10/2026, e o prazo para emendas foi aberto em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624023",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3127969",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a0195daf9f261dd0",
+ "hash_tramitacao": "b0ea8554b700cb8c",
+ "tentativa": 1
+}

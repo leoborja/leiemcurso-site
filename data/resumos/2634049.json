@@ -1,0 +1,28 @@
+{
+ "id": 2634049,
+ "titulo": "Permite deduzir do Imposto de Renda, sem limite, gastos com educação de dependentes com autismo",
+ "tldr": [
+  "Mensalidades, matrícula, material obrigatório, profissional de apoio escolar e outros gastos escolares de dependentes com autismo poderão ser deduzidos integralmente, com laudo e notas fiscais.",
+  "Contribuintes do Imposto de Renda com dependentes diagnosticados com Transtorno do Espectro Autista matriculados em escolas.",
+  "Aguarda parecer da relatora na Comissão de Defesa dos Direitos das Pessoas com Deficiência. Em 29/10/2026, outro projeto passou a tramitar junto com ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634049",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149822",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3465979d30505550",
+ "hash_tramitacao": "c4770b9334461a01",
+ "tentativa": 1
+}

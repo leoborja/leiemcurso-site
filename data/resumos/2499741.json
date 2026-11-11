@@ -1,0 +1,28 @@
+{
+ "id": 2499741,
+ "titulo": "Define prazo para a Comissão de Valores Mobiliários responder a dúvidas sobre suas regras",
+ "tldr": [
+  "A Comissão de Valores Mobiliários terá 60 dias para responder consultas, com uma prorrogação de até 60 dias. Se atrasar, deve explicar os motivos ao consulente. Respostas de interesse geral poderão ser divulgadas.",
+  "A Comissão de Valores Mobiliários e participantes do mercado de capitais, como companhias abertas, corretoras, fundos e consultores.",
+  "Aprovado com texto substitutivo na Comissão de Finanças e Tributação em 12/08/2026. Desde 17/08/2026 aguarda relator na Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2499741",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2890496",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7dfbca699148e179",
+ "hash_tramitacao": "fe02bf0d62cb5a6d",
+ "tentativa": 1
+}

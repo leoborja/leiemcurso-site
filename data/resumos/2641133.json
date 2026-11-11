@@ -1,0 +1,28 @@
+{
+ "id": 2641133,
+ "titulo": "Cria política nacional de apoio a pequenos negócios e à produção e ao consumo locais",
+ "tldr": [
+  "Prevê apoio a pequenos negócios, cooperativas e agricultores familiares, com qualificação, acesso a mercados e incentivo ao processamento da produção no próprio território.",
+  "Microempreendedores, micro e pequenas empresas, cooperativas, agricultores familiares, produtores artesanais e municípios pequenos e regiões com prioridade.",
+  "Tramita junto com o PL 4373/2026, ao qual foi apensado em 26/10/2026. Está na Mesa Diretora da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641133",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165020",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "819fece114e3cb59",
+ "hash_tramitacao": "9ec4c0b03bb6cce7",
+ "tentativa": 1
+}

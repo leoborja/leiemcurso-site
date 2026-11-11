@@ -552,3 +552,18 @@ table.votos .lista-simples__txt { font-size: 13px; }
 .leg-bola.h-sim { background: var(--sim); } .leg-bola.h-nao { background: var(--nao); } .leg-bola.h-abst { background: var(--abst); } .leg-bola.h-obst { background: var(--obst); }
 .seletor-semana select { flex: 1 1 0; width: 0; }
 .prop-cab__selo { margin-top: 6px; }
+
+/* ---------- parlamentar: semana a semana ---------- */
+.sem-parl { margin-top: 14px; }
+.sem-parl__casa { padding: 12px 14px; background: var(--surface-2); border-radius: var(--r); font-size: 15px; line-height: 1.5; max-width: 80ch; }
+.sem-parl__casa .olho { display: block; margin-bottom: 2px; }
+.feitos { list-style: none; padding: 0; margin: 14px 0 0; display: grid; gap: 0; }
+.feito { display: grid; grid-template-columns: 9.5em minmax(0, 1fr); gap: 4px 14px; padding: 12px 0; border-top: 1px solid var(--line); }
+.feito__verbo { font-weight: 650; color: var(--ink-2); }
+.feito__txt { line-height: 1.45; overflow-wrap: anywhere; }
+.feito__txt > a { font-weight: 600; }
+.feito__votos { list-style: none; padding: 0; margin: 6px 0 0; display: grid; gap: 4px; }
+.feito__votos .voto-pt { font-weight: 600; }
+.chip--simb { background: color-mix(in srgb, var(--accent) 10%, var(--surface-2)); }
+.tempo__nota { font-size: 12px; color: var(--ink-3); line-height: 1.3; }
+@media (max-width: 560px) { .feito { grid-template-columns: 1fr; } }

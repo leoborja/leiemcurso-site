@@ -1,0 +1,28 @@
+{
+ "id": 2635044,
+ "titulo": "Garante remédios combinados para asma de forma gratuita e contínua nas Unidades Básicas de Saúde do SUS",
+ "tldr": [
+  "Combinações de corticoide inalatório e broncodilatador de longa duração já oferecidas pelo SUS passam a ser entregues nas Unidades Básicas de Saúde, com receita médica e cadastro do paciente.",
+  "Pessoas com asma com prescrição médica que se enquadrem nos protocolos clínicos do SUS, além de secretarias estaduais e municipais de saúde.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara. Em 03/09/2026 passou a tramitar junto com outro projeto que foi anexado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635044",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152019",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "79e87ce44a7df53e",
+ "hash_tramitacao": "a2f9033af23f19c6",
+ "tentativa": 1
+}

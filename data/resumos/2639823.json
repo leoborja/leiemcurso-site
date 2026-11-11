@@ -1,0 +1,28 @@
+{
+ "id": 2639823,
+ "titulo": "Cria programa que paga despesas de jovens atletas para participar de competições",
+ "tldr": [
+  "O poder público pode pagar inscrição, transporte, hospedagem, alimentação, equipamentos e acessibilidade para atletas de até vinte e nove anos disputarem competições, se houver dinheiro no orçamento.",
+  "Crianças, adolescentes e jovens atletas de até vinte e nove anos, inclusive atletas com deficiência e surdos, e as entidades esportivas que pedem o apoio.",
+  "Aguarda parecer do relator na Comissão de Defesa dos Direitos das Pessoas com Deficiência. O prazo para emendas terminou em 28/10/2026, sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639823",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162936",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "81c1c440c6cc7715",
+ "hash_tramitacao": "6f28bb7012b40d6f",
+ "tentativa": 1
+}

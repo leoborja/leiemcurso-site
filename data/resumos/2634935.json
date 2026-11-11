@@ -1,0 +1,28 @@
+{
+ "id": 2634935,
+ "titulo": "Garante ao advogado o direito de pedir certidões e documentos a órgãos públicos, com prazo e resposta motivada",
+ "tldr": [
+  "Órgãos públicos passam a ter de protocolar e responder no prazo, com justificativa, pedidos de advogados por documentos de clientes. Recusa sem motivo, omissão ou negativa genérica passam a ser violação de prerrogativa profissional.",
+  "Advogados, seus clientes e órgãos e entidades públicos sujeitos à Lei de Acesso à Informação.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, onde foi recebido em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634935",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151795",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "afc72e3a49374259",
+ "hash_tramitacao": "1b06d82d7b5bd7a7",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2540796,
+ "titulo": "Define prioridade de recursos públicos para inteligência contra golpes e fraudes financeiras na internet",
+ "tldr": [
+  "O poder público passa a ter de priorizar verbas para tecnologia, unidades especializadas e capacitação contra golpes digitais, com aumento anual mínimo de 5%, relatórios anuais públicos e campanhas educativas.",
+  "Órgãos de segurança pública, governos estaduais, bancos, instituições financeiras, empresas de tecnologia e usuários de serviços digitais.",
+  "Aprovado em duas comissões, a última a Comissão de Segurança Pública e Combate ao Crime Organizado em 01/09/2026, com texto alterado. Aguarda relator na Comissão de Finanças e Tributação desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2540796",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2967452",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8ce80fc424682d8b",
+ "hash_tramitacao": "566b6fb0b28c42f5",
+ "tentativa": 1
+}

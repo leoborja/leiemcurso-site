@@ -1,0 +1,28 @@
+{
+ "id": 2614019,
+ "titulo": "Impede que infrações só administrativas barrem a emissão da carteira de motorista definitiva",
+ "tldr": [
+  "Infrações sem relação com a forma de dirigir, como as ligadas à condição de dono do veículo, deixam de impedir a troca da permissão para dirigir pela CNH definitiva.",
+  "Motoristas com permissão para dirigir, no primeiro ano de habilitação, e os órgãos de trânsito.",
+  "Aprovado com texto alternativo na Comissão de Viação e Transportes em 04/11/2026. Desde 05/11/2026 aguarda relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614019",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3109609",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "763ae4870943a887",
+ "hash_tramitacao": "74ff1ff97a173024",
+ "tentativa": 1
+}

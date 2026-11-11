@@ -1,0 +1,28 @@
+{
+ "id": 2641196,
+ "titulo": "Cria política para uso de monitoramento remoto e tecnologias digitais no tratamento do diabetes no SUS",
+ "tldr": [
+  "O SUS pode adotar monitoramento de glicose a distância, alertas automáticos e sistemas de previsão de risco, e fica autorizada uma rede nacional de telemonitoramento do diabetes.",
+  "Pacientes com diabetes atendidos pelo SUS, em especial crianças, gestantes e moradores de áreas remotas, e os serviços de saúde.",
+  "Aguarda análise nas comissões da Câmara. Em 03/11/2026 passou a tramitar junto com o PL 4502/2026, e o PL 4525/2026 foi anexado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641196",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165091",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1def65936e759169",
+ "hash_tramitacao": "5a20512e8f63b5db",
+ "tentativa": 1
+}

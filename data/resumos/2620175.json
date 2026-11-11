@@ -1,0 +1,28 @@
+{
+ "id": 2620175,
+ "titulo": "Proíbe condicionar a nomeação de reitores de universidades estaduais e municipais a compromissos políticos",
+ "tldr": [
+  "A nomeação de dirigentes passa a seguir consulta à comunidade acadêmica e lista formada a partir dela, e a venda de imóveis das universidades depende de aprovação do conselho superior da instituição.",
+  "Universidades públicas estaduais e municipais, suas comunidades acadêmicas e governadores e prefeitos responsáveis pelas nomeações.",
+  "Aguarda designação de relator na Comissão de Educação da Câmara, onde chegou em 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620175",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3120976",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9b0b2fe7ad210035",
+ "hash_tramitacao": "d173bfe0240ecab2",
+ "tentativa": 1
+}

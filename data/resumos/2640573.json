@@ -1,0 +1,28 @@
+{
+ "id": 2640573,
+ "titulo": "Cria regras de acessibilidade sensorial e atendimento com menos estímulos em locais e serviços coletivos",
+ "tldr": [
+  "Órgãos públicos, concessionárias e locais privados de uso coletivo passam a considerar medidas como fila preferencial, espaços com menos ruído e luz e aviso de efeitos luminosos, de forma gradual e conforme regulamento.",
+  "Pessoas com deficiência, autismo, epilepsia, condições neurológicas ou sensoriais, idosos e crianças; órgãos públicos, empresas, escolas, eventos e transporte coletivo.",
+  "Em análise na Comissão de Desenvolvimento Urbano da Câmara, tramita junto com o PL 1035/2026. Último andamento em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640573",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164327",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3df5f01e0a44f357",
+ "hash_tramitacao": "a7a384234790fa73",
+ "tentativa": 2
+}

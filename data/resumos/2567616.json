@@ -1,0 +1,28 @@
+{
+ "id": 2567616,
+ "titulo": "Obriga planos de saúde a cobrir remédios orais para doenças imunomediadas, raras e crônicas complexas",
+ "tldr": [
+  "Planos de saúde passam a ter de cobrir medicamentos orais que modificam o curso dessas doenças, inclusive para uso em casa, quando houver pedido justificado pelo médico.",
+  "Clientes de planos de saúde com doenças imunomediadas, raras ou crônicas de alta complexidade, e as operadoras de planos.",
+  "Aprovada com mudanças na Comissão de Saúde em 12/08/2026. Na Comissão de Constituição e Justiça, ganhou relatora em 04/11/2026 e abriu prazo para emendas em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2567616",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3013593",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1bef2bba9d665aee",
+ "hash_tramitacao": "331d57fcf190d8a8",
+ "tentativa": 1
+}

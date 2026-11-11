@@ -1,0 +1,28 @@
+{
+ "id": 2640926,
+ "titulo": "Muda regras de planos de saúde sobre negativas, reajustes, urgências e troca de plano",
+ "tldr": [
+  "A operadora terá 2 horas para autorizar procedimentos urgentes, deverá justificar por escrito cada negativa e terá reajuste limitado ao IPCA mais custos comprovados. Também proíbe nova carência na troca de plano após 1 ano.",
+  "Usuários de planos de saúde, operadoras e a Agência Nacional de Saúde Suplementar (ANS).",
+  "Tramita junto com o PL 2789/2026, por decisão da Mesa Diretora da Câmara em 29/10/2026. Depende de votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640926",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164693",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "45e24f13f13af373",
+ "hash_tramitacao": "06fbe79e52b2a69a",
+ "tentativa": 1
+}

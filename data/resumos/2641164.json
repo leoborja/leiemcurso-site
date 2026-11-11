@@ -1,0 +1,28 @@
+{
+ "id": 2641164,
+ "titulo": "Cria política nacional de proteção de sistemas digitais estratégicos como PIX, Gov.br e identidade digital",
+ "tldr": [
+  "Reconhece PIX, Drex, Open Finance, Gov.br e a identidade digital como estratégicos, cria plano de quatro anos, sistema de proteção, relatório anual e direitos dos usuários.",
+  "Poder Executivo federal, gestores dessas plataformas e seus usuários.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4399/2026 na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641164",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165058",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6a71e795af437742",
+ "hash_tramitacao": "3fd03d72a60c8c6e",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640575,
+ "titulo": "Define diretrizes nacionais para garantir água segura a comunidades ribeirinhas, indígenas e isoladas",
+ "tldr": [
+  "Cria regras para planejar, instalar, manter e monitorar soluções locais de abastecimento de água nessas comunidades e muda a lei do saneamento básico para incluí-las. Vale 180 dias após publicada.",
+  "Comunidades ribeirinhas, povos indígenas, povos e comunidades tradicionais, localidades isoladas e órgãos públicos de saneamento e saúde.",
+  "Aguarda escolha de relator na Comissão de Desenvolvimento Urbano da Câmara desde 04/11/2026. Tramita junto com outras quatro propostas apensadas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640575",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164329",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "966497bc3470d6f9",
+ "hash_tramitacao": "5167e4a230ef31f5",
+ "tentativa": 1
+}

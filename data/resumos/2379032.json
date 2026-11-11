@@ -1,0 +1,28 @@
+{
+ "id": 2379032,
+ "titulo": "Cria a Política Nacional de Agroecologia e Produção Orgânica",
+ "tldr": [
+  "Define princípios, instrumentos, plano nacional e fontes de financiamento para estimular a produção orgânica e agroecológica, além de prever um selo de certificação participativa para a agricultura familiar.",
+  "Agricultores familiares, povos e comunidades tradicionais, produtores orgânicos e União, estados e municípios.",
+  "Aprovado pelo Plenário da Câmara em 02/09/2026 na forma de texto alternativo da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural. Enviado ao Senado em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2379032",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2311850",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0ad0e09c944b2121",
+ "hash_tramitacao": "124d7dd6f3eada99",
+ "tentativa": 1
+}

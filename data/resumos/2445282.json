@@ -1,0 +1,28 @@
+{
+ "id": 2445282,
+ "titulo": "Cria incentivos fiscais para contratar mães de filhos com doenças raras ou deficiência",
+ "tldr": [
+  "Empresas que aderirem deixam de pagar 100% de certas contribuições previdenciárias, e pessoas físicas empregadoras deduzem 60% no Imposto de Renda. As contratadas nessa modalidade podem ser no máximo 15% dos empregados.",
+  "Mães de filhos com doenças raras ou deficiências que exigem cuidados especiais, empresas privadas e pessoas físicas que as empreguem.",
+  "Aprovado nas comissões de Defesa dos Direitos das Pessoas com Deficiência (12/11/2024) e de Previdência e Família (12/08/2026). Desde 14/08/2026 aguarda relator na Comissão de Trabalho."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2445282",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2445835",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "521766d73551528f",
+ "hash_tramitacao": "48a499582e7ca070",
+ "tentativa": 1
+}

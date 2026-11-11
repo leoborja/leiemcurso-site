@@ -1,0 +1,28 @@
+{
+ "id": 2636199,
+ "titulo": "Define regras contra a contratação de trabalhadores como pessoa jurídica para encobrir vínculo de emprego",
+ "tldr": [
+  "Presume vínculo de emprego quando há sinais de fraude e prevê multas, cadastro de infratores e proibição de contratar com o poder público. Contratadas pelo poder público comprovarão salários e encargos todo mês.",
+  "Trabalhadores, empresas que contratam serviços, empresas que prestam serviços à administração pública e órgãos públicos de todas as esferas.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara, onde chegou em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:47Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636199",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155015",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2309ef2a145a34d8",
+ "hash_tramitacao": "a262c10cc1b2e64f",
+ "tentativa": 2
+}

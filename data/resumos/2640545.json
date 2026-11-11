@@ -1,0 +1,28 @@
+{
+ "id": 2640545,
+ "titulo": "Cria política nacional de alimentação para estudantes dos Institutos Federais",
+ "tldr": [
+  "Os Institutos Federais passam a ter diretrizes para implantar aos poucos restaurantes e refeições gratuitas ou subsidiadas, com prioridade a alunos de baixa renda e compra da agricultura familiar, conforme o orçamento.",
+  "Estudantes e campi dos Institutos Federais de Educação, Ciência e Tecnologia, a União e agricultores familiares.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara desde 04/11/2026. Tramita junto com outro projeto, apensado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640545",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164299",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f465574f0c0802fd",
+ "hash_tramitacao": "f9a9d7fd63178a52",
+ "tentativa": 1
+}

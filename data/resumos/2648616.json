@@ -1,0 +1,28 @@
+{
+ "id": 2648616,
+ "titulo": "Libera R$ 300.000.000,00 extras ao Ministério da Integração para ações de defesa civil",
+ "tldr": [
+  "Libera fora do orçamento previsto, em caráter emergencial, R$ 300.000.000,00 para ações de proteção e defesa civil do Ministério da Integração e do Desenvolvimento Regional.",
+  "O Ministério da Integração e do Desenvolvimento Regional e as ações de defesa civil.",
+  "Já vale como lei desde 21/10/2026. Na Comissão Mista de Orçamento, o relator apresentou em 03/11/2026 parecer pela aprovação, e a medida está pronta para votação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648616",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3185402",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a6f1bc3ee8b47bc7",
+ "hash_tramitacao": "ae05c40a3cdac9a1",
+ "tentativa": 1
+}

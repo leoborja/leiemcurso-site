@@ -1,0 +1,28 @@
+{
+ "id": 2633954,
+ "titulo": "Muda regras da cota de filmes brasileiros nos cinemas para incluir horários de maior público e tempo em cartaz",
+ "tldr": [
+  "Cinemas terão de cumprir, além do mínimo de sessões, um percentual de exibição nas sessões de maior procura e um tempo mínimo em cartaz, com conferência trimestral. Só contam sessões com venda efetiva ao público.",
+  "Empresas donas, locatárias ou arrendatárias de salas de cinema, produtores e distribuidores de filmes brasileiros e a Agência Nacional do Cinema (Ancine).",
+  "Aguarda designação de relator na Comissão de Cultura da Câmara. Em 28/10/2026, a comissão aprovou pedido de audiência pública sobre o tema."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633954",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149605",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "abb1990a43bbb188",
+ "hash_tramitacao": "6895cbaf322a189f",
+ "tentativa": 1
+}

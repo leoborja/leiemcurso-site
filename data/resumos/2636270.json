@@ -1,0 +1,28 @@
+{
+ "id": 2636270,
+ "titulo": "Define regras gerais para o sepultamento de animais de estimação em cemitérios públicos e privados",
+ "tldr": [
+  "Leis locais poderão permitir o enterro de animais de estimação em cemitérios, inclusive em jazigos da família, com pedido do titular, comprovação da morte e registro. O cemitério não fica obrigado a oferecer o serviço.",
+  "Donos de animais de estimação, titulares de jazigos, cemitérios, prestadores de serviços funerários para animais e municípios.",
+  "Tramita em conjunto com o PL 975/2026. Está na comissão da Câmara indicada pela sigla CSAUDE, que registrou a apensação em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636270",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155142",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f0482abe9d1c0818",
+ "hash_tramitacao": "d2d0bbc31cb4c9f2",
+ "tentativa": 1
+}

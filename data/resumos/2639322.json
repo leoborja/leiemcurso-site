@@ -1,0 +1,28 @@
+{
+ "id": 2639322,
+ "titulo": "Transforma em lei a Política Nacional das Artes e inclui novas linguagens artísticas",
+ "tldr": [
+  "A política, hoje prevista em decreto, passa a ser lei. A lista de linguagens artísticas passa a incluir quadrinhos, artes digitais, fotografia, grafite, arquitetura e design. O texto define princípios, objetivos e fontes de financiamento.",
+  "Agentes culturais, artistas e a população em geral, além da União, dos estados e dos municípios.",
+  "Aguarda parecer da relatoria na Comissão de Cultura da Câmara. O prazo para emendas terminou em 28/10/2026 sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639322",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162052",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6d3feafaf5691346",
+ "hash_tramitacao": "7653a90e6299d7ce",
+ "tentativa": 1
+}

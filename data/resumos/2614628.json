@@ -1,0 +1,28 @@
+{
+ "id": 2614628,
+ "titulo": "Obriga vestibulares e Enem a oferecer atendimento especializado a candidatos com necessidades específicas",
+ "tldr": [
+  "Seleções para o ensino superior, inclusive o Enem, devem oferecer provas adaptadas, materiais próprios e tempo extra em casos como cegueira, dislexia, autismo, lactantes e diabetes tipo I. O MEC define o tempo adicional.",
+  "Candidatos ao ensino superior com deficiência ou condições específicas, instituições de ensino superior e o Ministério da Educação.",
+  "Aprovado na Comissão de Educação em 28/10/2026, aguarda parecer na Comissão de Defesa dos Direitos das Pessoas com Deficiência, com prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614628",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3110542",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b06294a829e81c85",
+ "hash_tramitacao": "65212a75f5bc79c5",
+ "tentativa": 2
+}

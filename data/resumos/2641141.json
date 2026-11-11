@@ -1,0 +1,28 @@
+{
+ "id": 2641141,
+ "titulo": "Cria política nacional para manter serviços públicos essenciais dos municípios funcionando em emergências",
+ "tldr": [
+  "Os municípios podem fazer planos para manter serviços como água, saúde, merenda escolar e defesa civil durante desastres, com apoio e cooperação dos outros entes da federação.",
+  "Municípios, com prioridade para os de pequeno porte, de fronteira ou isolados, e para comunidades indígenas, ribeirinhas, extrativistas e quilombolas.",
+  "Tramita junto com o PL 4440/2026 e aguarda análise das comissões da Câmara. O último andamento foi na Mesa Diretora, em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641141",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165028",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "82207c2732512309",
+ "hash_tramitacao": "8add8f94b1f7fe0f",
+ "tentativa": 1
+}

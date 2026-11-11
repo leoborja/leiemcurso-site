@@ -1,0 +1,28 @@
+{
+ "id": 2640613,
+ "titulo": "Inclui no Estatuto da Igualdade Racial diretrizes para pesquisas sobre como a discriminação acontece",
+ "tldr": [
+  "Órgãos públicos de pesquisa e estatística passam a ter de medir as práticas discriminatórias que geram desigualdades raciais, com estudos experimentais e de campo. Os relatórios sobre ações afirmativas passam a usar esses resultados.",
+  "Órgãos públicos de pesquisa, estatística e avaliação de políticas, núcleos de pesquisa e a população negra.",
+  "Aguarda a escolha de relator na Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara, que recebeu o texto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640613",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164367",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0fa5d1a5edc609eb",
+ "hash_tramitacao": "2910c37d6c6f1c47",
+ "tentativa": 2
+}

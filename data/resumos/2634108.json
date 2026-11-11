@@ -1,0 +1,28 @@
+{
+ "id": 2634108,
+ "titulo": "Cria o Dia Nacional da Saúde Ocular Infantil, em 3 de março",
+ "tldr": [
+  "A data entra no calendário nacional, e na semana em que ela cair poderão ser feitas campanhas educativas e incentivo a exames preventivos de visão em crianças.",
+  "Crianças, famílias e a população em geral.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 21/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634108",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149932",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "29a3168589c40a6f",
+ "hash_tramitacao": "961860646959adbb",
+ "tentativa": 1
+}

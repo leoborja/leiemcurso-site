@@ -1,0 +1,28 @@
+{
+ "id": 2639647,
+ "titulo": "Cria o Sistema Nacional de Trilhas Ecológicas, com cadastro e sinalização padronizada",
+ "tldr": [
+  "Cria uma rede nacional de trilhas, com sinalização em forma de pegada preta e amarela, um cadastro nacional e uma estratégia revisada no máximo a cada quatro anos. Órgãos públicos e particulares podem aderir.",
+  "Órgãos federais de meio ambiente e turismo, estados, municípios, entidades e proprietários que mantêm trilhas, e quem usa as trilhas.",
+  "Aguarda a escolha de relator na Comissão de Turismo da Câmara desde 03/09/2026. Depois passa por outras três comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639647",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162673",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1fbada4040e838c7",
+ "hash_tramitacao": "764f05701567a9ac",
+ "tentativa": 1
+}

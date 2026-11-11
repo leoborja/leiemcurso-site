@@ -1,0 +1,28 @@
+{
+ "id": 2641048,
+ "titulo": "Define regras para o governo federal contratar serviços de nuvem e valorizar data centers no Brasil",
+ "tldr": [
+  "Editais de nuvem do governo federal poderão dar pontos a fornecedores com infraestrutura no Brasil e exigir certificações e planos de continuidade. Também passa a ser obrigatória a análise prévia de riscos quando houver dados estratégicos.",
+  "Órgãos da administração pública federal direta, autarquias e fundações, e empresas que fornecem serviços de computação em nuvem.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026 passou a tramitar junto com o PL 4218/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641048",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164818",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "df72445e5934ff1e",
+ "hash_tramitacao": "990475fa67da48c7",
+ "tentativa": 1
+}

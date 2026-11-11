@@ -1,0 +1,28 @@
+{
+ "id": 2635744,
+ "titulo": "Define regras para gestantes do SUS acessarem online os dados do pré-natal, do parto e do pós-parto",
+ "tldr": [
+  "Gestantes e mães no pós-parto passam a ter acesso, aos poucos, a consultas, exames, vacinas e receitas em plataforma digital oficial do Ministério da Saúde. A caderneta em papel continua disponível.",
+  "Gestantes e mulheres no pós-parto atendidas pelo SUS, profissionais de saúde e as redes de saúde da União, dos estados e dos municípios.",
+  "Aguarda parecer na Comissão de Saúde da Câmara, que designou relatora em 05/11/2026 e abriu prazo para emendas em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635744",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154368",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "775829a61fb632f0",
+ "hash_tramitacao": "66c8100417d75b80",
+ "tentativa": 1
+}

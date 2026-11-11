@@ -1,0 +1,28 @@
+{
+ "id": 2465246,
+ "titulo": "Dá o nome de Viaduto Severo Eulálio Filho a viaduto da BR-343 em Teresina, no Piauí",
+ "tldr": [
+  "O viaduto da BR-343 na Ladeira do Uruguai, na Zona Leste de Teresina, passa a se chamar oficialmente Viaduto Severo Eulálio Filho.",
+  "Moradores de Teresina e usuários da BR-343.",
+  "Veio do Senado e tramita com prioridade (urgência aprovada em 13/08/2026). A Comissão de Constituição e Justiça aprovou o parecer em 01/09/2026 e o texto está pronto para votação no Plenário da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2465246",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2533154",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a6e1a7d3ee2aae34",
+ "hash_tramitacao": "7784b2d051dced78",
+ "tentativa": 1
+}

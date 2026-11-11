@@ -1,0 +1,28 @@
+{
+ "id": 2633648,
+ "titulo": "Inclui deepfakes e vazamento de dados como violência política contra a mulher e aumenta pena por meio digital",
+ "tldr": [
+  "Vídeos manipulados ou feitos por inteligência artificial e divulgação de dados pessoais passam a contar como violência política; a pena aumenta de um terço até metade se o crime ocorrer na internet.",
+  "Mulheres candidatas ou que exercem direitos políticos e autores desse tipo de conduta.",
+  "Tramita com prioridade e depende de votação no Plenário. Aguarda a escolha de relator na Comissão de Defesa dos Direitos da Mulher, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633648",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149121",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "12363a10f00636c4",
+ "hash_tramitacao": "623542aee0bb895f",
+ "tentativa": 1
+}

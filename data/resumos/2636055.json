@@ -1,0 +1,28 @@
+{
+ "id": 2636055,
+ "titulo": "Cria programa nacional de parcerias para inovação com parte do fundo federal de ciência e tecnologia",
+ "tldr": [
+  "Destina no mínimo 20% dos recursos anuais de pesquisa do fundo federal de ciência e tecnologia ao programa, chegando a 30% em três anos, para subvenções, financiamentos, escritórios de tecnologia e startups.",
+  "Ministério da Ciência, Tecnologia e Inovação, universidades e instituições públicas de pesquisa, empresas, startups e governos que aderirem.",
+  "Aguarda a escolha de relator na Comissão de Ciência, Tecnologia e Inovação da Câmara, onde foi recebido em 18/08/2026. Depois segue para as comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636055",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154786",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9a074894e969d84d",
+ "hash_tramitacao": "af6e378c9a6101b6",
+ "tentativa": 2
+}

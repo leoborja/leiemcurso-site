@@ -1,0 +1,28 @@
+{
+ "id": 2640780,
+ "titulo": "Obriga bancos a indenizar clientes vítimas do golpe da falsa central de atendimento",
+ "tldr": [
+  "Bancos e instituições de pagamento passam a responder por prejuízos de golpes que imitam seus canais oficiais. Entregar senha ou fazer transação induzido pelo golpe não conta como culpa só do cliente.",
+  "Consumidores, bancos e demais instituições autorizadas a funcionar pelo Banco Central.",
+  "Em 29/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 6080/2025. A análise será nas comissões, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640780",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164535",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0d9ab42cbcde2c3f",
+ "hash_tramitacao": "0bb9eb75ab44987c",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640673,
+ "titulo": "Aumenta a pena de perseguição contra turistas ou feita com rastreadores em carros e imóveis alugados",
+ "tldr": [
+  "A pena do crime de perseguição aumenta em um terço se a vítima for turista em trânsito ou se forem usados rastreadores e equipamentos de vigilância não autorizados em veículos ou hospedagens de aluguel.",
+  "Turistas, pessoas que usam veículos ou hospedagens alugados e quem pratica perseguição contra elas.",
+  "Aguarda escolha de relator na Comissão de Turismo da Câmara, onde chegou em 05/11/2026. Depois segue para a Comissão de Constituição e Justiça e para o Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640673",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164427",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cb681c7e991e495f",
+ "hash_tramitacao": "7d2a31ebbb4c0933",
+ "tentativa": 2
+}

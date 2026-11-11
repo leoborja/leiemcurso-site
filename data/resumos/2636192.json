@@ -1,0 +1,28 @@
+{
+ "id": 2636192,
+ "titulo": "Inclui na CLT regras de saúde e segurança para trabalhadores da confecção, da costura e do setor têxtil",
+ "tldr": [
+  "Empregadores do setor passam a ter de fornecer equipamentos de proteção gratuitos, adaptar postos de trabalho à ergonomia, oferecer capacitação periódica e garantir ventilação, iluminação, água potável e locais de descanso e refeição.",
+  "Trabalhadores e empregadores da indústria da confecção, do vestuário, da costura, das facções têxteis e de atividades ligadas a elas.",
+  "Aguarda designação de relator na Comissão de Trabalho da Câmara, onde foi recebido em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636192",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155001",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2024f4033b11b685",
+ "hash_tramitacao": "42e2bfcb332bb06e",
+ "tentativa": 1
+}

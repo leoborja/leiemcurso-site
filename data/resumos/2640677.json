@@ -1,0 +1,28 @@
+{
+ "id": 2640677,
+ "titulo": "Inclui na Política Nacional de Cuidados auxílio a cuidadores familiares e serviço de revezamento",
+ "tldr": [
+  "A política passa a prever auxílio financeiro temporário e contribuição ao INSS subsidiada para cuidadores informais em vulnerabilidade, além de profissionais públicos que substituem o cuidador familiar por um tempo.",
+  "Pessoas que cuidam de familiares sem receber pagamento e estão em situação de vulnerabilidade, além do poder público responsável pela política.",
+  "Aguarda escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 05/11/2026. Também passará por outras duas comissões, que podem decidir sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640677",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164431",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b9e3df0ee0983abd",
+ "hash_tramitacao": "d806999efe6f4c89",
+ "tentativa": 2
+}

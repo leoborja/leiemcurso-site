@@ -1,0 +1,28 @@
+{
+ "id": 2630767,
+ "titulo": "Cria bônus federal para produtores que abatem novilho precoce, com crédito tributário a frigoríficos",
+ "tldr": [
+  "Produtores de bois e búfalos jovens certificados e rastreados podem receber bônus em dinheiro, e frigoríficos que repassarem o valor ganham desconto em tributos federais.",
+  "Produtores rurais, frigoríficos, certificadoras e técnicos habilitados.",
+  "Aguarda designação de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630767",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143672",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6f207cbbdc360161",
+ "hash_tramitacao": "9f777d3c0686d17e",
+ "tentativa": 1
+}

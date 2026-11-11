@@ -1,0 +1,28 @@
+{
+ "id": 2640631,
+ "titulo": "Obriga empresas que cobram por boleto a adotar medidas de segurança contra fraudes",
+ "tldr": [
+  "Quem cobra por boleto terá de se identificar com clareza, oferecer canal oficial para conferir a cobrança e usar envio mais seguro. Bancos terão de permitir conferir o beneficiário. Há sanções do Código de Defesa do Consumidor.",
+  "Consumidores, empresas e prestadores de serviços que cobram por boleto e instituições financeiras que registram boletos.",
+  "Aguarda a escolha de relator na Comissão de Defesa do Consumidor da Câmara, que recebeu o texto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640631",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164385",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "66413a83f296b754",
+ "hash_tramitacao": "cc7089ffbf91f358",
+ "tentativa": 2
+}

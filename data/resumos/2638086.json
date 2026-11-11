@@ -1,0 +1,28 @@
+{
+ "id": 2638086,
+ "titulo": "Cria programa e fundo federal para financiar ônibus de emissão zero e tarifa zero em consórcios metropolitanos",
+ "tldr": [
+  "Cria um subfundo no Ministério das Cidades que recebe 10% da receita obtida com o corte de benefícios fiscais em contribuições federais, além de regras e metas para repassar verbas de transporte coletivo.",
+  "Municípios, consórcios metropolitanos, empresas públicas e concessionárias privadas de transporte coletivo e o Ministério das Cidades.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara, que designou relator em 04/11/2026. Prazo para emendas aberto em 05/11/2026. Outro projeto foi anexado a este."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638086",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158960",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "18ab2cff8945ca7f",
+ "hash_tramitacao": "682af1b0c348dd3c",
+ "tentativa": 1
+}

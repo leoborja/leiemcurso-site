@@ -1,0 +1,28 @@
+{
+ "id": 2640561,
+ "titulo": "Cria política de permanência no ensino técnico e autoriza bolsa para estudantes de baixa renda",
+ "tldr": [
+  "Prevê ações contra a evasão em cursos técnicos e autoriza a União a criar bolsa no Pronatec para alunos do Cadastro Único com renda por pessoa de até meio salário mínimo, sem acumular com o Pé-de-Meia.",
+  "Estudantes de cursos técnicos de nível médio em situação de vulnerabilidade, instituições de ensino técnico, a União, estados e municípios.",
+  "Tramita junto com outro projeto (apensada) e foi recebida pela Comissão de Educação da Câmara em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640561",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164315",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bf5251d4dbd5874c",
+ "hash_tramitacao": "21376fe0bae87669",
+ "tentativa": 1
+}

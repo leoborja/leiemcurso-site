@@ -1,0 +1,28 @@
+{
+ "id": 2632218,
+ "titulo": "Garante a conselheiros tutelares afastamento por doença e licença para cuidar de familiar doente",
+ "tldr": [
+  "Conselheiros tutelares remunerados passam a ter direito a afastamento para tratar da saúde e a até 12 dias por ano para cuidar de familiar doente, sem desconto no salário nem compensação de horas.",
+  "Membros remunerados dos Conselhos Tutelares e os municípios e o Distrito Federal.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632218",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146314",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5a7e6a8e9877f234",
+ "hash_tramitacao": "ce302ee1c4c0dd30",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2482699,
+ "titulo": "Cria compensação para o leite industrializado nacional quando houver redução do imposto sobre leite importado",
+ "tldr": [
+  "Quando o imposto de importação sobre leite e derivados for reduzido, o mesmo percentual passa a ser revertido em compensação ao produto nacional da mesma categoria. A Receita Federal calcula o valor.",
+  "Indústrias de leite e derivados no Brasil e a Receita Federal.",
+  "A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural aprovou o texto em 04/11/2026. O projeto aguarda encaminhamento."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482699",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2850698",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ee717c9d4d413d0f",
+ "hash_tramitacao": "6fcf9a176fce08b5",
+ "tentativa": 1
+}

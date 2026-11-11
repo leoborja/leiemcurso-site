@@ -1,0 +1,28 @@
+{
+ "id": 2640598,
+ "titulo": "Permite a trabalhadores que estudam compensar horas de trabalho para frequentar aulas da educação básica",
+ "tldr": [
+  "O empregado matriculado na escola poderá combinar por escrito com o patrão a compensação de horas em até 6 meses. O empregador fica proibido de mudar a escala para impedir os estudos e terá de justificar uma eventual recusa.",
+  "Trabalhadores com carteira matriculados na educação básica, inclusive na educação de jovens e adultos, e seus empregadores.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 04/11/2026. Depois passa pelas comissões de Trabalho e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640598",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164352",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6c1131f6493e5bf5",
+ "hash_tramitacao": "2a95806b29397b07",
+ "tentativa": 1
+}

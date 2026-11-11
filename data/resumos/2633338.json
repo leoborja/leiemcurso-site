@@ -1,0 +1,28 @@
+{
+ "id": 2633338,
+ "titulo": "Exclui o salário de jovem aprendiz do cálculo de renda familiar do Bolsa Família",
+ "tldr": [
+  "Enquanto durar o contrato de aprendizagem, o salário do aprendiz não conta na renda por pessoa da família para receber ou manter o Bolsa Família. As demais regras do programa continuam valendo.",
+  "Famílias que recebem ou pedem o Bolsa Família e têm adolescente ou jovem contratado como aprendiz.",
+  "Aguarda designação de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633338",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148753",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a47c41cf3553aaa9",
+ "hash_tramitacao": "3f403a49a831025d",
+ "tentativa": 1
+}

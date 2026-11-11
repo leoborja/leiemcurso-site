@@ -1,0 +1,28 @@
+{
+ "id": 2640886,
+ "titulo": "Limita o uso de câmeras no trabalho e proíbe filmar banheiros, vestiários e áreas de descanso",
+ "tldr": [
+  "A CLT passa a permitir câmeras só para segurança do patrimônio, proteção física e prevenção de acidentes, com aviso visível. Fica proibido o monitoramento só para controlar a produtividade individual, e há multas.",
+  "Empregadores que usam câmeras, trabalhadores com carteira assinada e a Auditoria-Fiscal do Trabalho.",
+  "Tramita junto com o PL 7160/2025 (apensado) por decisão da Mesa da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640886",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164652",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "adc33e24e68c12b8",
+ "hash_tramitacao": "17e990303f78ad80",
+ "tentativa": 1
+}

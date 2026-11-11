@@ -1,0 +1,28 @@
+{
+ "id": 2639666,
+ "titulo": "Cria política nacional de apoio à transição para a vida adulta de pessoas com autismo",
+ "tldr": [
+  "Prevê um plano individual de transição, preferencialmente a partir dos 14 anos, com metas de educação, trabalho, autonomia e saúde, e ações de qualificação e inclusão no trabalho.",
+  "Adolescentes e jovens com Transtorno do Espectro Autista, suas famílias, União, estados e municípios.",
+  "Tramita junto com o PL 2783/2026 e aguarda encaminhamento na Câmara; em 29/10/2026 o PL 4208/2026 foi anexado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639666",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162709",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "78f60244265f9a5a",
+ "hash_tramitacao": "af46a5ad6307bc7b",
+ "tentativa": 1
+}

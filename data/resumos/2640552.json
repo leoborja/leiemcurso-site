@@ -1,0 +1,28 @@
+{
+ "id": 2640552,
+ "titulo": "Obriga transparência e auditoria de algoritmos usados para gerir trabalhadores",
+ "tldr": [
+  "Muda a CLT para que sistemas automatizados de gestão possam ser auditados e expliquem critérios de avaliação, punição e bloqueio. O empregador passa a ter de prevenir riscos à saúde causados pelo monitoramento digital.",
+  "Trabalhadores com carteira assinada, empregadores que usam sistemas automatizados e sindicatos.",
+  "Recebido pela Comissão de Trabalho da Câmara em 03/11/2026; aguarda a designação de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640552",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164306",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fbe3b66965dd4a1e",
+ "hash_tramitacao": "8b8dc1884dde3833",
+ "tentativa": 1
+}

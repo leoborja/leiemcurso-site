@@ -1,0 +1,28 @@
+{
+ "id": 2640325,
+ "titulo": "Aumenta para 40 dias a prisão temporária em investigações de organizações criminosas",
+ "tldr": [
+  "Nessas investigações que dependam de quebra de sigilo ou análise de aparelhos, a prisão temporária passa a ser de 40 dias, prorrogável por igual período pelo juiz. O Ministério Público tem 30 dias para se manifestar após o inquérito.",
+  "Pessoas investigadas por organização ou associação criminosa, polícias, Ministério Público e Poder Judiciário.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026. Depois, vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640325",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163822",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "664cd917cefb2141",
+ "hash_tramitacao": "fc11d7cf3ef1b639",
+ "tentativa": 1
+}

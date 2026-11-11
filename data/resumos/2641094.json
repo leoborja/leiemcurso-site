@@ -1,0 +1,28 @@
+{
+ "id": 2641094,
+ "titulo": "Cria política nacional de oferta gratuita de água potável em espaços públicos movimentados",
+ "tldr": [
+  "Terminais, estações, mercados, parques e repartições públicas devem buscar oferecer bebedouros gratuitos e acessíveis, com reforço em ondas de calor e prioridade para idosos, crianças e periferias.",
+  "Frequentadores de espaços públicos de grande circulação e os governos federal, estaduais e municipais que administram esses locais.",
+  "Tramita junto (apensado) ao PL 4983/2023, com prioridade (urgência) e votação prevista no Plenário. Em 03/11/2026, foi designado relator na comissão (sigla CDC) para a proposta principal."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641094",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164979",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f148f049ca0cbac5",
+ "hash_tramitacao": "bad572e1f0b7c8cc",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2601198,
+ "titulo": "Inclui a inclusão e o letramento digital entre os direitos da pessoa idosa",
+ "tldr": [
+  "O poder público passa a ter de oferecer cursos de uso seguro da internet para idosos, serviços digitais acessíveis e campanhas contra golpes. O Fundo Nacional do Idoso pode pagar essas ações.",
+  "Pessoas idosas, governos federal, estaduais e municipais e instituições de ensino.",
+  "Aprovado na Comissão de Educação em 28/10/2026. Tramita junto com outro projeto e está na Comissão de Defesa dos Direitos da Pessoa Idosa, com relator escolhido e prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601198",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3079245",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b169c84ef8495e9a",
+ "hash_tramitacao": "4b09e95ab868d5f5",
+ "tentativa": 1
+}

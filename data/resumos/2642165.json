@@ -1,0 +1,28 @@
+{
+ "id": 2642165,
+ "titulo": "Cria um fundo da Justiça do Trabalho e prevê reajuste anual das custas processuais pela inflação",
+ "tldr": [
+  "As custas da Justiça do Trabalho seriam reajustadas todo ano pelo INPC e iriam para um novo fundo, usado para modernizar e manter os órgãos da Justiça do Trabalho.",
+  "Pessoas e empresas com processos na Justiça do Trabalho e os tribunais do trabalho.",
+  "Arquivada. Em 01/09/2026, o Plenário da Câmara aprovou o PL 1290/2022, ao qual esta proposta estava ligada, e ela deixou de ser analisada (ficou prejudicada)."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642165",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3169102",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "da794306175624c9",
+ "hash_tramitacao": "64fa513640338b2e",
+ "tentativa": 1
+}

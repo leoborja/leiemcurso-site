@@ -1,0 +1,28 @@
+{
+ "id": 2640594,
+ "titulo": "Cria política nacional de proteção da biodiversidade e dos conhecimentos tradicionais de povos da Amazônia",
+ "tldr": [
+  "Prevê mapeamento participativo de espécies de uso tradicional, consentimento prévio para pesquisas e limites à divulgação de dados sensíveis, e altera leis de patrimônio genético, serviços ambientais e unidades de conservação.",
+  "Povos indígenas, comunidades quilombolas e demais comunidades tradicionais da Amazônia Legal, pesquisadores e órgãos públicos.",
+  "Aguarda escolha de relator na Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara, que a recebeu em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640594",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164348",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "abab34890684ff7e",
+ "hash_tramitacao": "361e0375f4508b3a",
+ "tentativa": 2
+}

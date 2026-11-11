@@ -1,0 +1,28 @@
+{
+ "id": 2635389,
+ "titulo": "Cria programa nacional de apoio a lares temporários de cães e gatos resgatados",
+ "tldr": [
+  "Cria cadastro voluntário de lares temporários, que podem receber apoio com ração e prioridade em vacinação, atendimento veterinário e castração públicos, conforme orçamento.",
+  "Pessoas que acolhem cães e gatos resgatados sem fins lucrativos, além de União, estados e municípios.",
+  "Tramita junto com o PL 1174/2025 e foi recebido pela Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara em 05/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635389",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153476",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "be17dbee8f491ae1",
+ "hash_tramitacao": "4c9ddb31c2668043",
+ "tentativa": 1
+}

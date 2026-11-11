@@ -1,0 +1,28 @@
+{
+ "id": 2531970,
+ "titulo": "Garante barcos, combustível e apoio a agentes comunitários de saúde e de endemias em áreas de difícil acesso",
+ "tldr": [
+  "Na Amazônia Legal, os agentes passam a ter direito a embarcações, combustível e outros meios para o trabalho de campo. A União cria, com estados e municípios, um programa de apoio técnico, financeiro e logístico.",
+  "Agentes Comunitários de Saúde e Agentes de Combate às Endemias, moradores de áreas de difícil acesso, a União, estados e municípios.",
+  "Foi aprovado pela Comissão da Amazônia e dos Povos Originários e Tradicionais em 24/02/2026 e pela Comissão de Saúde em 28/10/2026. Desde 29/10/2026 está na Comissão de Finanças e Tributação, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2531970",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949119",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cc0b4984ed04372a",
+ "hash_tramitacao": "dda642f101669a03",
+ "tentativa": 1
+}

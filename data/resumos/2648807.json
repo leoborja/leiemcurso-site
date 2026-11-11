@@ -1,0 +1,28 @@
+{
+ "id": 2648807,
+ "titulo": "Autoriza ajuda a produtores de cana do Nordeste e crédito para renovar caminhões e ônibus",
+ "tldr": [
+  "Permite pagar R$ 12,00 por tonelada de cana entregue na safra 2025/2026, destinar até R$ 14,5 bilhões para financiar caminhões e ônibus e até R$ 10 bilhões para equipamentos agrícolas nacionais.",
+  "Produtores independentes de cana-de-açúcar do Nordeste, transportadores de cargas e de passageiros, produtores agrícolas, o setor de aviação civil e o BNDES.",
+  "Aprovado no Plenário da Câmara em 27/10/2026 e enviado ao Senado em 28/10/2026. Na mesma data, ofício do Senado comunicou o envio à sanção. Aguarda sanção ou veto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648807",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3185833",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9ab6a1bed8535fab",
+ "hash_tramitacao": "9a8a05bc81c8a9d4",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2636052,
+ "titulo": "Exige tentativa de conciliação eletrônica antes de ações judiciais contra o poder público em certos temas",
+ "tldr": [
+  "Antes de processar o poder público em temas fiscais, previdenciários, de benefícios sociais e de serviços públicos, seria preciso passar por procedimento com tentativa de acordo online, em plataforma a cargo da AGU.",
+  "Quem processa a Administração Pública nesses temas, órgãos públicos federais, AGU, INSS, Receita Federal e Defensoria Pública.",
+  "Tramita em conjunto com o PL 1526/2026. Foi recebida pela comissão da Câmara de sigla CASP, que registrou a apensação em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636052",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154783",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e4cedcdd7bc662b6",
+ "hash_tramitacao": "c0ab4346b0b4e69b",
+ "tentativa": 2
+}

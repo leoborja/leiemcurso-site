@@ -1,0 +1,28 @@
+{
+ "id": 2641242,
+ "titulo": "Proíbe piorar de propósito serviços digitais contratados para levar o cliente a planos mais caros",
+ "tldr": [
+  "Proíbe aumentar anúncios, reduzir a qualidade ou retirar recursos para forçar a troca de plano. Reduções grandes no serviço exigem aviso com 90 dias de antecedência, e o cliente pode cancelar sem multa.",
+  "Assinantes de serviços digitais, como streaming e aplicativos, e as empresas que oferecem esses serviços.",
+  "Em 03/11/2026, a Mesa Diretora da Câmara mandou o texto tramitar junto com o PL 4414/2026. No mesmo dia, o PL 4555/2026 foi anexado a este para tramitar junto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641242",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165140",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "004c494f790a28cb",
+ "hash_tramitacao": "07a118c38cbbec1b",
+ "tentativa": 1
+}

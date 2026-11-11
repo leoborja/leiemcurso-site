@@ -1,0 +1,28 @@
+{
+ "id": 2639455,
+ "titulo": "Cria regras de publicidade para atividades com risco de dependência comportamental, como as apostas",
+ "tldr": [
+  "A publicidade de apostas fica proibida de apresentá-las como fonte de renda ou investimento e de atrair menores, e deve trazer advertência ocupando ao menos dez por cento da peça. Anunciantes, agências e veículos respondem juntos.",
+  "Empresas de apostas de quota fixa, anunciantes, agências de publicidade, plataformas digitais e veículos de comunicação.",
+  "Tramita junto com o PL 3654/2026 e aguarda encaminhamento às comissões da Câmara desde 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639455",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162287",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "86d21538854bd5fb",
+ "hash_tramitacao": "3bc3e158c6220e84",
+ "tentativa": 1
+}

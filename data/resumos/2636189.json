@@ -1,0 +1,28 @@
+{
+ "id": 2636189,
+ "titulo": "Proíbe o poder público de se apropriar de dinheiro esquecido em bancos e cria devolução automática",
+ "tldr": [
+  "Valores esquecidos em bancos, consórcios, cooperativas e no FGTS seguem do titular sem prazo para perder o direito. O Banco Central identificaria os donos pelo CPF ou CNPJ e o já apropriado seria devolvido com correção.",
+  "Pessoas e empresas com valores esquecidos no sistema financeiro, trabalhadores com FGTS, instituições financeiras, Banco Central e Tesouro Nacional.",
+  "Tramita em conjunto com o PL 3654/2024 na Comissão de Finanças e Tributação da Câmara, onde a apensação foi registrada em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636189",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154984",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cabe8e4c02708191",
+ "hash_tramitacao": "c26bd5b23e1fc186",
+ "tentativa": 2
+}

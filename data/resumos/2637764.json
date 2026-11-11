@@ -1,0 +1,28 @@
+{
+ "id": 2637764,
+ "titulo": "Dispensa a devolução de benefícios do INSS recebidos por decisão judicial provisória depois revogada",
+ "tldr": [
+  "Quem recebeu de boa-fé benefício previdenciário ou assistencial por decisão provisória da Justiça não terá de devolver o dinheiro se a decisão cair, desde que a renda familiar por pessoa seja de até 1 salário-mínimo.",
+  "Segurados, dependentes e titulares de benefícios assistenciais de baixa renda e o INSS.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família desde 04/09/2026. Depois passa pelas comissões de Finanças e Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637764",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158212",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "81f2c67665fc6bef",
+ "hash_tramitacao": "d76dd053e9ddf0b6",
+ "tentativa": 1
+}

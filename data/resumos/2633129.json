@@ -1,0 +1,28 @@
+{
+ "id": 2633129,
+ "titulo": "Garante a vítimas de queimaduras tratamento completo no SUS e nos planos de saúde",
+ "tldr": [
+  "Vítimas de queimaduras passam a ter direito a tratamento das sequelas, incluindo cirurgia plástica reparadora quando há perda de função, e à avaliação para reconhecimento de deficiência.",
+  "Pessoas vítimas de queimaduras, o SUS e os planos de saúde.",
+  "Aguarda parecer da relatora na Comissão de Saúde da Câmara; prazo de emendas encerrado em 13/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633129",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148439",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bd935fc7a3163b4d",
+ "hash_tramitacao": "c1bf80e6ec303a0b",
+ "tentativa": 1
+}

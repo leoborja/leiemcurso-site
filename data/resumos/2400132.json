@@ -1,0 +1,28 @@
+{
+ "id": 2400132,
+ "titulo": "Define o sexo biológico como único critério de sexo nas políticas públicas para mulheres",
+ "tldr": [
+  "Políticas para mulheres passam a usar só o sexo biológico feminino, e o Ministério das Mulheres atenderia só esse público. O gasto com ele teria de ser ao menos 10 vezes o gasto com quem se identifica como mulher sem atender ao critério.",
+  "União, estados, Distrito Federal, municípios, Ministério das Mulheres, mulheres trans e o público das políticas para mulheres.",
+  "Na Comissão de Direitos Humanos, a relatoria opinou pela rejeição. Em 04/11/2026 a comissão negou, por 9 a 6, tirá-lo da pauta e concedeu pedido de vista. Outro projeto tramita junto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400132",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2353114",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "73d6d4ea35666657",
+ "hash_tramitacao": "5bdce4621d7636cc",
+ "tentativa": 2
+}

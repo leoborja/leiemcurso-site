@@ -1,0 +1,28 @@
+{
+ "id": 2635496,
+ "titulo": "Cria o Dia Nacional do Fisioterapeuta Esportivo, em 8 de novembro",
+ "tldr": [
+  "Inclui no calendário uma data comemorativa anual em 8 de novembro dedicada ao fisioterapeuta esportivo.",
+  "Fisioterapeutas esportivos.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635496",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153964",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bc91952c36c40628",
+ "hash_tramitacao": "5b2921b180ef34c3",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635559,
+ "titulo": "Cria carteira nacional para quem cuida de forma permanente de familiar com deficiência ou doença rara",
+ "tldr": [
+  "O cuidador recebe uma carteira com validade nacional, que garante atendimento prioritário quando acompanha a pessoa cuidada. O texto também cria um cadastro nacional e o Dia Nacional do Cuidador Familiar Atípico.",
+  "Mães, pais, avós, irmãos, tutores e outros responsáveis pelo cuidado contínuo de pessoas com deficiência, autismo, doenças raras ou condições incapacitantes.",
+  "Aguarda parecer da relatoria na Comissão de Defesa dos Direitos das Pessoas com Deficiência da Câmara. Em 26/10/2026, outro projeto (PL 4760/2026) passou a tramitar junto com este."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635559",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154111",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f046f0df963d8c11",
+ "hash_tramitacao": "e6ef4d3139eef00b",
+ "tentativa": 1
+}

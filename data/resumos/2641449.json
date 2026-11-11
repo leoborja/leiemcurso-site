@@ -1,0 +1,28 @@
+{
+ "id": 2641449,
+ "titulo": "Obriga embalagens de ração animal a trazer mensagens sobre proteção animal e canal de denúncia",
+ "tldr": [
+  "As embalagens devem trazer uma mensagem sobre guarda responsável, o aviso de que maus-tratos a animais são crime e um canal oficial de denúncia. O uso de QR Code pode ser autorizado.",
+  "Fabricantes e importadores de alimentos para animais vendidos no Brasil.",
+  "Em 26/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 3171/2026. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641449",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165375",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7200dc4683a2b38c",
+ "hash_tramitacao": "0b62bdf738c61496",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640591,
+ "titulo": "Cria programa de acolhimento a estudantes e artistas estrangeiros em intercâmbio no Brasil",
+ "tldr": [
+  "Prevê ações de recepção, orientação cultural e linguística, residências artísticas e parcerias internacionais, implantadas aos poucos e sem criar despesa obrigatória.",
+  "Estudantes, pesquisadores, professores, artistas e agentes culturais estrangeiros, e instituições de ensino, pesquisa e cultura participantes.",
+  "Em análise nas comissões da Câmara, tramita junto com o PL 3888/2026. Último andamento: publicação em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640591",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164345",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "47720d41f74761a2",
+ "hash_tramitacao": "04e3d04643b70a3d",
+ "tentativa": 1
+}

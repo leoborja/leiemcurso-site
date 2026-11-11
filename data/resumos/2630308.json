@@ -1,0 +1,28 @@
+{
+ "id": 2630308,
+ "titulo": "Cria política de proteção ao PIX e a outros sistemas nacionais de pagamento digital",
+ "tldr": [
+  "O PIX, o Drex e outros sistemas passam a ser tratados como infraestrutura estratégica. Instituições devem oferecer bloqueio emergencial contra fraude a qualquer hora, e são criados programas como o PIX Protegido e o PIX Amazônia.",
+  "Usuários de pagamentos digitais, instituições que participam desses sistemas, o Banco Central e a população da Amazônia.",
+  "Aguarda parecer na Comissão de Desenvolvimento Econômico da Câmara, com outro projeto anexado. O prazo para emendas terminou em 05/11/2026, com 7 emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630308",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3142668",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2151a56704d8b937",
+ "hash_tramitacao": "ba5106b66b7d71d1",
+ "tentativa": 1
+}

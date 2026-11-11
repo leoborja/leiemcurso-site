@@ -1,0 +1,28 @@
+{
+ "id": 2639772,
+ "titulo": "Obriga a reunir em sistema nacional os dados de distribuição de medicamentos, inclusive desvios de lotes",
+ "tldr": [
+  "Os dados de distribuição por lote, que hoje ficam com os laboratórios, passam a ser reunidos em um sistema nacional com atualização automática, incluindo registros de lotes desviados por crimes.",
+  "Laboratórios e detentores de registro de medicamentos, distribuidores e órgãos públicos de saúde e segurança.",
+  "Recebido pela Comissão de Saúde da Câmara em 03/11/2026, aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639772",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162875",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7b68f08b89113e71",
+ "hash_tramitacao": "f1065a31ef578d3d",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640678,
+ "titulo": "Permite prisão preventiva por ameaças repetidas ou descumprimento de medida protetiva em violência doméstica",
+ "tldr": [
+  "Muda o Código de Processo Penal: ameaças repetidas ou descumprimento de medidas protetivas, se documentados, passam a justificar a prisão antes do julgamento, mesmo sem agressão física anterior.",
+  "Pessoas investigadas por violência doméstica e familiar contra a mulher, as vítimas e juízes criminais.",
+  "Recebida pela Comissão de Defesa dos Direitos da Mulher em 06/11/2026 e juntada ao PL 5940/2025, com o qual tramita. A decisão final cabe ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640678",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164432",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2a32f33ba8396abd",
+ "hash_tramitacao": "d3ade52347e61258",
+ "tentativa": 1
+}

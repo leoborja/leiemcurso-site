@@ -1,0 +1,28 @@
+{
+ "id": 2640512,
+ "titulo": "Limita o uso da força por agentes de segurança em abordagens de crianças e adolescentes",
+ "tldr": [
+  "Policiais e outros agentes só podem usar força contra crianças e adolescentes em legítima defesa ou no cumprimento do dever legal, de forma proporcional e, quando possível, depois de tentar acalmar a situação.",
+  "Agentes de segurança pública e crianças e adolescentes abordados por eles.",
+  "Aguarda a escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640512",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164266",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c5aaf9a3a9a6d9f8",
+ "hash_tramitacao": "9cec1fb1c54f199f",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635392,
+ "titulo": "Dá prioridade a doadores regulares de sangue nas campanhas públicas de vacinação da União",
+ "tldr": [
+  "Quem comprovar doação de sangue nos 120 dias anteriores será vacinado depois dos grupos prioritários já definidos e antes do público em geral. A lei entraria em vigor 180 dias após a publicação.",
+  "Doadores regulares de sangue, hemocentros e responsáveis pelas campanhas de vacinação.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde foi recebido em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635392",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153479",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "01f6613dfb935b77",
+ "hash_tramitacao": "df9ee31de9af239a",
+ "tentativa": 1
+}

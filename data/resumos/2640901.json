@@ -1,0 +1,28 @@
+{
+ "id": 2640901,
+ "titulo": "Cria programa nacional de creches em horário noturno e flexível",
+ "tldr": [
+  "A lei de diretrizes da educação passa a permitir educação infantil à noite ou em horários flexíveis quando houver demanda. A União poderá dar apoio técnico e financeiro, conforme o orçamento.",
+  "Crianças de 0 a 3 anos cujos pais trabalham ou estudam em horários não convencionais, além de estados, Distrito Federal e municípios.",
+  "Em 29/10/2026 a Mesa Diretora da Câmara determinou que tramite junto com o PL 7200/2025. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640901",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164667",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "77591659f3fe82be",
+ "hash_tramitacao": "bca064aab7675711",
+ "tentativa": 1
+}

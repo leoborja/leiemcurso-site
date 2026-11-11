@@ -1,0 +1,28 @@
+{
+ "id": 2630784,
+ "titulo": "Cria regras para planos de saúde sobre direitos dos beneficiários, transparência e controle de reajustes",
+ "tldr": [
+  "Planos de saúde passam a ter de justificar recusas e reajustes, que podem ser presumidos abusivos. Pedidos sem resposta no prazo contam como aprovados e, em disputas, cabe à operadora provar que agiu certo.",
+  "Beneficiários de planos de saúde, operadoras, profissionais de saúde e a Agência Nacional de Saúde Suplementar (ANS).",
+  "Aguarda parecer do relator na Comissão de Defesa do Consumidor da Câmara. Em 28/10/2026 foi aceito pedido para incluir outros deputados como coautores."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630784",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143696",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "57e27de3379d4fdc",
+ "hash_tramitacao": "29e7217839fe87fd",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640697,
+ "titulo": "Permite o uso de inteligência artificial e imagens de satélite para monitorar o uso do solo em imóveis rurais",
+ "tldr": [
+  "União e estados poderão usar essas tecnologias para apoiar o Cadastro Ambiental Rural. Na compensação de Reserva Legal, terão prioridade terras abandonadas em biomas pressionados, como o Cerrado.",
+  "União, estados, proprietários rurais que precisam compensar área de Reserva Legal e donos de terras agrícolas abandonadas.",
+  "Aguarda designação de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, onde chegou em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640697",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164451",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "20607c74659fa59c",
+ "hash_tramitacao": "cf0f2cb360cd9f7a",
+ "tentativa": 1
+}

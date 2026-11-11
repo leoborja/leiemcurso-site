@@ -1,0 +1,28 @@
+{
+ "id": 2641108,
+ "titulo": "Cria cadastro nacional público de pessoas proibidas pela Justiça de ter guarda ou adotar animais",
+ "tldr": [
+  "A consulta pública mostrará nome, município, estado e prazo da proibição, sem CPF, endereço ou foto. Entidades de adoção poderão consultar pelo CPF. Proibições encerradas saem da consulta pública.",
+  "Pessoas com proibição judicial de ter animais, entidades de proteção e adoção de animais, Judiciário, Ministério Público, polícia e órgãos ambientais.",
+  "Desde 26/10/2026 tramita junto com o PL 635/2026 nas comissões da Câmara, que podem decidir sem passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641108",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164993",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9c19432ea82021ba",
+ "hash_tramitacao": "d0fedf3c802766a6",
+ "tentativa": 1
+}

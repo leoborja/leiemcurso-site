@@ -1,0 +1,28 @@
+{
+ "id": 2638317,
+ "titulo": "Limita o protesto em cartório de contas atrasadas de água, luz e outros serviços essenciais",
+ "tldr": [
+  "Proíbe protestar dívidas com menos de 90 dias de atraso ou abaixo de 1 salário mínimo, sem aviso prévio de 30 dias ou sem oferta de negociação. Cria regras mais rígidas para consumidores de baixa renda.",
+  "Consumidores de serviços essenciais, empresas de energia, água e esgoto e cartórios de protesto.",
+  "Tramita junto com o PL 3520/2026. Recebida em 28/10/2026 pela comissão da Câmara, aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638317",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159359",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "19291b89e9fef70b",
+ "hash_tramitacao": "76d8540e30ac2779",
+ "tentativa": 1
+}

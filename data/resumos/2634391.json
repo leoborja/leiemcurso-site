@@ -1,0 +1,28 @@
+{
+ "id": 2634391,
+ "titulo": "Libera R$ 8 bilhões extras para empréstimos a companhias aéreas",
+ "tldr": [
+  "Abriu crédito no Fundo Nacional de Aviação Civil para empréstimos a empresas de voos regulares. O dinheiro serviria para cobrir o aumento do custo do querosene de aviação.",
+  "Empresas que fazem voos regulares no Brasil e o Ministério de Portos e Aeroportos.",
+  "Perdeu a validade sem ser votada pela comissão mista do Congresso; o andamento foi registrado em 19/10/2026. O prazo final era 16/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634391",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157738",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3876e73cb74e229f",
+ "hash_tramitacao": "d267e28c61df1aeb",
+ "tentativa": 1
+}

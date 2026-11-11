@@ -1,0 +1,28 @@
+{
+ "id": 2634121,
+ "titulo": "Cria política nacional de esporte adaptado para crianças e adolescentes com autismo e apoio às famílias",
+ "tldr": [
+  "Define diretrizes para núcleos de esporte adaptado, atividades no contraturno escolar, formação de profissionais e uma rede de apoio às famílias, com recursos de convênios e da Lei de Incentivo ao Esporte.",
+  "Crianças e adolescentes com autismo ou outras condições neurodivergentes, suas famílias, a União, os estados e os municípios.",
+  "Aguarda parecer do relator na Comissão de Esporte da Câmara. O prazo para emendas terminou em 13/10/2026 sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634121",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149954",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "915b92d926a78c47",
+ "hash_tramitacao": "a26591c542a1a164",
+ "tentativa": 1
+}

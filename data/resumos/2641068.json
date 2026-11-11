@@ -1,0 +1,28 @@
+{
+ "id": 2641068,
+ "titulo": "Cria programa para estimular investimento privado em startups da Região Norte",
+ "tldr": [
+  "Prevê ações de estímulo ao investimento anjo, a fundos de inovação e a redes de investidores, com prioridade para startups da Amazônia Legal, sem criar benefícios tributários automáticos.",
+  "Startups e empresas inovadoras da Amazônia Legal, investidores, aceleradoras, incubadoras e instituições financeiras públicas.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026 passou a tramitar junto com o PL 6209/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641068",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164874",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "190e069605f7446e",
+ "hash_tramitacao": "f42311f83fabdc2b",
+ "tentativa": 1
+}

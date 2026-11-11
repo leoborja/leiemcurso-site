@@ -1,0 +1,28 @@
+{
+ "id": 2640547,
+ "titulo": "Permite dar prioridade no orçamento a restaurantes e refeitórios estudantis nos Institutos Federais",
+ "tldr": [
+  "A lei da assistência estudantil passa a prever que a rede federal pode priorizar recursos para construir, ampliar e manter restaurantes e refeitórios, de forma gradual e conforme o dinheiro disponível.",
+  "Estudantes e Institutos Federais de Educação, Ciência e Tecnologia, e a União.",
+  "Tramita junto com outro projeto (apensada) e está em análise nas comissões da Câmara; o último andamento foi o envio para publicação, em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640547",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164301",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "93451e262387facd",
+ "hash_tramitacao": "85ddb0977f806695",
+ "tentativa": 1
+}

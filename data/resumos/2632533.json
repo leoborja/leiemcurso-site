@@ -1,0 +1,28 @@
+{
+ "id": 2632533,
+ "titulo": "Obriga o agressor monitorado por violência doméstica a ressarcir custos de tornozeleira e alertas à vítima",
+ "tldr": [
+  "O juiz pode mandar o agressor monitorado pagar ao poder público os equipamentos e serviços de monitoração e os dispositivos de alerta da vítima. A medida protetiva não depende do pagamento, e nenhum custo pode ser cobrado da vítima.",
+  "Pessoas monitoradas eletronicamente por violência doméstica e familiar contra a mulher, as vítimas e os órgãos públicos que fazem a monitoração.",
+  "Tramita junto com o PL 3006/2026 na comissão de segurança pública da Câmara (sigla CSPCCO). Em 28/10/2026, foi designado o relator do projeto principal."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632533",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147051",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8411072c34782a81",
+ "hash_tramitacao": "07d5489ca79a6abe",
+ "tentativa": 1
+}

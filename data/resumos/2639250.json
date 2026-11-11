@@ -1,0 +1,28 @@
+{
+ "id": 2639250,
+ "titulo": "Proíbe as apostas de quota fixa (bets) e cassinos on-line em todo o país",
+ "tldr": [
+  "Ficam proibidas a exploração, oferta e publicidade de apostas de quota fixa, e revogadas as autorizações e a lei que regula o setor. A Anatel deverá bloquear sites e aplicativos.",
+  "Empresas de apostas, apostadores, clubes e entidades esportivas, influenciadores, veículos de comunicação e provedores de internet.",
+  "Tramita junto com o PL 87/2026 e aguarda encaminhamento na Câmara; publicado em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639250",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161848",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1eda438e1e6ca274",
+ "hash_tramitacao": "80552e039d942c86",
+ "tentativa": 1
+}

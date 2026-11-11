@@ -1,0 +1,28 @@
+{
+ "id": 2640543,
+ "titulo": "Cria programa no SUS de tratamento dentário gratuito a mulheres com lesões no rosto por violência doméstica",
+ "tldr": [
+  "O SUS passa a oferecer, com prioridade e de graça, tratamento dentário completo a essas mulheres, incluindo cirurgias, próteses e implantes quando indicados, ligado a psicologia e outros serviços.",
+  "Mulheres vítimas de violência doméstica e familiar com lesões bucomaxilofaciais, e os serviços do SUS.",
+  "Tramita junto com o PL 3867/2026 nas comissões da Câmara. Foi enviado para publicação em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640543",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164297",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3bf95e8199fa3798",
+ "hash_tramitacao": "e6f8e2685ef70fee",
+ "tentativa": 2
+}

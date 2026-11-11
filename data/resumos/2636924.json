@@ -1,0 +1,28 @@
+{
+ "id": 2636924,
+ "titulo": "Cria campanha para comemorar o aniversário dos alunos nas escolas públicas",
+ "tldr": [
+  "As escolas públicas de educação básica podem organizar comemorações de aniversário dos alunos, com o apoio das redes de ensino.",
+  "Alunos, professores e famílias das escolas públicas de educação básica, além dos órgãos que administram as redes de ensino.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara desde 08/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636924",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3156253",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e71e9becc4a612e5",
+ "hash_tramitacao": "efc4731ec648fe3a",
+ "tentativa": 1
+}

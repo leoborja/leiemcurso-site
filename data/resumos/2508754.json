@@ -1,0 +1,28 @@
+{
+ "id": 2508754,
+ "titulo": "Cria incentivos à produção de etanol e prevê aumento da mistura na gasolina para até 35%",
+ "tldr": [
+  "Prevê crédito com juros subsidiados e incentivos fiscais para o setor e um plano para elevar o etanol na gasolina até 35%. Também permite que produtores vendam etanol direto aos postos, sem passar por distribuidoras.",
+  "Usinas e produtores de etanol, postos de combustíveis, distribuidoras e consumidores de combustível.",
+  "Aprovado com emendas na Comissão de Minas e Energia em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2508754",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2906384",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "462ed38124fb65d7",
+ "hash_tramitacao": "c04323de9281b148",
+ "tentativa": 1
+}

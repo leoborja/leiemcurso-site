@@ -1,0 +1,28 @@
+{
+ "id": 2639107,
+ "titulo": "Permite cobertura integral do Proagro a agricultores familiares atingidos por seca ou outro evento climático",
+ "tldr": [
+  "O Poder Executivo fica autorizado a cobrir integralmente as perdas pelo Proagro e pelo Proagro Mais quando a perda for de 80% ou mais da produção, em municípios com emergência ou calamidade reconhecida pela União.",
+  "Agricultores familiares de municípios em situação de emergência ou calamidade pública por estiagem ou outro evento climático.",
+  "Aguarda escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639107",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161585",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8568c92f4a2bdad4",
+ "hash_tramitacao": "178b1022962e66dc",
+ "tentativa": 2
+}

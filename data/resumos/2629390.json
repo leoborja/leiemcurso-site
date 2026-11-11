@@ -1,0 +1,28 @@
+{
+ "id": 2629390,
+ "titulo": "Permite que técnicos e auxiliares de saúde bucal votem e sejam eleitos nos conselhos de odontologia",
+ "tldr": [
+  "Hoje só cirurgiões-dentistas votam e podem ser eleitos nos Conselhos Federal e Regionais de Odontologia. O texto estende o voto e a candidatura a técnicos e auxiliares de prótese dentária e de saúde bucal.",
+  "Técnicos e auxiliares em prótese dentária e em saúde bucal, cirurgiões-dentistas e os Conselhos Federal e Regionais de Odontologia.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629390",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3140097",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "28e5d1dee97097a3",
+ "hash_tramitacao": "2c18f40cc70eb11e",
+ "tentativa": 2
+}

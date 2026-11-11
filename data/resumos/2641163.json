@@ -1,0 +1,28 @@
+{
+ "id": 2641163,
+ "titulo": "Cria política nacional de proteção de dados econômicos estratégicos e de incentivo à inteligência artificial",
+ "tldr": [
+  "Define o que são ativos informacionais estratégicos, cria o Sistema Nacional de Inteligência Estratégica de Dados e prevê ações da União para estimular modelos nacionais de inteligência artificial.",
+  "União, órgãos responsáveis por bases de dados estratégicas, instituições de pesquisa e setor de tecnologia.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4394/2026 na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641163",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165056",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dffc207b44c23d82",
+ "hash_tramitacao": "46c92303394ddee0",
+ "tentativa": 1
+}

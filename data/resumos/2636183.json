@@ -1,0 +1,28 @@
+{
+ "id": 2636183,
+ "titulo": "Autoriza pagamento de R$ 12 por tonelada a produtores independentes de cana do Nordeste",
+ "tldr": [
+  "Previa ajuda federal em 2026 pela cana entregue a usinas na safra 2025/2026. Também mudava regras de seguro para a aviação civil, de crédito para inovação agrícola e de financiamento ao transporte.",
+  "Produtores independentes de cana-de-açúcar do Nordeste sem participação nas usinas, além do setor aéreo e de transportadores.",
+  "Perdeu a validade em 29/10/2026 sem ser votada pela comissão mista do Congresso, após prorrogação de prazo."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636183",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157335",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0f1b01166e0fd825",
+ "hash_tramitacao": "b14d6a39b9c1ec56",
+ "tentativa": 1
+}

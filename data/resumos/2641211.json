@@ -1,0 +1,28 @@
+{
+ "id": 2641211,
+ "titulo": "Cria programa federal de barcos comunitários para transporte escolar, de saúde e abastecimento",
+ "tldr": [
+  "A União pode financiar compra, manutenção e combustível de embarcações comunitárias usadas para levar estudantes, pacientes, alimentos e remédios.",
+  "Comunidades ribeirinhas e isoladas, povos indígenas e quilombolas, e municípios ou entidades que operam o transporte por rios.",
+  "Aguarda análise nas comissões da Câmara. Em 03/11/2026 passou a tramitar junto com o PL 4441/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641211",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165109",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0b07a3b50b295f04",
+ "hash_tramitacao": "9b845549bc151261",
+ "tentativa": 1
+}

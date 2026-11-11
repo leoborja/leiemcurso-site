@@ -1,0 +1,28 @@
+{
+ "id": 2600450,
+ "titulo": "Cria um marco legal da pessoa idosa com três faixas de idade para proteção crescente conforme o envelhecimento",
+ "tldr": [
+  "Divide as pessoas idosas em três faixas: 60 a 64, 65 a 79 e 80 anos ou mais. Garante a todos a partir dos 60 anos prioridade em processos e atendimentos e direito a acompanhante na internação, e proíbe discriminação por idade em contratos.",
+  "Pessoas com 60 anos ou mais, órgãos públicos, serviços públicos e privados, e estados, Distrito Federal e municípios.",
+  "Está pronto para votação na Comissão de Defesa dos Direitos da Pessoa Idosa da Câmara. Foi retirado da pauta várias vezes, a última em 28/10/2026. Em 12/08/2026, a comissão rejeitou um pedido para retirá-lo da pauta."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600450",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3077831",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "92752202b31d1e7f",
+ "hash_tramitacao": "7d07b154ca7450ff",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2432865,
+ "titulo": "Muda a composição da diretoria do Conselho Federal da OAB e renomeia a Secretaria-Geral Adjunta",
+ "tldr": [
+  "O texto original troca a Secretaria-Geral Adjunta por Corregedoria-Geral, cria os cargos de Diretor Administrativo e Diretor Executivo e permite que as seccionais criem diretorias temporárias por tema. A Câmara aprovou uma versão alterada.",
+  "O Conselho Federal da OAB, os Conselhos Seccionais e a advocacia.",
+  "Virou a Lei 15.511/2026, publicada no Diário Oficial em 22/09/2026. A Câmara aprovou uma versão alterada em 09/02/2026, e o Senado também aprovou o texto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432865",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2421784",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "849f183ddb879cb9",
+ "hash_tramitacao": "0d3f3a19636c621c",
+ "tentativa": 1
+}

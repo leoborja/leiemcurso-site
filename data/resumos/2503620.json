@@ -1,0 +1,28 @@
+{
+ "id": 2503620,
+ "titulo": "Limita a 50 km a distância entre a casa do paciente do SUS e a clínica de hemodiálise",
+ "tldr": [
+  "Pacientes renais crônicos do SUS que precisam ir a outro município para fazer hemodiálise passam a ter direito a uma clínica conveniada a no máximo cinquenta quilômetros de casa.",
+  "Pacientes com doença renal crônica atendidos pelo SUS, clínicas de hemodiálise conveniadas e gestores do SUS.",
+  "Aprovado com texto substitutivo na Comissão de Saúde em 12/08/2026. Desde 14/08/2026 aguarda relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2503620",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2897538",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b8c3b6820c48c328",
+ "hash_tramitacao": "db7d9c912e1be6a9",
+ "tentativa": 1
+}

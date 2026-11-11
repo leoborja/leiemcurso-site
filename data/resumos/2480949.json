@@ -1,0 +1,28 @@
+{
+ "id": 2480949,
+ "titulo": "Cria programa nacional de incentivo à inovação tecnológica no saneamento básico",
+ "tldr": [
+  "O governo federal, com estados e municípios, criaria programa com subsídios, financiamentos e incentivos fiscais para novas tecnologias de tratamento de água, esgoto e resíduos sólidos.",
+  "Governo federal, estados, municípios e quem desenvolve tecnologias para tratamento de água, esgoto e resíduos sólidos.",
+  "Aprovado nas Comissões de Ciência e Tecnologia (13/08/2025), de Desenvolvimento Urbano (17/12/2025) e de Finanças e Tributação (12/08/2026). Desde 17/08/2026 está na Comissão de Constituição e Justiça, à espera de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480949",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2844594",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9300eb282ef25b08",
+ "hash_tramitacao": "b4291cd5d586dddf",
+ "tentativa": 1
+}

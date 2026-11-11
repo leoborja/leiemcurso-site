@@ -1,0 +1,28 @@
+{
+ "id": 2601008,
+ "titulo": "Simplifica regras para usar emendas parlamentares em ações de saúde em territórios indígenas",
+ "tldr": [
+  "Os acordos entre órgãos federais para aplicar emendas na saúde indígena passam a ter plano de trabalho e prestação de contas simplificados e prioridade na liberação. Gestores ficam protegidos de punição por falhas só de forma.",
+  "Órgãos e entidades federais que executam ações de saúde indígena, gestores públicos e populações de territórios indígenas.",
+  "A Comissão da Amazônia e dos Povos Originários e Tradicionais aprovou em 11/08/2026 o parecer pela rejeição. Desde 14/08/2026 aguarda a escolha de relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601008",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078788",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3817866d85c5dbd3",
+ "hash_tramitacao": "ae8df839b5aa8c29",
+ "tentativa": 1
+}

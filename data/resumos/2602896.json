@@ -1,0 +1,28 @@
+{
+ "id": 2602896,
+ "titulo": "Cria o Dia Nacional do Maître, a ser celebrado em 11 de agosto",
+ "tldr": [
+  "O 11 de agosto passa a ser a data nacional oficial em homenagem ao maître.",
+  "Profissionais que trabalham como maître.",
+  "A Comissão de Cultura aprovou o parecer em 12/08/2026. Desde 13/08/2026, o projeto aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602896",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3082953",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "151b788586bdf3e6",
+ "hash_tramitacao": "bf316be7a0921d3d",
+ "tentativa": 1
+}

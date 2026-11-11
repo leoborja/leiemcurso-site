@@ -1,0 +1,28 @@
+{
+ "id": 2638511,
+ "titulo": "Permite adaptar a cabine de descanso de caminhões sem que isso seja infração de trânsito",
+ "tldr": [
+  "Instalar, ampliar, reduzir ou remover o espaço de descanso do motorista deixa de contar como alteração do veículo, desde que mantidos segurança, peso e dimensões. Fica proibido multar só por isso.",
+  "Proprietários e motoristas de caminhões e caminhões-tratores e órgãos de trânsito.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara, que designou relator em 04/11/2026. Prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638511",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159984",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "490b26abbb59af46",
+ "hash_tramitacao": "55065f91b313c247",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2614560,
+ "titulo": "Permite que policiais civis embarquem armados em voos civis no país, com autorização prévia",
+ "tldr": [
+  "Policiais civis em serviço e com porte de arma pelo cargo podem pedir para voar armados se a missão exigir a arma durante o voo. O pedido é excepcional e segue as regras da Anac e da Polícia Federal.",
+  "Policiais civis dos estados e do Distrito Federal, companhias aéreas, Anac e Polícia Federal.",
+  "Aprovado com texto alternativo na Comissão de Segurança Pública em 01/09/2026. Desde 10/09/2026 aguarda relator na Comissão de Viação e Transportes."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614560",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3110355",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e9ebb5fda624fb69",
+ "hash_tramitacao": "abd9abeb85eb7522",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2632403,
+ "titulo": "Cria o Dia Nacional do Acompanhante Voluntário de Paciente Internado, em 31 de maio",
+ "tldr": [
+  "Cria a data e diretrizes para o poder público oferecer aos acompanhantes nos hospitais local de descanso, identificação, informação, capacitação e verificação de pressão arterial.",
+  "Acompanhantes de pacientes internados, unidades de saúde e o poder público.",
+  "Aguarda parecer da relatora na Comissão de Saúde da Câmara. O prazo de emendas terminou em 28/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632403",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146706",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d8ef83c0cc857122",
+ "hash_tramitacao": "d3f7cc79f6503799",
+ "tentativa": 1
+}

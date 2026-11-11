@@ -1,0 +1,28 @@
+{
+ "id": 2632916,
+ "titulo": "Cria selo voluntário para instituições que adotem regras de proteção a crianças",
+ "tldr": [
+  "Instituições que treinarem funcionários, criarem canais de denúncia e consultarem cadastro de agressores podem receber selo válido por até 2 anos e ter preferência em convênios com o poder público.",
+  "Instituições públicas e privadas que atendem crianças e adolescentes.",
+  "Aguarda escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632916",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148058",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "31836752d99fdd9f",
+ "hash_tramitacao": "aec2892d6856ee79",
+ "tentativa": 1
+}

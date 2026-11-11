@@ -1,0 +1,28 @@
+{
+ "id": 2641697,
+ "titulo": "Proíbe contratos financeiros ligados a resultados de eventos esportivos, eleitorais e de entretenimento",
+ "tldr": [
+  "Proíbe oferecer e negociar no país derivativos (contratos financeiros atrelados a outro valor) ligados a esportes, jogos online, política, eleições e eventos sem referencial econômico, inclusive vindos do exterior.",
+  "Plataformas e empresas que oferecem derivativos no Brasil, inclusive as sediadas no exterior, investidores e a Comissão de Valores Mobiliários.",
+  "Recebido pela Comissão de Finanças e Tributação da Câmara em 04/11/2026, aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641697",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166981",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bb83514fba496ed6",
+ "hash_tramitacao": "d3916070ebfda7d9",
+ "tentativa": 2
+}

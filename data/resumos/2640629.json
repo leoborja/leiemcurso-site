@@ -1,0 +1,28 @@
+{
+ "id": 2640629,
+ "titulo": "Cria no SUS uma política de atendimento para pessoas com ceratocone nos graus I e II",
+ "tldr": [
+  "O SUS passa a ter regras para diagnóstico precoce, consultas e exames prioritários, entrega de óculos e lentes especiais, oferta do procedimento de crosslinking e campanhas. Esses casos não passam a contar como deficiência visual.",
+  "Pessoas com ceratocone nos graus I e II atendidas pelo SUS.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 04/11/2026. Depois passa pelas comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640629",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164383",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4c17bc74dd1fc4c1",
+ "hash_tramitacao": "9e0e39d66bf29424",
+ "tentativa": 1
+}

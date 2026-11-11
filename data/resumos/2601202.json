@@ -1,0 +1,28 @@
+{
+ "id": 2601202,
+ "titulo": "Garante ao Ministério Público o poder de entrar com ação de pensão alimentícia para crianças e adolescentes",
+ "tldr": [
+  "O Estatuto da Criança e do Adolescente passa a dizer que o Ministério Público pode propor ação de alimentos mesmo que os pais exerçam o poder familiar, sem situação de risco e mesmo havendo Defensoria Pública na cidade.",
+  "Crianças e adolescentes que precisam de pensão alimentícia, seus responsáveis e o Ministério Público.",
+  "Aprovado nas comissões de Previdência, Assistência Social, Infância, Adolescência e Família e de Constituição e Justiça. Sem recursos ao Plenário, aguarda a redação final desde 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601202",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3079251",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3da1540e8f2f4cf1",
+ "hash_tramitacao": "3cbde6a165853d8b",
+ "tentativa": 1
+}

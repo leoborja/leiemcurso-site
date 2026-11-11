@@ -1,0 +1,28 @@
+{
+ "id": 2462875,
+ "titulo": "Cria por lei o Conselho Nacional dos Direitos das Pessoas LGBTQIA+ e um fundo nacional para o tema",
+ "tldr": [
+  "Cria por lei um conselho que propõe e acompanha políticas públicas, com igual número de membros do governo e da sociedade civil, no lugar do criado por decreto em 2023. Também cria um fundo contra a discriminação.",
+  "Pessoas LGBTQIA+, o Ministério dos Direitos Humanos e da Cidadania, outros ministérios e organizações da sociedade civil.",
+  "Aprovado na Comissão de Direitos Humanos, Minorias e Igualdade Racial em 28/10/2026, com um voto em separado. Aguarda envio à próxima etapa."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2462875",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2486058",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "51ff989ace872f9c",
+ "hash_tramitacao": "bfec0a13e12c843c",
+ "tentativa": 2
+}

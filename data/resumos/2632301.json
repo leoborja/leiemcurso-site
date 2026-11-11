@@ -1,0 +1,28 @@
+{
+ "id": 2632301,
+ "titulo": "Libera R$ 337.483.432,00 extras ao Ibama e ao ICMBio para combate a incêndios e fiscalização ambiental",
+ "tldr": [
+  "Abriu crédito extraordinário para prevenção e combate a incêndios florestais e fiscalização ambiental, valendo desde a publicação, até perder a validade.",
+  "Ministério do Meio Ambiente e Mudança do Clima, Ibama e Instituto Chico Mendes de Conservação da Biodiversidade.",
+  "Aprovada na Câmara em 15/07/2026 e enviada ao Senado, mas perdeu a validade em 12/10/2026 sem votação final, segundo ato publicado em 19/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632301",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157740",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c81999f08e0dee62",
+ "hash_tramitacao": "61d8b88cb0e4debc",
+ "tentativa": 1
+}

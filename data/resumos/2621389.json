@@ -1,0 +1,28 @@
+{
+ "id": 2621389,
+ "titulo": "Restringe a pessoas do sexo biológico feminino o acesso a espaços e benefícios destinados a mulheres",
+ "tldr": [
+  "Banheiros, presídios, esportes, concursos, cotas e benefícios femininos ficam limitados a quem nasceu do sexo feminino, com penas de detenção ou reclusão e multa para quem descumprir.",
+  "Pessoas que usam espaços e políticas destinados a mulheres, incluindo pessoas trans, e órgãos públicos e entidades privadas que os oferecem.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado, que designou relatora em 28/10/2026. Há pedido de devolução do projeto apresentado em 11/05/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621389",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3123196",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cdc94bc84845cf19",
+ "hash_tramitacao": "db995fe1e98794d8",
+ "tentativa": 1
+}

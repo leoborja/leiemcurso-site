@@ -1,0 +1,28 @@
+{
+ "id": 2641038,
+ "titulo": "Cria avaliação periódica de chefes e dirigentes da administração pública federal",
+ "tldr": [
+  "Ocupantes de cargos de direção e chefia passarão por avaliações periódicas. Se o desempenho for insuficiente, terão um plano de desenvolvimento; se continuar, poderão ser substituídos ou exonerados.",
+  "Dirigentes e ocupantes de funções de direção, chefia e assessoramento nos órgãos federais dos três Poderes.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026, passou a tramitar junto com o PL 4352/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641038",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164807",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0cea1f4fe1e6282b",
+ "hash_tramitacao": "595c48ddab241fae",
+ "tentativa": 1
+}

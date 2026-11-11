@@ -1,0 +1,28 @@
+{
+ "id": 2636141,
+ "titulo": "Cria programa para compensar custos de transporte de mercadorias de pequenas empresas em áreas remotas",
+ "tldr": [
+  "Cria um índice de custo logístico por região, um crédito que pode abater tributos federais e uma subvenção para micro e pequenas empresas em áreas com transporte caro, em caráter experimental.",
+  "Micro e pequenas empresas de comércio em áreas classificadas como remotas e o governo federal.",
+  "Aguarda designação de relator na Comissão de Integração Nacional e Desenvolvimento Regional da Câmara desde 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636141",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154896",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "762e87958e586d6c",
+ "hash_tramitacao": "dfa8b5feddc4d79b",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634922,
+ "titulo": "Proíbe beneficiários do Bolsa Família, BPC e outros programas federais de renda de fazer apostas online",
+ "tldr": [
+  "Empresas de apostas terão de consultar cadastro do governo antes de abrir conta ou aceitar aposta, recusar beneficiários e fechar contas em até 5 dias úteis. Quem apostar não perde o benefício por isso.",
+  "Beneficiários do Bolsa Família, BPC, Auxílio Gás, Pé-de-Meia e outros programas federais de renda, e as empresas de apostas.",
+  "Tramita junto com o PL 3950/2024 (apensada) na comissão da Câmara onde foi recebida em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634922",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151776",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6efce16d9df5bbc2",
+ "hash_tramitacao": "e58e36635d08cee5",
+ "tentativa": 1
+}

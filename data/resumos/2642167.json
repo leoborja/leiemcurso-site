@@ -1,0 +1,28 @@
+{
+ "id": 2642167,
+ "titulo": "Transforma cargos vagos de juiz em vagas de desembargador no Tribunal Regional do Trabalho de Goiás",
+ "tldr": [
+  "Sete cargos vagos de juiz do trabalho substituto viram 4 cargos de desembargador, e o tribunal passa a ter 18 desembargadores. A sobra do orçamento paga 5 cargos em comissão e 3 funções comissionadas.",
+  "Tribunal Regional do Trabalho da 18ª Região, com sede em Goiânia (GO), seus magistrados e servidores.",
+  "Aprovada no Plenário da Câmara em 01/09/2026, com prioridade na tramitação. Foi enviada ao Senado Federal em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642167",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3169104",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6bf9440242e0287c",
+ "hash_tramitacao": "4f5d1968a9417d37",
+ "tentativa": 1
+}

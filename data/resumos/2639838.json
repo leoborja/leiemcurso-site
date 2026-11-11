@@ -1,0 +1,28 @@
+{
+ "id": 2639838,
+ "titulo": "Cria regras de transparência e controle do Congresso sobre normas das agências reguladoras federais",
+ "tldr": [
+  "Normas de grande impacto econômico das agências passam a exigir análise de impacto, consulta pública e justificativa detalhada, além de relatório enviado ao Congresso em até quinze dias. Cria sistema público com essas informações.",
+  "Agências reguladoras federais, empresas e setores regulados, consumidores e usuários de serviços públicos, e o Congresso Nacional.",
+  "Aguarda parecer na Comissão de Desenvolvimento Econômico da Câmara; o prazo para emendas terminou em 05/11/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639838",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162957",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bf5f73ffda153716",
+ "hash_tramitacao": "488f869545fff781",
+ "tentativa": 1
+}

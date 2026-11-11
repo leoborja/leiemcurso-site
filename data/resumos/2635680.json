@@ -1,0 +1,28 @@
+{
+ "id": 2635680,
+ "titulo": "Muda o início do prazo para herdeiro excluído cobrar herança escondida em empresas, holdings ou fundos",
+ "tldr": [
+  "Quando o herdeiro ficar de fora da herança por uso de empresas, holdings, fundos ou participações que dificultem achar os bens, o prazo para reclamar começa a contar só quando ele souber, sem dúvida, que foi excluído.",
+  "Herdeiros excluídos de heranças organizadas em empresas, holdings, fundos patrimoniais ou participações societárias.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, onde chegou em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635680",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154281",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5fa62ae6aed4abc0",
+ "hash_tramitacao": "518c87131b7cc325",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2625664,
+ "titulo": "Cria botão de pânico, aplicativo e programa de acolhimento para trabalhadoras domésticas vítimas de violência",
+ "tldr": [
+  "Cria canais de denúncia ligados ao Disque 100, protocolo policial e prioridade em atendimentos, e aumenta penas no Código Penal para crimes cometidos no contexto do trabalho doméstico.",
+  "Trabalhadoras e trabalhadores domésticos, inclusive informais e diaristas, empregadores, polícias e órgãos de saúde, assistência e justiça.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado, que designou relatora em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625664",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3132085",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3c965b2f4aa7f972",
+ "hash_tramitacao": "01b1c0612d054974",
+ "tentativa": 1
+}

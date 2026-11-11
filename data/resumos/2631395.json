@@ -1,0 +1,28 @@
+{
+ "id": 2631395,
+ "titulo": "Proíbe o uso e a propaganda de exames de detecção de câncer sem comprovação científica",
+ "tldr": [
+  "Exames de rastreamento e diagnóstico precoce do câncer só podem ser usados ou anunciados se tiverem comprovação científica, recomendação do Ministério da Saúde e registro sanitário quando exigido.",
+  "Clínicas, farmácias, empresas de saúde, órgãos públicos de saúde e pacientes em todo o país.",
+  "Aguarda parecer do relator na Comissão de Defesa do Consumidor da Câmara. O prazo para emendas terminou em 13/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631395",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144543",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b62519ae9aebcddd",
+ "hash_tramitacao": "c630bf50acb0380e",
+ "tentativa": 1
+}

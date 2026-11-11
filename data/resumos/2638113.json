@@ -1,0 +1,28 @@
+{
+ "id": 2638113,
+ "titulo": "Obriga investigação técnica independente das causas de acidentes graves em obras públicas",
+ "tldr": [
+  "Colapsos, acidentes com morte ou lesão grave, falhas de risco ou paradas de serviço essencial por mais de 48 horas em obras contratadas exigirão análise de causa feita por quem não atuou na obra, com relatório publicado.",
+  "Órgãos públicos que contratam obras e serviços de engenharia, empresas contratadas e técnicos responsáveis pelas análises.",
+  "Recebido pela Comissão de Finanças e Tributação da Câmara em 09/09/2026; aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638113",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158996",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a0f1b7f5ede4e9ba",
+ "hash_tramitacao": "5b688929a02a014f",
+ "tentativa": 1
+}

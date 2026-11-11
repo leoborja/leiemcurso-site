@@ -1,0 +1,28 @@
+{
+ "id": 2641826,
+ "titulo": "Permite que cuidador familiar de pessoa com deficiência com BPC trabalhe sem que o benefício seja cortado",
+ "tldr": [
+  "Por 24 meses, até 2 salários mínimos de renda do cuidador deixam de contar no cálculo do BPC. Depois, por mais 12 meses, conta só metade dessa renda. O benefício não pode ser cortado só porque o cuidador começou a trabalhar.",
+  "Familiares que cuidam sem pagamento de pessoas com deficiência que recebem o BPC e estão inscritas no CadÚnico.",
+  "Em 26/10/2026 passou a tramitar junto com o PL 2399/2026 na Câmara, que será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641826",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167996",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e057df3eabcb3e4c",
+ "hash_tramitacao": "ffe0d2af2597fe99",
+ "tentativa": 1
+}

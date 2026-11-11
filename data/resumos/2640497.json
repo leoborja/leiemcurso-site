@@ -1,0 +1,28 @@
+{
+ "id": 2640497,
+ "titulo": "Cria programa nacional de distribuição gratuita de absorventes em escolas públicas",
+ "tldr": [
+  "A União passa a apoiar projetos que arrecadam e distribuem absorventes nas escolas, com distribuição gratuita durante todo o ano letivo, palestras sobre o ciclo menstrual e parcerias com postos de saúde.",
+  "Estudantes da educação básica pública, a comunidade escolar, as secretarias de educação e os postos de saúde.",
+  "Aguarda parecer da relatora na Comissão de Educação da Câmara. O prazo para emendas foi aberto em 06/11/2026. Os PLs 4026/2026 e 4044/2026 tramitam junto com ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640497",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164251",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "421f666f88a21122",
+ "hash_tramitacao": "d63ef2822ff3c21e",
+ "tentativa": 1
+}

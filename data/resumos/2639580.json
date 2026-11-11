@@ -1,0 +1,28 @@
+{
+ "id": 2639580,
+ "titulo": "Cria regras para comunicar às famílias diagnósticos de doenças raras e condições congênitas em bebês",
+ "tldr": [
+  "Serviços de saúde públicos e privados passam a comunicar esses diagnósticos em local reservado, com linguagem clara e sem termos discriminatórios, e a oferecer apoio psicossocial às famílias.",
+  "Gestantes, crianças e famílias que recebem esses diagnósticos, profissionais de saúde e serviços do SUS e dos planos de saúde.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639580",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162583",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ff79dd634a6dd531",
+ "hash_tramitacao": "1008fa2ab9e913bb",
+ "tentativa": 2
+}

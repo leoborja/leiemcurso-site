@@ -1,0 +1,28 @@
+{
+ "id": 2640554,
+ "titulo": "Obriga gestores do SUS a planejar estoques e prevenir falta de remédios de uso contínuo",
+ "tldr": [
+  "Gestores do SUS terão de monitorar estoques, manter plano contra desabastecimento e informar a disponibilidade de remédios, com atenção a diabetes, hipertensão, autismo, depressão e Alzheimer. Vale 180 dias após publicada.",
+  "Usuários do SUS que usam remédios de forma contínua e os gestores de saúde da União, estados, Distrito Federal e municípios.",
+  "Tramita junto com outro projeto (apensada) e foi recebida pela Comissão de Saúde da Câmara em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640554",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164308",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d2a679acbc0a0527",
+ "hash_tramitacao": "e1395c023f868264",
+ "tentativa": 1
+}

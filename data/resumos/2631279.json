@@ -1,0 +1,28 @@
+{
+ "id": 2631279,
+ "titulo": "Permite que municípios mudem o uso de áreas públicas de loteamentos, inclusive vendendo ou trocando",
+ "tldr": [
+  "Municípios poderão vender, trocar, ceder ou mudar o uso de áreas públicas e institucionais de loteamentos, desde que justifiquem o interesse público, façam estudo técnico e avaliação e garantam participação social.",
+  "Municípios e moradores de áreas urbanas loteadas.",
+  "Aguarda a escolha de relator na Comissão de Desenvolvimento Urbano da Câmara, onde chegou em 19/08/2026. Depois segue para a Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631279",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144333",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "359f41a0c59999c8",
+ "hash_tramitacao": "d672d2d2e9da59ae",
+ "tentativa": 1
+}

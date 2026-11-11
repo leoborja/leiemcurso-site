@@ -1,0 +1,28 @@
+{
+ "id": 2565301,
+ "titulo": "Cria política federal de compra de alimentos perecíveis de pequenos e médios produtores rurais",
+ "tldr": [
+  "O governo federal, por meio do Ministério do Desenvolvimento Agrário e da Conab, passa a comprar perecíveis desses produtores e a enviá-los a hospitais, escolas, creches, cozinhas comunitárias e bancos de alimentos.",
+  "Pequenos e médios produtores rurais e agricultores familiares, além de hospitais, escolas, creches, cozinhas comunitárias e bancos de alimentos.",
+  "Aprovado na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural em 04/11/2026. Ainda passa pelas comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2565301",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3009225",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fa129b09d22617a6",
+ "hash_tramitacao": "b883afb1a5fe526f",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640949,
+ "titulo": "Cria programa nacional para proteger crianças e adolescentes de ambientes de risco e exploração",
+ "tldr": [
+  "Cria um programa coordenado pelo Ministério dos Direitos Humanos e da Cidadania, com campanhas, treinamento da rede de proteção, fiscalizações conjuntas e produção de dados sobre crianças em risco.",
+  "Crianças e adolescentes, além de órgãos de assistência social, saúde, educação, segurança pública e vigilância sanitária.",
+  "Tramita junto com o PL 3908/2025, por decisão da Mesa da Câmara de 29/10/2026. Será analisado nas comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640949",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164716",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "890cc49dc6ad20b7",
+ "hash_tramitacao": "618d79e128374281",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2639818,
+ "titulo": "Define regras mínimas de funcionamento para casas de longa permanência para idosos",
+ "tldr": [
+  "Asilos e casas de repouso passam a seguir regras em lei sobre equipe mínima por número de idosos, enfermeiro responsável, estrutura física, contrato com o residente e notificação de acidentes. Quem descumprir comete infração sanitária.",
+  "Instituições públicas e privadas de moradia coletiva para pessoas com 60 anos ou mais, seus residentes, profissionais de enfermagem e a vigilância sanitária.",
+  "Recebido pela Comissão de Saúde da Câmara em 03/11/2026, aguarda a escolha de relator. Tramita junto com o PL 4231/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639818",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162923",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "17908d68ea4fee49",
+ "hash_tramitacao": "e8a407715fad9fab",
+ "tentativa": 1
+}

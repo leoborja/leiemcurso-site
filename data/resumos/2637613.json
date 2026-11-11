@@ -1,0 +1,28 @@
+{
+ "id": 2637613,
+ "titulo": "Torna improbidade receber viagens e hospedagem pagas por interessados e guardar dinheiro vivo não declarado",
+ "tldr": [
+  "Detentores de mandato que aceitarem vantagens pessoais pagas por quem tem interesse junto aos Poderes cometem improbidade. Guardar mais de 10 salários mínimos em espécie sem declaração exige comprovar a origem em 15 dias.",
+  "Detentores de mandato eletivo e ocupantes de cargos em comissão ou de funções de confiança de nível superior.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, que recebeu o texto em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637613",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157945",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9df2f4bd7b70dcda",
+ "hash_tramitacao": "9b5783c6554e78ee",
+ "tentativa": 1
+}

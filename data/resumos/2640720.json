@@ -1,0 +1,28 @@
+{
+ "id": 2640720,
+ "titulo": "Proíbe o uso em processo penal de provas obtidas com violação aos direitos da vítima",
+ "tldr": [
+  "Passam a ser recusadas no processo penal provas obtidas por coação ou exposição da vítima, ou que usem sua vida sexual passada ou vida privada sem relação comprovada com o caso. A defesa ainda pode produzir provas necessárias.",
+  "Vítimas de crimes, acusados e seus advogados, juízes, promotores e polícia, em processos criminais.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara desde 06/11/2026. O PL 4838/2026 tramita junto (apensado) com ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640720",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164474",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e65a6ab46dbe09a2",
+ "hash_tramitacao": "09fb88987263f284",
+ "tentativa": 2
+}

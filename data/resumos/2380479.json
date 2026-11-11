@@ -1,0 +1,28 @@
+{
+ "id": 2380479,
+ "titulo": "Reconhece as Bandas de Pífanos de Pernambuco como manifestação da cultura nacional",
+ "tldr": [
+  "As bandas de pífanos de Pernambuco passam a ser reconhecidas por lei como manifestação da cultura nacional, com base no artigo 215 da Constituição.",
+  "As bandas de pífanos de Pernambuco e seus músicos.",
+  "Aprovado nas Comissões de Cultura e de Constituição e Justiça, que aprovou a redação final em 04/11/2026. Aguarda a preparação do texto oficial na Câmara para envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2380479",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2314260",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ecfdfd82ebea3e3b",
+ "hash_tramitacao": "bebeab5bb0b2c5f8",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2349768,
+ "titulo": "Dá o nome de Heitor Miranda dos Santos ao trecho brasileiro da ponte entre Porto Murtinho e Carmelo Peralta",
+ "tldr": [
+  "O trecho brasileiro da ponte sobre o Rio Paraguai, na divisa com o Paraguai, passa a se chamar oficialmente Ponte Heitor Miranda dos Santos.",
+  "Porto Murtinho, no Mato Grosso do Sul, e quem usa a ponte entre o Brasil e o Paraguai.",
+  "Virou a Lei 15.507/2026, publicada no Diário Oficial em 22/09/2026, depois de ser aprovada na Câmara em 26/05/2026 e passar pelo Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349768",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2238851",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3858f67b5e0b8ebf",
+ "hash_tramitacao": "b5f085d1db9c2ceb",
+ "tentativa": 1
+}

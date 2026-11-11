@@ -1,0 +1,28 @@
+{
+ "id": 2636212,
+ "titulo": "Obriga o repasse do incentivo federal adicional direto a agentes comunitários de saúde e de endemias",
+ "tldr": [
+  "Estados e municípios terão de pagar o incentivo aos agentes em até 30 dias após receber o dinheiro federal. Também ficam proibidos de usá-lo para outros fins e terão de publicar os pagamentos em portal de transparência.",
+  "Agentes comunitários de saúde, agentes de combate às endemias, estados, Distrito Federal, municípios e o Ministério da Saúde.",
+  "Aguarda a designação de relator na Comissão de Saúde da Câmara, que recebeu o projeto em 08/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636212",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155037",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cdaec0d4de1e4df0",
+ "hash_tramitacao": "dd660c6ceae04e8b",
+ "tentativa": 1
+}

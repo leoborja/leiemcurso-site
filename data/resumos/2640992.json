@@ -1,0 +1,28 @@
+{
+ "id": 2640992,
+ "titulo": "Aumenta a pena de crimes sexuais cometidos com abuso de confiança ou que dificultem a defesa da vítima",
+ "tldr": [
+  "O Código Penal passa a prever aumento de um quarto até a metade da pena quando o crime sexual é cometido com abuso de confiança ou aproveitando situação ou recurso que dificulte a defesa da vítima.",
+  "Pessoas acusadas ou condenadas por crimes contra a liberdade sexual e as vítimas desses crimes.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 2136/2026 (apensado). O texto será votado no Plenário da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640992",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164759",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4f93cc72d9b55ca5",
+ "hash_tramitacao": "db8ba4041ac4d68e",
+ "tentativa": 1
+}

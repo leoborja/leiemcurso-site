@@ -1,0 +1,28 @@
+{
+ "id": 2632356,
+ "titulo": "Cria plano emergencial contra os efeitos do El Niño e inclui alertas de risco climático na política do clima",
+ "tldr": [
+  "A política nacional do clima passa a prever ações preventivas e alertas à população. Quando houver alta chance de El Niño, o governo federal terá de fazer um plano com medidas contra incêndios, enchentes e falta de alimentos.",
+  "O Poder Executivo federal, brigadas florestais, incluindo indígenas e comunitárias, as cidades e a população em geral.",
+  "Tramita junto com o PL 2813/2026 e foi recebido pela comissão de meio ambiente (CMADS) da Câmara em 05/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632356",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146632",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6cc9d204c3ef982b",
+ "hash_tramitacao": "84a440763455c444",
+ "tentativa": 1
+}

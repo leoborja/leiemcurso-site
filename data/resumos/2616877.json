@@ -1,0 +1,28 @@
+{
+ "id": 2616877,
+ "titulo": "Dá o nome de Rodovia Engenheiro Rui Ramos Soares a trecho da BR-282 entre Florianópolis e São José",
+ "tldr": [
+  "O trecho da BR-282 entre o km 0, em Florianópolis, e o entroncamento com a BR-101, em São José, passa a se chamar Rodovia Engenheiro Rui Ramos Soares.",
+  "Os Municípios de Florianópolis e São José, em Santa Catarina.",
+  "Veio do Senado em 15/04/2026. Aprovado na Comissão de Viação e Transportes da Câmara em 28/10/2026, aguarda escolha de relator na Comissão de Cultura desde 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616877",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3114572",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ae379d6b683b60d5",
+ "hash_tramitacao": "1fd3966082ff8c9b",
+ "tentativa": 1
+}

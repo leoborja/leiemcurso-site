@@ -1,0 +1,28 @@
+{
+ "id": 2640835,
+ "titulo": "Cria levantamento nacional da população em situação de rua feito a cada até 4 anos",
+ "tldr": [
+  "A União, com estados e municípios, fará a contagem nacional da população em situação de rua a cada até 4 anos, atualizada com dados do CadÚnico. Os resultados orientam o repasse federal para atender essa população.",
+  "Pessoas em situação de rua, a União, estados, Distrito Federal e municípios na rede de assistência social.",
+  "Em análise na Câmara. Em 29/10/2026, a Mesa Diretora determinou que tramite junto com o PL 5959/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640835",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164590",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4f8ddfe72e6a0264",
+ "hash_tramitacao": "73095250b5d7a526",
+ "tentativa": 1
+}

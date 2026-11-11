@@ -1,0 +1,28 @@
+{
+ "id": 2596460,
+ "titulo": "Cria rito de urgência para o descumprimento de medidas protetivas da Lei Maria da Penha",
+ "tldr": [
+  "Juiz terá 24 horas para decidir sobre a prisão do agressor que descumprir medida protetiva. Prevê tornozeleira em casos de risco, apreensão imediata de armas e alertas à vítima.",
+  "Mulheres vítimas de violência doméstica, agressores com medida protetiva, polícias, Judiciário, Ministério Público e governos.",
+  "Aprovado com texto alternativo na Comissão de Segurança Pública em 11/08/2026. Aguarda relator na Comissão de Defesa dos Direitos da Mulher desde 14/08/2026; depois vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2596460",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3067263",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "501f6faf8dfb8d7f",
+ "hash_tramitacao": "c5323a7ea9c9996e",
+ "tentativa": 1
+}

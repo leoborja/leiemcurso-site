@@ -1,0 +1,28 @@
+{
+ "id": 2462126,
+ "titulo": "Proíbe cotas para pessoas transgênero em universidades e concursos públicos",
+ "tldr": [
+  "Universidades públicas e privadas e concursos públicos ficam proibidos de reservar vagas para pessoas transgênero. As instituições devem adotar medidas contra a discriminação por identidade de gênero, sem criar cotas.",
+  "Pessoas transgênero, instituições de ensino superior públicas e privadas e órgãos federais, estaduais e municipais que fazem concursos.",
+  "Aguarda votação na Comissão de Direitos Humanos. Em 04/11/2026, a relatora leu parecer pela rejeição, e a comissão recusou, por 10 votos a 1, um pedido para retirar o projeto da pauta."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2462126",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2484380",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e1c3ce739cf12d41",
+ "hash_tramitacao": "7a16b2e2d9d5f6bd",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641708,
+ "titulo": "Obriga Conselhos Tutelares a comunicar ao Ministério Público denúncias de violação de direitos de crianças",
+ "tldr": [
+  "Toda denúncia recebida deve ser registrada em sistema eletrônico e comunicada ao Ministério Público em até 24 horas, ou imediatamente em casos de risco grave. Cria um sistema nacional de registro das denúncias.",
+  "Conselhos Tutelares, Ministério Público, Poder Judiciário, órgãos de saúde, educação, assistência social e segurança, além de crianças e adolescentes.",
+  "Tramita junto com o PL 1191/2026 na Câmara, conforme despacho da Mesa Diretora de 26/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641708",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167086",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6be4910fa697a606",
+ "hash_tramitacao": "8e9c17c8c71e57ce",
+ "tentativa": 1
+}

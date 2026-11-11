@@ -1,0 +1,28 @@
+{
+ "id": 2632897,
+ "titulo": "Cria sistema nacional de registro de crianças e adolescentes que perderam pai, mãe ou ambos",
+ "tldr": [
+  "Cria uma base de dados nacional sobre órfãos, alimentada obrigatoriamente por Conselhos Tutelares, SUS, assistência social, Varas da Infância e INSS, e prevê prioridade em creches, escolas e programas sociais.",
+  "Crianças e adolescentes órfãos e suas famílias, Conselhos Tutelares, unidades do SUS e da assistência social, Varas da Infância e INSS.",
+  "Aguarda parecer da relatora na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família; prazo de emendas encerrado em 13/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632897",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148031",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "34adcd2a889cfb01",
+ "hash_tramitacao": "eabb5db1acc0f731",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2436349,
+ "titulo": "Dá ao município de Barracão, no Rio Grande do Sul, o título de Capital Nacional das Cascatas",
+ "tldr": [
+  "Barracão passa a ter, por lei, o título de Capital Nacional das Cascatas.",
+  "O município de Barracão, no Rio Grande do Sul.",
+  "A redação final foi aprovada na Comissão de Constituição e Justiça e de Cidadania da Câmara em 04/11/2026. Antes, foi aprovado na Comissão de Meio Ambiente em 10/12/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2436349",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2428915",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f9c8ecfcfb5ce853",
+ "hash_tramitacao": "26c14b6ab0aedca0",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2486451,
+ "titulo": "Torna facultativo o pagamento de taxas ao Ecad e define critérios para a cobrança",
+ "tldr": [
+  "O Ecad, escritório que arrecada direitos autorais de músicas tocadas em público, passa a cobrar conforme a atividade, o porte e a finalidade de quem paga. Pelo texto original, o pagamento deixa de ser obrigatório.",
+  "O Ecad, estabelecimentos e instituições que tocam ou exibem músicas em público, e os autores que recebem esses valores.",
+  "Tramita com prioridade desde 13/10/2026. Aguarda escolha de relator na Comissão de Constituição e Justiça e de Cidadania desde 20/10/2026. Já tem parecer favorável, com texto alternativo, na Comissão de Cultura."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2486451",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2865045",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "69efad27ff24cc0c",
+ "hash_tramitacao": "67380500fad57708",
+ "tentativa": 1
+}

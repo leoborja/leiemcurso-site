@@ -1,0 +1,28 @@
+{
+ "id": 2636480,
+ "titulo": "Cria documento nacional de identificação para cuidadores de pessoas com deficiência ou doenças raras",
+ "tldr": [
+  "Cria uma identidade de cuidador atípico, válida por 5 anos, que dá prioridade em serviços públicos e privados, acesso preferencial a programas sociais e contagem em dobro do tempo fora do trabalho para a aposentadoria.",
+  "Pais, mães, tutores e responsáveis que cuidam de forma permanente de pessoas com deficiência, transtornos do neurodesenvolvimento ou doenças raras.",
+  "Aguarda parecer da relatora na Comissão de Defesa dos Direitos das Pessoas com Deficiência da Câmara. O prazo para emendas terminou em 28/10/2026 sem emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636480",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155421",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0f264a519da870a0",
+ "hash_tramitacao": "2c10787bdca15d22",
+ "tentativa": 2
+}

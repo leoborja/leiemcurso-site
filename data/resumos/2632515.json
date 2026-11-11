@@ -1,0 +1,28 @@
+{
+ "id": 2632515,
+ "titulo": "Exige seguro individual obrigatório para participar de turismo de aventura e atividades de alto risco",
+ "tldr": [
+  "Cada participante precisa de certificado de seguro em seu nome, cobrindo morte, invalidez, despesas médicas e resgate. Termo de ciência de risco não dispensa o seguro, e oferecer a atividade sem ele passa a ser proibido.",
+  "Fornecedores, organizadores e intermediários de atividades de aventura e de alto risco, participantes, acompanhantes, espectadores e terceiros.",
+  "Tramita junto com o PL 3096/2026 em comissão da Câmara, onde foi recebido em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:44Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632515",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147008",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cd9b952b28dacd58",
+ "hash_tramitacao": "bdc95944ec34f22c",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2612930,
+ "titulo": "Torna crime a discriminação por misoginia e dobra pena de ofensas à honra da mulher em violência doméstica",
+ "tldr": [
+  "Atos de ódio ou aversão às mulheres passam a ser punidos pela lei de crimes de preconceito, como injúria e incitação. Calúnia, difamação e injúria contra mulher em violência doméstica têm pena em dobro.",
+  "Efeito geral: atinge quem cometer esses crimes e mulheres vítimas de discriminação ou violência doméstica.",
+  "Aprovado no Senado, está na Câmara, que revisa o texto. Tramita com prioridade desde 01/07/2026 (293 votos a 158) e aguarda votação no Plenário; último andamento em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612930",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3107208",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "346d44019715cf2b",
+ "hash_tramitacao": "b63d3716e7fed0ff",
+ "tentativa": 2
+}

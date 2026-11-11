@@ -1,0 +1,28 @@
+{
+ "id": 2641186,
+ "titulo": "Cria selo oficial para identificar a origem de produtos feitos na Região Norte",
+ "tldr": [
+  "Produtos da Região Norte que cumprirem critérios de origem e regularidade podem receber o selo e ter prioridade em feiras e compras públicas. Fica proibido usar referências falsas de origem nortista.",
+  "Produtores, cooperativas, associações, povos indígenas, extrativistas e pequenos empreendimentos da Região Norte, além de consumidores.",
+  "Aguarda análise nas comissões da Câmara. Em 03/11/2026 passou a tramitar junto com o PL 6160/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641186",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165080",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f198c77ed2828eea",
+ "hash_tramitacao": "95f64b88ce805fe8",
+ "tentativa": 1
+}

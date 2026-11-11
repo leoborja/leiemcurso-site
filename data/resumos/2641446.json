@@ -1,0 +1,28 @@
+{
+ "id": 2641446,
+ "titulo": "Proíbe publicidade oculta em plataformas de streaming e serviços digitais por assinatura",
+ "tldr": [
+  "Toda publicidade em conteúdo audiovisual digital terá de ser identificada de forma clara. Plataformas com mais de 10 milhões de usuários mensais publicam relatório anual. A multa chega a 2% do faturamento.",
+  "Plataformas de streaming e serviços digitais por assinatura, influenciadores e apresentadores que fazem promoção comercial, e seus assinantes.",
+  "Em 26/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 4414/2026. Pode ser decidida nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641446",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165372",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "68cbcc49444e5171",
+ "hash_tramitacao": "10f6c59e88798afb",
+ "tentativa": 2
+}

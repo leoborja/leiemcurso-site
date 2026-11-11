@@ -1,0 +1,28 @@
+{
+ "id": 2593296,
+ "titulo": "Proíbe que juízes aumentem a pena de policiais por causa da função ou do uso de arma da corporação",
+ "tldr": [
+  "Ao fixar a pena, o juiz não poderá usar como agravante a condição de policial, o cargo, o treinamento ou o uso de arma institucional. O uso de força letal por esses agentes passa a ser presumido legítimo, salvo prova em contrário.",
+  "Policiais e demais agentes de segurança pública processados criminalmente, e juízes criminais.",
+  "Aprovado com mudanças na Comissão de Segurança Pública em 27/10/2026, junto com 2 projetos apensados. Está na Comissão de Constituição e Justiça desde 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593296",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3061913",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b7d333dcc2812426",
+ "hash_tramitacao": "fa1e2a0afda9ba72",
+ "tentativa": 1
+}

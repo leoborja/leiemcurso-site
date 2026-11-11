@@ -1,0 +1,28 @@
+{
+ "id": 2631241,
+ "titulo": "Permite limpeza de pastagem em área rural já ocupada sem licença ambiental, com base em autodeclaração",
+ "tldr": [
+  "O produtor pode limpar a pastagem apenas declarando que cumpre os critérios, sem licença prévia. Se o órgão ambiental não se manifestar em 90 dias, a declaração vale. Agentes que descumprirem os limites respondem por abuso.",
+  "Produtores rurais com áreas já ocupadas por agropecuária e órgãos ambientais e seus servidores.",
+  "Aguarda escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, onde chegou em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631241",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144276",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "886e938252cfcef4",
+ "hash_tramitacao": "0d21c33d8c2d087f",
+ "tentativa": 1
+}

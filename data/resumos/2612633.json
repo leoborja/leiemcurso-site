@@ -1,0 +1,28 @@
+{
+ "id": 2612633,
+ "titulo": "Libera R$ 20.429.000,00 para assentados da reforma agrária atingidos por tornados no Paraná",
+ "tldr": [
+  "Libera dinheiro fora do orçamento previsto para reformar e construir casas, reconstruir barracões comunitários e dar crédito para retomar a produção de famílias assentadas no Paraná.",
+  "Famílias assentadas em Guarapuava, Quedas do Iguaçu e Rio Bonito do Iguaçu, no Paraná, e o Incra.",
+  "A Câmara aprovou a medida em 15/07/2026, mas ela perdeu a validade em 24/07/2026, conforme ato do Congresso publicado em 11/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612633",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106415",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "76dc2b5eceb79f53",
+ "hash_tramitacao": "d3dc81d1b39b912e",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635669,
+ "titulo": "Permite ao juiz requisitar dados de bancos e órgãos para achar consumidores a indenizar em ações coletivas",
+ "tldr": [
+  "Na fase de pagamento de indenizações coletivas, o juiz poderá pedir dados a bancos, administradoras de cartões e órgãos públicos para achar os consumidores lesados; sempre que possível, o dinheiro irá direto a eles.",
+  "Consumidores lesados em ações coletivas, empresas condenadas, instituições financeiras, de pagamento e de cartões e órgãos públicos com dados.",
+  "Aguarda parecer do relator na Comissão de Defesa do Consumidor da Câmara; o prazo para sugestões de mudança terminou em 14/10/2026 sem nenhuma apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635669",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154270",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ceb67e6f65f92f84",
+ "hash_tramitacao": "a566a7bcc01d3a83",
+ "tentativa": 2
+}

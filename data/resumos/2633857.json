@@ -1,0 +1,28 @@
+{
+ "id": 2633857,
+ "titulo": "Cria programa para a pesca artesanal em rios e lagos, com guia digital de transporte do pescado",
+ "tldr": [
+  "O pescador emite pelo gov.br uma guia nacional para transportar o pescado, e estados e municípios não podem exigir outros documentos. Cria entrepostos municipais, selo sanitário simplificado e crédito garantido pelo pescado.",
+  "Pescadores artesanais de águas interiores inscritos no Registro Geral da Atividade Pesqueira, além de municípios e estados.",
+  "Recebido pela Comissão de Viação e Transportes da Câmara em 31/08/2026. Aguarda a designação de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633857",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149335",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "831a49e99f1498bc",
+ "hash_tramitacao": "da798f74042f5882",
+ "tentativa": 2
+}

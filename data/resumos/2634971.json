@@ -1,0 +1,28 @@
+{
+ "id": 2634971,
+ "titulo": "Inclui o acesso a exames menos invasivos para diagnóstico de câncer entre os direitos de pacientes no SUS",
+ "tldr": [
+  "Muda o Estatuto da Pessoa com Câncer e a política nacional contra o câncer. O SUS passa a ter de oferecer biópsia ambulatorial minimamente invasiva no câncer de mama quando houver indicação e a revisar periodicamente os exames que oferece.",
+  "Pacientes com câncer ou com suspeita da doença atendidos pelo SUS, em especial mulheres com lesões suspeitas na mama, e os gestores do SUS.",
+  "Aguarda a escolha de relator na Comissão de Defesa dos Direitos da Mulher da Câmara, que recebeu o projeto em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634971",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151918",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "62a2c59072bbd16c",
+ "hash_tramitacao": "80ab67172bed1ae4",
+ "tentativa": 1
+}

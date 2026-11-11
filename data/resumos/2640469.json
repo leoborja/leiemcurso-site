@@ -1,0 +1,28 @@
+{
+ "id": 2640469,
+ "titulo": "Cria cadastro nacional de veículos públicos furtados ou roubados",
+ "tldr": [
+  "Órgãos públicos que tiverem veículos furtados ou roubados passam a ter de registrá-los de imediato em um cadastro nacional, compartilhado entre polícias e órgãos de trânsito.",
+  "Órgãos e entidades públicas da União, dos estados, do Distrito Federal e dos municípios, além das forças de segurança e dos órgãos de trânsito.",
+  "Aguarda a designação de relator na Comissão de Viação e Transportes da Câmara desde 03/11/2026. Também passará por outras quatro comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640469",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164218",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "47179b4a5984d7f9",
+ "hash_tramitacao": "d62a47e92d978cc8",
+ "tentativa": 1
+}

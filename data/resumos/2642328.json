@@ -1,0 +1,28 @@
+{
+ "id": 2642328,
+ "titulo": "Cria a Universidade Federal da Fronteira Norte, com sede em Oiapoque, no Amapá",
+ "tldr": [
+  "O campus de Oiapoque da Universidade Federal do Amapá vira uma universidade separada, ficando com os mesmos cursos, alunos, servidores e bens.",
+  "Alunos, professores e servidores do campus de Oiapoque, a Universidade Federal do Amapá e o Ministério da Educação.",
+  "Virou a Lei 15.520/2026, publicada no Diário Oficial em 25/09/2026, depois de ser aprovada na Câmara em 02/09/2026 e passar pelo Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642328",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3169586",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bb3f8dcf894f2395",
+ "hash_tramitacao": "c3b2d4bf7bf17a6a",
+ "tentativa": 1
+}

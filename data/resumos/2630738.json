@@ -1,0 +1,28 @@
+{
+ "id": 2630738,
+ "titulo": "Cria política nacional de incentivo à integração lavoura-pecuária-floresta",
+ "tldr": [
+  "A União pode oferecer crédito rural com juros reduzidos, prioridade no Plano Safra e incentivos para recuperar áreas degradadas com sistemas que juntam lavoura, pecuária e floresta.",
+  "Produtores rurais que adotarem a integração lavoura-pecuária-floresta e a União.",
+  "Recebido pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara em 19/08/2026, aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630738",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143613",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fcd6f785026f0ccb",
+ "hash_tramitacao": "ec75468c3ae25acf",
+ "tentativa": 1
+}

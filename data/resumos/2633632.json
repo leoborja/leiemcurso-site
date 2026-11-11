@@ -1,0 +1,28 @@
+{
+ "id": 2633632,
+ "titulo": "Cria o Estatuto de Defesa do Trabalhador contra atraso de salário, assédio, discriminação e retaliação",
+ "tldr": [
+  "Lista direitos e práticas proibidas no trabalho e muda a CLT para obrigar o empregador a pagar indenização ao empregado em caso de atraso injustificado de salário, entre outras alterações.",
+  "Trabalhadores urbanos, rurais, domésticos, terceirizados, temporários, aprendizes, estagiários, de plataformas digitais e seus empregadores.",
+  "Tramita junto com o PL 3151/2026 na Comissão de Trabalho da Câmara desde 02/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633632",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149104",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "52bdf214f24a611d",
+ "hash_tramitacao": "5865b0e283d4fb5a",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2354132,
+ "titulo": "Cria eleição pela tropa para escolher comandantes das polícias militares e dos bombeiros",
+ "tldr": [
+  "Policiais e bombeiros militares votam para formar uma lista com três nomes, e o governador nomeia o comandante-geral. Também muda as regras de tempo de serviço, de remuneração e de contribuição para a aposentadoria desses militares.",
+  "Policiais militares e bombeiros militares dos estados, do Distrito Federal e dos territórios, seus pensionistas e os governadores.",
+  "Arquivada. Em 01/09/2026, o Plenário da Câmara aprovou um texto alternativo ao PL 241/2023, ao qual esta proposta estava anexada, e ela foi considerada prejudicada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2354132",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2252047",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0bba796834063b0a",
+ "hash_tramitacao": "0c5d1b12958153a1",
+ "tentativa": 1
+}

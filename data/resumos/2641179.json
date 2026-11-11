@@ -1,0 +1,28 @@
+{
+ "id": 2641179,
+ "titulo": "Permite devolução rápida de dinheiro a idosos vítimas de golpes bancários quando há indício de fraude",
+ "tldr": [
+  "Bancos poderão ter de devolver valores a pessoas com 60 anos ou mais após análise inicial de fraude e ser responsabilizados por falhas de segurança; também terão de adotar alertas e confirmações extras.",
+  "Pessoas com 60 anos ou mais e instituições financeiras.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 446/2026 na Câmara, por decisão da Mesa Diretora. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641179",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165073",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a2195265885a176b",
+ "hash_tramitacao": "7ef52891a9f755da",
+ "tentativa": 1
+}

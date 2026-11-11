@@ -1,0 +1,28 @@
+{
+ "id": 2639484,
+ "titulo": "Cria o Estatuto dos Guias de Turismo e conselhos federal e regionais da profissão",
+ "tldr": [
+  "Para trabalhar como guia de turismo, será preciso ter registro em um conselho regional. A profissão passa a ter código de ética e fiscalização própria. O texto muda a lei de 1993 que regula a profissão.",
+  "Guias de turismo, estudantes da área e turistas que usam esses serviços.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara desde 03/09/2026. Depois passa pelas comissões de Turismo, de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639484",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162371",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "36dee1cbceb23d73",
+ "hash_tramitacao": "60384438af3fcbb4",
+ "tentativa": 1
+}

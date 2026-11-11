@@ -1,0 +1,28 @@
+{
+ "id": 2632480,
+ "titulo": "Cria política nacional de saúde mental e desenvolvimento emocional na educação básica",
+ "tldr": [
+  "Redes de ensino podem adotar ações de prevenção ao bullying e de educação emocional. O INEP passa a medir o bem-estar dos alunos com um índice nacional. A política recebe 1% da arrecadação federal com apostas de quota fixa.",
+  "Estudantes e profissionais da educação básica, redes de ensino, Ministério da Educação e INEP.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde foi recebida em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632480",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146889",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "99734352217a6e8e",
+ "hash_tramitacao": "cb8bfe65bd228724",
+ "tentativa": 1
+}

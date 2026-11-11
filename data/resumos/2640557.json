@@ -1,0 +1,28 @@
+{
+ "id": 2640557,
+ "titulo": "Cria cadastro nacional de condenados por crimes violentos para verificar reincidência",
+ "tldr": [
+  "O sistema nacional de informações de segurança pública ganha um cadastro de acesso restrito com condenações definitivas por crimes violentos listados em lei. Os alertas do cadastro não podem, sozinhos, justificar prisão ou aumento de pena.",
+  "Pessoas condenadas em definitivo pelos crimes listados, órgãos de segurança pública, Justiça e administração penitenciária.",
+  "Aguarda a escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640557",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164311",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b74ce3e2ee3f34d1",
+ "hash_tramitacao": "5b5acf57f7331ad5",
+ "tentativa": 1
+}

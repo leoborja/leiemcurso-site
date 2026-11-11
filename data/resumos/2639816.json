@@ -1,0 +1,28 @@
+{
+ "id": 2639816,
+ "titulo": "Cria regras para planos de previdência complementar de baixo valor para trabalhadores informais",
+ "tldr": [
+  "Autônomos, informais, MEIs e trabalhadores de aplicativos poderiam aderir, de forma voluntária, a planos de micropensão com contribuições pequenas e aportes de plataformas ou terceiros, sem gerar vínculo de emprego.",
+  "Trabalhadores autônomos, informais, microempreendedores individuais, trabalhadores de plataformas digitais e entidades de previdência complementar.",
+  "Retirado de tramitação a pedido do autor, que apontou erro formal, em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639816",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162921",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "50ef5ed40ced4613",
+ "hash_tramitacao": "2a5e35b195d727be",
+ "tentativa": 1
+}

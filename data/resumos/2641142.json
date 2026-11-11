@@ -1,0 +1,28 @@
+{
+ "id": 2641142,
+ "titulo": "Cria programa nacional para garantir a circulação de pessoas em áreas sujeitas a cheias",
+ "tldr": [
+  "O programa permite apoiar passarelas temporárias, plataformas e outras estruturas para manter o acesso a escolas, unidades de saúde e outros serviços durante as cheias.",
+  "Moradores de áreas com cheias periódicas, em especial na Amazônia Legal, e os entes da federação que executarem as ações.",
+  "Tramita junto com o PL 4441/2026 e aguarda análise das comissões da Câmara. O último andamento foi na Mesa Diretora, em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641142",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165029",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "953ccce4f67f0ce3",
+ "hash_tramitacao": "a28bf8892c697526",
+ "tentativa": 1
+}

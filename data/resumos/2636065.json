@@ -1,0 +1,28 @@
+{
+ "id": 2636065,
+ "titulo": "Obriga a declarar nos processos o uso de inteligência artificial e define responsabilidades por erros",
+ "tldr": [
+  "Quem usar IA em peças e decisões deve informar isso nos autos, verificar o resultado e guardar comandos e respostas por no mínimo 5 anos; prevê sanções por uso doloso ou negligente.",
+  "Advogados, juízes, promotores, defensores, peritos, servidores da Justiça e empresas fornecedoras de IA.",
+  "Aguarda designação de relator na Comissão de Ciência, Tecnologia e Inovação da Câmara desde 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636065",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154799",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "275c07bf152755d7",
+ "hash_tramitacao": "a9294f4abefd2c09",
+ "tentativa": 1
+}

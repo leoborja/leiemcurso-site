@@ -1,0 +1,28 @@
+{
+ "id": 2646229,
+ "titulo": "Muda a Política Nacional de Arquivos e define regras para documentos públicos e privados",
+ "tldr": [
+  "Redefine arquivos públicos e privados, exige autorização de órgão arquivístico e tabela orientada por arquivista para eliminar documentos e cria a Rede Nacional de Arquivos, coordenada pelo Conselho Nacional de Arquivos.",
+  "Órgãos dos três Poderes em todas as esferas, tribunais de contas, arquivos públicos e donos de arquivos privados de interesse público.",
+  "Retirado pela autora em 28/10/2026, a pedido feito em 22/09/2026. Não tramita mais."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646229",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3179091",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "009c3752d791ddef",
+ "hash_tramitacao": "5f43b007c54aa3a9",
+ "tentativa": 1
+}

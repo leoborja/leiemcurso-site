@@ -1,0 +1,28 @@
+{
+ "id": 2630651,
+ "titulo": "Obriga órgãos públicos a exigir prova de salário pago a terceirizados antes de pagar empresas",
+ "tldr": [
+  "Contratos públicos com mão de obra exclusiva passam a condicionar o pagamento mensal à comprovação de salários, benefícios, FGTS e INSS em dia. Com atraso, o órgão pode reter valores para pagar os trabalhadores.",
+  "Trabalhadores terceirizados, empresas contratadas pelo poder público e órgãos da União, estados, Distrito Federal e municípios.",
+  "Tramita junto com o PL 4682/2025 na Comissão de Trabalho da Câmara, onde foi apensado em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630651",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143356",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75f4550385197c7d",
+ "hash_tramitacao": "5defa67e5474ae79",
+ "tentativa": 1
+}

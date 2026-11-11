@@ -1,0 +1,28 @@
+{
+ "id": 2599513,
+ "titulo": "Isenta de IPI e Imposto de Importação produtos de tecnologia assistiva para pessoas com deficiência",
+ "tldr": [
+  "Próteses, cadeiras de rodas, aparelhos auditivos, softwares de acessibilidade e itens semelhantes deixam de pagar esses impostos; o Poder Executivo terá de publicar em 90 dias a lista de produtos abrangidos.",
+  "Pessoas com deficiência, qualquer que seja a renda, com laudo médico, e entidades sem fins lucrativos que atendem esse público.",
+  "Aprovado na Comissão de Defesa dos Direitos das Pessoas com Deficiência em 01/09/2026. Aguarda relator na Comissão de Finanças e Tributação desde 02/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599513",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072429",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3106b41f48842d62",
+ "hash_tramitacao": "5bb27d4b8394f144",
+ "tentativa": 1
+}

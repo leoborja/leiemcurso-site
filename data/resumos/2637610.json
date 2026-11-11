@@ -1,0 +1,28 @@
+{
+ "id": 2637610,
+ "titulo": "Torna gratuito o documento digital de licenciamento do veículo e proíbe taxa específica para emiti-lo",
+ "tldr": [
+  "O documento digital de licenciamento (CRLV) passa a ser fornecido de graça, e os estados não poderão cobrar taxa só pela sua emissão. A impressão ou o envio pelo correio, se pedidos, podem ser cobrados pelo custo.",
+  "Proprietários de veículos e os órgãos de trânsito dos estados e do Distrito Federal.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara, que designou relator em 04/11/2026. O prazo para emendas foi aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637610",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157940",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b1fd99fea8205de3",
+ "hash_tramitacao": "151ef62a11a9b54c",
+ "tentativa": 1
+}

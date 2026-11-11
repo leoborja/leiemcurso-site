@@ -1,0 +1,28 @@
+{
+ "id": 2641663,
+ "titulo": "Cria programa de bolsas para estudantes de Ciências Agrárias vindos da agricultura familiar",
+ "tldr": [
+  "Cria o Programa Pé-de-Bota, com bolsa mensal de permanência e uma poupança paga após a formatura, condicionada a plano de desenvolvimento rural e à atuação junto à agricultura familiar.",
+  "Jovens inscritos no CadÚnico, matriculados em Ciências Agrárias, da agricultura familiar, assentados, indígenas, quilombolas, ribeirinhos ou de comunidades tradicionais.",
+  "Tramita junto com o PL 3024/2025 na Câmara, conforme despacho da Mesa Diretora de 26/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641663",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166798",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1d7e815cf9d85ef3",
+ "hash_tramitacao": "97c8fdca8fc56fea",
+ "tentativa": 2
+}

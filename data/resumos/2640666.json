@@ -1,0 +1,28 @@
+{
+ "id": 2640666,
+ "titulo": "Define que danificar ou desligar tornozeleira eletrônica é descumprir medida protetiva da Lei Maria da Penha",
+ "tldr": [
+  "Passa a contar como crime de descumprimento de medida protetiva violar, remover ou adulterar a tornozeleira, ou impedir seu funcionamento de propósito. Proíbe punir duas vezes pelo mesmo fato.",
+  "Agressores sob medida protetiva com monitoração eletrônica e mulheres em situação de violência doméstica.",
+  "Aguarda escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara desde 05/11/2026. Também passará pelas comissões da Mulher e de Constituição e Justiça, que podem decidir sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640666",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164420",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "55b36261c5703ad3",
+ "hash_tramitacao": "2d50ef93a5d15150",
+ "tentativa": 1
+}

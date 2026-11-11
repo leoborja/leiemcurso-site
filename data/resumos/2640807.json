@@ -1,0 +1,28 @@
+{
+ "id": 2640807,
+ "titulo": "Inclui a vigilância genômica e o monitoramento de doenças transmitidas por animais nas ações do SUS",
+ "tldr": [
+  "O SUS pode usar redes de laboratórios para analisar o material genético de agentes infecciosos e monitorar doenças transmitidas entre animais e pessoas. Pesquisas ligadas a isso seguem as regras de acesso ao patrimônio genético.",
+  "SUS, laboratórios e instituições de pesquisa, União, estados e municípios, além de povos indígenas e comunidades tradicionais.",
+  "Em análise na Câmara. Em 29/10/2026, a Mesa Diretora determinou que tramite junto com o PL 1152/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640807",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164562",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8b2133c0bfbd0e87",
+ "hash_tramitacao": "679ef48fbe853cb4",
+ "tentativa": 1
+}

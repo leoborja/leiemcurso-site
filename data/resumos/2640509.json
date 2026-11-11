@@ -1,0 +1,28 @@
+{
+ "id": 2640509,
+ "titulo": "Obriga instituições financeiras a verificar a origem do ouro e de minérios vindos da Amazônia Legal",
+ "tldr": [
+  "Antes de negociar ouro ou minérios da Amazônia Legal, instituições financeiras terão de validar um certificado digital de origem do lote. Quem descumprir pode receber de advertência a multa de até 10% da operação ou cassação.",
+  "Bancos, distribuidoras e corretoras de valores, gestores e custodiantes de fundos que operam com ouro e minérios da Amazônia Legal.",
+  "Recebido pela Comissão de Minas e Energia da Câmara em 03/11/2026; aguarda a designação de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640509",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164263",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a5a6b310a53b4645",
+ "hash_tramitacao": "15a1c5a7d4b685e7",
+ "tentativa": 2
+}

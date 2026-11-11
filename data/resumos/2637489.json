@@ -1,0 +1,28 @@
+{
+ "id": 2637489,
+ "titulo": "Define regras nacionais para o cargo de coordenador pedagógico na educação básica",
+ "tldr": [
+  "Exige pedagogia e concurso, garante piso do magistério, plano de carreira, aposentadoria especial e ao menos 1/5 da jornada para estudo e planejamento. Redes têm 1 ano para se adaptar.",
+  "Coordenadores pedagógicos da educação básica pública e as redes de ensino da União, estados, Distrito Federal e municípios.",
+  "Em análise na Comissão de Educação, com relatora designada em 05/11/2026; prazo para emendas aberto em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637489",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157746",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c4751bc4090dc2cc",
+ "hash_tramitacao": "a6a0f34588ae5980",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640931,
+ "titulo": "Permite que bancos, plataformas e órgãos públicos compartilhem dados sobre golpes digitais",
+ "tldr": [
+  "Bancos, plataformas, operadoras e órgãos públicos poderão trocar dados sobre telefones, sites e chaves Pix usados em golpes. Denúncia isolada não basta para incluir alguém, e quem for incluído por engano pode contestar.",
+  "Instituições financeiras e de pagamento, plataformas digitais, operadoras de telecomunicações, órgãos públicos e consumidores.",
+  "Tramita junto com o PL 1911/2025, por decisão da Mesa Diretora da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640931",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164698",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f27f13d04ea335ef",
+ "hash_tramitacao": "486bee12d580b03a",
+ "tentativa": 1
+}

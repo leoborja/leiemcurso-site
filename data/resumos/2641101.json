@@ -1,0 +1,28 @@
+{
+ "id": 2641101,
+ "titulo": "Cria regras de transparência para assinaturas digitais pagas que também exibem anúncios",
+ "tldr": [
+  "Antes da contratação, o fornecedor terá de informar que o plano tem publicidade, quais formatos e as diferenças para planos sem anúncios. Mudanças na quantidade de anúncios devem ser avisadas com antecedência.",
+  "Empresas que vendem serviços digitais por assinatura com publicidade e os consumidores desses planos.",
+  "Desde 26/10/2026 tramita junto com o PL 2649/2026 nas comissões da Câmara. Em 03/11/2026 outras propostas foram anexadas à tramitação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641101",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164986",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "35d3aadeb3a2b7a6",
+ "hash_tramitacao": "d0879911ee74b2b0",
+ "tentativa": 1
+}

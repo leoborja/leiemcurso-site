@@ -1,0 +1,28 @@
+{
+ "id": 2632289,
+ "titulo": "Permite que hidrelétricas desligadas da câmara de comercialização de energia usem mecanismo concorrencial",
+ "tldr": [
+  "Usinas hidrelétricas desligadas da Câmara de Comercialização de Energia Elétrica com valores não pagos ligados ao risco de falta de chuva poderão participar do mecanismo concorrencial previsto em lei, se cumprirem os requisitos.",
+  "Empresas de geração hidrelétrica desligadas da Câmara de Comercialização de Energia Elétrica com valores não pagos no mecanismo de realocação de energia.",
+  "Aguarda a escolha de relator na Comissão de Minas e Energia da Câmara, onde chegou em 21/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632289",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146531",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e95c771f58194bd4",
+ "hash_tramitacao": "214c18c9e939485d",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635106,
+ "titulo": "Inclui no Programa De Volta para Casa quem sai de alas psiquiátricas do sistema prisional",
+ "tldr": [
+  "Hoje a lei já prevê o auxílio do programa para quem sai de hospitais de custódia. O texto inclui também quem sai de alas de tratamento psiquiátrico e estruturas parecidas dentro de presídios, conforme decisão judicial.",
+  "Pessoas com transtornos mentais que saem de alas psiquiátricas do sistema prisional e o Ministério da Saúde, que gere o programa.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635106",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152231",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e737208ff30af99e",
+ "hash_tramitacao": "efbaa5d3b4486d66",
+ "tentativa": 1
+}

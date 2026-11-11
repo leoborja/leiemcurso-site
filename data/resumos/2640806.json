@@ -1,0 +1,28 @@
+{
+ "id": 2640806,
+ "titulo": "Permite ao SUS usar telessaúde e outras ferramentas digitais em áreas com pouca oferta de atendimento",
+ "tldr": [
+  "O SUS pode usar teleconsultoria, telediagnóstico e telemonitoramento em regiões com acesso difícil à saúde. União, estados e municípios podem atuar juntos para levar internet às unidades de saúde desses locais.",
+  "Moradores de áreas com pouca oferta de saúde, profissionais e unidades do SUS e União, estados, Distrito Federal e municípios.",
+  "Em análise na Câmara. Em 29/10/2026, a Mesa Diretora determinou que tramite junto com o PL 2782/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640806",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164561",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "66dcc8ba243a5dab",
+ "hash_tramitacao": "a091101e9c8cdab4",
+ "tentativa": 1
+}

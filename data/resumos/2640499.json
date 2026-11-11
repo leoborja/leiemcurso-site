@@ -1,0 +1,28 @@
+{
+ "id": 2640499,
+ "titulo": "Inclui no SUS ações de prevenção ao burnout e à fadiga mental em trabalhos de alta pressão psicológica",
+ "tldr": [
+  "O SUS passa a ter como ação de saúde do trabalhador a prevenção, o monitoramento e o atendimento ligados ao burnout e à fadiga cognitiva, com campanhas, capacitação de profissionais e estudos.",
+  "Trabalhadores em ambientes com metas intensivas, alta carga mental ou cobrança contínua por resultados, e a rede pública de saúde.",
+  "Tramita junto com o PL 917/2026, com prioridade e sujeito a votação no Plenário. Foi encaminhado para publicação em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640499",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164253",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5047e269980bac98",
+ "hash_tramitacao": "9c2e0560ecbfad42",
+ "tentativa": 1
+}

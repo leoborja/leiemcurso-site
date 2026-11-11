@@ -1,0 +1,28 @@
+{
+ "id": 2602720,
+ "titulo": "Declara São José de Anchieta patrono da educação confessional brasileira",
+ "tldr": [
+  "São José de Anchieta passa a ter oficialmente o título de patrono da educação confessional, que é o ensino baseado nos princípios de uma religião.",
+  "O efeito é simbólico e não atinge diretamente um grupo específico.",
+  "Aprovado na Comissão de Educação em 04/11/2026. Desde 05/11/2026, aguarda a escolha de relator na Comissão de Cultura."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602720",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3082393",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "62d817788902cf35",
+ "hash_tramitacao": "46f22fc76a7ea180",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2487836,
+ "titulo": "Obriga unidades do SUS a aceitar exames feitos em serviços privados de saúde",
+ "tldr": [
+  "O texto original obriga o SUS a aceitar exames da rede privada. Prazos de validade e requisitos técnicos ficam para regulamento federal. A Câmara aprovou uma versão modificada pela relatoria.",
+  "Pacientes que fizeram exames na rede privada e as unidades do SUS.",
+  "Aprovado no Plenário da Câmara em 15/10/2026, com texto substitutivo, depois de tramitar com prioridade. Enviado ao Senado em 19/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487836",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2869401",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d8d3a72e781bde6b",
+ "hash_tramitacao": "79d688ca9b9808b0",
+ "tentativa": 1
+}

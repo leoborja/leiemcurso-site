@@ -1,0 +1,28 @@
+{
+ "id": 2641747,
+ "titulo": "Proíbe farmácias de recusar receitas de medicamentos só por terem sido emitidas por enfermeiros",
+ "tldr": [
+  "Receitas feitas por enfermeiros dentro de suas competências legais passam a valer em todo o país para compra de remédios. Estabelecimentos que recusarem ficam sujeitos a sanções sanitárias e de defesa do consumidor.",
+  "Enfermeiros, pacientes, farmácias, drogarias e plataformas de venda de medicamentos, públicas e privadas.",
+  "Em 26/10/2026 passou a tramitar junto com o PL 2732/2024 na Câmara, que será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641747",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167557",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "027cdbf14ad03f3c",
+ "hash_tramitacao": "0280cf40bc21f9ae",
+ "tentativa": 1
+}

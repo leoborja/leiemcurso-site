@@ -1,0 +1,28 @@
+{
+ "id": 2634698,
+ "titulo": "Muda o nome de uma ação do orçamento que coloca dinheiro em fundo garantidor de crédito",
+ "tldr": [
+  "O nome da ação no orçamento deixa de mencionar só pequenas e médias empresas e passa a se referir ao programa emergencial de acesso a crédito como um todo. O valor de R$ 2.000.000.000 não muda.",
+  "O Fundo Garantidor para Investimentos e quem toma crédito pelo Programa Emergencial de Acesso a Crédito.",
+  "Perdeu a validade em 21/10/2026, porque não foi votada a tempo pelo Congresso, mesmo com o prazo prorrogado até 20/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634698",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157735",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4c87d53c09531518",
+ "hash_tramitacao": "641f48496a95ba37",
+ "tentativa": 1
+}

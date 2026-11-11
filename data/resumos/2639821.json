@@ -1,0 +1,28 @@
+{
+ "id": 2639821,
+ "titulo": "Garante no SUS próteses para pacientes que perderam partes do corpo por doença, câncer ou acidente",
+ "tldr": [
+  "O SUS passa a oferecer próteses do rosto, da mama e de membros, entre outros aparelhos de reabilitação, quando houver indicação de equipe médica. O Poder Executivo tem 180 dias para regulamentar.",
+  "Pacientes do SUS que perderam partes do corpo ou têm alterações físicas causadas por doenças, câncer, condições de nascença, acidentes ou traumas.",
+  "Aguarda a escolha de relator na Comissão de Saúde, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639821",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162928",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "23a3f24125f251a2",
+ "hash_tramitacao": "a6d78a562f5986cf",
+ "tentativa": 1
+}

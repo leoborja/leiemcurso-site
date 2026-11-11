@@ -1,0 +1,28 @@
+{
+ "id": 2599622,
+ "titulo": "Cria fundo nacional para financiar a preservação e a revitalização das línguas indígenas",
+ "tldr": [
+  "Cria um fundo com recursos da União, doações, multas e parcerias para pagar dicionários, materiais didáticos, bolsas e centros de ensino de línguas indígenas. Um comitê com maioria indígena decide como usar o dinheiro.",
+  "Povos e comunidades indígenas, professores e intérpretes indígenas, especialistas em linguística e órgãos federais de cultura e educação.",
+  "Aprovado com emendas na Comissão da Amazônia e dos Povos Originários e Tradicionais em 11/08/2026. Desde 24/08/2026 aguarda a escolha de relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599622",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072545",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0fee1114c09e1918",
+ "hash_tramitacao": "b504b32d752b4419",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2637703,
+ "titulo": "Dá prioridade ao pagamento de indenização às vítimas de crimes, com desconto no salário do preso",
+ "tldr": [
+  "O juiz passa a fixar a indenização considerando gastos médicos e lucros perdidos. De 20% a 30% do salário do preso que trabalha vai para a vítima. Só recebe certidão de quitação total quem paga a indenização.",
+  "Vítimas de crimes e seus herdeiros, condenados que trabalham na prisão, juízes e União, estados e municípios.",
+  "Em análise na Comissão de Segurança Pública e Combate ao Crime Organizado, que designou relator em 28/10/2026. Prazo para sugestões de mudança aberto em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637703",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158065",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b2a59289ecfe37e7",
+ "hash_tramitacao": "4578b0625207483e",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2632629,
+ "titulo": "Dá o nome de Rodovia Engenheiro Paulinho Dalmaz a trecho da BR-487 no Paraná",
+ "tldr": [
+  "O trecho de 37 quilômetros da BR-487 entre o distrito de Serra dos Dourados, em Umuarama, e Cruzeiro do Oeste passa a se chamar Rodovia Engenheiro Paulinho Dalmaz.",
+  "Os municípios de Umuarama e Cruzeiro do Oeste, no Paraná.",
+  "Tramita junto com o PL 3126/2026 na comissão de viação e transportes da Câmara (sigla CVT). O último andamento foi em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632629",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147305",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8382eab65417c9fe",
+ "hash_tramitacao": "a8fda3293c4f67fe",
+ "tentativa": 1
+}

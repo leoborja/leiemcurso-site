@@ -1,0 +1,28 @@
+{
+ "id": 2632236,
+ "titulo": "Obriga governos a mostrar no orçamento quanto gastam com crianças e adolescentes",
+ "tldr": [
+  "União, estados e municípios passam a incluir no orçamento e nos relatórios de gastos um quadro próprio com as despesas de educação, saúde e assistência social voltadas a menores de 18 anos e suas famílias.",
+  "União, estados, Distrito Federal e municípios; crianças e adolescentes de até 18 anos incompletos e suas famílias.",
+  "Aguarda parecer na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. O prazo para emendas terminou em 28/10/2026 sem nenhuma emenda."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632236",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146365",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f0d29fdf6eb9cdd2",
+ "hash_tramitacao": "dff35f4af2ca3cb6",
+ "tentativa": 1
+}

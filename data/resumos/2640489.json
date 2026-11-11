@@ -1,0 +1,28 @@
+{
+ "id": 2640489,
+ "titulo": "Obriga bancos a reforçar a segurança contra golpes em operações de pessoas com deficiência",
+ "tldr": [
+  "Bancos e plataformas de pagamento passam a ter de adotar mais proteção contra fraudes para pessoas com deficiência, como confirmação extra e canal prioritário de atendimento. O acesso aos serviços não pode ser restringido sem motivo.",
+  "Pessoas com deficiência, instituições financeiras, plataformas de pagamento e outros prestadores de serviços financeiros.",
+  "Aguarda parecer do relator na Comissão de Defesa dos Direitos das Pessoas com Deficiência da Câmara. Em 05/11/2026 foi aberto o prazo para emendas, de 5 sessões a partir de 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640489",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164243",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7c5979be521b98c0",
+ "hash_tramitacao": "6db08ffc66b3993a",
+ "tentativa": 1
+}

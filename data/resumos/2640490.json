@@ -1,0 +1,28 @@
+{
+ "id": 2640490,
+ "titulo": "Inclui no Estatuto da Cidade a criação de espaços públicos para o brincar e a circulação autônoma de crianças",
+ "tldr": [
+  "O planejamento urbano passa a ter como diretriz priorizar praças, áreas verdes e espaços públicos para o brincar, com acessibilidade e segurança no trânsito para crianças e adolescentes se deslocarem.",
+  "Crianças e adolescentes que vivem em cidades e os órgãos públicos responsáveis pelo planejamento urbano.",
+  "Aguarda a escolha de relator na Comissão de Desenvolvimento Urbano da Câmara desde 04/11/2026. Pode ser decidido nas comissões, sem passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640490",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164244",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2d94b7184367afee",
+ "hash_tramitacao": "3773347bcd70684b",
+ "tentativa": 1
+}

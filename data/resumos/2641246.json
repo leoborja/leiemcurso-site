@@ -1,0 +1,28 @@
+{
+ "id": 2641246,
+ "titulo": "Proíbe mudanças substanciais unilaterais em serviços digitais por assinatura sem aviso prévio",
+ "tldr": [
+  "Proíbe incluir anúncios em excesso em serviços sem anúncios, cortar funções essenciais ou forçar a troca de plano. Exige aviso de 60 dias e permite cancelar sem multa. A multa vai até R$ 50.000.000,00.",
+  "Assinantes de serviços digitais e as plataformas que vendem assinaturas, com regras extras para idosos e pessoas com deficiência.",
+  "Em 03/11/2026, a Mesa da Câmara determinou que tramite junto com o PL 4557/2026. Será analisada nas comissões, sem precisar ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641246",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165144",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e3a2c711722ae3ed",
+ "hash_tramitacao": "57feec8f560076b2",
+ "tentativa": 1
+}

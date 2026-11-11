@@ -1,0 +1,28 @@
+{
+ "id": 2640682,
+ "titulo": "Permite que jovens a partir de 16 anos doem sangue sem autorização dos pais",
+ "tldr": [
+  "Maiores de 16 anos podem doar sangue com seu próprio consentimento, desde que aprovados na triagem clínica. O serviço pode recusar a doação se houver dúvida sobre o discernimento do adolescente.",
+  "Adolescentes a partir de 16 anos, seus pais ou responsáveis e os serviços de coleta de sangue.",
+  "Aguarda escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 05/11/2026. Também passará pelas comissões de Saúde e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640682",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164436",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9c7e18f3e27aa5ec",
+ "hash_tramitacao": "c12a9edc3103cafe",
+ "tentativa": 1
+}

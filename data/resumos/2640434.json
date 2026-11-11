@@ -1,0 +1,28 @@
+{
+ "id": 2640434,
+ "titulo": "Garante que o FGTS renda no mínimo a inflação medida pelo IPCA mais os juros legais",
+ "tldr": [
+  "O saldo do FGTS passa a ser corrigido, no mínimo, pelo IPCA mais os juros legais. A distribuição de lucros do Fundo vira um valor extra, que não entra nesse mínimo. Vale a partir do ano seguinte à publicação.",
+  "Trabalhadores com conta no FGTS e o próprio Fundo.",
+  "Juntado ao PL 842/2026 por decisão de 26/10/2026, foi recebido pela Comissão de Trabalho da Câmara em 03/11/2026 e aguarda a conclusão da junção."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640434",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164123",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1838bd65f41f399d",
+ "hash_tramitacao": "db3fcb4577d19ecb",
+ "tentativa": 1
+}

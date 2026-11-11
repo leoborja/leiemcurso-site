@@ -1,0 +1,28 @@
+{
+ "id": 2640867,
+ "titulo": "Proíbe que serviços públicos de atendimento geral sejam oferecidos só por meio digital",
+ "tldr": [
+  "Serviços públicos de atendimento geral devem manter canais presenciais ou não digitais. Ficam de fora serviços que só funcionam por meio eletrônico, como certificação digital e peticionamento eletrônico.",
+  "Cidadãos usuários de serviços públicos e os órgãos que prestam atendimento.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 4179/2026 (apensado), em análise nas comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640867",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164632",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "843dac43d872c2eb",
+ "hash_tramitacao": "13f7f2a4ca7784c0",
+ "tentativa": 1
+}

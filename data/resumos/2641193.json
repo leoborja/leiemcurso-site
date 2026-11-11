@@ -1,0 +1,28 @@
+{
+ "id": 2641193,
+ "titulo": "Obriga aplicativos de banco a oferecer botão de alerta silencioso para clientes sob ameaça",
+ "tldr": [
+  "Bancos com aplicativo passam a ter de oferecer um botão discreto que registra a ameaça, pode limitar transações e acionar a segurança. Quem descumprir fica sujeito a sanções administrativas.",
+  "Instituições financeiras que operam por aplicativo e seus clientes, além dos órgãos de segurança pública.",
+  "Aguarda análise nas comissões da Câmara. Em 03/11/2026 passou a tramitar junto com o PL 6794/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641193",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165088",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "faaf39e56d065468",
+ "hash_tramitacao": "52bc28113d953dc1",
+ "tentativa": 1
+}

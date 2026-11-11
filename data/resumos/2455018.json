@@ -1,0 +1,28 @@
+{
+ "id": 2455018,
+ "titulo": "Cria política de capacitação de profissionais do SUS para atender mulheres lésbicas e bissexuais",
+ "tldr": [
+  "O SUS passa a ter formação continuada, protocolos de atendimento e materiais educativos sobre a saúde de mulheres lésbicas e bissexuais, com competências para União, estados e municípios.",
+  "Profissionais e gestores do SUS, conselhos de saúde e mulheres lésbicas e bissexuais usuárias do SUS.",
+  "Na Comissão de Direitos Humanos, foi rejeitado o pedido de retirada de pauta (9 a 4) em 04/11/2026; o parecer foi lido e houve pedido de vista (mais tempo para análise)."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2455018",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2469411",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3bb70f70fe9e745c",
+ "hash_tramitacao": "90d6c4868f7c74b4",
+ "tentativa": 1
+}

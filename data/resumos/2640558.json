@@ -1,0 +1,28 @@
+{
+ "id": 2640558,
+ "titulo": "Cria programa no SUS de atendimento por várias áreas para mulheres com lesões graves no rosto por violência",
+ "tldr": [
+  "O SUS passa a oferecer de graça e com prioridade atendimento conjunto de médicos, dentistas, psicólogos, fisioterapeutas, fonoaudiólogos e assistentes sociais, da urgência até a reabilitação.",
+  "Mulheres vítimas de violência doméstica com lesões graves na face, profissionais de saúde e serviços do SUS.",
+  "Aguarda ser juntada a outro projeto (apensação) e está em análise nas comissões da Câmara; o último andamento foi o envio para publicação, em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640558",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164312",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ee766cda13144ca2",
+ "hash_tramitacao": "67da1520beca499f",
+ "tentativa": 1
+}

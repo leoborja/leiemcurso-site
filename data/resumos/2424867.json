@@ -1,0 +1,28 @@
+{
+ "id": 2424867,
+ "titulo": "Cria cadastro nacional online de presos, condenados, procurados e foragidos para consulta da população",
+ "tldr": [
+  "O Ministério da Justiça cria um site, com acesso pela senha do Gov.br, para consultar foto, nome, documentos, endereço, crimes e situação dessas pessoas. Divulgar os dados consultados pode ser crime.",
+  "Presos, condenados, procurados, evadidos e foragidos; o Ministério da Justiça e Segurança Pública; estados e Distrito Federal; e os cidadãos.",
+  "A redação final foi aprovada na Comissão de Constituição e Justiça e de Cidadania da Câmara em 04/11/2026. Antes, foi aprovado na Comissão de Segurança Pública em 02/07/2024."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424867",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2403543",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0b6ed001ab651d32",
+ "hash_tramitacao": "dc4b68c1cd6947f9",
+ "tentativa": 1
+}

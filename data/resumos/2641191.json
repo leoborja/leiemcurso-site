@@ -1,0 +1,28 @@
+{
+ "id": 2641191,
+ "titulo": "Obriga o SUS a garantir sem interrupção sensores, peças e suporte de bombas de insulina",
+ "tldr": [
+  "O SUS passa a ter de fornecer, além do aparelho, sensores, insumos, manutenção e reposição. O fornecimento só pode parar por motivo médico, não por questões administrativas ou de orçamento.",
+  "Pacientes com diabetes que usam bombas de insulina e sensores contínuos pelo SUS, com prioridade para crianças, gestantes e moradores de áreas remotas.",
+  "Aguarda análise nas comissões da Câmara. Em 03/11/2026 passou a tramitar junto com o PL 4502/2026, e o PL 4528/2026 foi anexado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641191",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165086",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "86726e986a1a68bf",
+ "hash_tramitacao": "8cfc3f91d744d395",
+ "tentativa": 1
+}

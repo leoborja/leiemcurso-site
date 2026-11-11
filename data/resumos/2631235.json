@@ -1,0 +1,28 @@
+{
+ "id": 2631235,
+ "titulo": "Responsabiliza o poder público por acidentes em rodovias causados por falta de manutenção ou sinalização",
+ "tldr": [
+  "Órgãos e concessionárias responderiam por danos de acidentes quando souberem do risco e não agirem, e teriam 24 horas para sinalizar perigos na pista. Autoridades omissas ficam sujeitas a penalidades.",
+  "Usuários de rodovias, órgãos rodoviários e de trânsito federais e estaduais, concessionárias de rodovias e seus servidores.",
+  "Aguarda designação de relator na Comissão de Viação e Transportes da Câmara, onde chegou em 31/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631235",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144264",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cc8f3b6a564e3a7b",
+ "hash_tramitacao": "715f493d13d65644",
+ "tentativa": 2
+}

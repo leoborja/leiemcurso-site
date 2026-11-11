@@ -1,0 +1,28 @@
+{
+ "id": 2637917,
+ "titulo": "Cria política nacional para avaliar e acompanhar risco de violência contra a mulher",
+ "tldr": [
+  "Prevê avaliação padronizada de risco, integração entre Justiça, polícia, saúde e assistência social, e medidas extras em casos de alto risco, como tornozeleira no agressor e visitas periódicas.",
+  "Mulheres em situação de violência doméstica, agressores, órgãos de segurança, Justiça, Ministério Público, Defensoria, saúde e assistência social.",
+  "Aguarda ser anexado ao PL 1304/2026 na comissão de segurança pública da Câmara, onde chegou em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637917",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158601",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b272c22ea3bb4670",
+ "hash_tramitacao": "313b9612971ca6af",
+ "tentativa": 1
+}

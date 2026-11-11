@@ -1,0 +1,28 @@
+{
+ "id": 2640565,
+ "titulo": "Inclui na Lei Geral do Esporte apoio à mudança de carreira de atletas afastados por doença",
+ "tldr": [
+  "O poder público passa a promover ações como orientação vocacional, requalificação, acesso prioritário a cursos e apoio psicológico, conforme o orçamento disponível, sem tirar direitos previdenciários ou trabalhistas.",
+  "Atletas impedidos de continuar no esporte por doença, acidente ou incapacidade permanente comprovada, e órgãos públicos de esporte, educação e trabalho.",
+  "Tramita junto com o PL 3889/2026 e aguarda a apensação na Câmara. Foi enviado para publicação em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640565",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164319",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3498771d01aac179",
+ "hash_tramitacao": "92d75e16197f7a2c",
+ "tentativa": 2
+}

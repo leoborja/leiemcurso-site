@@ -1,0 +1,28 @@
+{
+ "id": 2635117,
+ "titulo": "Cria política nacional de endereço digital para áreas rurais, remotas e de difícil acesso",
+ "tldr": [
+  "Define diretrizes para identificar por georreferenciamento e códigos digitais imóveis, comunidades e serviços públicos sem endereço convencional. A Amazônia Legal, as fronteiras e as comunidades tradicionais têm prioridade.",
+  "Moradores de áreas rurais e remotas, povos indígenas, quilombolas, ribeirinhos, assentados e os governos federal, estaduais e municipais.",
+  "Aguarda a escolha de relator na Comissão de Ciência, Tecnologia e Inovação da Câmara. O último andamento foi em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635117",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152260",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f3a06a22804ec913",
+ "hash_tramitacao": "2d59c572b9a811f2",
+ "tentativa": 1
+}

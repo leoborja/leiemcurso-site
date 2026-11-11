@@ -1,0 +1,28 @@
+{
+ "id": 2640503,
+ "titulo": "Cria protocolo nacional para proteger pessoas idosas vítimas de violência doméstica",
+ "tldr": [
+  "Denúncias ao Disque 100 de violência de familiares contra pessoa idosa passam a ter prioridade. Em caso de risco, Ministério Público ou polícia pode pedir à Justiça o afastamento do agressor e a suspensão de procurações dadas a ele.",
+  "Pessoas idosas, familiares e pessoas que moram com elas, polícias, Ministério Público e Justiça.",
+  "Na Comissão de Defesa dos Direitos da Pessoa Idosa da Câmara, com relator designado em 04/11/2026; prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640503",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164257",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0f77575a10e60324",
+ "hash_tramitacao": "b31672d4266a1e52",
+ "tentativa": 2
+}

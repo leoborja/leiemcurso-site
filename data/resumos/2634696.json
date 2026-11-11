@@ -1,0 +1,28 @@
+{
+ "id": 2634696,
+ "titulo": "Dá o nome de Viaduto Gustavo Ristau a viaduto da BR-280 em Guaramirim (SC)",
+ "tldr": [
+  "O viaduto no Km 48 da BR-280, no acesso ao Bairro Corticeira, passa a se chamar Viaduto Gustavo Ristau e deve receber sinalização com o novo nome.",
+  "Município de Guaramirim (SC) e o órgão responsável pela rodovia.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara. O prazo para emendas terminou em 28/10/2026, sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634696",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151467",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ec4ebf2f195ed298",
+ "hash_tramitacao": "27723a3caf753bb5",
+ "tentativa": 1
+}

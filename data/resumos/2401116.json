@@ -1,0 +1,27 @@
+{
+ "id": 2401116,
+ "titulo": "Cria o Dia Nacional do Oficial do Ministério Público",
+ "tldr": [
+  "Passa a existir no calendário nacional uma data dedicada ao oficial do Ministério Público.",
+  "Oficiais do Ministério Público.",
+  "Veio do Senado. Foi aprovado pelas comissões de Cultura e de Constituição e Justiça da Câmara. O prazo para recurso terminou em 28/10/2026 sem recursos, e o texto aguarda a redação final."
+ ],
+ "fontes": [
+  "ementa",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2401116",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2354764",
+ "inteiro_teor": "indisponivel",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "62b021e1d3504647",
+ "hash_tramitacao": "6101adc636d8b081",
+ "tentativa": 1
+}

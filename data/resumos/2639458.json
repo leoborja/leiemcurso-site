@@ -1,0 +1,28 @@
+{
+ "id": 2639458,
+ "titulo": "Proíbe o compartilhamento de dados de aposentados e pensionistas para ofertas comerciais sem autorização",
+ "tldr": [
+  "Dados como valor do benefício e margem consignável não poderão ser repassados a bancos ou empresas para vender crédito. O beneficiário poderá bloquear consultas e ver quem acessou seus dados.",
+  "Aposentados, pensionistas e beneficiários de benefícios previdenciários e assistenciais da União, órgãos pagadores, bancos e correspondentes.",
+  "Aguarda a escolha de relator na Comissão de Defesa do Consumidor da Câmara desde 08/09/2026. Em 15/09/2026 foi aceito um pedido de inclusão de coautores."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639458",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162290",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a670747905d3d333",
+ "hash_tramitacao": "31e0b32bdec40205",
+ "tentativa": 1
+}

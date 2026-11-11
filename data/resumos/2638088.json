@@ -1,0 +1,28 @@
+{
+ "id": 2638088,
+ "titulo": "Permite usar até 40% das multas de trânsito para baratear ou zerar a tarifa do transporte coletivo",
+ "tldr": [
+  "Muda o Código de Trânsito para autorizar estados e municípios a destinar parte das multas a fundos de transporte público, com publicação anual dos valores e auditoria.",
+  "Estados, Distrito Federal, municípios, órgãos que arrecadam multas de trânsito e usuários do transporte coletivo.",
+  "Aguarda a escolha de relator na Comissão de Viação e Transportes da Câmara, onde chegou em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:47Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638088",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158964",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "255f7981bbd315d7",
+ "hash_tramitacao": "9321aa4c5767563a",
+ "tentativa": 2
+}

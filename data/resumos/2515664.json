@@ -1,0 +1,28 @@
+{
+ "id": 2515664,
+ "titulo": "Torna mais rígidos os requisitos de progressão de pena para reincidentes em roubo e crimes semelhantes",
+ "tldr": [
+  "Reincidentes em crimes contra o patrimônio com violência ou grave ameaça só mudam de regime após cumprir metade da pena em regime fechado e reparar o dano. A liberdade condicional passa a exigir 2/3 da pena cumprida.",
+  "Condenados reincidentes em crimes contra o patrimônio com violência ou grave ameaça.",
+  "O parecer da relatoria, pela aprovação com texto alternativo, foi aprovado na Comissão de Constituição e Justiça em 03/11/2026. O texto ainda vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515664",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2916635",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "857843cd1c59007c",
+ "hash_tramitacao": "a7c9529e452edfe6",
+ "tentativa": 1
+}

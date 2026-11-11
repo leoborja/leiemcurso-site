@@ -1,0 +1,28 @@
+{
+ "id": 2640723,
+ "titulo": "Proíbe herdeiro preso por crime hediondo ou crime patrimonial grave de ser inventariante",
+ "tldr": [
+  "O herdeiro que cumpre pena de prisão por esses crimes não pode administrar a herança no inventário. O impedimento não tira dele o direito de receber a herança.",
+  "Herdeiros e legatários condenados por crime hediondo ou por crime contra o patrimônio com violência, ameaça grave, fraude ou abuso de confiança.",
+  "Tramita junto com outro projeto (PL 562/2026) e foi recebido pela Comissão de Constituição e Justiça da Câmara em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640723",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164477",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d62718f239d77382",
+ "hash_tramitacao": "1e7bbcd1af8e331d",
+ "tentativa": 1
+}

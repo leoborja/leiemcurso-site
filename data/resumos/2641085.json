@@ -1,0 +1,28 @@
+{
+ "id": 2641085,
+ "titulo": "Cria política nacional para ampliar a capacidade de processamento de dados e supercomputação no país",
+ "tldr": [
+  "Permite ao Poder Executivo mapear a infraestrutura de computação existente e elaborar um plano de dez anos para ampliá-la, com prioridade para Amazônia Legal, Semiárido, fronteiras e instituições fora dos grandes centros.",
+  "Poder Executivo, estados e municípios, universidades, centros de pesquisa e empresas de tecnologia.",
+  "Tramita junto (apensado) ao PL 4218/2025, por despacho da Mesa da Câmara de 26/10/2026; ainda sem parecer de comissão."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641085",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164970",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fb2b18213a40d06b",
+ "hash_tramitacao": "b7955edfd9972dc7",
+ "tentativa": 1
+}

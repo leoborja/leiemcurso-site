@@ -1,0 +1,28 @@
+{
+ "id": 2419443,
+ "titulo": "Obriga órgãos federais a usar reconhecimento facial em tempo real no controle de acesso",
+ "tldr": [
+  "Órgãos federais teriam até 2 anos para instalar reconhecimento facial ligado à polícia e avisar autoridades ao detectar procurados. No mínimo 5% dos recursos do Fundo Nacional de Segurança Pública iriam para isso.",
+  "Órgãos e entidades da administração pública federal, órgãos de segurança pública e quem frequenta esses locais.",
+  "Arquivada. Em 12/08/2026 o Plenário da Câmara aprovou o texto alternativo do PL 1828/2023, e esta proposição, que tramitava apensada, foi considerada prejudicada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2419443",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2391802",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b7d6c875d4afcee3",
+ "hash_tramitacao": "408304272871f9f9",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2521042,
+ "titulo": "Autoriza a criação de programa de incentivo ao empreendedorismo de pessoas com 60 anos ou mais",
+ "tldr": [
+  "O Poder Executivo pode criar o programa Empreender 60+, com capacitação, microcrédito com condições diferenciadas, incubadoras e editais para negócios de idosos, sem perda de benefícios previdenciários.",
+  "Pessoas com 60 anos ou mais que queiram empreender e o Poder Executivo federal.",
+  "Aprovado nas comissões de Indústria, Comércio e Serviços (09/12/2025) e de Defesa dos Direitos da Pessoa Idosa (28/10/2026). Chegou à Comissão de Finanças e Tributação em 04/11/2026 e aguarda relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2521042",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2928527",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a531cd0957b14577",
+ "hash_tramitacao": "63d53a685b54ded5",
+ "tentativa": 1
+}

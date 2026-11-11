@@ -1,0 +1,28 @@
+{
+ "id": 2631402,
+ "titulo": "Cria piso salarial e regras de jornada para auxiliares de médicos e dentistas",
+ "tldr": [
+  "Fixa piso de R$ 3.624,00 para 20 horas semanais, com reajuste anual pelo IPCA, jornada de 4 horas diárias, adicional de 50% para trabalho noturno ou extra e pausa de 10 minutos a cada 90.",
+  "Auxiliares de laboratorista e radiologista, internos de serviço médico ou odontológico, técnicos em prótese dentária, técnicos e auxiliares em saúde bucal, empregadores e estados e municípios.",
+  "Aguarda parecer do relator na Comissão de Saúde da Câmara. O prazo para emendas terminou em 28/10/2026 sem emendas apresentadas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631402",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144573",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2c712dcf19948acd",
+ "hash_tramitacao": "ccbeedac141ecb3d",
+ "tentativa": 1
+}

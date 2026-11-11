@@ -1,0 +1,28 @@
+{
+ "id": 2640553,
+ "titulo": "Obriga o SUS a oferecer tratamento dermatológico reparador a mulheres vítimas de violência doméstica",
+ "tldr": [
+  "O SUS passa a garantir consultas, procedimentos, remédios e curativos para tratar cicatrizes, queimaduras e outras sequelas na pele causadas por agressões, com prioridade de acesso e sem fins só estéticos.",
+  "Mulheres vítimas de violência doméstica e familiar atendidas pelo SUS e os serviços de saúde.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 04/11/2026. Tramita junto com outros dois projetos, apensados a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640553",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164307",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cf7410a8d8350226",
+ "hash_tramitacao": "99d6d8df6a3b1868",
+ "tentativa": 1
+}

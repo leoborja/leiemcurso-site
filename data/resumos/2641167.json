@@ -1,0 +1,28 @@
+{
+ "id": 2641167,
+ "titulo": "Cria programa nacional de proteção de animais domésticos em datas com fogos e grandes eventos",
+ "tldr": [
+  "Prevê alertas aos tutores, rede de apoio emergencial, plataforma de animais perdidos, incentivo à microchipagem e campanhas nos trinta dias antes de datas como Réveillon e festas juninas.",
+  "Tutores de cães, gatos e outros animais domésticos, entidades de proteção animal, clínicas veterinárias e o Poder Executivo.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 2990/2026 na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641167",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165061",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e81ed15f02004dc6",
+ "hash_tramitacao": "6d838b12143ee3fa",
+ "tentativa": 1
+}

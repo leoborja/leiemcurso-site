@@ -1,0 +1,28 @@
+{
+ "id": 2624161,
+ "titulo": "Permite ao Ministro da Fazenda reduzir o imposto sobre compras internacionais por remessa postal",
+ "tldr": [
+  "O Ministro da Fazenda pode mudar as alíquotas do imposto de importação simplificado. Pode zerar a de compras de até US$ 50,00 e baixar para 30% a de até US$ 3.000,00, com diferença para empresas de programa da Receita.",
+  "Quem compra do exterior por remessa postal, plataformas de comércio eletrônico, operadores logísticos e a Receita Federal.",
+  "Aprovada pela Câmara em 03/09/2026, virou a Lei 15.502/2026, publicada em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624161",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3131650",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "984529a95cd709c0",
+ "hash_tramitacao": "71ecdc29eae6d653",
+ "tentativa": 1
+}

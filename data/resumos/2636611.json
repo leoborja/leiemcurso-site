@@ -1,0 +1,28 @@
+{
+ "id": 2636611,
+ "titulo": "Cria o Disque-Transplante, linha gratuita nacional de informações e denúncias sobre doação de órgãos",
+ "tldr": [
+  "O SUS passa a manter uma linha telefônica gratuita para tirar dúvidas sobre doação e transplante e receber denúncias, como venda de órgãos. O nome de quem denuncia fica em sigilo.",
+  "A população em geral, doadores e receptores de órgãos, o Ministério da Saúde e as centrais estaduais de transplantes.",
+  "Aguarda a escolha de relator na Comissão de Saúde, onde chegou em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636611",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155846",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6b499b190fcf23c1",
+ "hash_tramitacao": "e49ef8448ff0d28f",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634751,
+ "titulo": "Impede cortes temporários de gastos nas agências reguladoras federais",
+ "tldr": [
+  "Altera a Lei de Responsabilidade Fiscal para que as despesas das agências reguladoras federais não sejam bloqueadas quando o governo congela gastos para cumprir metas fiscais. Vale 365 dias após publicada.",
+  "Agências reguladoras federais e o Poder Executivo federal.",
+  "Veio do Senado e está na Câmara para revisão. A Câmara aprovou tramitação com prioridade em 01/09/2026; o texto está pronto para votação no Plenário, mas não foi votado até 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634751",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151555",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "075ae1dc752d0157",
+ "hash_tramitacao": "f6783dd154f2b3f2",
+ "tentativa": 1
+}

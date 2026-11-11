@@ -1,0 +1,28 @@
+{
+ "id": 2630760,
+ "titulo": "Cria política nacional de incentivo ao uso compartilhado de máquinas e recursos no campo",
+ "tldr": [
+  "Prevê incentivos fiscais, crédito e aplicativos públicos para o compartilhamento de máquinas e equipamentos entre produtores, além de estímulo ao reaproveitamento de resíduos agrícolas.",
+  "Produtores rurais, cooperativas e plataformas de compartilhamento agrícola.",
+  "Recebido pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara em 19/08/2026, aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630760",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143661",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9cd8416b900f8af2",
+ "hash_tramitacao": "6f628aab3cdf202a",
+ "tentativa": 1
+}

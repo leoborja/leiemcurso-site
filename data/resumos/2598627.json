@@ -1,0 +1,28 @@
+{
+ "id": 2598627,
+ "titulo": "Cria sistema nacional para monitorar e avaliar projetos esportivos financiados com dinheiro federal",
+ "tldr": [
+  "Entidades que recebem recursos federais diretos ou incentivados para o esporte terão de enviar dados de desempenho, gestão e impacto social, sob pena de suspensão de novos repasses. Os dados serão publicados.",
+  "Entidades esportivas que recebem recursos federais, o órgão federal do esporte e o IBGE.",
+  "Foi aprovado na Comissão do Esporte em 14/10/2026. Aguarda relator na Comissão de Constituição e Justiça desde 20/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598627",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3070863",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ea846c6e7c071fd4",
+ "hash_tramitacao": "38a7315195610cc9",
+ "tentativa": 1
+}

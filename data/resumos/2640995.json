@@ -1,0 +1,28 @@
+{
+ "id": 2640995,
+ "titulo": "Cria a Rede Amazônica de Inovação Colaborativa para fomentar pesquisa em cadeias produtivas sustentáveis",
+ "tldr": [
+  "Cria rede de universidades, empresas, governos e comunidades, gerida por conselho multissetorial. Empresas e cooperativas participantes acessam benefícios fiscais já existentes e há prioridade em linhas de crédito oficiais.",
+  "Universidades, startups, empresas, cooperativas, órgãos públicos e comunidades locais da Amazônia, com foco em agricultura familiar e extrativismo.",
+  "Tramita junto com o PL 6155/2025 (apensado) e foi recebido pela comissão de povos indígenas e comunidades tradicionais da Câmara (sigla CPOVOS) em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640995",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164762",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a72eae5b9ac6a9d2",
+ "hash_tramitacao": "d65257759c05b16e",
+ "tentativa": 1
+}

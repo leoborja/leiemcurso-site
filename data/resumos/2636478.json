@@ -1,0 +1,28 @@
+{
+ "id": 2636478,
+ "titulo": "Torna a carteira de identidade com símbolo de deficiência prova suficiente para acessar direitos",
+ "tldr": [
+  "Quem apresenta a identidade com o símbolo PCD e o CID não precisa mostrar laudos, inclusive para meia-entrada; recusar vira discriminação, com multa de R$ 1.000,00 a R$ 10.000,00. Benefícios do INSS e isenções de impostos ficam de fora.",
+  "Pessoas com deficiência, órgãos públicos e estabelecimentos privados como cinemas, teatros, estádios e escolas.",
+  "Aguarda designação de relator na Comissão de Cultura da Câmara desde 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636478",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155419",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8c6af909eabca160",
+ "hash_tramitacao": "92e9d97dc91bfaef",
+ "tentativa": 1
+}

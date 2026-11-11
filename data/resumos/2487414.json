@@ -1,0 +1,28 @@
+{
+ "id": 2487414,
+ "titulo": "Cria o Dia Nacional do Cão de Resgate e Salvamento, em 26 de agosto",
+ "tldr": [
+  "O dia 26 de agosto passa a ser a data nacional dos cães de busca e resgate. O poder público poderá fazer campanhas e eventos sobre o tema.",
+  "Cães de resgate e seus condutores em órgãos de segurança pública, nas Forças Armadas e em outras instituições.",
+  "Aprovado na Comissão de Cultura em 04/11/2026. Chegou à Comissão de Constituição e Justiça em 05/11/2026 e aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487414",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2868750",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "262ad8fb26939e3c",
+ "hash_tramitacao": "d462c6dde4d62bba",
+ "tentativa": 1
+}

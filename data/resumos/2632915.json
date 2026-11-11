@@ -1,0 +1,28 @@
+{
+ "id": 2632915,
+ "titulo": "Aumenta penas para crimes de envenenamento e os torna hediondos quando a vítima é vulnerável",
+ "tldr": [
+  "Homicídio por veneno tem pena aumentada, em dobro se a vítima for criança, idosa, pessoa com deficiência ou doente. O envenenamento de água ou alimento passa a ter pena de 12 a 20 anos e pode virar crime hediondo.",
+  "Pessoas acusadas ou condenadas por envenenamento; crianças, adolescentes, idosos, pessoas com deficiência, doentes e pessoas sob cuidados de terceiros como vítimas.",
+  "Aguarda escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara desde 19/08/2026; depois será votado pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632915",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148057",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a0d30c4c2bab9b0e",
+ "hash_tramitacao": "edf47a9f65f4b008",
+ "tentativa": 1
+}

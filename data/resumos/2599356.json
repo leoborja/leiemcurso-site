@@ -1,0 +1,28 @@
+{
+ "id": 2599356,
+ "titulo": "Cria política nacional para incluir pessoas com deficiência no esporte, com metas e financiamento",
+ "tldr": [
+  "Fixa a meta de reduzir em 50% em 6 anos a diferença de prática esportiva entre pessoas com e sem deficiência. Prevê auditorias de acessibilidade, capacitação de professores, editais anuais e comitês com participação social.",
+  "Pessoas com deficiência, professores de educação física da rede pública, técnicos esportivos e União, estados e municípios.",
+  "Foi aprovado na Comissão do Esporte em 14/10/2026. Está na Comissão de Defesa dos Direitos das Pessoas com Deficiência, com relator designado e prazo para emendas aberto em 30/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599356",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072268",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c5e32b5e105d2651",
+ "hash_tramitacao": "f6845635c2dba936",
+ "tentativa": 1
+}

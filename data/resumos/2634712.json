@@ -1,0 +1,28 @@
+{
+ "id": 2634712,
+ "titulo": "Define que diferença estatística entre grupos no quadro de empregados não basta para provar discriminação",
+ "tldr": [
+  "Para caracterizar discriminação no trabalho, será preciso demonstrar um ato ou uma conduta da empresa. A proporção de grupos em cargos não poderá, sozinha, servir de base para condenação, mas o juiz continua avaliando as demais provas.",
+  "Empregadores, trabalhadores e a Justiça do Trabalho em ações por discriminação na contratação, promoção, salário ou cargos de confiança.",
+  "Aguarda a escolha de relator na Comissão de Trabalho da Câmara. Desde 02/09/2026 tramita junto com outros projetos, e o último anexado foi o PL 3427/2026, em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634712",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151484",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "00eaa30ad04046b8",
+ "hash_tramitacao": "9fe1f2f74c1a5328",
+ "tentativa": 1
+}

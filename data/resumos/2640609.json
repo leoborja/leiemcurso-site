@@ -1,0 +1,28 @@
+{
+ "id": 2640609,
+ "titulo": "Inclui economia circular e consumo sustentável nos currículos da educação básica",
+ "tldr": [
+  "Escolas de educação infantil, ensino fundamental e médio passam a tratar esses temas de forma integrada às demais disciplinas, adaptados a cada nível de ensino.",
+  "Estudantes, professores e redes de ensino da educação básica.",
+  "Aguarda escolha de relator na Comissão de Educação da Câmara, que a recebeu em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640609",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164363",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "35c06b9fa7e5ed10",
+ "hash_tramitacao": "6e712f24e74f7961",
+ "tentativa": 1
+}

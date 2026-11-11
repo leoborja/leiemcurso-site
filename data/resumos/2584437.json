@@ -1,0 +1,28 @@
+{
+ "id": 2584437,
+ "titulo": "Cria acompanhamento médico e psicológico anual obrigatório para crianças até 12 anos",
+ "tldr": [
+  "Prevê consultas médicas e psicológicas anuais gratuitas e o envio de suspeitas de abuso ao Ministério Público e ao conselho tutelar. O Plenário aprovou um texto alternativo ao original.",
+  "Crianças e famílias, profissionais de saúde e de psicologia, escolas, conselhos tutelares, Ministério Público e governos federal, estaduais e municipais.",
+  "Aprovado no Plenário da Câmara em 04/11/2026, com prioridade na tramitação e na forma do texto alternativo da Comissão de Saúde. Segue para o Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2584437",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3045101",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5d35a816acb7e395",
+ "hash_tramitacao": "8f15010790b06098",
+ "tentativa": 2
+}

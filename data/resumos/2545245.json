@@ -1,0 +1,28 @@
+{
+ "id": 2545245,
+ "titulo": "Cria programa emergencial com isenção de tributos e renegociação de dívidas para o agro exportador",
+ "tldr": [
+  "Zera PIS/Pasep, Cofins, CSLL e IRPJ sobre receita de exportação até o fim das tarifas americanas ou sua redução a 10%, suspende por 24 meses a contribuição patronal e permite renegociar dívidas em até 180 parcelas.",
+  "Empresas agrícolas e agroindustriais registradas como preponderantemente exportadoras na Receita Federal.",
+  "Aprovado na Comissão de Desenvolvimento Econômico em 26/11/2025 e, com substitutivo, na Comissão de Agricultura em 04/11/2026; aguarda encaminhamento."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2545245",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2974210",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b7b8180223cf115c",
+ "hash_tramitacao": "0d3083cbf6c0d59b",
+ "tentativa": 1
+}

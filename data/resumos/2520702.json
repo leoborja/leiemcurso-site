@@ -1,0 +1,28 @@
+{
+ "id": 2520702,
+ "titulo": "Cria política de controle da venda de substâncias químicas tóxicas e agrava pena por uso criminoso",
+ "tldr": [
+  "A venda de substâncias de alto risco passa a exigir rastreamento, cadastro de compradores e fica proibida pela internet e por aplicativos de entrega. Prevê multas e torna agravante o uso dessas substâncias para matar ou ferir.",
+  "Fabricantes, distribuidores e vendedores de substâncias químicas tóxicas e quem as compra.",
+  "A Comissão de Indústria, Comércio e Serviços aprovou em 27/10/2026 parecer pela rejeição. Está na Comissão de Saúde desde 28/10/2026, aguardando relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2520702",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2927266",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f8042a31a0ae4f28",
+ "hash_tramitacao": "63431efa5a185ed0",
+ "tentativa": 1
+}

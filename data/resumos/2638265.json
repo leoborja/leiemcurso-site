@@ -1,0 +1,28 @@
+{
+ "id": 2638265,
+ "titulo": "Obriga municípios a oferecer agendamento por telefone e e-mail para consultas e exames no SUS",
+ "tldr": [
+  "Os municípios terão de oferecer marcação de consultas, exames e procedimentos por telefone, e-mail e outros meios digitais, com resposta em até 48 horas. O prazo para se adequar é de 180 dias.",
+  "Municípios e usuários do SUS na rede pública municipal de saúde.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638265",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159253",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a51f157adff870fd",
+ "hash_tramitacao": "65ee7faa881d8ea5",
+ "tentativa": 1
+}

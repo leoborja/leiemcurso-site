@@ -1,0 +1,28 @@
+{
+ "id": 2639108,
+ "titulo": "Cria programa de bolsas em faculdades privadas para estudantes-atletas que vieram da escola pública",
+ "tldr": [
+  "Faculdades particulares podem aderir ao programa e oferecer bolsas integrais ou parciais. Os estudantes são escolhidos pelo desempenho escolar e esportivo e mantêm a bolsa se continuarem com notas, frequência e prática esportiva.",
+  "Estudantes-atletas que fizeram todo o ensino médio em escola pública e faculdades privadas que aderirem ao programa.",
+  "Está na Comissão do Esporte da Câmara, que escolheu o relator em 27/10/2026. O prazo para emendas foi aberto em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639108",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161586",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "692e3117d5ce7310",
+ "hash_tramitacao": "beb5e63fc1d36880",
+ "tentativa": 1
+}

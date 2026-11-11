@@ -1,0 +1,28 @@
+{
+ "id": 2639770,
+ "titulo": "Cria política para acelerar a análise de terapias contra infecções resistentes a antibióticos",
+ "tldr": [
+  "A Anvisa passa a analisar com prioridade tratamentos para infecções resistentes, como a terapia com vírus que atacam bactérias (fágica), sem dispensar as exigências de segurança. O texto também cria um programa nacional de terapia fágica.",
+  "Pacientes com infecções resistentes sem outro tratamento, Anvisa, hospitais universitários, institutos de pesquisa e empresas do setor.",
+  "Recebido pela Comissão de Saúde da Câmara em 03/11/2026, aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639770",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162873",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ddbfb9bc2e97aa2f",
+ "hash_tramitacao": "a75c317b81da425b",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634062,
+ "titulo": "Define normas gerais de segurança, seguro e fiscalização para o turismo de aventura",
+ "tldr": [
+  "Prestadores passam a ter de se cadastrar no Cadastur e manter plano de riscos, equipamentos adequados, profissionais certificados, termo de riscos e seguro. As exigências podem variar conforme porte e risco.",
+  "Pessoas e empresas, nacionais ou estrangeiras, que oferecem turismo de aventura no Brasil, inclusive por plataformas digitais, além dos turistas.",
+  "Tramita junto com o PL 3096/2026 em comissão da Câmara. Em 26/10/2026, os PLs 3587/2026 e 3852/2026 foram anexados a ele para tramitar em conjunto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:44Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634062",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149839",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6437660eeecbe523",
+ "hash_tramitacao": "ba4f16f3c4b3d8e2",
+ "tentativa": 2
+}

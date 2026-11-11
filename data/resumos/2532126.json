@@ -1,0 +1,28 @@
+{
+ "id": 2532126,
+ "titulo": "Cria política do SUS para pessoas com diabetes tipo 1, com sensores de glicose e insulinas gratuitas",
+ "tldr": [
+  "O SUS passaria a fornecer de graça, com receita médica, sensores de glicose, insulinas de ação rápida, bombas de insulina e atendimento com várias especialidades. Também prevê incentivos fiscais para pesquisa no setor.",
+  "Pessoas com diabetes tipo 1, com prioridade para quem tem até 18 anos, gestantes e pessoas em vulnerabilidade, além do SUS e de empresas de pesquisa.",
+  "Aprovado com novo texto na Comissão de Ciência, Tecnologia e Inovação em 04/11/2026. Tramita junto com o PL 979/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2532126",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949466",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "10eb68bf34dea457",
+ "hash_tramitacao": "d5827e5616b33d17",
+ "tentativa": 1
+}

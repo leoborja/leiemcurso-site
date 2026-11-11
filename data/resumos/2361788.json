@@ -1,0 +1,28 @@
+{
+ "id": 2361788,
+ "titulo": "Inclui Bernardo José dos Santos, o Caboclo Bernardo, no Livro dos Heróis e Heroínas da Pátria",
+ "tldr": [
+  "O nome de Caboclo Bernardo passa a constar no livro guardado no Panteão da Pátria e da Liberdade Tancredo Neves, em Brasília.",
+  "Tem caráter de homenagem e não atinge diretamente nenhum grupo.",
+  "Aprovado nas comissões da Câmara, com outro projeto apensado. A redação final foi aprovada na Comissão de Constituição e Justiça em 04/11/2026, e o texto aguarda os autógrafos."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2361788",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2271251",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5ea9c7ef00a21282",
+ "hash_tramitacao": "1368aa80b87a5f85",
+ "tentativa": 1
+}

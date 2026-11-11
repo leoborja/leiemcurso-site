@@ -1,0 +1,28 @@
+{
+ "id": 2599318,
+ "titulo": "Cria política nacional de apoio a hortas urbanas e à compra pública de alimentos produzidos perto do consumo",
+ "tldr": [
+  "A União pode apoiar hortas urbanas e periurbanas com assistência técnica, insumos e capacitação. Também pode comprar diretamente esses alimentos para escolas, unidades de saúde e de assistência social.",
+  "Agricultores familiares, associações e cooperativas locais, mulheres, jovens e pessoas em situação de vulnerabilidade, com prioridade para municípios do interior e áreas de abastecimento caro.",
+  "A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural aprovou o parecer, com mudança no texto, em 04/11/2026. O texto aguarda envio às próximas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599318",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072113",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ad34ff6b65b67771",
+ "hash_tramitacao": "07b33b6922886ef4",
+ "tentativa": 1
+}

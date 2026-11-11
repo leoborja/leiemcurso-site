@@ -1,0 +1,28 @@
+{
+ "id": 2627586,
+ "titulo": "Libera R$ 30 bilhões extras para financiar carros novos para motoristas de aplicativo e taxistas",
+ "tldr": [
+  "Liberou dinheiro para linhas de crédito que financiam a compra de veículos novos por motoristas de aplicativo, taxistas e cooperativas de táxi. A medida não foi votada e perdeu a validade.",
+  "Motoristas de aplicativo, taxistas, cooperativas de taxistas e o Ministério da Fazenda.",
+  "Perdeu a validade em 22/09/2026 sem ter sido votada. O Congresso comunicou o fim do prazo em 08/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627586",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3140243",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0a64353731322282",
+ "hash_tramitacao": "7f37dfaf73374dee",
+ "tentativa": 1
+}

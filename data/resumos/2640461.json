@@ -1,0 +1,28 @@
+{
+ "id": 2640461,
+ "titulo": "Permite incluir na lista de remédios do SUS tratamentos para quem tem fibromialgia",
+ "tldr": [
+  "A lista nacional de medicamentos essenciais pode incluir duas classes de remédios para quem não responde ou não tolera o tratamento inicial, desde que haja avaliação técnica, registro na Anvisa e verba disponível.",
+  "Pacientes com fibromialgia atendidos pelo SUS e os gestores da assistência farmacêutica.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, que recebeu o texto em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640461",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164209",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a817f241aa8ab9a4",
+ "hash_tramitacao": "bc5a14bb69bbb407",
+ "tentativa": 1
+}

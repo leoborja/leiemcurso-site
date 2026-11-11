@@ -1,0 +1,28 @@
+{
+ "id": 2473355,
+ "titulo": "Amplia incentivos fiscais a projetos esportivos e culturais em municípios com menos de 50 mil habitantes",
+ "tldr": [
+  "Sobe para 4% o limite de dedução do imposto para projetos esportivos em cidades com menos de 50 mil habitantes. Projetos culturais acima de R$ 500.000,00 terão de destinar 5% do que captarem a projetos nessas cidades.",
+  "Municípios com menos de 50 mil habitantes, proponentes de projetos esportivos e culturais e quem patrocina ou faz doações a eles.",
+  "Aprovado nas Comissões de Esporte (10/12/2025) e de Cultura (28/10/2026). Desde 04/11/2026, está na Comissão de Finanças e Tributação, que ainda precisa escolher um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473355",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2829435",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "49801057262103e4",
+ "hash_tramitacao": "2a605d8eb7912527",
+ "tentativa": 1
+}

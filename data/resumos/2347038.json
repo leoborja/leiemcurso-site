@@ -1,0 +1,28 @@
+{
+ "id": 2347038,
+ "titulo": "Muda regras de contagem de tempo de serviço para aposentadoria de policiais e bombeiros militares",
+ "tldr": [
+  "O texto original exige 35 anos de serviço, com ao menos 25 em atividade militar, e garante a contagem integral do tempo de serviço anterior à Lei 13.954/2019. A Câmara aprovou uma versão alternativa do texto.",
+  "Policiais militares e bombeiros militares dos estados, dos territórios e do Distrito Federal.",
+  "Aprovado pelo Plenário da Câmara em 01/09/2026 na forma de texto alternativo da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. Enviado ao Senado em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347038",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2232608",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2ac7ea89573c814e",
+ "hash_tramitacao": "c9563251b82856e8",
+ "tentativa": 1
+}

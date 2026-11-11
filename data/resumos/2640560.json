@@ -1,0 +1,28 @@
+{
+ "id": 2640560,
+ "titulo": "Cria programa no SUS de acompanhamento psicológico contínuo para vítimas de violência doméstica com sequelas",
+ "tldr": [
+  "O SUS passa a oferecer de graça terapia individual e em grupo, atendimento em crise e encaminhamento psiquiátrico enquanto houver necessidade, com encaminhamento prioritário à rede de saúde mental.",
+  "Mulheres vítimas de violência doméstica com sequelas físicas permanentes, e serviços de saúde mental do SUS.",
+  "Tramita junto com outro projeto (apensada), com um terceiro projeto juntado a ela; foi recebida pela Comissão de Saúde da Câmara em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640560",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164314",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "09932c98d2ca912f",
+ "hash_tramitacao": "8fcaed2df6a7d611",
+ "tentativa": 1
+}

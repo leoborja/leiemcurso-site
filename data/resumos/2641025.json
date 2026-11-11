@@ -1,0 +1,28 @@
+{
+ "id": 2641025,
+ "titulo": "Obriga empresas a monitorar e comunicar riscos de alimentos para cães e gatos após a venda",
+ "tldr": [
+  "Empresas terão de acompanhar seus produtos no mercado e avisar imediatamente as autoridades sobre riscos. Cria um sistema nacional de notificações e regras para recolher produtos e avisar o público.",
+  "Fabricantes, importadores e distribuidores de alimentos para cães e gatos, veterinários, tutores e órgãos de fiscalização.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026, passou a tramitar junto com o PL 4340/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641025",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164793",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "44eb9f3158ac0957",
+ "hash_tramitacao": "5d4870c858b781f0",
+ "tentativa": 1
+}

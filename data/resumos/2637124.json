@@ -1,0 +1,28 @@
+{
+ "id": 2637124,
+ "titulo": "Permite prisão preventiva em todos os crimes ligados a material de abuso sexual de crianças e adolescentes",
+ "tldr": [
+  "Juízes passam a poder decretar prisão antes do julgamento também nos crimes com pena menor, como posse e armazenamento desse material e aliciamento de crianças, que hoje não permitem essa prisão.",
+  "Pessoas investigadas ou processadas pelos crimes de exploração sexual e pornografia infantojuvenil previstos no Estatuto da Criança e do Adolescente.",
+  "Aguarda a designação de relator na Comissão de Constituição e Justiça e de Cidadania desde 08/09/2026. Depois, o texto precisa ser votado pelo Plenário da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637124",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157108",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "be0b2826d679b86f",
+ "hash_tramitacao": "4318ee1624c84616",
+ "tentativa": 1
+}

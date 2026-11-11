@@ -1,0 +1,28 @@
+{
+ "id": 2625946,
+ "titulo": "Retira exigências como idade mínima de 21 anos e curso obrigatório para motoboys e mototaxistas",
+ "tldr": [
+  "Acabaram, enquanto a medida valeu, a idade mínima de 21 anos e o curso especializado obrigatório. Bastava ter carteira categoria A ou autorização para ciclomotor. Também saíram exigências do Código de Trânsito para motos de frete.",
+  "Mototaxistas, motoboys e motofretistas, além dos órgãos de trânsito que fiscalizam essas atividades.",
+  "Perdeu a validade em 15/09/2026 sem ser votada pelo Congresso. O encerramento foi comunicado em 17/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625946",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3136444",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "733099947e97661b",
+ "hash_tramitacao": "8ba88c41f4abb994",
+ "tentativa": 1
+}

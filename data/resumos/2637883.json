@@ -1,0 +1,28 @@
+{
+ "id": 2637883,
+ "titulo": "Reduz o imposto sobre o lucro das resseguradoras locais e muda as regras de compensação de prejuízos",
+ "tldr": [
+  "O texto original fixa em 9% a Contribuição Social sobre o Lucro Líquido das resseguradoras locais. Também retira o limite para descontar prejuízos de anos anteriores das atividades de resseguro. A Câmara aprovou uma versão alterada.",
+  "Resseguradoras locais, que são empresas que fazem o seguro das seguradoras.",
+  "Virou a Lei 15.525/2026, publicada em 29/09/2026. A Câmara aprovou uma versão alterada do texto em 13/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:10Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637883",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158459",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8848c23b2f23da96",
+ "hash_tramitacao": "06fbc78553ac1b0b",
+ "tentativa": 1
+}

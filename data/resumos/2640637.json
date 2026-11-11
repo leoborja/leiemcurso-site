@@ -1,0 +1,28 @@
+{
+ "id": 2640637,
+ "titulo": "Define regras para integrar e padronizar dados estatísticos, geográficos e administrativos do poder público",
+ "tldr": [
+  "Órgãos federais passam a seguir padrões técnicos comuns para compartilhar dados, com regras de proteção de dados pessoais e sigilo estatístico. Terão 24 meses após a regulamentação para se adaptar.",
+  "Órgãos e entidades da administração pública federal; estados, Distrito Federal e municípios só se aderirem voluntariamente.",
+  "Tramita junto com o PL 2265/2026 nas comissões da Câmara, que podem decidir sem passar pelo Plenário. Recebido pela comissão em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640637",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164391",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "34286f8e914faf20",
+ "hash_tramitacao": "79bc45595d7cbc8e",
+ "tentativa": 1
+}

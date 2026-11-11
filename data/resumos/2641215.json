@@ -1,0 +1,28 @@
+{
+ "id": 2641215,
+ "titulo": "Cria política para garantir comunicação de emergência em polos de saúde e escolas indígenas de áreas remotas",
+ "tldr": [
+  "Os polos-base de saúde e as escolas indígenas definidos como prioritários no regulamento passam a ter de contar com um sistema mínimo de comunicação para voz e mensagens de emergência, que pode ser via satélite e ter energia própria.",
+  "Polos-base de saúde indígena, escolas indígenas, suas equipes e as comunidades atendidas em áreas remotas.",
+  "Em 03/11/2026, a Mesa Diretora da Câmara mandou o texto tramitar junto com o PL 6302/2025. A análise cabe às comissões, sem precisar passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641215",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165113",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "89a5148dc6e0454e",
+ "hash_tramitacao": "9391056e7e51131a",
+ "tentativa": 1
+}

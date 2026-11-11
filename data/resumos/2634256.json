@@ -1,0 +1,28 @@
+{
+ "id": 2634256,
+ "titulo": "Inclui o desempenho de estudantes e ex-alunos na avaliação oficial das faculdades",
+ "tldr": [
+  "A avaliação nacional do ensino superior passa a considerar notas em provas nacionais obrigatórias e dados anônimos sobre emprego, continuidade dos estudos e rendimento de quem se formou.",
+  "Instituições de ensino superior, seus cursos de graduação, estudantes e ex-alunos.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 21/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634256",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3150246",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3b978b8483cb6dee",
+ "hash_tramitacao": "b49ead8262b7826d",
+ "tentativa": 1
+}

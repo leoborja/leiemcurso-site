@@ -1,0 +1,28 @@
+{
+ "id": 2641832,
+ "titulo": "Cria auxílio de R$ 600 por 12 meses para cuidador após a morte de pessoa que recebia o BPC",
+ "tldr": [
+  "O cuidador familiar sem remuneração passa a receber R$ 600,00 mensais por 12 meses após a morte da pessoa idosa ou com deficiência que recebia o BPC. Precisa estar estudando ou fazendo curso de qualificação.",
+  "Familiares de baixa renda inscritos no CadÚnico que cuidaram sem pagamento, por pelo menos 2 anos, de pessoa idosa ou com deficiência que recebia o BPC.",
+  "Em 26/10/2026 passou a tramitar junto com o PL 6414/2025 na Câmara, que será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641832",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3168086",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e3593d4d50aa7e99",
+ "hash_tramitacao": "662a4dc4dcac8ab6",
+ "tentativa": 1
+}

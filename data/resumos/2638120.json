@@ -1,0 +1,28 @@
+{
+ "id": 2638120,
+ "titulo": "Cria programa permanente de renegociação de dívidas de microempreendedores individuais",
+ "tldr": [
+  "Cria renegociação permanente das dívidas de MEI em dívida ativa, com parcelamento em até 145 meses e parcela mínima de R$ 25,00. Órgãos públicos passam a usar plataforma de compras com prioridade a MEI.",
+  "Microempreendedores individuais com dívidas, a Procuradoria-Geral da Fazenda Nacional, a Receita Federal e órgãos públicos de todos os níveis.",
+  "Aguarda escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara desde 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:19Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638120",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159005",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "421a66d9c6f640f7",
+ "hash_tramitacao": "d9f7628110abafb0",
+ "tentativa": 2
+}

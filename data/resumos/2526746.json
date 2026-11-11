@@ -1,0 +1,28 @@
+{
+ "id": 2526746,
+ "titulo": "Obriga hospitais a ensinar primeiros socorros e manobras de desengasgo aos pais antes da alta do bebê",
+ "tldr": [
+  "Antes da alta, hospitais terão de dar aos pais ou responsáveis por recém-nascidos orientação e treino básico de primeiros socorros, com foco em desengasgo, se isso não tiver sido feito no pré-natal.",
+  "Pais ou responsáveis por recém-nascidos e hospitais e maternidades.",
+  "A Comissão de Saúde aprovou o parecer em 12/08/2026. O projeto aguarda relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família e tramita junto com outros projetos (último em 02/09/2026)."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2526746",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2937904",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "595ef6b8aee4a5ba",
+ "hash_tramitacao": "fcadd24b882c205d",
+ "tentativa": 1
+}

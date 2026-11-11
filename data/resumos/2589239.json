@@ -1,0 +1,28 @@
+{
+ "id": 2589239,
+ "titulo": "Cria o Dia Nacional do Cuidador Escolar, em 3 de dezembro",
+ "tldr": [
+  "O dia 3 de dezembro passa a ser o Dia Nacional do Cuidador Escolar. O Ministério da Educação poderá incluir a data em seu calendário e promover campanhas.",
+  "Profissionais que cuidam, apoiam e acompanham estudantes nas escolas.",
+  "Aprovado com texto alternativo na Comissão de Cultura em 28/10/2026. Desde 05/11/2026, aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589239",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3054288",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9008fada7d7d5578",
+ "hash_tramitacao": "c2ab81da4178f746",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635391,
+ "titulo": "Cria crime de fraude com desconto indevido em salário, aposentadoria, pensão ou benefício",
+ "tldr": [
+  "Cria crime com pena de 4 a 8 anos de reclusão e multa para quem fizer desconto não autorizado ou fraudulento em salário, benefício ou pensão. Também aumenta penas para organização criminosa e lavagem de dinheiro ligadas a essas fraudes.",
+  "Trabalhadores, servidores, aposentados, pensionistas e beneficiários de programas sociais, e quem pratica esses descontos, como entidades e empresas.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que escolheu relator em 28/10/2026. Em 29/10/2026 outro projeto foi anexado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635391",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153478",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a5490cc163a495b5",
+ "hash_tramitacao": "e5ac03844bae1632",
+ "tentativa": 1
+}

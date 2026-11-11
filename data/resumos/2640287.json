@@ -1,0 +1,28 @@
+{
+ "id": 2640287,
+ "titulo": "Obriga entregadores a usar código de identificação refletivo nas mochilas e bolsas de entrega",
+ "tldr": [
+  "As bolsas de entrega terão de exibir, em três lados, um código ligado ao CPF ou CNPJ. A multa é de R$ 500,00, e as plataformas que aceitarem cadastros irregulares pagam R$ 1.000,00 por dia.",
+  "Entregadores de moto, bicicleta e veículos elétricos e plataformas digitais de entrega.",
+  "Tramita junto com o PL 1613/2025; foi enviado para publicação em 29/10/2026 e aguarda encaminhamento na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640287",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163755",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9a9aeeda5537bd1d",
+ "hash_tramitacao": "9d0284018b78feca",
+ "tentativa": 1
+}

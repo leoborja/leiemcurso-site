@@ -1,0 +1,28 @@
+{
+ "id": 2640646,
+ "titulo": "Permite à Receita Federal oferecer orientação financeira a quem declara altos ganhos com apostas",
+ "tldr": [
+  "A Receita Federal poderá exibir conteúdos sobre planejamento financeiro e riscos das apostas na declaração do Imposto de Renda de quem ganha com apostas mais de 20 vezes o limite de isenção por ano. As orientações não trazem restrições.",
+  "Contribuintes que declaram ganhos altos com apostas de quota fixa ou atividades parecidas e a Receita Federal.",
+  "Aguarda a escolha de relator na Comissão de Defesa do Consumidor da Câmara, que recebeu o texto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640646",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164400",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "aad03a83a834c9a3",
+ "hash_tramitacao": "50e05418f9c83d6f",
+ "tentativa": 1
+}

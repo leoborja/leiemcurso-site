@@ -1,0 +1,28 @@
+{
+ "id": 2641693,
+ "titulo": "Permite visita a preso por quem cumpre pena em regime aberto, livramento condicional ou prisão domiciliar",
+ "tldr": [
+  "A Lei de Execução Penal passa a admitir essas visitas, exceto quando o visitante foi condenado por crime cometido junto com o preso.",
+  "Presos e seus visitantes que cumprem pena em regime aberto, livramento condicional ou prisão domiciliar, e os estabelecimentos prisionais.",
+  "Recebido pela Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara em 04/11/2026, aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641693",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166977",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "db079d2d934f697e",
+ "hash_tramitacao": "7f624779a89b5675",
+ "tentativa": 1
+}

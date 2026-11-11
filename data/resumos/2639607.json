@@ -1,0 +1,28 @@
+{
+ "id": 2639607,
+ "titulo": "Obriga a ANAC a fixar metas de desempenho para aeroportos concedidos e punir quem descumprir",
+ "tldr": [
+  "A ANAC passa a medir atrasos em desembarque, pontes e bagagens causados pelo aeroporto e pode aplicar advertência, multa, redução do prazo da concessão ou até cancelá-la.",
+  "Empresas que administram aeroportos concedidos, a ANAC e passageiros do transporte aéreo.",
+  "Aguarda a escolha de relator na Comissão de Viação e Transportes da Câmara, onde chegou em 10/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639607",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162612",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "aaebe4f9580866ab",
+ "hash_tramitacao": "e309376067a64a9e",
+ "tentativa": 1
+}

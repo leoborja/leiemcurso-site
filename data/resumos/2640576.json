@@ -1,0 +1,28 @@
+{
+ "id": 2640576,
+ "titulo": "Define regras nacionais de proteção à saúde contra fumaça de queimadas e poluição do ar",
+ "tldr": [
+  "Em episódios críticos de poluição, escolas, serviços de saúde e empregadores adotam medidas de proteção, e a lei do SUS passa a incluir ações de vigilância e alerta sobre fumaça.",
+  "Escolas, serviços de saúde e assistência social, empregadores, trabalhadores ao ar livre, o SUS e grupos como crianças, idosos e gestantes.",
+  "Recebido pela Comissão de Educação em 03/11/2026, aguarda designação de relator; depois passa pelas comissões de Trabalho, Saúde, Finanças e Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640576",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164330",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "60fc57138e12fe19",
+ "hash_tramitacao": "225a81186465cf28",
+ "tentativa": 1
+}

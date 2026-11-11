@@ -1,0 +1,28 @@
+{
+ "id": 2637890,
+ "titulo": "Permite suspender temporariamente a importação de maçã quando o preço ficar abaixo do custo de produção",
+ "tldr": [
+  "O Poder Executivo fica autorizado a suspender a importação de maçã e derivados quando o preço de venda for menor que o custo médio de produção apurado pela Companhia Nacional de Abastecimento, mantendo o abastecimento interno.",
+  "Produtores de maçã, importadores do produto e a Companhia Nacional de Abastecimento, responsável pelos levantamentos de preços.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637890",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158498",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e12c26cc44b11b8f",
+ "hash_tramitacao": "8953dca0a40384ef",
+ "tentativa": 1
+}

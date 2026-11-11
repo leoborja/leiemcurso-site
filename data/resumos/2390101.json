@@ -1,0 +1,28 @@
+{
+ "id": 2390101,
+ "titulo": "Cria o Dia Nacional do Orgulho Bissexual, em 26 de setembro",
+ "tldr": [
+  "O dia 26 de setembro entra no calendário oficial como Dia Nacional do Orgulho Bissexual.",
+  "O efeito é geral: o texto cria uma data comemorativa nacional.",
+  "Aprovado na Comissão de Direitos Humanos, Minorias e Igualdade Racial em 28/10/2026. Aguarda envio à Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2390101",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2333016",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "24083d5f778ba45f",
+ "hash_tramitacao": "679da054d725e1b6",
+ "tentativa": 1
+}

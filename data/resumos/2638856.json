@@ -1,0 +1,28 @@
+{
+ "id": 2638856,
+ "titulo": "Transfere simbolicamente a sede do Governo Federal para a cidade do Rio de Janeiro todo dia 20 de janeiro",
+ "tldr": [
+  "Todo 20 de janeiro, dia de São Sebastião, padroeiro da cidade, a sede dos três Poderes da União passa simbolicamente para o Rio de Janeiro. O Poder Executivo federal organiza a logística, a segurança e a estrutura dos atos oficiais.",
+  "Os Poderes Executivo, Legislativo e Judiciário da União, o Estado do Rio de Janeiro e o Município do Rio de Janeiro.",
+  "Tramita com prioridade (urgência). A relatoria da Comissão de Cultura deu parecer pela aprovação com emenda em 07/10/2026, que ainda aguarda votação na comissão."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638856",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3160925",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "220afa6fd898ff2a",
+ "hash_tramitacao": "9c94b0a1d2dce6ee",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641751,
+ "titulo": "Aumenta em um terço penas de crimes de cuidadores contra idosos, pessoas com deficiência e crianças",
+ "tldr": [
+  "Crimes previstos no Estatuto da Pessoa Idosa, no Estatuto da Pessoa com Deficiência e no ECA passam a ter pena aumentada de 1/3 quando cometidos por cuidador ou cuidador social no exercício da função.",
+  "Cuidadores e cuidadores sociais, pagos ou não, em casa ou em instituições, e as pessoas idosas, com deficiência, crianças e adolescentes atendidos por eles.",
+  "Aguarda parecer na Comissão de Defesa dos Direitos da Pessoa Idosa, que designou relator em 04/11/2026. Depois passa por outras três comissões e pelo Plenário. Há pedido de urgência de 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641751",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167660",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ccd1db63c4a1f51d",
+ "hash_tramitacao": "624e2cd73a0813dc",
+ "tentativa": 2
+}

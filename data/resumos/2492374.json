@@ -1,0 +1,28 @@
+{
+ "id": 2492374,
+ "titulo": "Cria o Dia Nacional da África, em 25 de maio",
+ "tldr": [
+  "A data entra no calendário oficial e pode ser celebrada com eventos, palestras e atividades educativas sobre a história e a cultura africana e afro-brasileira.",
+  "O efeito é geral. Escolas, universidades e outros espaços públicos e privados podem promover atividades.",
+  "Aprovado pelas comissões da Câmara, sem precisar de votação no Plenário. Enviado ao Senado em 20/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2492374",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2877457",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c08fc6f740d757ae",
+ "hash_tramitacao": "7e15d75a315b0bbf",
+ "tentativa": 1
+}

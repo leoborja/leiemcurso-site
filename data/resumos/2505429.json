@@ -1,0 +1,28 @@
+{
+ "id": 2505429,
+ "titulo": "Troca os termos “lábio leporino” e “fenda palatina” por “fissura labiopalatina” na lei de cirurgia pelo SUS",
+ "tldr": [
+  "A lei que obriga o SUS a fazer a cirurgia reconstrutiva e o tratamento pós-cirúrgico passa a usar só a expressão “fissura labiopalatina”. As obrigações do SUS continuam as mesmas.",
+  "Pessoas com fissura labiopalatina e a rede pública e conveniada do SUS.",
+  "A Comissão de Saúde aprovou um texto alternativo em 12/08/2026. Desde 14/08/2026 está na Comissão de Constituição e Justiça, à espera de relator, e tramita junto com outro projeto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2505429",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2900172",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "16ae1d8bc6136579",
+ "hash_tramitacao": "4c7fef9a82948935",
+ "tentativa": 1
+}

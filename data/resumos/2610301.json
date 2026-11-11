@@ -1,0 +1,28 @@
+{
+ "id": 2610301,
+ "titulo": "Proíbe exigir ida presencial de pessoa com deficiência a órgão público quando o deslocamento for custoso",
+ "tldr": [
+  "O atendimento remoto passa a ser prioridade, com assinatura eletrônica e sem pedir documentos que o governo já tem. Ida presencial vira exceção justificada, com opção de atendimento em casa ou por procurador.",
+  "Pessoas com deficiência, órgãos públicos, prestadores de serviços públicos, INSS e serviços do SUS e da assistência social.",
+  "Aprovado com texto alternativo na Comissão de Defesa dos Direitos das Pessoas com Deficiência em 01/09/2026. Tem relator na Comissão de Constituição e Justiça, onde o prazo para emendas foi aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610301",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3100345",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2b0fb732356af8f5",
+ "hash_tramitacao": "894a182636a64e09",
+ "tentativa": 2
+}

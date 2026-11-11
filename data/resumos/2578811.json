@@ -1,0 +1,28 @@
+{
+ "id": 2578811,
+ "titulo": "Suspende por ao menos cinco anos usinas que geram energia queimando lixo urbano",
+ "tldr": [
+  "Fica proibido instalar, licenciar, contratar ou operar essas usinas por no mínimo cinco anos, período em que o governo deve fazer estudos. Depois, cada usina dependerá de autorização do Congresso.",
+  "Empresas e projetos de geração de energia a partir de lixo urbano, os Ministérios do Meio Ambiente e da Ciência e Tecnologia e órgãos de licenciamento.",
+  "Comissões aprovaram pareceres em 29/04/2026 e em 12/08/2026, este pela rejeição, na Comissão de Ciência e Tecnologia. Desde 05/10/2026 aguarda relator na Comissão de Meio Ambiente."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578811",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3033999",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9761a5ed35b49e9d",
+ "hash_tramitacao": "f64153dc97cc6caf",
+ "tentativa": 1
+}

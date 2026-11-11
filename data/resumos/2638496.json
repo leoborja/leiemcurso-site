@@ -1,0 +1,28 @@
+{
+ "id": 2638496,
+ "titulo": "Proíbe pagar afiliados de apostas com base nas perdas dos apostadores que eles atraem",
+ "tldr": [
+  "Afiliados de apostas e jogos só poderão receber valor fixo por divulgação, com contrato escrito e registrado. Toda a cadeia de captação responde junto pelos danos ao consumidor atraído por link ou código.",
+  "Influenciadores, afiliados, anunciantes, operadores e plataformas de apostas, loterias e jogos, e os consumidores captados.",
+  "Tramita junto com o PL 3324/2026 e aguarda envio às comissões da Câmara; publicado em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638496",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159959",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "57e0d7a6410ff130",
+ "hash_tramitacao": "345519ad6bf34f74",
+ "tentativa": 1
+}

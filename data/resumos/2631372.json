@@ -1,0 +1,28 @@
+{
+ "id": 2631372,
+ "titulo": "Permite registrar nos documentos de militares inativos o posto usado como base de cálculo da aposentadoria",
+ "tldr": [
+  "Militares da reserva e reformados podem ter nos registros e documentos funcionais o posto ou graduação que serviu de base para seus proventos. O registro é só honorífico: não gera promoção, mudança de hierarquia nem efeito financeiro.",
+  "Militares da reserva remunerada e reformados das Forças Armadas, das polícias militares e dos corpos de bombeiros militares.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026 e abriu prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631372",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144492",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a0b1f500e980ab3b",
+ "hash_tramitacao": "f3e64872b85c73f8",
+ "tentativa": 1
+}

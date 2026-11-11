@@ -1,0 +1,28 @@
+{
+ "id": 2640928,
+ "titulo": "Cria sistema nacional de avaliação e certificação de casas de repouso para idosos",
+ "tldr": [
+  "Asilos e casas de repouso passarão por auditorias periódicas, receberão nota de qualidade divulgada na internet e, se não atingirem o mínimo, terão de seguir plano de correção.",
+  "Instituições de longa permanência para idosos, seus residentes e familiares, e o Ministério dos Direitos Humanos e da Cidadania.",
+  "Tramita junto com o PL 197/2026, por decisão da Mesa Diretora da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640928",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164695",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ef73d245a203d6e6",
+ "hash_tramitacao": "1f167360c069c087",
+ "tentativa": 1
+}

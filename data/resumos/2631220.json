@@ -1,0 +1,28 @@
+{
+ "id": 2631220,
+ "titulo": "Cria agência federal para regular vestibulares e garante isenção de taxa a estudantes de baixa renda",
+ "tldr": [
+  "Uma nova agência passa a aprovar editais, fixar teto de taxas e limitar conteúdos ao currículo do ensino médio público. Garante isenção total a alunos de escola pública e inscritos no Cadastro Único, e parcial de no mínimo 50% a outros.",
+  "Candidatos a vestibulares e instituições de ensino superior que fazem processos seletivos.",
+  "Aguarda escolha de relator na Comissão de Educação da Câmara, onde chegou em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631220",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144245",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "14d6fa6d4134ddf8",
+ "hash_tramitacao": "0ef07c26b2d82112",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640795,
+ "titulo": "Obriga hospitais e serviços de saúde de média e alta complexidade a adotar protocolos de acessibilidade",
+ "tldr": [
+  "Esses serviços terão de adaptar equipamentos às limitações dos pacientes, usar sistemas alternativos de comunicação e treinar recepção e triagem para atender pessoas com deficiências invisíveis ou transtornos do neurodesenvolvimento.",
+  "Pessoas com deficiência e serviços de saúde públicos e privados de média e alta complexidade.",
+  "Em 29/10/2026, a Mesa Diretora da Câmara determinou que tramite junto com o PL 1256/2023. A análise será nas comissões, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640795",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164550",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5cfb59602f46b8d6",
+ "hash_tramitacao": "245c2774e1b04b2d",
+ "tentativa": 1
+}

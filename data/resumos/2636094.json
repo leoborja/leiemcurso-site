@@ -1,0 +1,28 @@
+{
+ "id": 2636094,
+ "titulo": "Aumenta a pena do crime de associação criminosa e cria novos agravantes",
+ "tldr": [
+  "A pena passa a ser de 3 a 8 anos de reclusão e multa, com aumentos em casos como uso de armas, participação de agente público ou fins como homicídio e crimes hediondos.",
+  "Pessoas processadas ou condenadas por associação criminosa.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026. Depois segue ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636094",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154841",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "118dd880401c37e0",
+ "hash_tramitacao": "5b09b57a61e46260",
+ "tentativa": 1
+}

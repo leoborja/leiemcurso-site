@@ -1,0 +1,28 @@
+{
+ "id": 2641603,
+ "titulo": "Proíbe planos de saúde de limitar sessões e terapias multidisciplinares para pessoas com autismo",
+ "tldr": [
+  "Planos com cobertura ambulatorial teriam de cobrir as terapias indicadas enquanto houver indicação clínica, sem teto de sessões, horas ou valores, e sem interromper o tratamento durante renovação de autorização.",
+  "Pessoas com Transtorno do Espectro Autista que têm plano de saúde, suas famílias, operadoras de planos e a Agência Nacional de Saúde Suplementar.",
+  "Tramita junto com o PL 4034/2026 e aguarda encaminhamento na Câmara; foi enviada à publicação em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641603",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166272",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e1bb1828e2cf6967",
+ "hash_tramitacao": "f6f800d3ac161e3b",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2636038,
+ "titulo": "Proíbe usar verbas da educação e da saúde para pagar policiais ou empresas que gerem escolas e hospitais",
+ "tldr": [
+  "Dinheiro do Fundeb, do SUS e demais verbas reservadas a ensino e saúde não poderá pagar agentes de segurança em escolas e unidades de saúde nem empresas que as administrem. Quem descumprir fica sujeito a punições.",
+  "União, estados e municípios, escolas e unidades de saúde públicas, policiais e militares que atuam nelas e empresas privadas que as administram.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 28/10/2026. Depois passa pelas comissões de Educação, Finanças e Tributação e Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636038",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154767",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4617078ac390f100",
+ "hash_tramitacao": "1d039e1e1fded25b",
+ "tentativa": 2
+}

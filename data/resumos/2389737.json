@@ -1,0 +1,28 @@
+{
+ "id": 2389737,
+ "titulo": "Cria programa nacional de agricultura sustentável, produção orgânica e apoio à economia local",
+ "tldr": [
+  "Autoriza o governo a incentivar a produção orgânica, criar certificação de produtos sustentáveis, apoiar feiras de produtores, dar incentivos fiscais a pequenos negócios locais e fazer parcerias com empresas privadas.",
+  "Agricultores, pequenos negócios locais que usam produtos agrícolas da região e o governo federal.",
+  "Arquivado. Tramitava junto com outro projeto, que o Plenário da Câmara aprovou em 02/09/2026 em versão alternativa. Com isso, este texto foi dado como prejudicado (perdeu o objeto) na mesma data."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2389737",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2332025",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ddf50e2490e5133e",
+ "hash_tramitacao": "e3b5bfb56bc517d1",
+ "tentativa": 1
+}

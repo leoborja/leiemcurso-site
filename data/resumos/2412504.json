@@ -1,0 +1,28 @@
+{
+ "id": 2412504,
+ "titulo": "Permite adaptar obras para linguagem simples para pessoas com deficiência intelectual",
+ "tldr": [
+  "Adaptar livros e obras artísticas ou científicas para linguagem simples deixa de ser violação de direito autoral, desde que sem fins comerciais e para uso exclusivo de pessoas com deficiência intelectual.",
+  "Pessoas com deficiência intelectual, quem faz essas adaptações e os autores das obras.",
+  "Aprovado pelo Plenário da Câmara em 05/11/2026, na versão da Comissão de Defesa dos Direitos das Pessoas com Deficiência. Desde 06/11/2026 está na Comissão de Constituição e Justiça para a redação final."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2412504",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2374424",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f69a9d20e30a98fa",
+ "hash_tramitacao": "e0ebcebbc5835f88",
+ "tentativa": 2
+}

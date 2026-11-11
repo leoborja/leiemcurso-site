@@ -1,0 +1,28 @@
+{
+ "id": 2369911,
+ "titulo": "Define como essenciais e exclusivas de Estado as atividades de engenheiros, arquitetos e agrônomos concursados",
+ "tldr": [
+  "As atividades de engenheiros, arquitetos e engenheiros-agrônomos com cargo efetivo no serviço público passam a ser consideradas essenciais e exclusivas de Estado.",
+  "Engenheiros, arquitetos e engenheiros-agrônomos com cargo efetivo na União, estados, Distrito Federal e municípios.",
+  "Pronto para votação na Comissão de Administração e Serviço Público, com parecer favorável da relatoria na forma de texto alternativo. Pedido de tramitação com prioridade apresentado em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2369911",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2289775",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5eba6464f3e7ced7",
+ "hash_tramitacao": "34f409218bf12d0d",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640688,
+ "titulo": "Proíbe prisões e outras medidas penais baseadas apenas na coincidência de nome",
+ "tldr": [
+  "Para cumprir mandado de prisão e outras medidas penais, a autoridade terá de confirmar a identidade com outros dados, como CPF, filiação, data de nascimento, foto ou biometria, e registrar os dados usados.",
+  "Policiais e demais autoridades que cumprem mandados e medidas penais, e pessoas com o mesmo nome de investigados.",
+  "Aguarda a escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que recebeu o projeto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640688",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164442",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "864fb5c6bbee1c19",
+ "hash_tramitacao": "adabc0c0e56b0145",
+ "tentativa": 1
+}

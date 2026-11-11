@@ -1,0 +1,28 @@
+{
+ "id": 2599000,
+ "titulo": "Cria programa nacional no SUS para ampliar cirurgias bariátricas, com uso de hospitais privados contratados",
+ "tldr": [
+  "Estados e municípios ficam autorizados a contratar hospitais e clínicas privadas para fazer cirurgias bariátricas pelo SUS, com acesso pela fila única de regulação, prioridade por critérios clínicos e divulgação de dados.",
+  "Pessoas com obesidade grave atendidas pelo SUS, estados, Distrito Federal, municípios, hospitais e clínicas privadas e o Ministério da Saúde.",
+  "A Comissão de Saúde aprovou o parecer, com texto alternativo, em 04/11/2026. O texto está na Comissão de Finanças e Tributação, que ainda não indicou relator (último andamento em 06/11/2026)."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599000",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071636",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c02e870d840d5d5b",
+ "hash_tramitacao": "5283396a2795f022",
+ "tentativa": 1
+}

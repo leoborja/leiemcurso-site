@@ -1,0 +1,28 @@
+{
+ "id": 2631308,
+ "titulo": "Permite que Conselhos de Medicina punam empresas e entidades que atrasam ou deixam de pagar médicos",
+ "tldr": [
+  "Conselhos Regionais de Medicina poderão aplicar advertência, multa de 1 a 100 anuidades, suspensão ou cancelamento do registro a quem atrasar 3 ou mais vezes em 12 meses ou não pagar médicos, após processo com direito de defesa.",
+  "Hospitais, organizações sociais, fundações, cooperativas, filantrópicas, planos de saúde e intermediadoras de serviços médicos, além dos médicos e dos Conselhos de Medicina.",
+  "Aguarda parecer da relatora na Comissão de Saúde da Câmara. Em 28/10/2026, a comissão aprovou pedido de audiência pública para debater o projeto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631308",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144384",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e3350ba041e4673d",
+ "hash_tramitacao": "ef8856fe0f233d35",
+ "tentativa": 1
+}

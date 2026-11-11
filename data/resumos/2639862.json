@@ -1,0 +1,28 @@
+{
+ "id": 2639862,
+ "titulo": "Cria regras para a venda direta de energia produzida por pequenos geradores entre consumidores",
+ "tldr": [
+  "Quem produz energia em pequena escala pode vender o excedente direto a outros consumidores, por contratos ou plataformas digitais. Também regula comunidades de energia, créditos digitais e testes de inovação.",
+  "Pequenos produtores de energia, consumidores, condomínios, cooperativas, distribuidoras, plataformas digitais de energia e a ANEEL.",
+  "Aguarda a escolha de relator na Comissão de Ciência, Tecnologia e Inovação da Câmara, que recebeu o texto em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639862",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163052",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8f9d2b7edd62752a",
+ "hash_tramitacao": "d9403fbf48420838",
+ "tentativa": 2
+}

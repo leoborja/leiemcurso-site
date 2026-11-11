@@ -1,0 +1,28 @@
+{
+ "id": 2626766,
+ "titulo": "Libera crédito extra para apoio financeiro a famílias atingidas por eventos climáticos na Zona da Mata (MG)",
+ "tldr": [
+  "Abre crédito extraordinário de R$ 75.344.207,00 para ampliar o apoio financeiro às famílias atingidas na Zona da Mata mineira, atendendo mais 10.000 famílias, e para custear a operação dos pagamentos.",
+  "Famílias com dano material ou perda de bens em municípios da Zona da Mata de Minas Gerais e o Ministério da Integração e do Desenvolvimento Regional.",
+  "Virou a Lei 15.489/2026, publicada em 17/08/2026. Foi aprovada na Câmara em 15/07/2026 e no Senado em 11/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626766",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3136445",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7388b37562abb1ab",
+ "hash_tramitacao": "daf128a56b009cd0",
+ "tentativa": 2
+}

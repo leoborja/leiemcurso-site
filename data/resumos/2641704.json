@@ -1,0 +1,28 @@
+{
+ "id": 2641704,
+ "titulo": "Regulamenta a profissão de cuidador de pessoa idosa e cria piso salarial nacional",
+ "tldr": [
+  "Exige idade mínima de 18 anos, ensino fundamental e curso de formação, define tarefas e proibições, cria piso de R$ 2.431,50 e aumenta em 1/3 a pena de crimes contra idosos cometidos por cuidadores.",
+  "Cuidadores de pessoas idosas, pessoas idosas e suas famílias, empregadores e instituições de longa permanência.",
+  "Tramita junto com o PL 5859/2025 na Câmara, conforme despacho da Mesa Diretora de 26/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641704",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167006",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75346765e258b0f4",
+ "hash_tramitacao": "a1673fce3cc1794e",
+ "tentativa": 1
+}

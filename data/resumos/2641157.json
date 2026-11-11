@@ -1,0 +1,28 @@
+{
+ "id": 2641157,
+ "titulo": "Cria marco legal contra golpes financeiros digitais com deveres para bancos e direitos para clientes",
+ "tldr": [
+  "Os bancos ficam obrigados a manter estruturas contra fraudes, inclusive deepfake e clonagem de voz. Clientes ganham direito a atendimento humano em caso de golpe, e são criados um sistema de alertas e um protocolo de resposta rápida.",
+  "Clientes de serviços financeiros digitais e instituições do Sistema Financeiro Nacional.",
+  "Tramita junto com o PL 1911/2025 e aguarda análise das comissões da Câmara. O último andamento foi na Mesa Diretora, em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641157",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165048",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1a6a85037ab435b5",
+ "hash_tramitacao": "2db9b785a7ce44ca",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2599484,
+ "titulo": "Garante ao paciente com câncer o direito de escolher o estado onde fará o tratamento pelo SUS",
+ "tldr": [
+  "O paciente com diagnóstico confirmado poderá se tratar em outro estado, com custeio do SUS para tratamento, exames, remédios e transporte, desde que o serviço tenha vaga e as secretarias de saúde se comuniquem.",
+  "Pacientes com câncer atendidos pelo SUS, secretarias estaduais e municipais de saúde e serviços de tratamento oncológico.",
+  "Aprovado com texto alternativo na Comissão de Saúde em 12/08/2026. Desde 14/08/2026 aguarda relator na Comissão de Finanças e Tributação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599484",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072400",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6a762c09c30a6956",
+ "hash_tramitacao": "5e4e6797faf1bc99",
+ "tentativa": 1
+}

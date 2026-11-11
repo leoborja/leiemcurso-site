@@ -1,0 +1,28 @@
+{
+ "id": 2587636,
+ "titulo": "Cria regras para uso de conteúdos por inteligência artificial e um fundo nacional para a economia digital",
+ "tldr": [
+  "Define regras para plataformas e sistemas de inteligência artificial que usam conteúdos de terceiros e cria o Fundo Nacional de Economia Digital, uma certificação de qualidade para esses sistemas e multas para quem descumprir as regras.",
+  "Plataformas digitais, empresas que operam sistemas de inteligência artificial no país e autores, jornalistas e artistas cujos conteúdos são usados.",
+  "Pronta para votação na Comissão de Desenvolvimento Econômico, onde o relator apresentou parecer favorável com texto alternativo. Em 28/10/2026, a comissão aprovou um pedido de audiência pública."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2587636",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3051792",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b10da1dfb21e7e62",
+ "hash_tramitacao": "db78b6b040750473",
+ "tentativa": 1
+}

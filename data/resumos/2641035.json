@@ -1,0 +1,28 @@
+{
+ "id": 2641035,
+ "titulo": "Cria política nacional de melhoria contínua da gestão nos três Poderes da União",
+ "tldr": [
+  "Órgãos federais terão de incluir eixos de gestão no seu planejamento, fazer planos de melhoria e seguir ciclos de aperfeiçoamento. Cria um banco nacional de boas práticas administrativas.",
+  "Órgãos e entidades federais dos Poderes Executivo, Legislativo e Judiciário, o Ministério Público da União e a Defensoria Pública da União.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026, passou a tramitar junto com o PL 4331/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641035",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164803",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f1a947ad21102772",
+ "hash_tramitacao": "ff3180db6bf490e6",
+ "tentativa": 1
+}

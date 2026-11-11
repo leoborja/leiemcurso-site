@@ -1,0 +1,28 @@
+{
+ "id": 2410357,
+ "titulo": "Torna crime usar drone para invadir o espaço aéreo de presídios e entregar objetos a presos",
+ "tldr": [
+  "O texto original inclui no Código Penal o crime de invadir o espaço aéreo de presídios com drone para entregar objetos a presos, com pena de reclusão de um a cinco anos e multa. A Câmara aprovou uma versão substitutiva.",
+  "Pessoas que operam drones perto de presídios, presos e o sistema prisional.",
+  "A Câmara aprovou em 04/11/2026 uma versão substitutiva da relatoria da Comissão de Constituição e Justiça, com tramitação prioritária. O texto segue para o Senado Federal."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2410357",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2371207",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75947c4b171d1a9e",
+ "hash_tramitacao": "6c41e49685078114",
+ "tentativa": 1
+}

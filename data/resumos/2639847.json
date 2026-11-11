@@ -1,0 +1,28 @@
+{
+ "id": 2639847,
+ "titulo": "Cria benefício de assistência funerária gratuita para famílias em situação de vulnerabilidade social",
+ "tldr": [
+  "A Lei Orgânica da Assistência Social passa a prever urna, transporte, velório, sepultamento ou cremação sem custo para famílias vulneráveis, com plantão permanente e apoio da União aos municípios.",
+  "Famílias vulneráveis, como inscritos no Cadastro Único e no Bolsa Família, pessoas em situação de rua e idosos sem amparo, além de União, estados e municípios.",
+  "Tramita junto com o PL 5019/2025 na comissão da Câmara que trata de previdência, assistência social, infância e família, onde foi recebido em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639847",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162973",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9c34a3283be5caef",
+ "hash_tramitacao": "5488b5c834c19f80",
+ "tentativa": 1
+}

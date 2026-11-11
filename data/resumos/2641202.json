@@ -1,0 +1,28 @@
+{
+ "id": 2641202,
+ "titulo": "Cria programa de armazéns e câmaras frias para a agricultura familiar e a pesca artesanal",
+ "tldr": [
+  "A União pode financiar câmaras frias, armazéns, transporte refrigerado e linhas de crédito com juros reduzidos para conservar a produção de pequenos produtores.",
+  "Agricultores familiares, pescadores artesanais, extrativistas, povos indígenas, quilombolas, ribeirinhos, cooperativas e associações.",
+  "Aguarda análise nas comissões da Câmara. Em 03/11/2026 passou a tramitar junto com o PL 4488/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641202",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165097",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "315ff62e8bfcc306",
+ "hash_tramitacao": "9f57276de2b7828f",
+ "tentativa": 1
+}

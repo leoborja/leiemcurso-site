@@ -1,0 +1,28 @@
+{
+ "id": 2637278,
+ "titulo": "Cria o Dia Nacional do Escritor Evangélico, em 31 de outubro",
+ "tldr": [
+  "Inclui a data comemorativa. Na semana da data, órgãos públicos poderão promover palestras, feiras e outras atividades de divulgação da literatura de escritores evangélicos.",
+  "Escritores evangélicos e órgãos públicos, escolas, bibliotecas e entidades culturais que queiram promover atividades.",
+  "Aguarda a escolha de relator na Comissão de Cultura da Câmara desde 04/09/2026. Depois segue para a Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637278",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157359",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f4c7747ee0d751f6",
+ "hash_tramitacao": "9040961bca7957bd",
+ "tentativa": 1
+}

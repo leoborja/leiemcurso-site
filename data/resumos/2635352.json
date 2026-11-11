@@ -1,0 +1,28 @@
+{
+ "id": 2635352,
+ "titulo": "Define regras para o uso civil de drones e dispensa cadastro e autorização em áreas livres",
+ "tldr": [
+  "Em áreas livres, drones de uso civil dispensam cadastro, plano de voo, autorização e licença, mantidas regras de segurança. Municípios e estados podem restringir áreas com justificativa, mas não proibir o uso em todo o território.",
+  "Operadores civis de drones, proprietários de imóveis, municípios, estados, Distrito Federal e órgãos federais. Não vale para atividades do Estado.",
+  "Recebido pela Comissão de Viação e Transportes da Câmara em 31/08/2026. Aguarda a designação de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635352",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153157",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "005365da429317d7",
+ "hash_tramitacao": "bdf422673c89ea66",
+ "tentativa": 2
+}

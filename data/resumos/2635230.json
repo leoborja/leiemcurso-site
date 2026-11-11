@@ -1,0 +1,28 @@
+{
+ "id": 2635230,
+ "titulo": "Proíbe impor cotas de contratação a empresas sem lei específica e muda regras de prova de discriminação",
+ "tldr": [
+  "Juízes e órgãos públicos não poderão exigir composição do quadro por sexo, raça ou idade sem lei. Desproporção estatística não basta para provar discriminação, e programas de diversidade passam a ser opcionais.",
+  "Empresas privadas, trabalhadores, Justiça do Trabalho e órgãos de fiscalização. Cotas já previstas em lei, como de pessoas com deficiência e aprendizes, continuam valendo.",
+  "Tramita junto com o PL 3260/2026 (apensada) na comissão da Câmara onde foi recebida em 02/09/2026. Último andamento em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635230",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152876",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6c7fe06d78260ebc",
+ "hash_tramitacao": "b085dd4f143fd81d",
+ "tentativa": 1
+}

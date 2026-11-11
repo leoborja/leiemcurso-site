@@ -1,0 +1,28 @@
+{
+ "id": 2496913,
+ "titulo": "Cria o Dia Nacional do Caju, em 1º de setembro",
+ "tldr": [
+  "O calendário nacional passa a ter o Dia Nacional do Caju, comemorado todo ano em 1º de setembro.",
+  "O efeito é geral; o texto só cria a data comemorativa.",
+  "Aprovado nas comissões da Câmara; o prazo de recurso terminou em 28/10/2026 sem recursos. Aguarda envio à redação final."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2496913",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2884816",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c63c44cb4a0dbfbb",
+ "hash_tramitacao": "7b8d257951b21a58",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2633473,
+ "titulo": "Amplia descontos e prazos para negociar dívidas de impostos e outras dívidas com a União",
+ "tldr": [
+  "Permite descontar multas, juros e encargos, até 100% em alguns casos, sem reduzir o valor original da dívida. O prazo de pagamento pode chegar a 240 meses, e a negociação passa a valer também para dívidas que não são impostos.",
+  "Pessoas e empresas com dívidas com a União, suas autarquias e fundações, com regras específicas para pequenos negócios e empresas em recuperação judicial.",
+  "Aguarda designação de relator na Comissão de Indústria, Comércio e Serviços da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633473",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148935",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1dc7db0859fa18a2",
+ "hash_tramitacao": "1e1188f8680ca37f",
+ "tentativa": 1
+}

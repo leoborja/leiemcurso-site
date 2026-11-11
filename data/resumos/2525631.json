@@ -1,0 +1,28 @@
+{
+ "id": 2525631,
+ "titulo": "Cria campanha nacional de incentivo à compra de alimentos orgânicos e agroecológicos da agricultura familiar",
+ "tldr": [
+  "O poder público deverá priorizar esses alimentos em suas compras, como na merenda escolar, e poderá criar incentivos fiscais, linhas de crédito, apoio a feiras e certificações simplificadas.",
+  "Agricultores familiares que produzem alimentos orgânicos ou agroecológicos, órgãos públicos compradores de alimentos e consumidores.",
+  "Aprovado com novo texto na Comissão de Agricultura em 04/11/2026. Tramita junto com o PL 6762/2025."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2525631",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2936082",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6b54325a9eec36e5",
+ "hash_tramitacao": "ef0ccb1404ec6336",
+ "tentativa": 1
+}

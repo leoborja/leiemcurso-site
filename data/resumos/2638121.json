@@ -1,0 +1,28 @@
+{
+ "id": 2638121,
+ "titulo": "Cria cadastro nacional que cruza dados de benefícios sociais para revisar quem tem direito",
+ "tldr": [
+  "Órgãos federais, estaduais e municipais terão de integrar dados ao cadastro, que identifica pagamentos duplicados ou indevidos, permite bloqueio preventivo e revisão periódica de benefícios como o BPC.",
+  "Beneficiários de programas sociais e deduções, o INSS, a Receita Federal, ministérios, estados e municípios.",
+  "Aguarda ser anexado ao PL 1803/2026 na comissão de trabalho da Câmara, onde chegou em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638121",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159006",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d40aa0d33adcbd33",
+ "hash_tramitacao": "ffd8cbddb645615b",
+ "tentativa": 1
+}

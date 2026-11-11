@@ -1,0 +1,28 @@
+{
+ "id": 2641435,
+ "titulo": "Inclui na lei do autismo regras de atendimento e inclusão no trabalho para adultos autistas",
+ "tldr": [
+  "Adultos com autismo passam a ter direito a atendimento especializado contínuo e a adaptações em seleções e no trabalho. A recusa sem justificativa dessas adaptações passa a ser discriminação.",
+  "Pessoas com autismo a partir de 18 anos, suas famílias, empregadores públicos e privados e serviços de saúde, assistência social e qualificação profissional.",
+  "Tramita junto com o PL 2049/2026, ao qual foi apensado em 26/10/2026. O texto foi enviado para publicação em 27/10/2026 e aguarda encaminhamento."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641435",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165361",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9796f80ea79baf9f",
+ "hash_tramitacao": "69feb633f5829c75",
+ "tentativa": 1
+}

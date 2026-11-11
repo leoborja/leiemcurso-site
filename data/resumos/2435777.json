@@ -1,0 +1,28 @@
+{
+ "id": 2435777,
+ "titulo": "Permite usar o Fundo Nacional sobre Mudança do Clima em projetos de cidades-esponja contra enchentes",
+ "tldr": [
+  "O fundo passa a poder financiar ações de estados e municípios contra inundações que usem áreas verdes, lagos, parques, jardins de chuva e pisos que deixam a água infiltrar no solo.",
+  "União, estados e municípios que executem ações contra inundações e alagamentos.",
+  "Aprovado nas Comissões de Meio Ambiente, de Desenvolvimento Urbano e de Finanças e Tributação. Desde 08/09/2026 aguarda relator na Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2435777",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2427679",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1dabacd4edae7c74",
+ "hash_tramitacao": "82790b30ff46d442",
+ "tentativa": 1
+}

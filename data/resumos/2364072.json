@@ -1,0 +1,28 @@
+{
+ "id": 2364072,
+ "titulo": "Define regras para o uso de reconhecimento facial em câmeras de vigilância",
+ "tldr": [
+  "Limita o reconhecimento facial a casos como investigação criminal e localização de pessoas desaparecidas, proíbe o uso em banheiros e vestiários, exige aviso ao público e prevê multas de até R$ 50.000.000,00 por infração.",
+  "Órgãos públicos e empresas que usam câmeras com reconhecimento facial e pessoas filmadas em espaços públicos.",
+  "Arquivada. Em 12/08/2026 o Plenário da Câmara aprovou o texto alternativo do PL 1828/2023, ao qual estava apensada, e esta proposição foi considerada prejudicada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2364072",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2276262",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5db94997dbc11a02",
+ "hash_tramitacao": "552107b46a4928b1",
+ "tentativa": 2
+}

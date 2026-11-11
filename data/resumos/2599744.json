@@ -1,0 +1,28 @@
+{
+ "id": 2599744,
+ "titulo": "Obriga empresas com benefício fiscal da Lei de Informática a investir em inclusão digital em IA",
+ "tldr": [
+  "Ao menos quinze por cento do investimento obrigatório em pesquisa e inovação deverá ir para programas de inteligência artificial voltados a comunidades de baixa renda, escolas públicas e áreas rurais ou remotas.",
+  "Empresas de tecnologia que recebem incentivos fiscais da Lei de Informática; comunidades de baixa renda, escolas públicas e áreas rurais ou remotas.",
+  "Aprovado com texto alternativo na Comissão de Ciência, Tecnologia e Inovação em 12/08/2026. Aguarda relator na Comissão de Finanças e Tributação, onde chegou em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599744",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072675",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5a318175e1af9bde",
+ "hash_tramitacao": "38c4b8fcf8bd9278",
+ "tentativa": 1
+}

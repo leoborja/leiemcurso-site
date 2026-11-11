@@ -1,0 +1,28 @@
+{
+ "id": 2627528,
+ "titulo": "Garante a pessoas com autismo acesso a informações sobre serviços, filas e remédios no SUS",
+ "tldr": [
+  "O SUS terá de divulgar em meio digital as unidades que atendem pessoas com autismo, horários, procedimentos, vagas, tempo de espera, posição na fila e estoque de remédios.",
+  "Pessoas com transtorno do espectro autista e o SUS, incluindo Ministério da Saúde e secretarias estaduais e municipais de saúde.",
+  "Aprovado com texto alternativo na Comissão de Saúde em 04/11/2026. Aguarda relator na Comissão de Defesa dos Direitos das Pessoas com Deficiência desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627528",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3136234",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e1d28a76e7b9c549",
+ "hash_tramitacao": "318a6e96aef8e868",
+ "tentativa": 2
+}

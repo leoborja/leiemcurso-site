@@ -1,0 +1,28 @@
+{
+ "id": 2637144,
+ "titulo": "Muda leis penais sobre feminicídio e cria crime para quem não comunica violência doméstica contra a mulher",
+ "tldr": [
+  "Proíbe em lei a tese de legítima defesa da honra, amplia os casos de aumento de pena do feminicídio e aumenta penas de lesão corporal. Cria o dever de comunicar violência contra a mulher, com pena de 6 meses a 3 anos a quem se omitir.",
+  "Qualquer pessoa que saiba de violência doméstica contra a mulher, os acusados desses crimes e a Justiça criminal.",
+  "Aguarda designação de relator na Comissão de Defesa dos Direitos da Mulher da Câmara, onde foi recebido em 10/09/2026. Precisa ser votado pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:47Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637144",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157148",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b48891ba5555d35b",
+ "hash_tramitacao": "6268d102a13fec41",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2413451,
+ "titulo": "Proíbe nomes iguais ou muito parecidos para ruas e outros logradouros de um mesmo município",
+ "tldr": [
+  "Municípios não poderão dar a logradouros nomes idênticos ou tão parecidos que causem confusão. Os que já têm esses casos terão 180 dias para se adequar, segundo o texto original.",
+  "Municípios e moradores de logradouros com nomes repetidos ou parecidos.",
+  "Aprovado nas comissões da Câmara; o prazo de recurso terminou em 28/10/2026 sem recursos. Aguarda envio à redação final."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2413451",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2376308",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b9b81fadff78644a",
+ "hash_tramitacao": "b9b5d29c88db080d",
+ "tentativa": 1
+}

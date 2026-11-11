@@ -1,0 +1,28 @@
+{
+ "id": 2635466,
+ "titulo": "Cria programa de crédito para quitar dívidas de quem está com pagamentos em dia",
+ "tldr": [
+  "A União pode destinar até R$ 3 bilhões para novos empréstimos via Banco do Brasil e Caixa, que quitam dívidas pessoais de até R$ 15.000,00 por banco. Quem adere fica 6 meses bloqueado em sites de apostas.",
+  "Pessoas sem emprego formal, sem cargo público e sem aposentadoria ou pensão, com dívidas pessoais em dia; bancos; beneficiários do Fies.",
+  "Perdeu a validade sem votação. O prazo terminou em 26/10/2026 e a perda de eficácia foi registrada em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635466",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157733",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8a1fec72214a84dc",
+ "hash_tramitacao": "cbc51d1681172ba6",
+ "tentativa": 1
+}

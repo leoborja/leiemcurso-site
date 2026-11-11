@@ -1,0 +1,28 @@
+{
+ "id": 2641006,
+ "titulo": "Obriga locais de uso coletivo a guardar imagens de agressões contra pessoas com deficiência",
+ "tldr": [
+  "Condomínios, clubes, escolas e outros locais coletivos terão de guardar gravações por um prazo mínimo quando houver notícia de violência contra pessoa com deficiência. Esses casos passam a ter prioridade na investigação.",
+  "Pessoas com deficiência e administradores de condomínios, clubes, centros comerciais, escolas, academias, hotéis, hospitais e outros locais coletivos.",
+  "Em 26/10/2026, a Mesa da Câmara determinou que tramite junto com o PL 4321/2026, e o PL 4323/2026 foi juntado a ela. Será analisada pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641006",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164773",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c175087f39ad5476",
+ "hash_tramitacao": "8baf33ecdebf4e08",
+ "tentativa": 2
+}

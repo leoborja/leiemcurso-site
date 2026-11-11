@@ -1,0 +1,28 @@
+{
+ "id": 2497977,
+ "titulo": "Aumenta penas de crimes cometidos contra pessoas idosas no Código Penal",
+ "tldr": [
+  "Cria pena de 1 a 3 anos de reclusão para lesão corporal contra idoso e aumenta penas de estelionato, constrangimento ilegal, abandono de incapaz, abandono material e crimes sexuais contra idosos.",
+  "Pessoas idosas vítimas de crimes e autores desses crimes.",
+  "Aprovado na Comissão de Defesa dos Direitos da Pessoa Idosa (13/08/2025) e na Comissão de Constituição e Justiça (12/08/2026). Está pronto para votação no Plenário e, desde 06/11/2026, tramita junto com outro projeto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497977",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2887391",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "45fc0e0b699ce0c5",
+ "hash_tramitacao": "174443c7e7e1f50f",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2635399,
+ "titulo": "Cria sistema nacional de apoio à economia criativa local, com prioridade para a Região Norte",
+ "tldr": [
+  "Cria comitê entre ministérios, observatório de dados, linhas de financiamento, plataforma de vendas e ações de exportação para atividades culturais e criativas locais, com prazos para o Poder Executivo implantá-los.",
+  "Pequenos empreendedores e territórios ligados à economia criativa, comunidades tradicionais e municípios, em especial da Região Norte.",
+  "Aguarda parecer na Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara. O prazo para emendas terminou em 13/10/2026 sem nenhuma apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635399",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153594",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d2f1c8f0f90ea667",
+ "hash_tramitacao": "7271170beb9d5d03",
+ "tentativa": 1
+}

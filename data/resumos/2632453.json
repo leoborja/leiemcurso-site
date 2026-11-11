@@ -1,0 +1,28 @@
+{
+ "id": 2632453,
+ "titulo": "Permite que estudantes com deficiência faltem até 3 dias por mês no período menstrual sem prejuízo escolar",
+ "tldr": [
+  "Basta um aviso do responsável à escola, sem atestado médico. Essas faltas não podem causar reprovação nem punição, e a escola deve oferecer material e atividades para a aluna acompanhar o conteúdo.",
+  "Estudantes com deficiência da educação básica, suas famílias, as escolas e as redes de ensino.",
+  "Aguarda escolha de relator na Comissão de Educação da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632453",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146789",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "76d6ef8a88e309ec",
+ "hash_tramitacao": "0176b8fd502dc5c1",
+ "tentativa": 1
+}

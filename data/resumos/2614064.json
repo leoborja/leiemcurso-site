@@ -1,0 +1,28 @@
+{
+ "id": 2614064,
+ "titulo": "Cria programa para reduzir o desperdício de remédios, insumos e exames no SUS",
+ "tldr": [
+  "O SUS passa a ter controle informatizado de estoques e da validade de remédios. Unidades poderão trocar remédios entre si, pacientes serão chamados para confirmar exames e relatórios públicos mostrarão as perdas.",
+  "Unidades e gestores do SUS, profissionais de saúde e pacientes da rede pública.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde foi recebido em 19/08/2026. Depois segue para as comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614064",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3109684",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e97be505ef8b2bd0",
+ "hash_tramitacao": "e3417d944da0b7fc",
+ "tentativa": 1
+}

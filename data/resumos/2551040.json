@@ -1,0 +1,28 @@
+{
+ "id": 2551040,
+ "titulo": "Cria o Selo Empresa Inclusiva para micro e pequenas empresas que incluem pessoas com deficiência",
+ "tldr": [
+  "Empresas que contratem pessoas com deficiência e adotem acessibilidade podem receber selo válido por 2 anos, com prioridade em programas do governo e acesso preferencial a crédito.",
+  "Microempresas, empresas de pequeno porte e trabalhadores com deficiência.",
+  "Aprovado nas Comissões de Trabalho (29/04/2026) e de Defesa dos Direitos das Pessoas com Deficiência (11/08/2026). Aguarda relator na Comissão de Finanças e Tributação desde 11/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2551040",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2982322",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "aa9f6e5ff83ace8e",
+ "hash_tramitacao": "f25260935288e5f2",
+ "tentativa": 1
+}

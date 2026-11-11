@@ -1,0 +1,28 @@
+{
+ "id": 2537418,
+ "titulo": "Define punições para quem fizer denúncia falsa de violência doméstica com base na Lei Maria da Penha",
+ "tldr": [
+  "Comprovada a falsidade em decisão judicial definitiva, o denunciante poderia responder por denunciação caluniosa, pagar indenização, perder benefícios e sofrer mudanças na guarda dos filhos.",
+  "Pessoas que apresentam ou são alvo de denúncias de violência doméstica e familiar, e o Ministério Público.",
+  "Tramitava junto a outro projeto sobre o tema e foi retirado a pedido do autor em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2537418",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2958846",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a23781034ec4b8b0",
+ "hash_tramitacao": "bd2e230813d95db7",
+ "tentativa": 1
+}

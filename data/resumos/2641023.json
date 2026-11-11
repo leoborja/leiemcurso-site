@@ -1,0 +1,28 @@
+{
+ "id": 2641023,
+ "titulo": "Cria sistema nacional para monitorar efeitos de remédios, vacinas e alimentos para animais após a venda",
+ "tldr": [
+  "Fabricantes, veterinários e outros passam a ter de notificar efeitos adversos e falhas de produtos. Cria uma plataforma pública com alertas e recolhimentos e permite suspender ou recolher produtos.",
+  "Fabricantes, importadores e distribuidores de produtos veterinários e de alimentação animal, médicos veterinários, laboratórios e tutores.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026, passou a tramitar junto com o PL 4338/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641023",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164791",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "de979061b92e4060",
+ "hash_tramitacao": "90940b79f6e0a07c",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2632308,
+ "titulo": "Define regras de segurança para empresas de esportes de aventura como rope jump, bungee jump e rapel",
+ "tldr": [
+  "Empresas terão de seguir normas técnicas, usar equipamentos de segurança duplicados, fazer dupla checagem e contratar seguro para clientes. Multa de R$ 10.000,00 a R$ 500.000,00 e perda do alvará para quem descumprir.",
+  "Empresas e instrutores de turismo de aventura e esportes de alto risco, e os clientes dessas atividades.",
+  "Aguarda parecer na Comissão de Esporte da Câmara, com vários projetos tramitando junto. O prazo para emendas terminou em 13/10/2026 sem emendas; último andamento em 26/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632308",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146561",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9987495a0c195d87",
+ "hash_tramitacao": "a3d8049ec3a6372f",
+ "tentativa": 2
+}

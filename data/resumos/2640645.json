@@ -1,0 +1,28 @@
+{
+ "id": 2640645,
+ "titulo": "Cria cobrança de atendimentos eletivos do SUS prestados a estrangeiros não residentes",
+ "tldr": [
+  "Estrangeiros sem residência no Brasil e sem acordo de reciprocidade em saúde passam a ter de ressarcir consultas e cirurgias agendadas. Urgências, vacinação, parto, crianças, refugiados e outros casos ficam isentos.",
+  "Estrangeiros não residentes atendidos pelo SUS e estados e municípios que prestam o atendimento.",
+  "Desde 06/11/2026, aguarda a escolha de relator na Comissão de Saúde da Câmara. Depois, segue para as comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640645",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164399",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "33f1f574a316802a",
+ "hash_tramitacao": "be3230e68e5be67e",
+ "tentativa": 1
+}

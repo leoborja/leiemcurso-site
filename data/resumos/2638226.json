@@ -1,0 +1,28 @@
+{
+ "id": 2638226,
+ "titulo": "Cria plano nacional de prevenção, vigilância e redução da contaminação por mercúrio",
+ "tldr": [
+  "Define diretrizes para monitorar áreas e pessoas expostas ao mercúrio, preparar o SUS para diagnóstico e tratamento e considerar esse risco no licenciamento ambiental.",
+  "Populações expostas ao mercúrio, com prioridade para crianças, gestantes, povos indígenas e comunidades tradicionais; SUS e órgãos ambientais.",
+  "Aguarda a escolha de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara, que recebeu o texto em 05/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:37:36Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638226",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159165",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "573ceefddaefd5df",
+ "hash_tramitacao": "e4aa2f2320ad5675",
+ "tentativa": 1
+}

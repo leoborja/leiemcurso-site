@@ -1,0 +1,28 @@
+{
+ "id": 2632336,
+ "titulo": "Cria política de proteção nas escolas e permite exigir mais deveres das famílias em programas sociais",
+ "tldr": [
+  "Escolas aplicariam medidas progressivas contra indisciplina grave. Programas sociais federais poderiam exigir que os responsáveis atendam às convocações da escola, com suspensão do benefício só após direito de defesa.",
+  "Estudantes da educação básica e suas famílias que recebem benefícios sociais federais, além de professores, servidores e escolas.",
+  "Tramita com urgência no Plenário da Câmara, junto com o PL 4774/2025. O último andamento foi a publicação do texto, em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632336",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146598",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6a6ae91f301819fb",
+ "hash_tramitacao": "1eb7b2660bbd8d1d",
+ "tentativa": 1
+}

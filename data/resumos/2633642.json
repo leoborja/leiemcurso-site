@@ -1,0 +1,28 @@
+{
+ "id": 2633642,
+ "titulo": "Obriga fabricantes de celulares, tablets e notebooks a permitir troca de bateria e reparo",
+ "tldr": [
+  "Aparelhos devem permitir troca de bateria com ferramentas comuns, sem bloqueio de software; fabricantes devem oferecer peças por pelo menos 5 anos após o fim da venda e publicar manuais de reparo.",
+  "Fabricantes, importadores e vendedores de aparelhos eletrônicos portáteis, consumidores e técnicos independentes.",
+  "Tramita junto com o PL 2055/2026 na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara desde 05/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633642",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149115",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9da833a1fb620c23",
+ "hash_tramitacao": "b765a083e23853b8",
+ "tentativa": 1
+}

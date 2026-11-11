@@ -1,0 +1,28 @@
+{
+ "id": 2641258,
+ "titulo": "Cria política nacional para recuperar estradas vicinais usadas para acessar serviços e escoar a produção",
+ "tldr": [
+  "Os entes responsáveis devem fazer planos de recuperação das estradas vicinais, com prioridade para rotas de transporte escolar, acesso a unidades de saúde e áreas produtoras. A União pode dar apoio técnico e recursos.",
+  "Comunidades rurais, produtores, estudantes que usam transporte escolar, municípios, estados e a União.",
+  "Em 03/11/2026, a Mesa da Câmara determinou que tramite junto com o PL 4467/2026. Será analisada nas comissões, sem precisar ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641258",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165158",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "461c67347c29618d",
+ "hash_tramitacao": "25d5742c61b004d3",
+ "tentativa": 2
+}

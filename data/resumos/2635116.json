@@ -1,0 +1,28 @@
+{
+ "id": 2635116,
+ "titulo": "Proíbe publicidade, patrocínio e promoção de apostas de quota fixa e exige alertas de saúde nos sites",
+ "tldr": [
+  "Ficam vedados anúncios, patrocínio de times e eventos, influenciadores, bônus e marketing direto de apostas. Os sites terão de reservar ao menos 25% da página inicial para alertas, e a reincidência leva à cassação da autorização.",
+  "Empresas de apostas, clubes, atletas e eventos patrocinados, influenciadores, veículos de comunicação e apostadores.",
+  "Tramita junto com o PL 2989/2026 (apensada) na comissão da Câmara onde foi recebida em 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635116",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152259",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e8be53145bddaa54",
+ "hash_tramitacao": "81704ece3c4c0032",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634629,
+ "titulo": "Proíbe propaganda política e religiosa nas escolas e permite o ensino domiciliar",
+ "tldr": [
+  "Professores devem apresentar diferentes visões sobre temas controversos e não promover suas preferências; escolas criam canais de denúncia. O ensino em casa passa a ser permitido, com avaliações e relatórios.",
+  "Professores, alunos, escolas públicas e privadas da educação básica, secretarias de educação e famílias que optarem pelo ensino em casa.",
+  "Tramita junto com o PL 6029/2025 na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 03/09/2026. Será votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634629",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151284",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "438132e8426ee3c8",
+ "hash_tramitacao": "569f7286f667813f",
+ "tentativa": 1
+}

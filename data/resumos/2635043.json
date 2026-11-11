@@ -1,0 +1,28 @@
+{
+ "id": 2635043,
+ "titulo": "Obriga plataformas digitais a mostrar um resumo simples da política de privacidade antes do consentimento",
+ "tldr": [
+  "Antes de o usuário aceitar, o serviço deve informar em destaque se vende dados, se os usa para treinar inteligência artificial e se coleta dados sensíveis. O texto proíbe telas feitas para enganar e aplica multa máxima nesses casos.",
+  "Redes sociais, comércio eletrônico, serviços financeiros digitais, aplicativos de saúde e outros serviços que tratam muitos dados pessoais, além dos usuários.",
+  "Aguarda a escolha de relator na Comissão de Comunicação da Câmara, que recebeu o projeto em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635043",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152018",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7a17ebe24271c392",
+ "hash_tramitacao": "ee854fcf21b4969b",
+ "tentativa": 1
+}

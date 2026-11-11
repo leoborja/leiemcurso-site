@@ -1,0 +1,28 @@
+{
+ "id": 2638926,
+ "titulo": "Permite deduzir do Imposto de Renda gastos com práticas integrativas em saúde e cria cadastro de terapeutas",
+ "tldr": [
+  "Gastos com práticas integrativas e complementares em saúde, feitos com terapeutas inscritos em um novo cadastro nacional, podem ser abatidos do Imposto de Renda até R$ 6.000,00 por ano.",
+  "Contribuintes do Imposto de Renda, terapeutas de práticas integrativas e a Receita Federal.",
+  "Aguarda parecer da relatoria na Comissão de Saúde da Câmara. O prazo para emendas terminou em 28/10/2026 sem nenhuma emenda."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638926",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161134",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5751b695363d314f",
+ "hash_tramitacao": "9fed4610ffbdd1d4",
+ "tentativa": 1
+}

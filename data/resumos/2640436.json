@@ -1,0 +1,28 @@
+{
+ "id": 2640436,
+ "titulo": "Cria política no SUS para identificar cedo o risco cardiovascular hereditário com o exame de Lipoproteína(a)",
+ "tldr": [
+  "O SUS passa a oferecer aos poucos o exame de Lipoproteína(a), começando por grupos prioritários como pessoas com histórico familiar de infarto ou AVC precoce. Quem tiver resultado elevado recebe acompanhamento e orientação.",
+  "Usuários do SUS com risco cardiovascular, com prioridade para Amazônia Legal, povos indígenas, ribeirinhos, quilombolas e populações rurais isoladas; Ministério da Saúde.",
+  "Tramita junto com o PL 5475/2023 e foi recebida pela Comissão de Saúde da Câmara em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640436",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164126",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3d4ff2bc56e133aa",
+ "hash_tramitacao": "c5fd06d2edbfebdb",
+ "tentativa": 1
+}

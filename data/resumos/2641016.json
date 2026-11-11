@@ -1,0 +1,28 @@
+{
+ "id": 2641016,
+ "titulo": "Cria política de revisão permanente dos processos e serviços da administração pública federal",
+ "tldr": [
+  "Órgãos federais terão de fazer diagnósticos periódicos, revisar seus processos, elaborar planos de melhoria com metas e indicadores e divulgar os resultados.",
+  "Órgãos da administração pública federal, suas autarquias e fundações, e seus servidores.",
+  "Em 26/10/2026, a Mesa da Câmara determinou que tramite junto com o PL 4331/2026. Será analisada pelas comissões, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641016",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164784",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "43f3cb817d0cb025",
+ "hash_tramitacao": "94c26c2ce14975c1",
+ "tentativa": 1
+}

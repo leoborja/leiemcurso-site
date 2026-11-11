@@ -1,0 +1,28 @@
+{
+ "id": 2373842,
+ "titulo": "Cria a Rota Turística dos Saberes Amazônicos em sete municípios do Pará",
+ "tldr": [
+  "A rota reúne Ananindeua, Belém, Benevides, Castanhal, Marituba, Santa Bárbara e Santa Izabel, que passam a receber apoio dos programas oficiais de regionalização do turismo.",
+  "Os municípios paraenses incluídos na rota, a população local e o setor de turismo da região.",
+  "Aprovada na Comissão da Amazônia e dos Povos Originários e Tradicionais em 11/08/2026. Está na Comissão de Turismo desde 13/08/2026, à espera da escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2373842",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2299694",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0dcfe5d0658eb032",
+ "hash_tramitacao": "36dc5d1da1834628",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2545792,
+ "titulo": "Permite contar gastos com saúde visual, auditiva e terapias de alunos como despesa de educação",
+ "tldr": [
+  "Óculos, exames, aparelhos auditivos e terapias para alunos neurodivergentes ou com deficiência auditiva da rede pública poderiam entrar na verba mínima obrigatória da educação.",
+  "Alunos da educação básica pública e as redes de ensino que fazem esses gastos.",
+  "Tramita com prioridade desde 13/10/2026. Aguarda parecer na Comissão de Defesa dos Direitos das Pessoas com Deficiência, que escolheu relator em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2545792",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2975022",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d491d07633179411",
+ "hash_tramitacao": "80c74bfadbf81b32",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2496312,
+ "titulo": "Define regras para tornar faixas de pedestres acessíveis a pessoas com deficiência",
+ "tldr": [
+  "Faixas de pedestres devem passar a ter, aos poucos, pictogramas, piso tátil, sinal sonoro e tempo maior de travessia. Estados e municípios terão 180 dias para apresentar plano com metas.",
+  "Pessoas com deficiência, idosos, órgãos de trânsito da União, estados, Distrito Federal e municípios.",
+  "Aprovado na Comissão de Viação e Transportes em 28/10/2026, com texto alternativo. Chegou à Comissão de Desenvolvimento Urbano em 04/11/2026 e aguarda relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2496312",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2883818",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9ad757e98fe8b14a",
+ "hash_tramitacao": "ab01db75a9e9544d",
+ "tentativa": 1
+}

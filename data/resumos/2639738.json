@@ -1,0 +1,28 @@
+{
+ "id": 2639738,
+ "titulo": "Cria campanha nacional no SUS para orientar a população a beber água regularmente no inverno",
+ "tldr": [
+  "O SUS passa a fazer campanha, de junho a setembro, sobre a ingestão de água no frio, com orientação a famílias, cuidadores e profissionais sobre oferecer líquidos a idosos e crianças.",
+  "População em geral, com foco em idosos e crianças, além de familiares, cuidadores, profissionais da atenção básica, Ministério da Saúde, estados e municípios.",
+  "Recebido pela Comissão de Saúde da Câmara em 03/11/2026, aguarda a escolha de relator. Depois, passa pelas Comissões de Finanças e Tributação e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639738",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162836",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ff1608ab8affd6a1",
+ "hash_tramitacao": "a925b8384d52efa0",
+ "tentativa": 1
+}

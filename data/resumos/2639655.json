@@ -1,0 +1,28 @@
+{
+ "id": 2639655,
+ "titulo": "Cria painel nacional de dados sobre violência contra mulheres no transporte público e selo de reconhecimento",
+ "tldr": [
+  "Cria um painel nacional com dados sobre violência e importunação sexual no transporte coletivo, sem identificar vítimas, e um selo para quem adota medidas de prevenção. Enviar dados pode dar prioridade a verbas federais de segurança.",
+  "Mulheres que usam o transporte público, estados, Distrito Federal e municípios, e empresas de transporte coletivo.",
+  "Aguarda a escolha de relator na Comissão de Desenvolvimento Urbano da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639655",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162695",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8995f6430728d480",
+ "hash_tramitacao": "cff2cc3cafd5ec5a",
+ "tentativa": 2
+}

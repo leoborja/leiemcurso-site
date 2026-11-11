@@ -1,0 +1,28 @@
+{
+ "id": 2491956,
+ "titulo": "Cria a política nacional de proteção dos direitos da pessoa com síndrome de Tourette",
+ "tldr": [
+  "Define a síndrome, permite reconhecê-la como deficiência após avaliação, garante direitos em saúde, educação e trabalho e prevê multa ao gestor que recusar matrícula.",
+  "Pessoas com síndrome de Tourette e suas famílias, escolas, empregadores, planos de saúde e o poder público.",
+  "Virou a Lei 15.492/2026, publicada em 03/09/2026, após aprovação na Câmara e no Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491956",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2876680",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "eac3bcec96bae553",
+ "hash_tramitacao": "6524e45bb5d237ac",
+ "tentativa": 1
+}

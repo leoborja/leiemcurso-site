@@ -112,6 +112,8 @@ export const estatisticas = () => getJSON(`${B()}estatisticas.json`);
 export const semana = (s) => getJSON(`${B()}semana/${s}.json`);
 export const parlamentares = () => getJSON(`${B()}parlamentares.json`);
 export const parlamentar = (id) => getJSON(`${B()}parlamentar/${id}.json`);
+// votações nominais e reuniões da Casa por semana (contexto da página do parlamentar)
+export const semanaCasa = () => (tem('semana_casa') ? getJSON(`${B()}semana_casa.json`).catch(() => null) : Promise.resolve(null));
 export async function resumo(id) {
   const l = await lista();
   const r = l?.resumos.get(Number(id)) || null;

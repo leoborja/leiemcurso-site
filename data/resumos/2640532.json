@@ -1,0 +1,28 @@
+{
+ "id": 2640532,
+ "titulo": "Permite pensão por prazo indeterminado a ex-cônjuge que cuida de filho com deficiência ou doença grave",
+ "tldr": [
+  "O Código Civil passa a prever que o juiz pode fixar pensão sem prazo final ao ex-cônjuge ou ex-companheiro que cuida do filho comum com deficiência, autismo ou doença grave. A pensão pode ser revista e não substitui a pensão do filho.",
+  "Pais e mães separados que cuidam de filho comum com deficiência, autismo, doença grave ou que precise de apoio substancial, e seus ex-parceiros.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640532",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164286",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "51db9a7bdaaefd62",
+ "hash_tramitacao": "fa75be37833490c4",
+ "tentativa": 1
+}

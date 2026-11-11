@@ -1,0 +1,28 @@
+{
+ "id": 2635439,
+ "titulo": "Libera R$ 550 milhões ao Ministério de Minas e Energia para subsidiar a importação de diesel",
+ "tldr": [
+  "Destina R$ 550.000.000,00 à Agência Nacional do Petróleo para pagar subvenção a importadores de óleo diesel de uso rodoviário, prevista em outra medida provisória de 2026.",
+  "Ministério de Minas e Energia, Agência Nacional do Petróleo e importadores de óleo diesel rodoviário.",
+  "Perdeu a validade sem votação. O prazo terminou em 26/10/2026 e a perda de eficácia foi registrada em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635439",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157734",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "09fd979d645898b3",
+ "hash_tramitacao": "3aca4fa1faaf7455",
+ "tentativa": 1
+}

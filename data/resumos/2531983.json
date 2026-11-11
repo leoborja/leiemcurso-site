@@ -1,0 +1,28 @@
+{
+ "id": 2531983,
+ "titulo": "Proíbe aplicativos de entrega de exigir valor mínimo para pedidos",
+ "tldr": [
+  "Plataformas de entrega não poderão recusar pedidos por valor baixo, limitar cupons a pedidos acima de um mínimo nem cobrar taxas extras para desestimular pedidos pequenos. Lojas podem manter regras próprias.",
+  "Plataformas digitais de entrega de produtos e alimentos, consumidores e estabelecimentos que vendem por elas.",
+  "Aprovado com mudanças na Comissão de Indústria, Comércio e Serviços em 27/10/2026. O parecer foi publicado em 03/11/2026 e o texto aguarda envio à próxima etapa."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2531983",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949139",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75606483d3a426f2",
+ "hash_tramitacao": "433de44660b92a89",
+ "tentativa": 1
+}

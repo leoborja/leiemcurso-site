@@ -1,0 +1,28 @@
+{
+ "id": 2641243,
+ "titulo": "Obriga plataformas digitais a avisar consumidores com antecedência sobre mudanças unilaterais nos serviços",
+ "tldr": [
+  "Plataformas devem avisar com 60 dias de antecedência, em linguagem clara, sobre mudanças em anúncios, cobrança, funções e limites de uso. O consumidor pode cancelar sem custo se discordar.",
+  "Consumidores e empresas de aplicativos, redes sociais, streaming, marketplaces e outros serviços online.",
+  "Em 03/11/2026, a Mesa da Câmara determinou que tramite junto com o PL 4554/2026. Será analisada nas comissões, sem precisar ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641243",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165141",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "40f80d4a3ae6a218",
+ "hash_tramitacao": "106961cc6f1f6acb",
+ "tentativa": 1
+}

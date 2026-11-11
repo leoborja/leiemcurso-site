@@ -1,0 +1,28 @@
+{
+ "id": 2640681,
+ "titulo": "Cria selo para instituições com atividades artísticas acessíveis a pessoas com deficiência intelectual",
+ "tldr": [
+  "Instituições que cumprirem critérios como oficinas acessíveis e profissionais capacitados podem pedir o Selo Cultura Inclusiva, válido por 2 anos e renovável. A adesão é voluntária.",
+  "Instituições públicas e privadas da área cultural e pessoas com deficiência intelectual.",
+  "Aguarda escolha de relator na Comissão de Cultura da Câmara desde 05/11/2026. Também passará por outras três comissões, que podem decidir sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640681",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164435",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5bccdec34fe2d310",
+ "hash_tramitacao": "47de981a237f5712",
+ "tentativa": 2
+}

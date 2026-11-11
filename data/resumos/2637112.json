@@ -1,0 +1,28 @@
+{
+ "id": 2637112,
+ "titulo": "Cria programa nacional de bases fluviais com forças de segurança para patrulhar rios e hidrovias",
+ "tldr": [
+  "Prevê bases que reúnem polícias, Marinha, Receita Federal e órgãos ambientais. Elas fariam patrulhamento, monitorariam rotas nos rios e prestariam apoio às comunidades ribeirinhas. Os locais seriam definidos pelo Ministério da Justiça.",
+  "Comunidades ribeirinhas, quem navega em rios e hidrovias, órgãos de segurança federais e estaduais, estados e municípios conveniados.",
+  "Aguarda designação de relator na Comissão de Viação e Transportes da Câmara, onde foi recebido em 10/09/2026. Também será analisado por outras três comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637112",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157094",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d64a9434985d917e",
+ "hash_tramitacao": "2fd38e72e01ef41b",
+ "tentativa": 1
+}

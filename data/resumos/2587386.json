@@ -1,0 +1,28 @@
+{
+ "id": 2587386,
+ "titulo": "Dá o nome de Viaduto Sabino José Collett a viaduto da BR-163 em Toledo, no Paraná",
+ "tldr": [
+  "O viaduto no km 243,3 da BR-163, no cruzamento com a Avenida Rio Grande do Sul, passa a se chamar oficialmente Viaduto Sabino José Collett.",
+  "O efeito é local, sobre o viaduto da BR-163 no município de Toledo, no Paraná.",
+  "Aprovada na Comissão de Viação e Transportes em 12/08/2026. Desde 17/08/2026 aguarda a escolha de relator na Comissão de Cultura."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2587386",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3051409",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4006a6cdce5e4db3",
+ "hash_tramitacao": "2f2288372a230c1d",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2599526,
+ "titulo": "Obriga autoridades a informar a vítima de crime sobre etapas da investigação e do processo",
+ "tldr": [
+  "A vítima, ou sua família em certos casos, passa a ser avisada, de preferência por meio eletrônico, sobre arquivamento, denúncia, audiências, sentença, soltura ou fuga do autor, entre outros atos.",
+  "Vítimas de crimes e seus familiares, polícias, Ministério Público e Poder Judiciário.",
+  "Aprovado com texto alternativo na Comissão de Segurança Pública em 11/08/2026. Aguarda relator na Comissão de Finanças e Tributação desde 14/08/2026; depois vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599526",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072442",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5994dfb2e3cceb78",
+ "hash_tramitacao": "924acd65476cd246",
+ "tentativa": 1
+}

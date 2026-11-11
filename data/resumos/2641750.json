@@ -1,0 +1,28 @@
+{
+ "id": 2641750,
+ "titulo": "Obriga postos a vender gasolina com até 10% de etanol em pelo menos uma bomba",
+ "tldr": [
+  "Postos com 3 ou mais bicos de gasolina teriam de oferecer gasolina com até 10% de etanol, com preço até 5% diferente da gasolina comum. Quem descumprir poderia levar multa de R$ 50.000,00 a R$ 5.000.000,00.",
+  "Postos de combustíveis, distribuidoras, a agência reguladora do petróleo e donos de motos e veículos não flex.",
+  "Retirado de tramitação a pedido do autor em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641750",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167658",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f805d75db78dc81d",
+ "hash_tramitacao": "5b49bd73de4ade22",
+ "tentativa": 1
+}

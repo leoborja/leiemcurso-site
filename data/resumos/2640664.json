@@ -1,0 +1,28 @@
+{
+ "id": 2640664,
+ "titulo": "Obriga companhias aéreas a compensar médicos passageiros que atendem emergências durante o voo",
+ "tldr": [
+  "O médico receberia créditos em passagens ou milhas, reembolso do bilhete ou honorários. Ele só responderia na Justiça civil por dolo ou culpa grave ao atender ou orientar o comandante.",
+  "Companhias aéreas nacionais e estrangeiras que operam voos no Brasil e médicos que viajam como passageiros.",
+  "Tramita junto com o PL 3987/2026 (apensada) por despacho de 29/10/2026. Foi encaminhada à publicação em 05/11/2026 e aguarda a conclusão da apensação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640664",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164418",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "26291e833c86ed42",
+ "hash_tramitacao": "91ef1059a4292cbc",
+ "tentativa": 1
+}

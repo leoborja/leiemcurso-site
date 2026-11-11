@@ -1,0 +1,28 @@
+{
+ "id": 2633960,
+ "titulo": "Cria o Marco Legal de Combate ao Crime Organizado, com sistema nacional e cadastro de facções",
+ "tldr": [
+  "Cria um sistema que integra órgãos federais e estaduais e um cadastro de organizações criminosas violentas. A inclusão no cadastro leva a bloqueio de bens e proibição de contratar com o poder público. Também altera leis penais.",
+  "Órgãos de segurança pública da União e dos estados, instituições financeiras e integrantes de organizações criminosas.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026. Depois, vai a votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633960",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149627",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1b95ca7786c4d1db",
+ "hash_tramitacao": "286bf561cf268808",
+ "tentativa": 1
+}

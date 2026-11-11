@@ -1,0 +1,28 @@
+{
+ "id": 2637137,
+ "titulo": "Cria política de prevenção à violência sexual contra crianças e adolescentes no ensino fundamental",
+ "tldr": [
+  "As escolas passam a ensinar autoproteção, limites, consentimento e canais de ajuda, com carga horária mínima. Também prevê capacitação de professores, materiais padronizados e protocolos para encaminhar casos suspeitos.",
+  "Alunos, professores e redes de ensino fundamental, além das áreas de saúde, assistência social e Conselhos Tutelares.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família desde 04/09/2026. Depois passa pelas comissões de Educação, Finanças e Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637137",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157140",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e5ca805494c998bc",
+ "hash_tramitacao": "764a442361000632",
+ "tentativa": 1
+}

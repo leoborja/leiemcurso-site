@@ -1,0 +1,28 @@
+{
+ "id": 2637237,
+ "titulo": "Cria registro nacional das pessoas que de fato controlam ou lucram com empresas, fundos e trusts",
+ "tldr": [
+  "Empresas e estruturas como fundos e trusts que atuam no Brasil passam a ter de declarar à Receita Federal quem são seus donos reais, avisar mudanças em 30 dias e confirmar os dados todo ano.",
+  "Pessoas jurídicas nacionais e estrangeiras com atividade no Brasil, fundos, trusts, holdings, cartórios, juntas comerciais e a Receita Federal.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que teve relator designado e abriu prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:19Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157278",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "07392381cd0e23e2",
+ "hash_tramitacao": "7ec95a13b7c044ba",
+ "tentativa": 1
+}

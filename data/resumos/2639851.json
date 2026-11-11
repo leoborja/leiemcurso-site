@@ -1,0 +1,28 @@
+{
+ "id": 2639851,
+ "titulo": "Inclui o nome de Herbert José de Souza, o Betinho, no Livro dos Heróis e Heroínas da Pátria",
+ "tldr": [
+  "O nome do sociólogo Betinho passa a constar no Livro dos Heróis e Heroínas da Pátria, guardado no Panteão da Pátria e da Liberdade Tancredo Neves, em Brasília.",
+  "O efeito é simbólico e geral; não atinge um grupo específico.",
+  "Aguarda votação na Comissão de Cultura da Câmara, onde a relatoria apresentou parecer pela aprovação em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639851",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163038",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d0b7b50f82b44ade",
+ "hash_tramitacao": "ebebf27ba0f8d505",
+ "tentativa": 1
+}

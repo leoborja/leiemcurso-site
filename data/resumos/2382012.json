@@ -1,0 +1,28 @@
+{
+ "id": 2382012,
+ "titulo": "Define quando o uso de equipamento de proteção afasta o direito à aposentadoria especial",
+ "tldr": [
+  "O uso de equipamento de proteção individual afasta a exposição a agentes nocivos se uma verificação técnica comprovar que ele é eficaz. O texto também proíbe conceder a aposentadoria especial por profissão ou ocupação.",
+  "Trabalhadores do INSS expostos a agentes nocivos à saúde e seus empregadores.",
+  "Tramita junto com o PLP 42/2023 (apensada), que teve urgência aprovada no Plenário em 12/08/2026. Relator designado na Comissão de Constituição e Justiça em 04/11/2026. O registro da Câmara indica situação arquivada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2382012",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2316917",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "32bb89b0b7a490fd",
+ "hash_tramitacao": "c8cde1d726b24bc2",
+ "tentativa": 1
+}

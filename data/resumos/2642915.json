@@ -1,0 +1,28 @@
+{
+ "id": 2642915,
+ "titulo": "Cria política nacional de atendimento às mulheres vítimas de violência doméstica",
+ "tldr": [
+  "Órgãos públicos teriam diretrizes para evitar que a vítima passe por sofrimento extra no atendimento, como repetir procedimentos sem necessidade, além de capacitação permanente de servidores.",
+  "Mulheres em situação de violência doméstica, órgãos de segurança pública, Judiciário, Ministério Público e Defensoria Pública.",
+  "Retirado de tramitação a pedido da autora em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642915",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3170879",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7207210e39a45714",
+ "hash_tramitacao": "61737cb52a192def",
+ "tentativa": 1
+}

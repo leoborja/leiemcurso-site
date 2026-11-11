@@ -1,0 +1,28 @@
+{
+ "id": 2447259,
+ "titulo": "Cria política nacional e comitê federal para minerais críticos e estratégicos",
+ "tldr": [
+  "No texto original: comitê de ministros define quais minerais são críticos ou estratégicos, análise desses projetos tem prioridade, há incentivos fiscais e de crédito e grandes mineradoras investem 0,40% da receita bruta em pesquisa.",
+  "Empresas de pesquisa, extração e transformação desses minerais, ministérios federais, Agência Nacional de Mineração, estados e municípios.",
+  "Aprovado no Plenário da Câmara em 06/05/2026 com texto alterado pela relatoria e depois pelo Senado. Virou a Lei 15.506/2026, publicada em 16/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2447259",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2450892",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9d0c12d57e8e7a08",
+ "hash_tramitacao": "8a7ea97be6a836db",
+ "tentativa": 1
+}

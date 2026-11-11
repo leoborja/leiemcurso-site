@@ -1,0 +1,28 @@
+{
+ "id": 2632536,
+ "titulo": "Define normas de proteção contra violência e assédio para trabalhadores da saúde e da educação",
+ "tldr": [
+  "Estabelece direitos mínimos de segurança no trabalho, proíbe assédio e jornadas incompatíveis, exige canais de denúncia e protege quem denuncia irregularidades. Também altera as leis do SUS e de diretrizes da educação.",
+  "Trabalhadores de unidades públicas de saúde e educação, de entidades conveniadas e, em parte, de unidades privadas.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde foi recebida em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632536",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147054",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0b38908de52c8717",
+ "hash_tramitacao": "004af9d5ca57f8e7",
+ "tentativa": 1
+}

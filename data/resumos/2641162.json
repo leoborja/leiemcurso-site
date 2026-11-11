@@ -1,0 +1,28 @@
+{
+ "id": 2641162,
+ "titulo": "Cria estatuto com direitos dos usuários de serviços financeiros digitais contra fraudes",
+ "tldr": [
+  "Instituições financeiras e de pagamento devem adotar medidas contra fraudes, manter canais permanentes de comunicação e dar proteção reforçada a grupos vulneráveis.",
+  "Usuários de serviços financeiros digitais, instituições financeiras e de pagamento, idosos, pessoas com deficiência e beneficiários de programas sociais.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4470/2026 na Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641162",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165054",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ca9b298dc301f21b",
+ "hash_tramitacao": "e1db3837369e7001",
+ "tentativa": 1
+}

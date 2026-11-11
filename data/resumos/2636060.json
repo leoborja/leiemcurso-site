@@ -1,0 +1,28 @@
+{
+ "id": 2636060,
+ "titulo": "Proíbe incluir dívidas prescritas em cadastros de proteção ao crédito, salvo com consentimento do consumidor",
+ "tldr": [
+  "Dívidas que não podem mais ser cobradas na Justiça não poderão ser negativadas nem afetar o score; registros indevidos devem ser removidos em até 5 dias úteis, com indenização por dano moral presumido.",
+  "Consumidores com dívidas prescritas, credores, bancos, empresas de cadastro de crédito e plataformas de negociação de dívidas.",
+  "Aguarda designação de relator na Comissão de Defesa do Consumidor da Câmara desde 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636060",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154794",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1ced4500296c938d",
+ "hash_tramitacao": "9e70eaa53c1ce043",
+ "tentativa": 1
+}

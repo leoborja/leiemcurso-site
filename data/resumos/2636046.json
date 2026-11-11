@@ -1,0 +1,28 @@
+{
+ "id": 2636046,
+ "titulo": "Define prazos e prioridade para julgar no STF e no STJ temas que valem para muitos processos",
+ "tldr": [
+  "STF e STJ passam a julgar com prioridade os casos de repercussão geral e os recursos repetitivos. Juízes e tribunais terão 12 meses para aplicar a decisão aos processos parados. Cria uma força-tarefa nacional coordenada pelo CNJ.",
+  "Supremo Tribunal Federal, Superior Tribunal de Justiça, tribunais e juízes de primeira e segunda instância, Conselho Nacional de Justiça e partes em processos suspensos.",
+  "Recebido pela Comissão de Constituição e Justiça e de Cidadania em 05/11/2026. Aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636046",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154775",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "51e98d3823bda733",
+ "hash_tramitacao": "2ec8f638423d3e50",
+ "tentativa": 1
+}

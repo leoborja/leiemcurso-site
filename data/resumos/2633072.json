@@ -1,0 +1,28 @@
+{
+ "id": 2633072,
+ "titulo": "Cria o Dia Nacional do Campo de Públicas, em 8 de julho",
+ "tldr": [
+  "A data entra no calendário oficial, com possíveis eventos sobre as áreas de administração pública, políticas públicas e gestão social.",
+  "Estudantes, professores, pesquisadores e profissionais de administração e políticas públicas.",
+  "O relator na Comissão de Cultura da Câmara deu parecer pela aprovação em 03/11/2026; aguarda votação na comissão."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633072",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148358",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3e402439d6931c33",
+ "hash_tramitacao": "6080f1aec74bcfc3",
+ "tentativa": 1
+}

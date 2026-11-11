@@ -1,0 +1,28 @@
+{
+ "id": 2350406,
+ "titulo": "Obriga faixas de pedestre a terem iluminação e sinal sonoro",
+ "tldr": [
+  "O Código de Trânsito passaria a exigir que faixas de pedestre sejam iluminadas e tenham sinal sonoro, conforme regras do Conselho Nacional de Trânsito.",
+  "Pedestres, incluindo pessoas com deficiência, e os órgãos de trânsito responsáveis pelas vias.",
+  "Arquivado. Tramitava junto com outro projeto e foi considerado prejudicado em 05/11/2026, quando o Plenário da Câmara aprovou outro texto sobre o tema."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2350406",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2240449",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "29ffa65e9ff694dc",
+ "hash_tramitacao": "8abba48ccf9dfd99",
+ "tentativa": 1
+}

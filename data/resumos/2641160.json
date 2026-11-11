@@ -1,0 +1,28 @@
+{
+ "id": 2641160,
+ "titulo": "Cria política nacional de direitos e recuperação de dinheiro para vítimas de golpes digitais",
+ "tldr": [
+  "Vítimas de fraudes digitais passam a ter direito a atendimento prioritário, acompanhamento do caso e mediação gratuita. O Poder Executivo fica autorizado a criar um fundo de apoio às vítimas e um observatório de fraudes.",
+  "Vítimas de fraudes financeiras digitais, com prioridade para idosos, pessoas com deficiência, aposentados, beneficiários de programas sociais e microempreendedores individuais.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 4470/2026 (apensado), na Câmara dos Deputados."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641160",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165051",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6a97e5d7d7de4efe",
+ "hash_tramitacao": "390bd3a1d8772d2b",
+ "tentativa": 1
+}

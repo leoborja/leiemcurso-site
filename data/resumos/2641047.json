@@ -1,0 +1,28 @@
+{
+ "id": 2641047,
+ "titulo": "Cria política nacional para incentivar a instalação de data centers e serviços de nuvem na Região Norte",
+ "tldr": [
+  "Prevê programas federais de apoio a data centers, redes de fibra óptica e capacitação em nuvem na Região Norte, e permite que o governo federal estimule a contratação de nuvem instalada no Brasil.",
+  "Empresas de tecnologia, órgãos públicos federais, universidades e centros de pesquisa dos estados da Região Norte.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026 passou a tramitar junto com o PL 491/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641047",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164817",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "db35b98ba7d6426a",
+ "hash_tramitacao": "4c3ca573ae9eaebb",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640521,
+ "titulo": "Torna infração gravíssima usar som em volume ou frequência não autorizados em veículos",
+ "tldr": [
+  "O uso no veículo de som em volume ou frequência não autorizados pelo Conselho Nacional de Trânsito passa a ser infração gravíssima, com multa e retenção do veículo para regularização.",
+  "Motoristas e proprietários de veículos automotores com equipamento de som.",
+  "Aguarda a escolha de relator na Comissão de Viação e Transportes da Câmara, onde chegou em 04/11/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640521",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164275",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "aab08abbb8be7de8",
+ "hash_tramitacao": "882fd32dc188648b",
+ "tentativa": 2
+}

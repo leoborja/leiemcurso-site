@@ -1,0 +1,28 @@
+{
+ "id": 2637292,
+ "titulo": "Define regras para coletar e divulgar dados sobre violência contra a população LGBTQIAPN+",
+ "tldr": [
+  "O poder público passa a ter diretrizes para levantar e publicar periodicamente dados sobre esse tipo de violência, com perfil de vítimas e dados anonimizados, e pode compartilhá-los com universidades e pesquisadores.",
+  "População LGBTQIAPN+, órgãos de segurança pública, saúde e assistência social, e instituições de pesquisa parceiras.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que teve relator designado e abriu prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:19Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637292",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157393",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dd7bdf0382f8dd34",
+ "hash_tramitacao": "920fa8066f33b7d2",
+ "tentativa": 1
+}

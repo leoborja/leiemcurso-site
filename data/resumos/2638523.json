@@ -1,0 +1,28 @@
+{
+ "id": 2638523,
+ "titulo": "Define requisitos de qualificação e transparência para nomeação em cargos de chefia no setor público",
+ "tldr": [
+  "Quem for nomeado para cargo de direção precisará comprovar formação ou experiência, e quem é inelegível pela Lei da Ficha Limpa fica impedido. Os órgãos federais terão de publicar currículos e metas dos gestores na internet.",
+  "Ocupantes de cargos de direção e chefia e os órgãos que os nomeiam. Ministros de Estado ficam de fora.",
+  "Aguarda escolha de relator na Comissão de Administração e Serviço Público da Câmara desde 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638523",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159999",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "995cca8bf2347945",
+ "hash_tramitacao": "94a0a07709774516",
+ "tentativa": 1
+}

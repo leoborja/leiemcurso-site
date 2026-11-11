@@ -1,0 +1,28 @@
+{
+ "id": 2586419,
+ "titulo": "Cria o Plano Nacional de Cultura para o período de 2025 a 2035",
+ "tldr": [
+  "Define princípios, diretrizes, eixos, metas e regras de governança e monitoramento da política cultural para os próximos dez anos, com adesão automática de estados e municípios.",
+  "Ministério da Cultura, estados, Distrito Federal, municípios, trabalhadores e agentes da cultura.",
+  "Aprovado pelo Plenário da Câmara em 01/09/2026 na forma de texto alternativo da Comissão de Cultura. Enviado ao Senado em 13/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2586419",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3049235",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "441ca936e005e370",
+ "hash_tramitacao": "35d72708e37acd3c",
+ "tentativa": 1
+}

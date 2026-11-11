@@ -1,0 +1,28 @@
+{
+ "id": 2632291,
+ "titulo": "Muda as regras de parcerias do poder público com ONGs e facilita a certificação de entidades beneficentes",
+ "tldr": [
+  "Cria programa de capacitação, torna o Transferegov.br a plataforma oficial, fixa prazo de 150 dias para analisar contas (com aprovação automática se não houver resposta) e reduz exigências de documentos.",
+  "Organizações da sociedade civil com parcerias públicas, entidades beneficentes certificadas, União, estados, municípios e tribunais de contas.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632291",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146533",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "393c3c79e3d05967",
+ "hash_tramitacao": "50137399bb1319d1",
+ "tentativa": 1
+}

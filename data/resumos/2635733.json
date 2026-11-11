@@ -1,0 +1,28 @@
+{
+ "id": 2635733,
+ "titulo": "Proíbe fósforo e fosfatos adicionados em produtos de limpeza e de higiene em até 24 meses",
+ "tldr": [
+  "Fica proibido fabricar, importar e vender produtos de limpeza, higiene, cosméticos e perfumes com fósforo ou fosfatos adicionados no prazo máximo de 24 meses, sem prorrogação. Prevê exceções técnicas, fiscalização e multas.",
+  "Fabricantes, importadores, distribuidores e comerciantes desses produtos, consumidores e os órgãos ANVISA, IBAMA, CONAMA e Agência Nacional de Águas.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635733",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154352",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fcbd6af6ba894a71",
+ "hash_tramitacao": "d02f445b5f1dd009",
+ "tentativa": 1
+}

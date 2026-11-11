@@ -1,0 +1,28 @@
+{
+ "id": 2436843,
+ "titulo": "Cria serviço de telemedicina para gestantes em áreas rurais e de difícil acesso",
+ "tldr": [
+  "O Ministério da Saúde passa a oferecer consultas de pré-natal e pós-parto a distância, com monitoramento e orientação, e parcerias com unidades locais para exames presenciais.",
+  "Gestantes e mulheres no pós-parto em áreas rurais e de difícil acesso, profissionais de saúde e o Ministério da Saúde.",
+  "Aprovado com mudanças na Comissão de Saúde em 04/11/2026; aguarda escolha de relator na Comissão de Defesa dos Direitos da Mulher desde 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2436843",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2430104",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e7efbe7b1ac05f7b",
+ "hash_tramitacao": "70f84308590f14d0",
+ "tentativa": 1
+}

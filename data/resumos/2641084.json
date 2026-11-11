@@ -1,0 +1,28 @@
+{
+ "id": 2641084,
+ "titulo": "Obriga plataformas digitais a identificar resultados e recomendações patrocinados",
+ "tldr": [
+  "Resultados, destaques e recomendações influenciados por pagamento devem ter aviso visível. Fica proibido apresentar conteúdo pago como resultado comum ou esconder a relação comercial. Vale 180 dias após publicada.",
+  "Usuários e plataformas digitais, como buscadores, marketplaces, lojas de aplicativos e redes sociais acessíveis no Brasil.",
+  "Tramita junto (apensado) ao PL 2120/2023, por despacho da Mesa da Câmara de 26/10/2026. Último andamento em 03/11/2026; ainda sem parecer de comissão."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641084",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164969",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f2530cdc08c92f3a",
+ "hash_tramitacao": "6a08a0edfa0a6f94",
+ "tentativa": 1
+}

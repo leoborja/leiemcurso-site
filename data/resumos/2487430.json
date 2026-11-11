@@ -1,0 +1,28 @@
+{
+ "id": 2487430,
+ "titulo": "Cria novo símbolo nacional da pessoa idosa, com figura em pé e a inscrição 60+",
+ "tldr": [
+  "O novo símbolo, uma pessoa em pé ao lado de \"60+\", passa a marcar assentos reservados em ônibus, vagas de estacionamento e atendimento prioritário de pessoas idosas.",
+  "Pessoas com 60 anos ou mais, empresas de transporte coletivo, estacionamentos e locais com atendimento prioritário.",
+  "Aprovado nas Comissões da Pessoa Idosa e de Constituição e Justiça, que aprovou a redação final em 04/11/2026. Aguarda a preparação do texto final para envio ao Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487430",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2868772",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "75bcf1efc7ed251a",
+ "hash_tramitacao": "a9a4f3588d661ef9",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2415576,
+ "titulo": "Define regras para a perícia que avalia a saúde mental de acusados em processo penal",
+ "tldr": [
+  "O laudo de insanidade será feito por perito oficial, de preferência da psiquiatria ou psicologia forense. O juiz poderá nomear mais de um perito e a defesa poderá indicar assistente técnico.",
+  "Acusados em processos criminais, juízes, peritos oficiais e advogados de defesa.",
+  "A Comissão de Constituição e Justiça e de Cidadania aprovou o parecer em 15/07/2026 e a redação final em 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2415576",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2380133",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dccceaf474616dc7",
+ "hash_tramitacao": "8e4e04ea716322d9",
+ "tentativa": 2
+}

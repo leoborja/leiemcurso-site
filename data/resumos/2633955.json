@@ -1,0 +1,28 @@
+{
+ "id": 2633955,
+ "titulo": "Obriga boletim de ocorrência a registrar crime motivado pela deficiência da vítima",
+ "tldr": [
+  "Quando houver indícios, a polícia deve anotar no boletim que o crime foi motivado pela deficiência da vítima. Os registros terão campos padronizados, e os dados serão reunidos para políticas públicas.",
+  "Pessoas com deficiência vítimas de crimes e órgãos de segurança pública.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara. Em 29/10/2026, foi aberto prazo para emendas."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633955",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149608",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b9a9427c8eb125ea",
+ "hash_tramitacao": "c966ff907c313e15",
+ "tentativa": 1
+}

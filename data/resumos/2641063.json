@@ -1,0 +1,28 @@
+{
+ "id": 2641063,
+ "titulo": "Cria programa para atrair e expandir empresas de tecnologia na Região Norte",
+ "tldr": [
+  "Prevê promoção da região para investidores, apoio a parques tecnológicos e incubadoras, uma plataforma digital de oportunidades e a divulgação de indicadores, sem criar benefício fiscal.",
+  "Empresas de base tecnológica, estados e municípios da Região Norte, universidades e órgãos federais.",
+  "Aguarda análise nas comissões da Câmara. Em 26/10/2026 passou a tramitar junto com o PL 4362/2026, e o PL 4382/2026 foi juntado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641063",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164869",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d7fee866b702bba5",
+ "hash_tramitacao": "4b5e54e1e000784d",
+ "tentativa": 1
+}

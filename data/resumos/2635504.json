@@ -1,0 +1,28 @@
+{
+ "id": 2635504,
+ "titulo": "Cria política de capacitação para rastrear cada bovino em pequenas propriedades e na agricultura familiar",
+ "tldr": [
+  "O texto prevê cadastro de produtores, formação de técnicos, assistência técnica, apoio para comprar brincos eletrônicos e acesso a crédito, em cinco etapas e com adesão voluntária.",
+  "Agricultores familiares e donos de propriedades rurais de até quatro módulos fiscais que criam gado, com prioridade para a Amazônia Legal e para mulheres rurais.",
+  "Aguarda a escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635504",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3153982",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "02281393b96a84aa",
+ "hash_tramitacao": "cba6bd44dc13b476",
+ "tentativa": 1
+}

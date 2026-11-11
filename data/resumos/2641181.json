@@ -1,0 +1,28 @@
+{
+ "id": 2641181,
+ "titulo": "Cria rede de espaços públicos de resfriamento para proteger a população do calor extremo",
+ "tldr": [
+  "Municípios com registro de calor extremo terão de manter ao menos um espaço com água e ventilação para cada 100 mil habitantes em áreas vulneráveis e fazer planos de emergência.",
+  "Municípios com calor extremo e moradores de áreas vulneráveis, com prioridade a idosos, crianças, gestantes e pessoas em situação de rua.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 4409/2026 na Câmara, por decisão da Mesa Diretora. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641181",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165075",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5d434b5a123a9ec3",
+ "hash_tramitacao": "f729f0270cad8bfd",
+ "tentativa": 1
+}

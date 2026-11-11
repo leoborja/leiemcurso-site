@@ -1,0 +1,28 @@
+{
+ "id": 2636217,
+ "titulo": "Permite que entidades de defesa da vida atuem como assistentes da acusação em crimes contra crianças",
+ "tldr": [
+  "Entidades privadas cujo estatuto preveja a defesa da vida desde a concepção poderão atuar ao lado do Ministério Público nos processos por crimes contra a vida e lesões corporais em que a vítima é menor incapaz.",
+  "Entidades privadas de defesa da vida, o Ministério Público e as partes nesses processos penais.",
+  "Aguarda a designação de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, que recebeu o projeto em 08/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636217",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155046",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0d5c75978f0bfed1",
+ "hash_tramitacao": "ace0e57d257c7fe8",
+ "tentativa": 1
+}

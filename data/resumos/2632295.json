@@ -1,0 +1,28 @@
+{
+ "id": 2632295,
+ "titulo": "Inclui o jogo compulsivo no certificado de saúde mental para empresas e cria regras para empresas de apostas",
+ "tldr": [
+  "Empresas certificadas ganham vantagens como preferência em licitações e crédito; casas de apostas passam a ter de oferecer autoexclusão, limites e alertas; fica proibido demitir quem busca ajuda.",
+  "Empresas com o Certificado Empresa Promotora da Saúde Mental, empresas de apostas, trabalhadores e organizações da sociedade civil da área.",
+  "Aguarda a escolha de relator na Comissão de Comunicação da Câmara, onde chegou em 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632295",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146539",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1dcd3f4d8e62604d",
+ "hash_tramitacao": "7200c82bbe7eb672",
+ "tentativa": 1
+}

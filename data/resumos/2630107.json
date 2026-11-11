@@ -1,0 +1,28 @@
+{
+ "id": 2630107,
+ "titulo": "Proíbe regras técnicas que contrariem as características de produtos com indicação geográfica",
+ "tldr": [
+  "Na Lei de Propriedade Industrial, fica proibido criar ou aplicar regulamentos técnicos com exigências incompatíveis com as características que justificaram o reconhecimento de uma indicação geográfica.",
+  "Produtores de produtos com indicação geográfica e órgãos que editam regulamentos técnicos.",
+  "Recebido pela Comissão de Indústria, Comércio e Serviços da Câmara em 19/08/2026, aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630107",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3142380",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "63e3d41eb16284ce",
+ "hash_tramitacao": "e6e0d78f6e8780c9",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2557005,
+ "titulo": "Cria o Dia do Monitor e da Monitora Escolar, em 5 de setembro",
+ "tldr": [
+  "A data passa a constar do calendário, e escolas e órgãos públicos podem fazer eventos, palestras e homenagens aos monitores escolares.",
+  "Monitores e monitoras escolares e instituições de ensino públicas e privadas.",
+  "Aprovada na Comissão de Cultura em 12/08/2026. Desde 13/08/2026 está na Comissão de Constituição e Justiça, aguardando a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2557005",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2992665",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c641792993d013c8",
+ "hash_tramitacao": "a14d36d7c21a4056",
+ "tentativa": 1
+}

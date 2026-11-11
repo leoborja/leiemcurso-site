@@ -1,0 +1,28 @@
+{
+ "id": 2639320,
+ "titulo": "Define quando aprovado em concurso público tem direito à nomeação, inclusive quem está no cadastro de reserva",
+ "tldr": [
+  "Quem está no cadastro de reserva passa a ter direito à nomeação se entrar no número de vagas do edital por desistência, eliminação ou saída de outros. Órgãos devem divulgar na internet a movimentação do concurso.",
+  "Candidatos aprovados em concursos públicos e órgãos e entidades da administração pública que realizam concursos.",
+  "Tramita junto com o PL 6259/2025 e foi recebido pela Comissão de Administração e Serviço Público da Câmara em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639320",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162050",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5c400099d8277a13",
+ "hash_tramitacao": "1bd1556f77b04849",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2629791,
+ "titulo": "Declara o Clube de Regatas do Flamengo patrimônio histórico, cultural e imaterial do Brasil",
+ "tldr": [
+  "O clube passa a ter, em lei federal, o título de patrimônio histórico, cultural e imaterial do país.",
+  "Clube de Regatas do Flamengo.",
+  "Aguarda designação de relator na Comissão de Cultura desde 18/08/2026. Há pedido de tramitação com prioridade apresentado em 12/06/2026, sem votação registrada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629791",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3141250",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9e46849a91002bda",
+ "hash_tramitacao": "733529220aa05ac5",
+ "tentativa": 1
+}

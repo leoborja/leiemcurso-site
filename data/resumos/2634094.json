@@ -1,0 +1,28 @@
+{
+ "id": 2634094,
+ "titulo": "Cria a culpa temerária no Código Penal, com pena do dobro ao triplo para descuido grosseiro",
+ "tldr": [
+  "Crimes culposos com violação grosseira de cuidado em situação de risco grave terão a pena aumentada do dobro ao triplo. Se houver morte ou lesão grave, fica mais restrita a troca da prisão por penas alternativas.",
+  "Pessoas acusadas de crimes culposos que afetem vida, saúde ou segurança pública, inclusive profissionais e empresas de atividades de risco a terceiros.",
+  "Aguarda designação de relator na Comissão de Constituição e Justiça da Câmara e depois vai ao Plenário. Em 08/09/2026, outro projeto (PL 3281/2026) passou a tramitar junto com este."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634094",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3149915",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f2a4201d1807fc83",
+ "hash_tramitacao": "7b5dcb7f786d8737",
+ "tentativa": 1
+}

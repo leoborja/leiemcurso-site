@@ -1,0 +1,28 @@
+{
+ "id": 2640437,
+ "titulo": "Impede a ANS de aplicar regras de planos de saúde a associações sem fins lucrativos com assistência acessória",
+ "tldr": [
+  "Associações que oferecem saúde junto com outros benefícios, pagos por uma contribuição única, deixam de seguir regras comerciais da ANS. A agência terá de rever enquadramentos considerados indevidos.",
+  "Associações civis sem fins lucrativos que oferecem assistência à saúde a associados, seus membros e a ANS.",
+  "Recebido pela Comissão de Saúde da Câmara em 03/11/2026, aguarda a escolha de relator. Um pedido de tramitação com prioridade foi apresentado em 03/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640437",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164127",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ad52da0d64c3e6ec",
+ "hash_tramitacao": "f722b3dface49b38",
+ "tentativa": 1
+}

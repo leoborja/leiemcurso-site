@@ -1,0 +1,28 @@
+{
+ "id": 2572628,
+ "titulo": "Proíbe clubes formadores de dispensar atletas em formação durante o período escolar",
+ "tldr": [
+  "Clubes não podem desligar atletas com contrato de formação durante o ano letivo, salvo falta grave. Devem avisar o Conselho Tutelar em 24 horas e podem perder o certificado de formador.",
+  "Atletas com contrato de formação esportiva, organizações esportivas formadoras e conselhos tutelares.",
+  "Foi aprovado na Comissão do Esporte em 14/10/2026. Aguarda relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família desde 20/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2572628",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3023222",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "602139e042c9e3b1",
+ "hash_tramitacao": "147b110ab3c2bfc5",
+ "tentativa": 1
+}

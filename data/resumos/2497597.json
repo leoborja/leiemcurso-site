@@ -1,0 +1,28 @@
+{
+ "id": 2497597,
+ "titulo": "Cria programa de saúde bucal para idosos e obriga avaliação odontológica na entrada em casas de repouso",
+ "tldr": [
+  "Clínicas geriátricas e instituições de longa permanência terão de avaliar a saúde bucal do idoso na admissão e fazer plano de cuidado. Instituições privadas que descumprirem podem levar advertência e multa.",
+  "Pessoas com 60 anos ou mais, clínicas geriátricas e instituições de longa permanência públicas e privadas, e o SUS.",
+  "Aprovado na Comissão de Saúde em 28/10/2026, com texto alternativo. Na Comissão de Defesa dos Direitos da Pessoa Idosa, teve relator designado em 04/11/2026 e prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497597",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2886431",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6f6d34fe9765d84a",
+ "hash_tramitacao": "f7cfe18f0bb61e2d",
+ "tentativa": 1
+}

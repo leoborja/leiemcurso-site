@@ -1,0 +1,28 @@
+{
+ "id": 2640639,
+ "titulo": "Inclui no Código Penal o estelionato sentimental, com pena maior em casos de vítima idosa ou endividada",
+ "tldr": [
+  "Quem obtém dinheiro simulando relação afetiva passa a responder com as penas do estelionato, aumentadas de um terço até a metade se a vítima for idosa ou vulnerável, se houver identidade falsa ou meio digital, ou endividamento.",
+  "Pessoas que aplicam golpes por meio de relacionamentos afetivos e as vítimas desse tipo de fraude.",
+  "Tramita junto com o PL 3959/2026 e precisa ser votado no Plenário da Câmara. Foi recebido pela Comissão de Constituição e Justiça e apensado em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640639",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164393",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4deb2b2d26245d08",
+ "hash_tramitacao": "079fe67fb1873640",
+ "tentativa": 1
+}

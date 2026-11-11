@@ -1,0 +1,28 @@
+{
+ "id": 2644737,
+ "titulo": "Obriga o juiz a avaliar o risco à vítima antes de soltar preso em certos crimes violentos",
+ "tldr": [
+  "Na audiência de custódia por crimes sexuais, feminicídio, violência doméstica ou violência contra criança, idoso ou pessoa com deficiência, o juiz analisaria o risco à vítima antes de soltar o preso.",
+  "Pessoas presas por esses crimes, suas vítimas, juízes, polícias e órgãos de perícia.",
+  "Foi retirado pelo autor em 28/10/2026, a pedido feito em 03/09/2026, e não tramita mais."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644737",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3175353",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "70f8e7cc7f737be9",
+ "hash_tramitacao": "8ca1b990cb0a9a24",
+ "tentativa": 2
+}

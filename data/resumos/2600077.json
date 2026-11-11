@@ -1,0 +1,28 @@
+{
+ "id": 2600077,
+ "titulo": "Proíbe saída temporária de presos condenados por violência doméstica contra a mulher",
+ "tldr": [
+  "A Lei Maria da Penha passa a vedar a saída temporária a esses condenados em qualquer caso, mesmo quando o crime não envolveu violência ou grave ameaça.",
+  "Pessoas condenadas por crimes de violência doméstica e familiar contra a mulher e juízes de execução penal.",
+  "Em 01/09/2026, a Comissão de Segurança Pública e Combate ao Crime Organizado rejeitou este projeto e aprovou o PL 36/2026, que tramita junto. Aguarda relator na comissão dos direitos da mulher desde 03/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600077",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3075923",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9b2f4f40f7a8bc14",
+ "hash_tramitacao": "c74c09eaef809ebf",
+ "tentativa": 1
+}

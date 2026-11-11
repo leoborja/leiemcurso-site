@@ -1,0 +1,28 @@
+{
+ "id": 2630764,
+ "titulo": "Cria política para o Pantanal que reconhece a pecuária como atividade de conservação e prevenção de incêndios",
+ "tldr": [
+  "A pecuária no Pantanal passa a ser tratada como atividade de interesse ambiental, com regras de rastreamento do rebanho, brigadas rurais privadas e possibilidade de crédito para manejo.",
+  "Pecuaristas do Pantanal, órgãos ambientais e o poder público.",
+  "Aguarda designação de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630764",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143668",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d80c57bb39e0f376",
+ "hash_tramitacao": "a018384b9b38f77a",
+ "tentativa": 1
+}

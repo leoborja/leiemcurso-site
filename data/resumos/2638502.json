@@ -1,0 +1,28 @@
+{
+ "id": 2638502,
+ "titulo": "Cria em lei a Política Nacional de Cuidados Paliativos no SUS",
+ "tldr": [
+  "Pessoas com doença que ameaça a vida passam a ter direito a avaliação para cuidados paliativos desde o diagnóstico, junto com os demais tratamentos, com apoio à família inclusive no luto.",
+  "Pacientes do SUS com doenças que ameaçam a vida, seus familiares e cuidadores, e as equipes de saúde.",
+  "Tramita junto com o PL 6279/2025 na Comissão de Saúde da Câmara, onde foi recebido em 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638502",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159970",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ed3b011ca02015e7",
+ "hash_tramitacao": "c9b82723b9178cb8",
+ "tentativa": 1
+}

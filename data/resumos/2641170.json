@@ -1,0 +1,28 @@
+{
+ "id": 2641170,
+ "titulo": "Cria programa nacional para proteger cães e outros animais domésticos sensíveis a barulho intenso",
+ "tldr": [
+  "Prevê protocolo nacional de prevenção de fugas, campanhas antes de datas festivas, cadastro voluntário de animais sensíveis a ruído e um sistema nacional de alertas.",
+  "Tutores de animais domésticos, órgãos públicos e agentes de defesa civil, segurança e fiscalização ambiental.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 2990/2026 na Câmara, por decisão da Mesa Diretora. Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641170",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165064",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "67510b985f66ab3a",
+ "hash_tramitacao": "6e1f51cb8e601787",
+ "tentativa": 1
+}

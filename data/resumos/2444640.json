@@ -1,0 +1,28 @@
+{
+ "id": 2444640,
+ "titulo": "Define condenações que impedem alguém de ser conselheiro tutelar por falta de idoneidade moral",
+ "tldr": [
+  "O Estatuto da Criança e do Adolescente passa a listar condenações definitivas, como por crimes hediondos, improbidade, violência doméstica e racismo, que afastam a idoneidade exigida do conselheiro tutelar.",
+  "Candidatos e ocupantes do cargo de conselheiro tutelar.",
+  "Aprovado nas comissões de Família e de Constituição e Justiça; texto final aprovado nesta última em 04/11/2026, sem recurso para votação em Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2444640",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2444820",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "46b75f826e234825",
+ "hash_tramitacao": "4bb6d5862bfbd305",
+ "tentativa": 1
+}

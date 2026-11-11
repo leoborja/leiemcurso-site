@@ -1,0 +1,28 @@
+{
+ "id": 2638422,
+ "titulo": "Define regras de transparência para contratos de publicidade do governo federal",
+ "tldr": [
+  "Para serem contratados, veículos e produtores de conteúdo terão de cumprir requisitos como CNPJ e regularidade fiscal. Os órgãos terão de publicar contratados, valores e critérios por dez anos e um relatório anual de gastos.",
+  "Órgãos federais, estatais controladas pela União, veículos de comunicação, portais de notícias, produtores de conteúdo e agências de publicidade.",
+  "Aguarda a escolha de relator na Comissão de Administração e Serviço Público da Câmara, que recebeu o texto em 13/10/2026. Depois segue para a Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:36:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638422",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159717",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f3e7c028ec07d221",
+ "hash_tramitacao": "534ba35bd7ddf898",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640562,
+ "titulo": "Define regras nacionais para escolas, serviços públicos e transporte coletivo agirem em ondas de calor",
+ "tldr": [
+  "Inclui o calor extremo na política de defesa civil, com níveis de alerta e medidas como mais pontos de água, mudança de horários e adaptação de prédios públicos, conforme o orçamento disponível. Vale 90 dias após a publicação.",
+  "Escolas, unidades de saúde e assistência social, serviços de transporte coletivo, União, estados e municípios, e grupos vulneráveis ao calor.",
+  "Recebido pela Comissão de Viação e Transportes da Câmara em 03/11/2026; aguarda a designação de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640562",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164316",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "5b83a91d33221ebb",
+ "hash_tramitacao": "0d3a8780d7db163b",
+ "tentativa": 1
+}

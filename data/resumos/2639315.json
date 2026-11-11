@@ -1,0 +1,28 @@
+{
+ "id": 2639315,
+ "titulo": "Cria política nacional de inclusão digital para jovens de 15 a 29 anos",
+ "tldr": [
+  "Prevê financiamento de equipamentos, cursos gratuitos de tecnologia, laboratórios e doação de computadores recondicionados, com prioridade para estudantes da rede pública e inscritos no CadÚnico, entre outros.",
+  "Jovens de 15 a 29 anos, especialmente estudantes da rede pública, inscritos no CadÚnico, jovens com deficiência e moradores da zona rural.",
+  "Está na Comissão de Ciência, Tecnologia e Inovação da Câmara, que tem relator desde 04/11/2026. O prazo para emendas foi aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639315",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162045",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d94dfc6ab1f06a76",
+ "hash_tramitacao": "3656beafbabcd54c",
+ "tentativa": 1
+}

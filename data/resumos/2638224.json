@@ -1,0 +1,28 @@
+{
+ "id": 2638224,
+ "titulo": "Obriga órgãos federais a auditar e divulgar como funcionam sistemas automatizados de decisão",
+ "tldr": [
+  "Sistemas e algoritmos usados em decisões como benefícios, filas na saúde e vagas em creches terão auditoria independente anual e divulgação de critérios; o cidadão poderá pedir revisão e recorrer.",
+  "Órgãos e empresas públicas federais e cidadãos afetados por decisões automatizadas.",
+  "Anexado ao PL 728/2026 por despacho de 27/10/2026; encaminhado à publicação em 28/10/2026. Tramita com prioridade e precisa ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638224",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159161",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f6f1fd43b9eab94f",
+ "hash_tramitacao": "ded354930f5a4e75",
+ "tentativa": 1
+}

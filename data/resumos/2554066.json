@@ -1,0 +1,28 @@
+{
+ "id": 2554066,
+ "titulo": "Proíbe concessionárias de parques públicos de cobrar por atividades sociais, culturais ou esportivas",
+ "tldr": [
+  "Empresas que administram parques não poderão cobrar por atividades sociais, culturais, esportivas ou recreativas em áreas comuns, quando essas atividades não exigirem estrutura exclusiva nem atrapalharem a circulação de outras pessoas.",
+  "Empresas que administram parques públicos e grupos e profissionais que fazem atividades nesses parques.",
+  "A Comissão de Defesa do Consumidor aprovou um texto alternativo em 12/08/2026. Desde 20/08/2026 aguarda relator na Comissão de Administração e Serviço Público."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554066",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2987359",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3237dd3c9ef84747",
+ "hash_tramitacao": "ca185166cde08157",
+ "tentativa": 1
+}

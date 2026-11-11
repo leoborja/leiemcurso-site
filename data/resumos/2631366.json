@@ -1,0 +1,28 @@
+{
+ "id": 2631366,
+ "titulo": "Permite deduzir do Imposto de Renda gastos com aparelhos auditivos e os inclui na reabilitação do INSS",
+ "tldr": [
+  "Gastos com aparelhos auditivos, consultas e terapias ligadas ao seu uso poderão ser deduzidos do Imposto de Renda até R$ 10.000,00 por ano por pessoa. O INSS passa a fornecer esses aparelhos na reabilitação profissional.",
+  "Pessoas com deficiência auditiva e seus responsáveis que declaram Imposto de Renda, segurados do INSS e a Receita Federal.",
+  "Aguarda a escolha de relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631366",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144484",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e58733c63e8f7ddb",
+ "hash_tramitacao": "cf644df5f6aa72a6",
+ "tentativa": 2
+}

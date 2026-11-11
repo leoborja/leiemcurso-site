@@ -1,0 +1,28 @@
+{
+ "id": 2531940,
+ "titulo": "Cria o Dia Nacional do Associativismo, a ser celebrado todo 15 de julho",
+ "tldr": [
+  "A data entra no calendário oficial de datas comemorativas. O texto diz que ela não vira feriado nem ponto facultativo e não gera despesa para o poder público.",
+  "Associações civis, comerciais, empresariais e comunitárias; o efeito é simbólico e geral.",
+  "A Comissão de Cultura aprovou o parecer, com texto alternativo (substitutivo), em 28/10/2026. Desde 05/11/2026 está na Comissão de Constituição e Justiça e de Cidadania, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2531940",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949013",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2f587304cb568de4",
+ "hash_tramitacao": "7113ed3c7a660427",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2449135,
+ "titulo": "Cria o Orçamento Mulher, quadro com os gastos públicos em ações para mulheres",
+ "tldr": [
+  "Os orçamentos anuais e os relatórios trimestrais de execução terão um quadro à parte com os valores de ações para mulheres. O governo federal consolida os dados do país todo uma vez por ano.",
+  "União, estados, Distrito Federal e municípios e o órgão federal responsável pelas políticas para mulheres.",
+  "Aprovado pelas comissões da Câmara, sem precisar de votação no Plenário. Enviado ao Senado em 20/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2449135",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2454749",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "715973cbf9efd2fd",
+ "hash_tramitacao": "af9f33db38037939",
+ "tentativa": 1
+}

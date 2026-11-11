@@ -1,0 +1,28 @@
+{
+ "id": 2424208,
+ "titulo": "Cria o Dia Nacional do Carreiro de Boi, celebrado em 6 de setembro",
+ "tldr": [
+  "O calendário nacional passa a ter uma data comemorativa em homenagem ao carreiro de boi, no dia 6 de setembro.",
+  "O efeito é geral, com homenagem aos carreiros de boi.",
+  "Virou a Lei 15.495/2026, publicada em 04/09/2026, após aprovação na Câmara e no Senado."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424208",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2401975",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0ade1c599010c495",
+ "hash_tramitacao": "34d30552f09dda57",
+ "tentativa": 1
+}

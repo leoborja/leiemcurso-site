@@ -1,0 +1,28 @@
+{
+ "id": 2629531,
+ "titulo": "Exige diferença mínima de 25% entre salário inicial de professor com nível médio e com nível superior",
+ "tldr": [
+  "Planos de carreira do magistério público passam a ter diferença mínima de 25% no vencimento inicial entre formação de nível médio e licenciatura. A adequação é feita em 180 dias e o aumento entra em três parcelas anuais.",
+  "Professores da educação básica pública e os estados, o Distrito Federal e os municípios.",
+  "Está na Comissão de Educação da Câmara, que designou relator em 04/11/2026. O prazo para emendas foi aberto na mesma data."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629531",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3140481",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f5865a2ae4644834",
+ "hash_tramitacao": "30c1365b04fe9d05",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2632457,
+ "titulo": "Cria programa e fundo federal para pagar a defesa jurídica de policiais processados por atos em serviço",
+ "tldr": [
+  "Policiais processados por atos em serviço passam a ter defesa paga com dinheiro público, por órgão público ou advogado credenciado. A ajuda não significa reconhecer inocência nem impede a investigação.",
+  "Policiais militares, civis, federais, rodoviários federais e penais, bombeiros militares e guardas municipais, além da União e dos entes que aderirem.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara; relator designado em 28/10/2026 e prazo para emendas aberto em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632457",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146809",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "523075b9e51629f4",
+ "hash_tramitacao": "366519d942bb7a72",
+ "tentativa": 2
+}

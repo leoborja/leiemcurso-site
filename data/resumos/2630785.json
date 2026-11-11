@@ -1,0 +1,28 @@
+{
+ "id": 2630785,
+ "titulo": "Cria política de incentivo à tecnologia assistiva e à mobilidade para pessoas com deficiência",
+ "tldr": [
+  "Prevê crédito e redução de tributos para tecnologia assistiva, incentivo a empresas que adaptem postos de trabalho e obriga cidades com plano diretor a criar observatórios de acessibilidade.",
+  "Pessoas com deficiência e neurodivergentes, empresas do setor, municípios com plano diretor e a União.",
+  "Aguarda designação de relator na Comissão de Desenvolvimento Urbano da Câmara desde 18/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630785",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143697",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e7e250bfc4cec041",
+ "hash_tramitacao": "7def1c0cd3c6ddf5",
+ "tentativa": 1
+}

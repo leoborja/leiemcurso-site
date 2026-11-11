@@ -1,0 +1,28 @@
+{
+ "id": 2640979,
+ "titulo": "Cria programa de investimento público junto com capital privado em startups da Amazônia",
+ "tldr": [
+  "O poder público poderá investir em startups e pequenas e médias empresas inovadoras ligadas à bioeconomia da Amazônia. Esse investimento só acontece se houver também dinheiro privado e será operado por bancos públicos de fomento.",
+  "Startups e pequenas e médias empresas de tecnologia da Região Amazônica, investidores privados e agências financeiras oficiais.",
+  "Tramita junto com outro projeto (PL 6209/2025), por decisão da Mesa da Câmara de 29/10/2026. Será analisado nas comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640979",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164746",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4327926b76627ff3",
+ "hash_tramitacao": "f6b5d8a3f0b2eef2",
+ "tentativa": 1
+}

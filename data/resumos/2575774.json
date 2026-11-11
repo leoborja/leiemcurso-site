@@ -1,0 +1,28 @@
+{
+ "id": 2575774,
+ "titulo": "Cobra tributos federais de casas de apostas que operaram no país nos últimos 5 anos sem autorização",
+ "tldr": [
+  "Operadores de apostas teriam de declarar receitas à Receita Federal e pagar IRPJ, CSLL, PIS e Cofins retroativos, com multa de 100%, ou 150% se não pagassem.",
+  "Empresas de apostas de quota fixa que ofertaram apostas a residentes no Brasil, inclusive com sede no exterior.",
+  "Rejeitado na Comissão de Finanças e Tributação em 02/09/2026. Sem recurso, foi arquivado em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2575774",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3029076",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a36239140a8f4698",
+ "hash_tramitacao": "cac560e6f0b012b2",
+ "tentativa": 1
+}

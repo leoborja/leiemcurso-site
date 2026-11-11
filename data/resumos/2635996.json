@@ -1,0 +1,28 @@
+{
+ "id": 2635996,
+ "titulo": "Permite que segurados do INSS escolham o cálculo da aposentadoria que considera todas as contribuições",
+ "tldr": [
+  "Quem se filiou até 28/11/1999 pode optar pela regra que inclui contribuições anteriores a julho de 1994, se for mais vantajosa. Benefícios concedidos até 12/11/2019 são revistos, sem pagamento de atrasados.",
+  "Segurados do INSS filiados até 28/11/1999 que cumpriram os requisitos antes da reforma da Previdência de 2019 e aposentados com benefício ativo concedido nesse período.",
+  "Tramita junto com o PL 3817/2025 na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara desde 27/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635996",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154716",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dacb2dce5f66cb3f",
+ "hash_tramitacao": "3b8ef4eeac5698ed",
+ "tentativa": 2
+}

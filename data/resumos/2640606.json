@@ -1,0 +1,28 @@
+{
+ "id": 2640606,
+ "titulo": "Inclui na lei da educação regras para buscar e matricular jovens, adultos e idosos que não terminaram a escola",
+ "tldr": [
+  "Os sistemas de ensino passam a identificar quem não concluiu a educação básica, ajudar na matrícula e acompanhar a permanência, sem matrícula obrigatória e com limites para o uso de dados pessoais.",
+  "Jovens, adultos e idosos sem educação básica completa e redes de ensino da União, dos estados, do Distrito Federal e dos municípios.",
+  "Aguarda escolha de relator na Comissão de Educação da Câmara, que a recebeu em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640606",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164360",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "43c712f0ab11806b",
+ "hash_tramitacao": "51c98ac088561287",
+ "tentativa": 1
+}

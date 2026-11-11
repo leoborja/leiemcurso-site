@@ -1,0 +1,28 @@
+{
+ "id": 2353617,
+ "titulo": "Cria campanha nacional sobre engasgo e obriga a afixar cartazes sobre manobras de desengasgo",
+ "tldr": [
+  "Escolas, locais de lazer infantil e estabelecimentos que vendem comida para consumo no local terão de afixar cartazes sobre como desengasgar alguém. Cria a campanha Recrutando Anjos e muda o Estatuto da Criança.",
+  "Escolas, buffets infantis, parques, clubes, hotéis, restaurantes e seus frequentadores.",
+  "A Câmara aprovou a versão do Senado em 15/10/2026. O texto foi enviado para sanção ou veto do Presidente da República em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2353617",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2250225",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ce659b8e0c4a818d",
+ "hash_tramitacao": "4d3fa7d4151aaff6",
+ "tentativa": 2
+}

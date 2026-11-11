@@ -1,0 +1,28 @@
+{
+ "id": 2637108,
+ "titulo": "Cria painel nacional público com dados mensais sobre feminicídio e violência contra a mulher",
+ "tldr": [
+  "Órgãos federais e conselhos de Justiça terão de publicar até o dia 15 de cada mês dados sobre feminicídios, medidas protetivas, inquéritos e processos. O painel será coordenado pelo Ministério das Mulheres.",
+  "Ministério das Mulheres, Ministério da Justiça e Segurança Pública, Conselho Nacional de Justiça, Conselho Nacional do Ministério Público e, no que couber, estados e municípios.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado, que abriu prazo para emendas em 29/10/2026. Outro projeto, o PL 4836/2026, tramita junto com este."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637108",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157090",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e20159964d7cb677",
+ "hash_tramitacao": "c2e6842be028489d",
+ "tentativa": 1
+}

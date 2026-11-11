@@ -1,0 +1,28 @@
+{
+ "id": 2492017,
+ "titulo": "Cria carteira de identificação da pessoa com adenomiose, com direito a atendimento prioritário",
+ "tldr": [
+  "Cria uma carteira gratuita, válida por 5 anos, que dá a pessoas com adenomiose prioridade no atendimento e vagas de estacionamento. Os estabelecimentos poderão usar a fita roxa para indicar essa prioridade.",
+  "Pessoas com adenomiose, estabelecimentos públicos e privados e os órgãos de saúde da mulher de estados, municípios e Distrito Federal.",
+  "A Comissão de Defesa dos Direitos da Mulher aprovou o parecer com texto alternativo em 04/11/2026. O texto aguarda envio à próxima etapa."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2492017",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2876746",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6f7237d9d7470dbe",
+ "hash_tramitacao": "8a6accf397df20b1",
+ "tentativa": 1
+}

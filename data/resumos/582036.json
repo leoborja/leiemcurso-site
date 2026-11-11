@@ -1,0 +1,28 @@
+{
+ "id": 582036,
+ "titulo": "Define novas regras para as taxas cobradas em processos na Justiça Federal e cria fundo próprio",
+ "tldr": [
+  "Substitui a lei de 1996 sobre as taxas de processos na Justiça Federal, com novos valores, casos de isenção e reajuste anual. Também cria o Fundo Especial da Justiça Federal.",
+  "Quem entra com ações ou recorre na Justiça Federal, órgãos públicos isentos e a própria Justiça Federal.",
+  "Virou a Lei 15.498/2026, publicada em 04/09/2026, com vetos a parte do texto. A Câmara aprovou a versão do Senado em 12/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=582036",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1103080",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "22aa877882321584",
+ "hash_tramitacao": "773b00a4d7160e34",
+ "tentativa": 1
+}

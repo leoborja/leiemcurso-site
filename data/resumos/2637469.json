@@ -1,0 +1,28 @@
+{
+ "id": 2637469,
+ "titulo": "Cria a Semana Nacional de Conscientização da Fibromialgia na semana de 12 de maio",
+ "tldr": [
+  "Todo ano, na semana do dia 12 de maio, órgãos públicos poderão fazer palestras, campanhas e outras atividades sobre a fibromialgia, em parceria com entidades.",
+  "Pessoas com fibromialgia, profissionais de saúde e órgãos públicos.",
+  "Tramita junto com o PL 3221/2026 na Comissão de Saúde da Câmara desde 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637469",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157714",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4a08f655cc3f46e5",
+ "hash_tramitacao": "f63718fa33e27cad",
+ "tentativa": 1
+}

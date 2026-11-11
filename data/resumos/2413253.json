@@ -1,0 +1,28 @@
+{
+ "id": 2413253,
+ "titulo": "Cria o Dia Nacional do Linfedema, em 6 de março",
+ "tldr": [
+  "Passa a existir no calendário oficial uma data anual, em 6 de março, dedicada ao linfedema, doença que causa inchaço pelo acúmulo de linfa.",
+  "O efeito é geral: a data entra no calendário nacional.",
+  "Aprovado na Comissão de Saúde em 26/11/2024, com mudança no texto, e na Comissão de Constituição e Justiça e de Cidadania em 04/11/2026. Aguarda os próximos passos de tramitação."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2413253",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2376008",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6ecf969f6d0b0463",
+ "hash_tramitacao": "8a3f961a87044c00",
+ "tentativa": 1
+}

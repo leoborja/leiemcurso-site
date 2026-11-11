@@ -1,0 +1,28 @@
+{
+ "id": 2640885,
+ "titulo": "Obriga empregadores a colocar avisos visíveis em locais de trabalho monitorados por câmeras",
+ "tldr": [
+  "Ambientes de trabalho com câmeras devem ter aviso antes da entrada, informando o monitoramento, a finalidade e o responsável pelos dados. Quem descumprir fica sujeito às sanções da Lei Geral de Proteção de Dados.",
+  "Empregadores com monitoramento por câmeras, trabalhadores e demais pessoas que circulam nesses locais.",
+  "Tramita junto com o PL 7160/2025 (apensado) por decisão da Mesa da Câmara em 29/10/2026. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640885",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164651",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "54ecedfc905e7664",
+ "hash_tramitacao": "5e50966f804f5a31",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2620135,
+ "titulo": "Obriga escolas de educação básica a trocar sirenes por sinais sonoros suaves",
+ "tldr": [
+  "Escolas de educação básica devem substituir as sirenes tradicionais por sinais musicais ou sonoros suaves, para proteger alunos com autismo que têm sensibilidade a sons.",
+  "Escolas de educação básica e alunos com transtorno do espectro autista.",
+  "Aprovado na Comissão de Educação em 28/10/2026, aguarda parecer na Comissão de Defesa dos Direitos das Pessoas com Deficiência, com prazo para emendas aberto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620135",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3120909",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "0592c172ef8d1446",
+ "hash_tramitacao": "2626ddedf2b4a347",
+ "tentativa": 1
+}

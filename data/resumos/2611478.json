@@ -1,0 +1,28 @@
+{
+ "id": 2611478,
+ "titulo": "Cria regras para pessoas controlarem e serem remuneradas pelo uso comercial de seus dados",
+ "tldr": [
+  "Cria um sistema de compartilhamento e venda de dados pessoais com consentimento do titular e altera a Lei Geral de Proteção de Dados, o Código Civil e regras tributárias sobre essas operações.",
+  "Titulares de dados, plataformas de internet e empresas que coletam, guardam ou compartilham dados pessoais.",
+  "Aguarda designação de relator na Comissão de Defesa do Consumidor da Câmara, onde chegou em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611478",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3103416",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "881c509ece32283b",
+ "hash_tramitacao": "de4375a88571b157",
+ "tentativa": 1
+}

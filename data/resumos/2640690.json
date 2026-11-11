@@ -1,0 +1,28 @@
+{
+ "id": 2640690,
+ "titulo": "Torna abuso de autoridade manter registro criminal errado de pessoa confundida pelo nome",
+ "tldr": [
+  "Passa a ser crime, com detenção de 6 meses a 2 anos e multa, manter ou deixar de corrigir de propósito registro que ligue alguém a crime por confusão de nome. O prazo para corrigir é de até 15 dias úteis.",
+  "Autoridades e servidores que mantêm bancos de dados públicos e pessoas registradas por engano por terem o mesmo nome de outra.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara desde 05/11/2026. Depois precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640690",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164444",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "70bbc71721b2e878",
+ "hash_tramitacao": "9ac8cfa3cfc7b9a8",
+ "tentativa": 1
+}

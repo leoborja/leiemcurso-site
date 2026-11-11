@@ -1,0 +1,28 @@
+{
+ "id": 2637612,
+ "titulo": "Cria o Dia da Família dos Operadores da Segurança Pública, celebrado todo ano em 18 de agosto",
+ "tldr": [
+  "Passa a existir uma data nacional em 18 de agosto, em que órgãos públicos e entidades da sociedade civil poderão promover atividades educativas, culturais, esportivas e de integração.",
+  "Profissionais da segurança pública e suas famílias, além de órgãos públicos e entidades que queiram organizar atividades na data.",
+  "Está na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026 e abriu prazo para emendas em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637612",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157943",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b5cf564b443c1e22",
+ "hash_tramitacao": "62aa78a08a685029",
+ "tentativa": 1
+}

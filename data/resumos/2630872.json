@@ -1,0 +1,28 @@
+{
+ "id": 2630872,
+ "titulo": "Cria política nacional de qualificação, crédito e formalização para costureiras e trabalhadores da confecção",
+ "tldr": [
+  "Define diretrizes para cursos, crédito produtivo, preferência em compras públicas de uniformes e rastreamento de condições de trabalho na cadeia da confecção, sem criação automática de cargos ou órgãos.",
+  "Costureiras, costureiros, faccionistas, microempreendedores, cooperativas e pequenos negócios de confecção, além dos governos federal, estaduais e municipais.",
+  "Aguarda escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara, onde chegou em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630872",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143856",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b43df6ba849d35a4",
+ "hash_tramitacao": "c12a19f0f61f3292",
+ "tentativa": 1
+}

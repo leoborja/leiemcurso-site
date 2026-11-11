@@ -1,0 +1,28 @@
+{
+ "id": 2636067,
+ "titulo": "Exige que o consumidor tente resolver o problema com a empresa antes de entrar na Justiça",
+ "tldr": [
+  "Ações de consumo passam a exigir prova simples de tentativa prévia de solução, com exceções; empresas devem manter canais gratuitos e responder em até 10 dias úteis, sob pena de sanções.",
+  "Consumidores que processam empresas, fornecedores de produtos e serviços, Procons, Senacon e agências reguladoras.",
+  "Aguarda designação de relator na Comissão de Defesa do Consumidor da Câmara desde 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636067",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154802",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "58694c6d162ad17c",
+ "hash_tramitacao": "2dd69b599922a8e3",
+ "tentativa": 1
+}

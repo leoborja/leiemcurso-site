@@ -1,0 +1,28 @@
+{
+ "id": 2630113,
+ "titulo": "Cria programa nacional de incentivo à coleta seletiva de lixo nas residências",
+ "tldr": [
+  "A União passa a apoiar técnica e financeiramente municípios e estados que aderirem. Prevê descontos em tarifas, selo de reconhecimento e crédito para reciclagem, com prioridade a municípios com pouca coleta seletiva.",
+  "Moradores que separam recicláveis, cooperativas de catadores, municípios, estados e a União.",
+  "Aguarda escolha de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara desde 20/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630113",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3142396",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "12bf84d6b077488e",
+ "hash_tramitacao": "cd6c5f4db50bb843",
+ "tentativa": 1
+}

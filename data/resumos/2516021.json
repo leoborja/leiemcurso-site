@@ -1,0 +1,28 @@
+{
+ "id": 2516021,
+ "titulo": "Proíbe aplicar o princípio da insignificância a crimes de violência doméstica contra a mulher",
+ "tldr": [
+  "A Lei Maria da Penha passa a proibir expressamente que crimes e contravenções contra a mulher em violência doméstica e familiar sejam considerados irrelevantes pela Justiça por causarem pouco dano.",
+  "Mulheres vítimas de violência doméstica e familiar, acusados desses crimes e juízes e tribunais.",
+  "Aprovado pelas comissões da Câmara, sem ir ao Plenário, e enviado ao Senado em 20/10/2026, onde aguarda análise."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:37Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516021",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2917343",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6baf214b6cda4b8f",
+ "hash_tramitacao": "7ebfaa920a1a6c55",
+ "tentativa": 1
+}

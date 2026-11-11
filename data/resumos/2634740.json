@@ -1,0 +1,28 @@
+{
+ "id": 2634740,
+ "titulo": "Cria a Universidade Federal do Xingu, com sede em Altamira (PA), a partir da Universidade Federal do Pará",
+ "tldr": [
+  "O campus de Altamira da Universidade Federal do Pará passa a formar a nova universidade, que recebe automaticamente seus cursos, alunos e cargos. A atuação se concentra em municípios da região do Xingu.",
+  "Alunos, servidores e cursos do campus de Altamira da Universidade Federal do Pará e municípios da região do Xingu, no Pará.",
+  "Veio do Senado. Em 13/08/2026, o Plenário da Câmara aprovou por unanimidade que tramite com prioridade; está pronto para votação no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634740",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151520",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3263a032af46d73e",
+ "hash_tramitacao": "7319eb0e6253de3f",
+ "tentativa": 2
+}

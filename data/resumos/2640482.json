@@ -1,0 +1,28 @@
+{
+ "id": 2640482,
+ "titulo": "Obriga restaurantes a informar o peso de carnes e peixes depois de prontos quando cobram por peso",
+ "tldr": [
+  "Quando o preço da carne, do peixe ou do frutos do mar depender do peso, o cardápio, a oferta e a nota fiscal devem mostrar o peso da porção pronta. Fica proibido cobrar só pelo peso cru sem informar quanto rende.",
+  "Restaurantes, churrascarias e outros serviços de alimentação, e seus clientes.",
+  "Tramita junto com o PL 3789/2026 e foi recebida pela Comissão de Defesa do Consumidor da Câmara em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640482",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164236",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "099095d7c42b399e",
+ "hash_tramitacao": "b6deb11e3cd3f65c",
+ "tentativa": 1
+}

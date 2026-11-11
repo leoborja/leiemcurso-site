@@ -1,0 +1,28 @@
+{
+ "id": 2637603,
+ "titulo": "Cria multas para pais ou responsáveis por atos de indisciplina de alunos menores de idade na escola",
+ "tldr": [
+  "Agressões, ameaças, danos e porte de objetos perigosos na escola podem gerar multa aos pais de R$ 50,00 a R$ 10.000,00, conforme a gravidade, após processo administrativo com direito de defesa.",
+  "Pais ou responsáveis por alunos menores de idade da educação básica, escolas públicas e privadas, estados, Distrito Federal e municípios.",
+  "Aguarda a escolha de relator na Comissão de Educação da Câmara, onde chegou em 08/09/2026. Depois segue para a Comissão de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:47Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637603",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157919",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "3a46a415b1f37e56",
+ "hash_tramitacao": "e739a799905564f3",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2349629,
+ "titulo": "Permite que professores usem o transporte escolar público em trechos autorizados e com assentos vagos",
+ "tldr": [
+  "Estados e municípios passam a poder liberar o uso dos veículos do transporte escolar por professores da própria rede, só em trechos autorizados e quando houver lugares vagos. A prioridade continua sendo dos alunos.",
+  "Alunos e professores das redes estaduais e municipais de ensino, além dos estados e municípios que oferecem transporte escolar.",
+  "A Câmara aprovou o texto em 14/10/2025. O Senado o mudou e devolveu à Câmara em 04/09/2026. Agora o Plenário da Câmara precisa analisar essas mudanças."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349629",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2238475",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "2cfdb9f134822ed0",
+ "hash_tramitacao": "c61e0c426c441622",
+ "tentativa": 1
+}

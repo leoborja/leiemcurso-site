@@ -1,0 +1,28 @@
+{
+ "id": 2543173,
+ "titulo": "Define em lei os serviços das Casas da Mulher Brasileira para vítimas de violência doméstica",
+ "tldr": [
+  "As Casas devem oferecer atendimento psicológico e social, alojamento provisório, espaço infantil e acesso a delegacias, juizados e defensorias; o orçamento anual deve ter rubrica própria para elas.",
+  "Mulheres e crianças vítimas de violência doméstica, Casas da Mulher Brasileira, estados, municípios e órgãos de justiça e segurança.",
+  "Aprovado com substitutivo na Comissão de Defesa dos Direitos da Mulher da Câmara em 04/11/2026; aguarda encaminhamento."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543173",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971672",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "504ace65e5b96005",
+ "hash_tramitacao": "5f048a5b63a70021",
+ "tentativa": 1
+}

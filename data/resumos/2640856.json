@@ -1,0 +1,28 @@
+{
+ "id": 2640856,
+ "titulo": "Proíbe concessionárias de serviço público de exigir só aplicativo ou meio digital para pagamento e acesso",
+ "tldr": [
+  "Serviços concedidos que cobram tarifa do usuário devem oferecer também meios físicos ou presenciais de pagamento e acesso. Contratos em vigor têm até 540 dias para se adaptar.",
+  "Usuários de serviços públicos concedidos, como estacionamento rotativo, e as empresas concessionárias e permissionárias.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 4174/2026 (apensado), em análise nas comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640856",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164616",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b7a77f070c91b882",
+ "hash_tramitacao": "09df426571b2029c",
+ "tentativa": 1
+}

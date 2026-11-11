@@ -1,0 +1,28 @@
+{
+ "id": 2451296,
+ "titulo": "Cria política nacional para hipertensão pulmonar e passa a considerar quem tem a doença pessoa com deficiência",
+ "tldr": [
+  "Prevê diagnóstico precoce, acompanhamento, apoio psicológico e social, tratamento gratuito e reabilitação. Pessoas com hipertensão pulmonar passam a ser consideradas pessoas com deficiência, se cumprirem os critérios da lei.",
+  "Pessoas com hipertensão arterial pulmonar e com hipertensão pulmonar tromboembólica crônica, além do sistema público de saúde.",
+  "Foi aprovado em quatro comissões da Câmara, a última delas a de Constituição e Justiça, em 01/09/2026. O prazo para recurso acabou em 28/10/2026 sem pedidos. Aguarda a versão final do texto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2451296",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2460561",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ff0daadbe0be0da7",
+ "hash_tramitacao": "33e27db1b2de4a87",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2629875,
+ "titulo": "Declara o Museu do Flamengo, no Rio de Janeiro, bem de interesse cultural e turístico do Brasil",
+ "tldr": [
+  "O Museu do Flamengo, no bairro da Lagoa, no Rio de Janeiro, passa a ser reconhecido como bem de interesse cultural e turístico do país e entra na Rota do Turismo Nacional.",
+  "O Museu do Flamengo e o Clube de Regatas do Flamengo, no Município do Rio de Janeiro.",
+  "Recebido pela Comissão de Turismo da Câmara em 19/08/2026, aguarda a escolha de relator. Em 12/06/2026 foi apresentado pedido para que tramite com prioridade."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629875",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3141567",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6c2fe749b5176744",
+ "hash_tramitacao": "fee81c110525f43d",
+ "tentativa": 1
+}

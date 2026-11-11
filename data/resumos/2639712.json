@@ -1,0 +1,28 @@
+{
+ "id": 2639712,
+ "titulo": "Cria meios de financiar e manter patentes de universidades e institutos públicos de pesquisa",
+ "tldr": [
+  "Recursos do fundo nacional de ciência poderão pagar a manutenção de patentes estratégicas. Antes de abandonar uma patente, a instituição terá de avisar o Ministério da Ciência. Empresas parceiras ganham desconto no imposto.",
+  "Universidades e institutos públicos de pesquisa, o Ministério da Ciência, Tecnologia e Inovação e empresas que façam parcerias com eles.",
+  "Aguarda escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara desde 03/11/2026. Tramita junto com o PL 4017/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639712",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162799",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "deee0c056a12c3db",
+ "hash_tramitacao": "11803f89c2d24621",
+ "tentativa": 1
+}

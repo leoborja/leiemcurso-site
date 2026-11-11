@@ -1,0 +1,28 @@
+{
+ "id": 2641576,
+ "titulo": "Permite que a Justiça proíba investigados e condenados de usar redes sociais",
+ "tldr": [
+  "A suspensão de redes sociais passaria a ser medida alternativa à prisão, pena e efeito da condenação, e o condenado teria de deixar de usá-las, pessoalmente ou por terceiros, quando a Justiça determinar.",
+  "Investigados e condenados em processos criminais e juízes criminais.",
+  "Retirado a pedido do autor em 15/09/2026. Em 26/10/2026 houve despacho de distribuição à Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641576",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165990",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "cbc65799ad651eb4",
+ "hash_tramitacao": "b14c365069c688e1",
+ "tentativa": 1
+}

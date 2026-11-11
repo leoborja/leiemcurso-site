@@ -1,0 +1,28 @@
+{
+ "id": 2635085,
+ "titulo": "Permite que associações de proteção mútua do transporte de carga façam a própria gestão",
+ "tldr": [
+  "As associações deixam de ter de contratar uma administradora e passam a seguir regras de governança e separação de recursos. Seu certificado passa a valer como o seguro de responsabilidade civil exigido do transportador.",
+  "Associações de proteção patrimonial mutualista do transporte rodoviário de carga, transportadores associados e a Superintendência de Seguros Privados.",
+  "Aguarda parecer na Comissão de Viação e Transportes da Câmara. O prazo para emendas terminou em 28/10/2026, sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635085",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3152097",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ba4193695d592609",
+ "hash_tramitacao": "e46ebbdd07fb2894",
+ "tentativa": 2
+}

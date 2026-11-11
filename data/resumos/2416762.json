@@ -1,0 +1,28 @@
+{
+ "id": 2416762,
+ "titulo": "Dá o nome de Afro Stefanini ao Terminal Ferroviário de Rondonópolis, em Mato Grosso",
+ "tldr": [
+  "O Terminal Ferroviário de Rondonópolis, na Ferronorte, passa a se chamar oficialmente Afro Stefanini.",
+  "O Terminal Ferroviário de Rondonópolis, em Mato Grosso.",
+  "Veio do Senado e está na Câmara para revisão. Aprovado na Comissão de Viação e Transportes em 02/09/2026; desde 04/09/2026 aguarda relator na Comissão de Cultura."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416762",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2382691",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e1fe886fc2926454",
+ "hash_tramitacao": "9418550ebae4a5be",
+ "tentativa": 1
+}

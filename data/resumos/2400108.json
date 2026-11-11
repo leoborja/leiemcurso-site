@@ -1,0 +1,28 @@
+{
+ "id": 2400108,
+ "titulo": "Define idade, pontos e tempo de exposição para aposentadoria especial no INSS",
+ "tldr": [
+  "Cria regras de pontos e de idade mínima diferentes para mulheres e homens, com 15, 20 ou 25 anos de exposição a agentes nocivos. Inclui vigilantes e guardas municipais e cria regras de transição para quem já contribuía antes de 2019.",
+  "Trabalhadores do INSS expostos a agentes químicos, físicos e biológicos, vigilantes, profissionais de transporte de valores e guardas municipais.",
+  "Tramita junto com o PLP 42/2023 (apensada), que teve urgência aprovada no Plenário em 12/08/2026. Relator designado na Comissão de Constituição e Justiça em 04/11/2026. O registro da Câmara indica situação arquivada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:23Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400108",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2352899",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "85a1729304d46ca0",
+ "hash_tramitacao": "69e78b35e84e2323",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641546,
+ "titulo": "Amplia em até R$ 13.500.000.000,00 o crédito do Plano Brasil Soberano para empresas exportadoras",
+ "tldr": [
+  "Permite usar valores devolvidos à União e recursos do BNDES nas linhas de crédito a exportadores. O plano de uso do dinheiro passa a ser aprovado por conselho de ministérios.",
+  "Empresas exportadoras e seus fornecedores atendidos pelas linhas de crédito, o BNDES e a União.",
+  "Medida provisória em vigor desde 22/07/2026. A comissão mista do Congresso aprovou parecer em 05/11/2026. O prazo para o Congresso votar vai até 18/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641546",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166455",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7b441f18af5aceb7",
+ "hash_tramitacao": "3d5d29c4dbc3435c",
+ "tentativa": 2
+}

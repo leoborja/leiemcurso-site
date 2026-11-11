@@ -1,0 +1,28 @@
+{
+ "id": 2640710,
+ "titulo": "Torna infração sanitária manipular ou vender remédios do tipo GLP-1 sem registro ou fora das regras sanitárias",
+ "tldr": [
+  "Manipular, fabricar, fracionar ou vender remédios para obesidade e diabetes do tipo GLP-1 sem registro ou fora das condições aprovadas pela vigilância sanitária passa a ser infração sujeita às penas da lei sanitária.",
+  "Farmácias de manipulação, fabricantes, vendedores e quem expõe à venda esses medicamentos, além dos pacientes que os usam.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 06/11/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640710",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164464",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "bde0af7544a27c3d",
+ "hash_tramitacao": "f01909559a4dea3c",
+ "tentativa": 1
+}

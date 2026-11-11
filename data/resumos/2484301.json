@@ -1,0 +1,28 @@
+{
+ "id": 2484301,
+ "titulo": "Permite usar uma marca sem registro após uso longo e sem contestação do dono do registro",
+ "tldr": [
+  "O direito de usar uma marca passa a ser reconhecido quando ela foi usada por muito tempo sem contestação e o titular do registro não reagiu, desde que os negócios estejam distantes e não haja prejuízo comprovado.",
+  "Empresas que usam marcas sem registro e titulares de marcas registradas.",
+  "Aprovado na Comissão de Indústria, Comércio e Serviços em 03/11/2026. Desde 05/11/2026 está na Comissão de Constituição e Justiça e aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2484301",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2856742",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "aa01651a76a807fb",
+ "hash_tramitacao": "f693130e29e89324",
+ "tentativa": 1
+}

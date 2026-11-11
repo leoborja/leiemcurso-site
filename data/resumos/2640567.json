@@ -1,0 +1,28 @@
+{
+ "id": 2640567,
+ "titulo": "Garante acompanhamento psicológico por no mínimo 12 meses a mulheres vítimas de violência doméstica",
+ "tldr": [
+  "A Lei Maria da Penha passa a prever acompanhamento psicológico contínuo por pelo menos 12 meses, quando houver indicação técnica, com possibilidade de prorrogação e integração à rede de saúde e assistência.",
+  "Mulheres em situação de violência doméstica e familiar e os serviços de saúde e assistência social.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640567",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164321",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d61104f41939e85d",
+ "hash_tramitacao": "30f5b6e0f10b161d",
+ "tentativa": 1
+}

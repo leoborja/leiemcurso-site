@@ -1,0 +1,28 @@
+{
+ "id": 2412125,
+ "titulo": "Inclui o nome do humorista Chico Anysio no Livro dos Heróis e Heroínas da Pátria",
+ "tldr": [
+  "O nome de Francisco Anysio de Oliveira Paula Filho, o Chico Anysio, passa a ser registrado no livro guardado no Panteão da Pátria e da Liberdade Tancredo Neves, em Brasília.",
+  "O efeito é simbólico e não atinge diretamente nenhum grupo.",
+  "Aprovado na Comissão de Cultura em 12/08/2026. Aguarda relator na Comissão de Constituição e Justiça desde 13/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:59:24Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2412125",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2373962",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8820c8585f0cff7f",
+ "hash_tramitacao": "5ecdb0fc75eb1117",
+ "tentativa": 1
+}

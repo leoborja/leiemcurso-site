@@ -1,0 +1,28 @@
+{
+ "id": 2648384,
+ "titulo": "Cria sistema eleitoral misto para eleger deputados e vereadores",
+ "tldr": [
+  "Metade das vagas iria aos candidatos mais votados. A outra metade seria distribuída pelos votos dos partidos, seguindo listas ordenadas por eles, com uma candidatura de sexo distinto a cada três posições.",
+  "Eleitores, partidos e candidatos a deputado federal, estadual, distrital e vereador.",
+  "Retirado pelo autor em 28/10/2026, a pedido feito em 20/10/2026. Não tramita mais."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648384",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3184985",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7e36bdb65558d75b",
+ "hash_tramitacao": "04ba875b8737faee",
+ "tentativa": 1
+}

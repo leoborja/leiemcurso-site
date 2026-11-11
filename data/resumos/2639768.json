@@ -1,0 +1,28 @@
+{
+ "id": 2639768,
+ "titulo": "Obriga operadoras de celular a compartilhar redes com clientes de outras empresas em emergências e desastres",
+ "tldr": [
+  "Em calamidades ou quedas de rede por mais de quatro horas, o celular passa a usar automaticamente a rede de outra operadora, sem cobrança extra para chamadas, SMS e internet básica. As operadoras também passam a ter planos de continuidade.",
+  "Usuários de telefonia móvel, operadoras de telecomunicações, Anatel, Defesa Civil e serviços de emergência.",
+  "Recebido pela Comissão de Integração Nacional e Desenvolvimento Regional da Câmara em 03/11/2026, aguarda a escolha de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639768",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162870",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8b1fcf290b9037f7",
+ "hash_tramitacao": "dd76919c33ec0ca1",
+ "tentativa": 1
+}

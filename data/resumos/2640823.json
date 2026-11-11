@@ -1,0 +1,28 @@
+{
+ "id": 2640823,
+ "titulo": "Obriga concursos e seleções federais a divulgar critérios e justificar eliminações",
+ "tldr": [
+  "Órgãos federais terão de definir e divulgar antes os critérios de avaliação, publicar as notas, justificar eliminações e respostas a recursos e registrar as avaliações. Vale para editais publicados depois que a lei entrar em vigor.",
+  "Candidatos e órgãos da administração pública federal, incluindo instituições federais de ensino.",
+  "Em análise na Câmara. Em 29/10/2026, a Mesa Diretora determinou que tramite junto com o PL 3084/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640823",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164578",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8fcd42880ccbf633",
+ "hash_tramitacao": "2ebc8d6c05a37b13",
+ "tentativa": 1
+}

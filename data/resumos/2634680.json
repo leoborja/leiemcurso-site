@@ -1,0 +1,28 @@
+{
+ "id": 2634680,
+ "titulo": "Cria um sistema nacional de padrões para troca de dados sobre ativos financeiros, recebíveis e garantias",
+ "tldr": [
+  "Define regras comuns para que registradoras, custodiantes e instituições financeiras troquem dados sobre quem é dono de ativos e créditos e sobre garantias ligadas a eles. O texto não cria um registro único e central.",
+  "Instituições financeiras e de pagamento, registradoras, custodiantes, escrituradores, prestadores de tecnologia e órgãos reguladores do mercado financeiro.",
+  "Aguarda parecer da relatora na Comissão de Desenvolvimento Econômico da Câmara. O prazo para emendas terminou em 05/11/2026 sem nenhuma emenda apresentada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634680",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151439",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "50b0066b9635aca2",
+ "hash_tramitacao": "1870084f3eb89608",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2600838,
+ "titulo": "Cria regime tributário especial para empresas que instalam ou ampliam datacenters no Brasil",
+ "tldr": [
+  "Empresas de datacenter habilitadas recebem benefícios fiscais se cumprirem metas como oferecer ao menos 10% da capacidade ao mercado interno, usar energia limpa e investir 2% em pesquisa. Multas de outra lei vão para fundo da criança.",
+  "Empresas de datacenter e fornecedoras de equipamentos de tecnologia, além da Receita Federal.",
+  "Aprovado na Câmara em 24/02/2026 e depois no Senado. Virou a Lei 15.504/2026, publicada em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:39:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600838",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078531",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f8ec0a8d6d038e93",
+ "hash_tramitacao": "f4e6a8afc8ffdbdd",
+ "tentativa": 1
+}

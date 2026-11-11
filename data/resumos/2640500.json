@@ -1,0 +1,28 @@
+{
+ "id": 2640500,
+ "titulo": "Inclui a prevenção ao burnout entre os critérios do certificado de empresa promotora da saúde mental",
+ "tldr": [
+  "Para dar ou manter o Certificado Empresa Promotora da Saúde Mental, poderão ser consideradas ações da empresa contra o esgotamento profissional (burnout) em trabalhos de alta exigência.",
+  "Empresas que pedem ou têm o Certificado Empresa Promotora da Saúde Mental e seus trabalhadores.",
+  "Aguarda designação de relator na Comissão de Saúde da Câmara, que recebeu o projeto em 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640500",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164254",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "38b1766d93bf9f5e",
+ "hash_tramitacao": "17885a303e9fdaaa",
+ "tentativa": 2
+}

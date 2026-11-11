@@ -1,0 +1,28 @@
+{
+ "id": 2638380,
+ "titulo": "Cria política de proteção e requalificação de trabalhadores afetados por mudanças tecnológicas e produtivas",
+ "tldr": [
+  "Empresas com 100 ou mais empregados terão de fazer plano de transição e requalificação antes de mudanças que afetem muitos postos ou de demissões coletivas, com aviso ao sindicato e apoio à recolocação.",
+  "Empregadores privados com 100 ou mais empregados, estatais que exploram atividade econômica, trabalhadores afetados e sindicatos.",
+  "Aguarda a escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara, onde chegou em 08/09/2026. Depois segue para as comissões de Trabalho e de Constituição e Justiça."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:47Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638380",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159452",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fb6e84d6e1ea49bd",
+ "hash_tramitacao": "5eda50dd3d0d2f8b",
+ "tentativa": 2
+}

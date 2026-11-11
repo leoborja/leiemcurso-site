@@ -1,0 +1,28 @@
+{
+ "id": 2636164,
+ "titulo": "Muda as regras de juros dos financiamentos do BNDES à inovação feitos com recursos do FAT",
+ "tldr": [
+  "Esses financiamentos podem ser corrigidos pela Taxa Referencial, limitados até 2029 a 1,5% do saldo repassado, percentual que o Conselho Monetário Nacional pode ampliar.",
+  "BNDES, Fundo de Amparo ao Trabalhador, Conselho Monetário Nacional e empresas que pedem crédito para inovação e digitalização.",
+  "Aguarda designação de relator na Comissão de Ciência, Tecnologia e Inovação da Câmara desde 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636164",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154929",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7ae49d55cf8b0c31",
+ "hash_tramitacao": "c4b69b44ed3fe6db",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640964,
+ "titulo": "Cria programa de prevenção aos efeitos do sol para quem trabalha exposto à radiação solar",
+ "tldr": [
+  "Cria um programa com campanhas, divulgação diária do índice de radiação ultravioleta (UV) e incentivo à entrega de protetor solar e chapéus. Empregadores terão de adotar medidas de proteção.",
+  "Trabalhadores que atuam sob o sol, empregadores públicos e privados e o Poder Executivo.",
+  "Tramita junto com outro projeto (PL 4251/2025), por decisão da Mesa da Câmara de 29/10/2026. Será analisado nas comissões da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640964",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164731",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "8655d5d2653a5f94",
+ "hash_tramitacao": "249b1e28f0a6f358",
+ "tentativa": 1
+}

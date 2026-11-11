@@ -1,0 +1,28 @@
+{
+ "id": 2640893,
+ "titulo": "Cria voucher para alunos do ensino médio público pagarem cursos de inglês, programação e tecnologia",
+ "tldr": [
+  "A União passa a poder custear cursos complementares de inglês, programação, ciência de dados, inteligência artificial, cibersegurança e robótica, com recursos do orçamento federal e implantação gradual.",
+  "Estudantes do ensino médio público com frequência mínima, com prioridade para inscritos no Cadastro Único, alunos de áreas rurais e estudantes com deficiência.",
+  "Em 29/10/2026 a Mesa da Câmara determinou que tramite junto com o PL 4838/2025. Será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640893",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164659",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "be526ca49cb20da6",
+ "hash_tramitacao": "b09730950ee6d9a3",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2634444,
+ "titulo": "Cria programa para pequenos geradores de energia renovável venderem créditos de carbono",
+ "tldr": [
+  "Quem produz a própria energia renovável, como em painéis solares, poderá gerar e vender créditos de carbono no mercado voluntário. A ANEEL valida os dados e o governo pode criar crédito e subsídios para comunidades de baixa renda.",
+  "Consumidores com micro e minigeração de energia renovável, comunidades de baixa renda, a ANEEL e o órgão gestor do sistema brasileiro de comércio de emissões.",
+  "Aguarda designação de relator na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara desde 24/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634444",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3150647",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "fc8084be27fe4964",
+ "hash_tramitacao": "afd475fd12ffb0ad",
+ "tentativa": 1
+}

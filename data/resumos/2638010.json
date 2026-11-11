@@ -1,0 +1,28 @@
+{
+ "id": 2638010,
+ "titulo": "Define quem tem direito às vagas reservadas de estacionamento para pessoa com deficiência",
+ "tldr": [
+  "A lei passa a considerar comprometimento de mobilidade a dificuldade de deslocamento causada por impedimento físico, mental, intelectual ou sensorial, e não só físico. Vale 90 dias após a publicação.",
+  "Pessoas com deficiência com dificuldade de deslocamento e órgãos de trânsito que emitem a credencial de estacionamento.",
+  "Aguarda a escolha de relator na Comissão de Viação e Transportes da Câmara, onde chegou em 10/09/2026. Depois passa por outras duas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638010",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158821",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "f07c48d687fe8de3",
+ "hash_tramitacao": "a9913843f362717c",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2618146,
+ "titulo": "Torna permanente por lei o programa nacional de prevenção, controle e eliminação da malária",
+ "tldr": [
+  "O programa contra a malária passa a ter previsão em lei e verba anual no orçamento da União. Empreendimentos em áreas de risco terão de financiar um plano de controle da malária com valor mínimo calculado pela lei.",
+  "Ministério da Saúde, estados, municípios, populações em áreas de malária, especialmente na Amazônia, e responsáveis por empreendimentos nessas áreas.",
+  "Aprovado com mudanças na Comissão da Amazônia e dos Povos Originários e Tradicionais em 27/10/2026. Está na Comissão de Saúde desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618146",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3117453",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ae502c86ed2af72c",
+ "hash_tramitacao": "9e0cb4b27757378b",
+ "tentativa": 1
+}

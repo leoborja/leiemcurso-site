@@ -1,0 +1,28 @@
+{
+ "id": 2640610,
+ "titulo": "Permite que editais de licitação exijam a contratação de jovens aprendizes recém-saídos do ensino médio",
+ "tldr": [
+  "Editais de contratos públicos poderão exigir que um percentual mínimo dos trabalhadores seja de aprendizes de 18 a 24 anos, de baixa renda, que tenham concluído o ensino médio em escola pública ou como bolsistas integrais.",
+  "Empresas contratadas pelo poder público, órgãos que fazem licitações e jovens de baixa renda em busca do primeiro emprego.",
+  "Tramita junto com o PL 2706/2026. Foi publicada em 05/11/2026 e será analisada pelas comissões da Câmara, sem necessidade de ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640610",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164364",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "270d10d530cf1d28",
+ "hash_tramitacao": "2d05c0efac16f193",
+ "tentativa": 1
+}

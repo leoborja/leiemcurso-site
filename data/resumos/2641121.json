@@ -1,0 +1,28 @@
+{
+ "id": 2641121,
+ "titulo": "Cria política nacional de sistemas comunitários de tratamento de esgoto para locais sem rede pública",
+ "tldr": [
+  "Permite apoiar sistemas coletivos de pequena escala, como fossas sépticas comunitárias, fossas biodigestoras e jardins filtrantes, em locais sem rede de esgoto, conforme o orçamento disponível.",
+  "Comunidades rurais, ribeirinhas, indígenas, quilombolas, assentamentos, localidades isoladas e núcleos urbanos sem esgoto, além de União, estados e municípios.",
+  "Desde 26/10/2026 tramita junto com o PL 4430/2026 nas comissões da Câmara, que podem decidir sem passar pelo Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641121",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165006",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ee7dd91a4ec218f6",
+ "hash_tramitacao": "45fa1a9d4f315b46",
+ "tentativa": 1
+}

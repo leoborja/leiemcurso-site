@@ -1,0 +1,28 @@
+{
+ "id": 2459677,
+ "titulo": "Cria o Dia Nacional do Entregador por Aplicativo, em 1º de julho",
+ "tldr": [
+  "O dia 1º de julho entra no calendário oficial como Dia Nacional do Entregador por Aplicativo.",
+  "Entregadores que trabalham por aplicativos.",
+  "Aprovado na Comissão de Cultura em 28/10/2026. Desde 05/11/2026, aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:16Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2459677",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2480741",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "65f14ef178340ee4",
+ "hash_tramitacao": "f585554f3576f973",
+ "tentativa": 1
+}

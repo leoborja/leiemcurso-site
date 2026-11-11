@@ -1,0 +1,28 @@
+{
+ "id": 2641749,
+ "titulo": "Cria política nacional de passe livre no transporte coletivo para estudantes de baixa renda",
+ "tldr": [
+  "Estados e municípios que aderirem oferecem transporte gratuito a estudantes de famílias com renda per capita de até 2 salários mínimos. O FNDE paga no mínimo 50% do custo.",
+  "Estudantes de baixa renda da educação infantil à pós-graduação, em escolas públicas ou privadas, e estados e municípios que aderirem.",
+  "Em 26/10/2026 passou a tramitar junto com o PL 131/2026 na Câmara, que será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641749",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167657",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "98e164acfd3757a8",
+ "hash_tramitacao": "1201b74c9d609190",
+ "tentativa": 1
+}

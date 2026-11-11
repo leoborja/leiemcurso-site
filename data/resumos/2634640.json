@@ -1,0 +1,28 @@
+{
+ "id": 2634640,
+ "titulo": "Cria por lei uma rede nacional de proteção dos direitos das pessoas idosas",
+ "tldr": [
+  "Órgãos da União, estados e municípios e outras entidades poderão aderir a uma rede coordenada pelo Ministério dos Direitos Humanos e da Cidadania, sem custo da adesão, para articular ações em defesa das pessoas idosas.",
+  "Pessoas idosas, órgãos públicos federais, estaduais e municipais, o Ministério dos Direitos Humanos e da Cidadania e entidades que atuam na área.",
+  "Aguarda designação de relator na Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara desde 24/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:51:22Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634640",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151308",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "96d2513048b0cbcc",
+ "hash_tramitacao": "8fdecf3a72811481",
+ "tentativa": 1
+}

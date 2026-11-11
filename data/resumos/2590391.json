@@ -1,0 +1,28 @@
+{
+ "id": 2590391,
+ "titulo": "Permite descontar do imposto de renda doações a projetos de adoção e proteção de cães e gatos",
+ "tldr": [
+  "Quem doar a projetos aprovados pelo Ministério do Meio Ambiente poderá descontar o valor do imposto de renda: até 6% do imposto para pessoas físicas e até 1% para empresas. O texto também cria regras para campanhas de adoção.",
+  "Contribuintes pessoas físicas e empresas, organizações de proteção animal sem fins lucrativos, órgãos públicos com projetos aprovados e quem adota animais.",
+  "Aprovado com texto alternativo (substitutivo) na Comissão de Meio Ambiente e Desenvolvimento Sustentável em 04/11/2026. Está na Comissão de Finanças e Tributação, que ainda não escolheu o relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2590391",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3056394",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "38cff2ea65c02bc6",
+ "hash_tramitacao": "2b7cb6ec1f10ef4b",
+ "tentativa": 1
+}

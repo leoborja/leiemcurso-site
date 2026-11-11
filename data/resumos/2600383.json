@@ -1,0 +1,28 @@
+{
+ "id": 2600383,
+ "titulo": "Exige avaliação de risco para conceder benefícios penais a presos ligados a facções criminosas",
+ "tldr": [
+  "Progressão de regime, livramento condicional, saída temporária e trabalho externo dependerão de avaliação com relatórios policiais e do Ministério Público; vínculo atual com facção impede o benefício.",
+  "Condenados por crimes ligados a organizações ou facções criminosas, juízes, Ministério Público, polícias e administração penitenciária.",
+  "Aprovado com texto alterado na Comissão de Segurança Pública e Combate ao Crime Organizado em 01/09/2026. Aguarda relator na Comissão de Constituição e Justiça e de Cidadania desde 03/09/2026; depois vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600383",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3077694",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d217e041731ec868",
+ "hash_tramitacao": "2253d795b76df852",
+ "tentativa": 1
+}

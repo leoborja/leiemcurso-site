@@ -1,0 +1,28 @@
+{
+ "id": 2641281,
+ "titulo": "Cria política nacional para abrir berçários públicos para crianças de 0 a 3 anos em áreas vulneráveis",
+ "tldr": [
+  "Permite abrir berçários públicos de forma simplificada, em prédios adaptados ou módulos pré-fabricados, com prioridade para famílias pobres e mães solo.",
+  "Crianças de 0 a 3 anos de famílias em vulnerabilidade, mães solo e redes de ensino da União, estados, Distrito Federal e municípios.",
+  "Em 03/11/2026 passou a tramitar junto com o PL 3502/2024 (apensado). Pode ser decidido nas comissões, sem ir ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641281",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165189",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9282fce9d8c7f797",
+ "hash_tramitacao": "bd457f5f0574c69f",
+ "tentativa": 1
+}

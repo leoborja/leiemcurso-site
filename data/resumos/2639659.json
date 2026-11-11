@@ -1,0 +1,28 @@
+{
+ "id": 2639659,
+ "titulo": "Proíbe protesto em cartório de contas pequenas de serviços públicos de famílias do CadÚnico",
+ "tldr": [
+  "Proibiria o protesto de dívidas de até R$ 1.500,00 de inscritos no CadÚnico e exigiria 60 dias de atraso para protestar contas de pessoas físicas, além de permitir cobrar as taxas do cartório na própria conta de consumo.",
+  "Consumidores pessoas físicas, especialmente inscritos no CadÚnico, concessionárias de serviços públicos e cartórios de protesto.",
+  "Retirado de tramitação a pedido da autora em 09/09/2026, com publicação em 15/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639659",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162699",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "043afbd1dc90c6b2",
+ "hash_tramitacao": "178eb425cbae3e00",
+ "tentativa": 1
+}

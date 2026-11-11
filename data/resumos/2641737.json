@@ -1,0 +1,28 @@
+{
+ "id": 2641737,
+ "titulo": "Cria fundo para pagar mudança, aluguel e despesas básicas de mulheres que deixam o agressor",
+ "tldr": [
+  "Cria um fundo federal que libera crédito emergencial em saque único para mudança, caução e primeiros aluguéis, além de complementar a renda por tempo determinado. Parte do dinheiro vem de pelo menos 20% das multas por violência doméstica.",
+  "Mulheres em situação de violência doméstica e familiar com medida protetiva ou ocorrência policial com encaminhamento, o órgão federal de políticas para mulheres e bancos públicos federais.",
+  "Em 26/10/2026 passou a tramitar junto com o PL 2928/2024 na Câmara, que será analisado pelas comissões."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641737",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3167363",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "96c37c7834db8891",
+ "hash_tramitacao": "8d2bde37dcabea50",
+ "tentativa": 1
+}

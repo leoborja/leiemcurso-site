@@ -1,0 +1,28 @@
+{
+ "id": 2635666,
+ "titulo": "Permite que devedor complete cálculo de cobrança excessiva após penhora ou avaliação de bens",
+ "tldr": [
+  "Se o devedor alegar cobrança acima do valor da sentença e o cálculo depender da penhora, da avaliação dos bens ou da garantia dada, poderá apresentar ou completar o cálculo em quinze dias após ser intimado desse ato.",
+  "Devedores e credores em processos de cumprimento de sentença na Justiça.",
+  "Aguarda a escolha de relator na Comissão de Constituição e Justiça e de Cidadania da Câmara, onde chegou em 19/08/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635666",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154264",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "322337520507394e",
+ "hash_tramitacao": "ea4ffed7d4b14932",
+ "tentativa": 2
+}

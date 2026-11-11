@@ -1,0 +1,28 @@
+{
+ "id": 2640288,
+ "titulo": "Torna crime vigiar ou rastrear policiais, juízes e promotores sem autorização",
+ "tldr": [
+  "Monitorar sem autorização a rotina desses agentes com rastreadores, drones ou outros meios passa a dar pena de 4 a 8 anos de prisão. Empresas de tecnologia devem entregar dados em 24 horas, sob multa diária de R$ 50.000,00.",
+  "Integrantes das forças de segurança pública, juízes, membros do Ministério Público e seus familiares, e empresas de internet e de rastreadores.",
+  "Aguarda parecer na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que designou relator em 28/10/2026. Depois, vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640288",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163756",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "94fa1853980fefce",
+ "hash_tramitacao": "5f0ee9dc0be97598",
+ "tentativa": 1
+}

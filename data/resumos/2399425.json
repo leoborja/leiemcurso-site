@@ -1,0 +1,28 @@
+{
+ "id": 2399425,
+ "titulo": "Aumenta a pena do estelionato cometido com base em relação afetiva com a vítima",
+ "tldr": [
+  "A pena do estelionato aumenta de 1/3 a 2/3 quando o autor do crime se aproveita de uma relação afetiva com a vítima.",
+  "Pessoas que cometem estelionato contra parceiros afetivos e as vítimas desse crime.",
+  "Pronto para votação no Plenário da Câmara após aprovação na Comissão de Constituição e Justiça em 03/09/2025. Em 29/10/2026, outro projeto foi anexado a este para tramitar junto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2399425",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2351020",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "46c2626734879aa6",
+ "hash_tramitacao": "e1fa176840f070c2",
+ "tentativa": 1
+}

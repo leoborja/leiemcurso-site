@@ -1,0 +1,28 @@
+{
+ "id": 2456613,
+ "titulo": "Define prazo para punir notários e registradores por faltas disciplinares",
+ "tldr": [
+  "O texto original fixa em 3 anos o prazo para aplicar punições a donos de cartório, contados do fato ou do fim de uma infração que continua no tempo. A Câmara aprovou uma versão alterada.",
+  "Notários e registradores, os responsáveis pelos cartórios, e os órgãos que fiscalizam esses serviços.",
+  "Virou a Lei 15.509/2026, publicada no Diário Oficial em 22/09/2026. A Câmara aprovou uma versão alterada em 28/04/2026, e o Senado também aprovou o texto."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:38:55Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2456613",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2472842",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "85dc2f47eea0e9cb",
+ "hash_tramitacao": "11295a9353aa6ba4",
+ "tentativa": 1
+}

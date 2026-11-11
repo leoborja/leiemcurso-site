@@ -1,0 +1,28 @@
+{
+ "id": 2639355,
+ "titulo": "Define prazo de 15 anos para patentes de medicamentos e produtos farmacêuticos",
+ "tldr": [
+  "Patentes de medicamentos, insumos e processos de fabricação passam a valer por 15 anos contados do pedido. A regra vale só para pedidos feitos depois que a lei entrar em vigor.",
+  "Empresas farmacêuticas, fabricantes de medicamentos e quem pede patentes de produtos farmacêuticos para uso humano.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 03/09/2026. Depois segue para a Comissão de Constituição e Justiça e de Cidadania."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639355",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162138",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "ac208680c7223e25",
+ "hash_tramitacao": "25dd895b2a81e68b",
+ "tentativa": 1
+}

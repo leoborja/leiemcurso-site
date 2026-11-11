@@ -1,0 +1,28 @@
+{
+ "id": 2641207,
+ "titulo": "Cria programa de apoio a pequenos estaleiros comunitários e ao conserto de barcos",
+ "tldr": [
+  "A União pode financiar oficinas e estaleiros comunitários, a recuperação de embarcações e cursos de carpintaria e mecânica naval, com crédito a juros reduzidos.",
+  "Comunidades ribeirinhas, povos indígenas, pescadores artesanais, extrativistas, cooperativas e municípios dependentes de transporte por rios.",
+  "Aguarda análise nas comissões da Câmara. Em 03/11/2026 passou a tramitar junto com o PL 4442/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641207",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165105",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "dbc80598c592dfaf",
+ "hash_tramitacao": "c19edf4bbd442fd0",
+ "tentativa": 1
+}

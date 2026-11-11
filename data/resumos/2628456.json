@@ -1,0 +1,28 @@
+{
+ "id": 2628456,
+ "titulo": "Permite que o conselho de medicina veterinária crie programa de assistência a veterinários e zootecnistas",
+ "tldr": [
+  "O Conselho Federal de Medicina Veterinária pode criar um fundo de adesão voluntária para dar auxílio emergencial, apoio a cursos e equipamentos, auxílio-funeral e ajuda a dependentes, com relatório anual.",
+  "Médicos-veterinários e zootecnistas inscritos nos conselhos regionais e seus dependentes, além do Conselho Federal e dos conselhos regionais.",
+  "Chegou à Comissão de Trabalho da Câmara em 04/09/2026, onde aguarda a escolha de um relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:30Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628456",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3138448",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "4d6b2c0d3d55ab53",
+ "hash_tramitacao": "622199931d826b74",
+ "tentativa": 2
+}

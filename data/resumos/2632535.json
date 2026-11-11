@@ -1,0 +1,28 @@
+{
+ "id": 2632535,
+ "titulo": "Cria diretrizes nacionais para cursos de qualificação profissional ligados à economia de cada região",
+ "tldr": [
+  "A União pode dar apoio técnico, dados e metodologias a estados e municípios para planejar cursos profissionalizantes de acordo com as vagas e atividades econômicas locais. Estados e municípios não são obrigados a aderir.",
+  "Trabalhadores, jovens, pessoas desempregadas, a União, estados e municípios, instituições de ensino profissional e empresas.",
+  "Tramita junto com o PL 7204/2025 na comissão de trabalho da Câmara (sigla CTRAB). Em 26/10/2026, o PL 3663/2026 também foi juntado a ele."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632535",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3147053",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "131295c1abf0dea2",
+ "hash_tramitacao": "f81d07f9596798c0",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2638937,
+ "titulo": "Muda as regras das eleições nos conselhos profissionais federais e regionais",
+ "tldr": [
+  "Adota votação proporcional por chapas, limita a dois mandatos seguidos, exige proporção de gênero nas chapas, proíbe financiamento por empresas e obriga a divulgar os doadores.",
+  "Conselhos federais e regionais de fiscalização profissional, seus dirigentes e os profissionais inscritos neles.",
+  "Aguarda escolha de relator na Comissão de Defesa dos Direitos da Mulher desde 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638937",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3161281",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "da4f75143b25abcb",
+ "hash_tramitacao": "34c2af916ba34610",
+ "tentativa": 1
+}

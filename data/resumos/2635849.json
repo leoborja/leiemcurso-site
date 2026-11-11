@@ -1,0 +1,28 @@
+{
+ "id": 2635849,
+ "titulo": "Define regras de segurança para esportes radicais e proíbe crianças nas modalidades de maior risco",
+ "tldr": [
+  "A oferta de esportes radicais passa a exigir certificação anual e vistoria prévia. Crianças ficam proibidas em modalidades como bungee jump, mesmo com autorização dos pais.",
+  "Empresas e pessoas que oferecem esportes radicais, seus operadores, usuários e crianças, além dos órgãos públicos de fiscalização.",
+  "Tramita junto com o PL 3111/2026 e foi recebido pela Comissão do Esporte da Câmara em 29/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635849",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154472",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "97db8a096b8952f0",
+ "hash_tramitacao": "0203f6704ef38a5f",
+ "tentativa": 1
+}

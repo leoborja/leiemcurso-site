@@ -1,0 +1,28 @@
+{
+ "id": 2625609,
+ "titulo": "Autoriza a criação do Fundo de Crédito à Exportação, administrado pelo BNDES",
+ "tldr": [
+  "O fundo poderá financiar capital de giro, máquinas e projetos de exportadores. O BNDES pode criar subsidiárias, e muda a garantia do seguro de crédito à exportação, incluindo pequenas e médias empresas.",
+  "Exportadores de bens e serviços, micro, pequenas e médias empresas exportadoras, o BNDES e o Ministério do Desenvolvimento, Indústria, Comércio e Serviços.",
+  "Foi aprovado pelo Plenário da Câmara em 12/08/2026 e virou a Lei 15.501/2026 em 09/09/2026, com parte do texto vetada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625609",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3131944",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6615ae959a46b2db",
+ "hash_tramitacao": "54f171c9c9bec806",
+ "tentativa": 1
+}

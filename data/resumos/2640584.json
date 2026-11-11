@@ -1,0 +1,28 @@
+{
+ "id": 2640584,
+ "titulo": "Permite incluir dentista especialista em doenças da boca nas equipes do SUS de controle do tabagismo",
+ "tldr": [
+  "Os programas do SUS contra o tabagismo poderão contar com dentista estomatologista para examinar a boca, identificar lesões cedo, acompanhar pacientes e orientar, conforme a disponibilidade de profissionais.",
+  "Usuários dos programas de controle do tabagismo do SUS e cirurgiões-dentistas especialistas em Estomatologia.",
+  "Aguarda escolha de relator na Comissão de Saúde da Câmara desde 04/11/2026. Tramita junto com outra proposta apensada."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640584",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164338",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c46bc76c971ff80c",
+ "hash_tramitacao": "d4fada3c35e9b241",
+ "tentativa": 1
+}

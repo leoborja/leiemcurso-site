@@ -1,0 +1,28 @@
+{
+ "id": 2644832,
+ "titulo": "Obriga a polícia a destacar o histórico de violência doméstica do agressor, inclusive contra outras vítimas",
+ "tldr": [
+  "A polícia deverá apontar registros anteriores de violência doméstica atribuídos ao agressor, contra a mesma mulher ou outras. Esse histórico deve ser levado em conta nas medidas protetivas, mas não basta sozinho para restringir a liberdade.",
+  "Mulheres vítimas de violência doméstica, pessoas acusadas de agressão, polícias e Justiça.",
+  "Foi retirado pelo autor em 28/10/2026, a pedido feito em 03/09/2026, e não tramita mais."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644832",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3175579",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "a18ed6381590ed00",
+ "hash_tramitacao": "ee255db4a5d562c0",
+ "tentativa": 1
+}

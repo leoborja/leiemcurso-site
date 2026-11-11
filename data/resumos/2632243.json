@@ -1,0 +1,28 @@
+{
+ "id": 2632243,
+ "titulo": "Aumenta penas de crimes de trânsito contra pedestres e ciclistas em casos como embriaguez e fuga",
+ "tldr": [
+  "Penas por matar ou ferir pedestre ou ciclista sobem de metade a dois terços se o motorista estava sob álcool, muito acima da velocidade, em racha ou fugiu sem socorrer. Fuga do local passa a ter pena de 1 a 4 anos.",
+  "Motoristas que cometem esses crimes de trânsito e pedestres e ciclistas vítimas.",
+  "Aguarda designação de relator na Comissão de Viação e Transportes da Câmara, onde chegou em 31/08/2026. Depois vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632243",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146383",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "41018743b0cacfec",
+ "hash_tramitacao": "091669b741bc2cba",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640643,
+ "titulo": "Muda as regras para tomar bens de condenados quando o patrimônio não é compatível com a renda legal",
+ "tldr": [
+  "Em crimes com pena máxima acima de 6 anos, o patrimônio é comparado à renda legal até a data da acusação. A perda exige pedido do Ministério Público e pode atingir bens passados a terceiros por fraude.",
+  "Condenados por crimes com pena máxima acima de 6 anos, em especial crimes econômicos, terceiros que receberam bens deles, Ministério Público e Justiça.",
+  "Aguarda a escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara, que recebeu o texto em 05/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:50Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640643",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164397",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "52ca6c2124826f48",
+ "hash_tramitacao": "c63d4bdafdb9f9c4",
+ "tentativa": 2
+}

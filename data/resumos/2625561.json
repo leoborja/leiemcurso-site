@@ -1,0 +1,28 @@
+{
+ "id": 2625561,
+ "titulo": "Aumenta penas de crimes sexuais contra crianças com uso de deepfake e cria deveres para escolas",
+ "tldr": [
+  "Crimes sexuais do Estatuto da Criança e do Adolescente têm pena aumentada de 1/3 a 2/3 em casos como uso de inteligência artificial. Escolas devem registrar esses casos, prevenir e dar apoio psicológico e pedagógico às vítimas.",
+  "Crianças e adolescentes, autores de crimes sexuais contra eles e as escolas.",
+  "Aprovado com emendas na Comissão de Educação em 28/10/2026. Desde 04/11/2026 aguarda relator na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. Depois vai ao Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625561",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3131814",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6ed3a644fc1d5118",
+ "hash_tramitacao": "a4ed87ad89f5f4c9",
+ "tentativa": 2
+}

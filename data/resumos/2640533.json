@@ -1,0 +1,28 @@
+{
+ "id": 2640533,
+ "titulo": "Cria protocolo para escolas comunicarem casos de violência doméstica contra alunos à rede de proteção",
+ "tldr": [
+  "Escolas públicas e privadas passam a adotar um protocolo interno para acolher o aluno, registrar o caso com sigilo e acionar conselhos tutelares e serviços de saúde e assistência. Professores passam por capacitação.",
+  "Escolas públicas e privadas de educação básica, profissionais da educação, alunos e órgãos de proteção à infância.",
+  "Recebido pela Comissão de Educação da Câmara em 04/11/2026; aguarda a designação de relator."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640533",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164287",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "d5c0391ce8609da9",
+ "hash_tramitacao": "15475210c13763ce",
+ "tentativa": 1
+}

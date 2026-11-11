@@ -1,0 +1,28 @@
+{
+ "id": 2641422,
+ "titulo": "Cria estatuto com direitos de pessoas neurodivergentes, como autistas e pessoas com TDAH ou dislexia",
+ "tldr": [
+  "Define direitos e acessibilidade nas áreas de saúde, educação e trabalho, proíbe discriminação e recusa de matrícula e cria uma política e um sistema nacional sobre o tema.",
+  "Pessoas com autismo, TDAH, dislexia, discalculia, Tourette, altas habilidades e condições parecidas, além de escolas, serviços de saúde, empregadores e governos.",
+  "Tramita junto com o PL 183/2026. Em 05/11/2026, a Comissão de Educação da Câmara designou o relator do projeto principal."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:34:15Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641422",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165348",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "7330cd4e86bc53c4",
+ "hash_tramitacao": "7b620580ea5547df",
+ "tentativa": 1
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2466388,
+ "titulo": "Cria política nacional de atenção às pessoas que gaguejam, com atendimento no SUS e ações nas escolas",
+ "tldr": [
+  "O SUS passa a oferecer diagnóstico e atendimento com fonoaudiólogos e apoio psicológico a quem gagueja. Escolas devem promover ações contra o bullying ligado à gagueira.",
+  "Pessoas que gaguejam e suas famílias, o SUS, escolas públicas e privadas e profissionais de saúde, educação e assistência social.",
+  "Aprovado nas Comissões de Educação (03/09/2025) e de Saúde (04/11/2026, com substitutivo). Aguarda relator na Comissão de Finanças e Tributação desde 04/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2466388",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2814318",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9a7a4fc124cd5e2b",
+ "hash_tramitacao": "c560ef49fc123ee2",
+ "tentativa": 1
+}

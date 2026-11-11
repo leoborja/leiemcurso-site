@@ -1,0 +1,28 @@
+{
+ "id": 2639318,
+ "titulo": "Cria política nacional de segurança e qualificação para trabalhadores da construção civil",
+ "tldr": [
+  "Obras com 20 ou mais trabalhadores ao mesmo tempo passam a ter de manter um plano de segurança e qualificação. O texto também cria um certificado nacional de competências práticas e prevê fiscalização e sanções.",
+  "Trabalhadores da construção civil, construtoras, empreiteiras, empresas subcontratadas e responsáveis por obras públicas e privadas.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara desde 03/09/2026. Depois segue para a Comissão de Trabalho."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639318",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162048",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "619d9b9ef94f6898",
+ "hash_tramitacao": "79cb65aef414c56f",
+ "tentativa": 1
+}

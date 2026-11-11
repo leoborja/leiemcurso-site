@@ -1,0 +1,28 @@
+{
+ "id": 2630863,
+ "titulo": "Aumenta penas para crimes no campo e torna crime o bloqueio de rodovias que impeça o escoamento da safra",
+ "tldr": [
+  "Penas de crimes no meio rural sobem de 1/3 até metade em certos casos. Bloquear rodovias para impedir o escoamento da produção vira crime, com 3 a 8 anos de reclusão. Cria um sistema nacional de monitoramento rural.",
+  "Produtores rurais, quem cometer crimes no meio rural ou bloquear rodovias, e as forças policiais federais e estaduais.",
+  "Aguarda escolha de relator na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara desde 18/08/2026. Depois das comissões, precisa ser votado no Plenário."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:56:45Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630863",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143847",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b85cfa5b07feae6c",
+ "hash_tramitacao": "7de7bf549fc61af9",
+ "tentativa": 2
+}

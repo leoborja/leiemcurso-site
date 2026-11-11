@@ -1,0 +1,28 @@
+{
+ "id": 2635758,
+ "titulo": "Destina 5% do que a União arrecada com apostas online a um fundo para tratar doenças raras",
+ "tldr": [
+  "Cria um fundo ligado ao Ministério da Saúde que recebe 5% da arrecadação líquida da União com apostas de quota fixa (bets). O dinheiro vai para remédios, terapias, diagnóstico e pesquisa sobre doenças raras.",
+  "Pessoas com doenças raras, o Ministério da Saúde e o SUS.",
+  "Aguarda a escolha de relator na Comissão de Saúde da Câmara, onde chegou em 04/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635758",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154383",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "1570883c6e9b6f22",
+ "hash_tramitacao": "04a3bf1a8d6f9b0d",
+ "tentativa": 1
+}

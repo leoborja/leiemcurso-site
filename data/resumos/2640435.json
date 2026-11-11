@@ -1,0 +1,28 @@
+{
+ "id": 2640435,
+ "titulo": "Cria programa nacional de cursos profissionalizantes gratuitos em instituições credenciadas",
+ "tldr": [
+  "O aluno escolhe curso e instituição credenciada sem pagar nada e pode receber auxílio para transporte e alimentação. Quem for desligado ou reprovado fica 24 meses sem poder se inscrever de novo.",
+  "Estudantes do ensino médio e da educação de jovens e adultos, trabalhadores empregados ou desempregados, escolas profissionalizantes, Sistema S e empresas parceiras.",
+  "Na Comissão de Educação da Câmara, com relatora designada em 05/11/2026. O prazo para emendas foi aberto em 06/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:19Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640435",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164124",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "e68293fb5e1cdf94",
+ "hash_tramitacao": "acf1076c2117814d",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2640564,
+ "titulo": "Prevê requalificação profissional para atletas que encerram a carreira cedo por motivo de saúde",
+ "tldr": [
+  "O poder público passa a oferecer orientação vocacional, cursos, acesso prioritário a capacitação, apoio psicológico e preparo para funções como treinador ou árbitro a atletas afastados por doença, acidente ou incapacidade permanente.",
+  "Atletas que encerraram a carreira cedo por doença, acidente ou incapacidade permanente comprovada, e órgãos públicos de esporte e trabalho.",
+  "Recebido pela Comissão de Trabalho da Câmara em 03/11/2026; aguarda a designação de relator. Outro projeto (PL 3890/2026) tramita junto com este."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:24:03Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640564",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164318",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "08eed8c44388913a",
+ "hash_tramitacao": "ba1b8dc1d3492369",
+ "tentativa": 1
+}

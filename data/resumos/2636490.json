@@ -1,0 +1,28 @@
+{
+ "id": 2636490,
+ "titulo": "Cria política de contratação preferencial de moradores locais em grandes empreendimentos",
+ "tldr": [
+  "Empreendimentos com licença ambiental federal teriam de ter plano para priorizar trabalhadores dos municípios afetados, com meta de referência de 30% das vagas, sem cota obrigatória.",
+  "Empresas de grandes obras e indústrias com licença ambiental federal, como refinarias, portos e mineradoras, e moradores dos municípios afetados.",
+  "Tramita em conjunto com o PL 3369/2026. Está na comissão da Câmara de sigla CDU, que registrou a apensação em 28/10/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636490",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3155442",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "c32542b9e9fbf86e",
+ "hash_tramitacao": "8633530fd5f91fbe",
+ "tentativa": 2
+}

@@ -1,0 +1,28 @@
+{
+ "id": 2641001,
+ "titulo": "Cria política nacional de saúde mental e prevenção ao abuso de álcool e drogas entre profissionais de saúde",
+ "tldr": [
+  "Estabelecimentos de saúde públicos e privados passam a ter de manter programas internos com atendimento psicológico periódico, campanhas, canais de acolhimento e prevenção do esgotamento profissional e do assédio.",
+  "Trabalhadores da saúde, estabelecimentos de saúde públicos e privados, União, estados, Distrito Federal e municípios.",
+  "Em 29/10/2026 passou a tramitar junto com o PL 917/2026 (apensado), que tramita com prioridade (urgência) e será votado no Plenário da Câmara."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:35:04Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641001",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164768",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "b9a69caeb73c1ee1",
+ "hash_tramitacao": "0f6e311aa8ce1c27",
+ "tentativa": 2
+}

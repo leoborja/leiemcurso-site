@@ -1,0 +1,28 @@
+{
+ "id": 2631378,
+ "titulo": "Proíbe patentes sobre plantas e sementes e muda regras de cobrança de royalties agrícolas",
+ "tldr": [
+  "Plantas, sementes e seus processos de reprodução deixam de poder ser patenteados, salvo modificações genéticas específicas. Agricultores podem guardar e replantar sementes próprias sem pagar royalties, e cobranças abusivas viram crime.",
+  "Produtores rurais, empresas de biotecnologia agrícola donas de patentes e o Instituto Nacional da Propriedade Industrial.",
+  "Tramita junto com o PL 2250/2026. Em 29/10/2026, foi apresentado pedido para que outro projeto, o PL 1753/2026, também passe a tramitar com eles."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:50:01Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631378",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144516",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9aecebf825563db3",
+ "hash_tramitacao": "4a6fdc893f8d0081",
+ "tentativa": 1
+}

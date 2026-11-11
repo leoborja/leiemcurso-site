@@ -1,0 +1,28 @@
+{
+ "id": 2637297,
+ "titulo": "Define em lei o Subsistema de Inteligência de Segurança Pública e suas regras de troca de dados",
+ "tldr": [
+  "Define em lei quais polícias e órgãos compõem o subsistema de inteligência, como compartilham dados com controle de acesso e auditoria e quem coordena. A União pode financiar as ações com o Fundo Nacional de Segurança Pública.",
+  "Polícias federais, estaduais e penais, órgãos de inteligência estaduais, o órgão federal de segurança pública e a Agência Brasileira de Inteligência.",
+  "Aguarda escolha de relator na Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara desde 03/11/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:16:09Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637297",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3157406",
+ "inteiro_teor": "cortado",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "6c287a43a53f5338",
+ "hash_tramitacao": "80bc2326359c59ba",
+ "tentativa": 1
+}

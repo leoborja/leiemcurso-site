@@ -1,0 +1,28 @@
+{
+ "id": 2639878,
+ "titulo": "Dá a Viçosa (MG) o título de Capital Nacional do Doce de Leite",
+ "tldr": [
+  "O município de Viçosa, em Minas Gerais, passa a ter oficialmente o título de Capital Nacional do Doce de Leite.",
+  "O município de Viçosa, no estado de Minas Gerais.",
+  "Aguarda a escolha de relator na Comissão de Indústria, Comércio e Serviços da Câmara, onde chegou em 08/09/2026."
+ ],
+ "fontes": [
+  "ementa",
+  "inteiro_teor",
+  "tramitacao"
+ ],
+ "modelo": "opus",
+ "gerado_em": "2026-11-11T18:42:20Z",
+ "revisado": false,
+ "url_fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639878",
+ "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3163070",
+ "inteiro_teor": "completo",
+ "checagem": {
+  "ok": true,
+  "alertas": []
+ },
+ "versao_prompt": "2026-11-08.2",
+ "hash_texto": "9ffc433d39e4baa1",
+ "hash_tramitacao": "7e091be2160e7267",
+ "tentativa": 1
+}
